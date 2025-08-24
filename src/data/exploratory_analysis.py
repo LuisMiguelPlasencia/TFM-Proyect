@@ -1,446 +1,354 @@
 """
-Utilities for exploratory data analysis using modern data science libraries.
+Exploratory Data Analysis Utilities
 
-This module provides a comprehensive set of tools for analyzing real estate data,
-with a focus on performance, reliability, and maintainability.
+This module provides standardized functions for loading, cleaning, and exploring
+real estate data following project best practices.
+
+Dependencies: pandas, numpy, pathlib
 """
 
+import sys
+import warnings
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Union
 
 import numpy as np
-import plotly.express as px
-import plotly.graph_objects as go
-import polars as pl
-from loguru import logger
-from plotly.subplots import make_subplots
+import pandas as pd
+
+# Configuration
+warnings.filterwarnings('ignore')
+pd.set_option('display.float_format', lambda x: '%.2f' % x)
 
 
-class DataLoader:
-    """Efficient data loading with support for multiple formats."""
-    
-    @staticmethod
-    def load_dataset(file_path: Union[str, Path]) -> Optional[pl.DataFrame]:
-        """
-        Load a dataset in CSV or Excel format using Polars for optimal performance.
-        
-        Args:
-            file_path: Path to the data file
-            
-        Returns:
-            Polars DataFrame or None if loading fails
-            
-        Raises:
-            ValueError: If file format is not supported
-        """
+def load_data(file_path: Union[str, Path]) -> Optional[pd.DataFrame]:
+    """
+    Load data from a CSV file into a pandas DataFrame with informative output.
+
+    Parameters
+    ----------
+    file_path : Union[str, Path]
+        Path to the CSV file
+
+    Returns
+    -------
+    Optional[pd.DataFrame]
+        Loaded data or None if loading fails
+    """
+    try:
         file_path = Path(file_path)
-        suffix = file_path.suffix.lower()
-        
-        try:
-            if suffix == '.csv':
-                # Use scan_csv for lazy loading, then collect for immediate use
-                return pl.scan_csv(
-                    file_path, 
-                    infer_schema_length=10000,
-                    ignore_errors=True
-                ).collect()
-                
-            elif suffix in ['.xls', '.xlsx']:
-                # For Excel files, we still need pandas as a bridge
-                import pandas as pd
-                logger.warning(
-                    f"Loading Excel file {file_path.name} via pandas bridge. "
-                    "Consider converting to CSV for better performance."
-                )
-                df_pd = pd.read_excel(file_path)
-                return pl.from_pandas(df_pd)
-                
-            else:
-                raise ValueError(f"Unsupported file format: {suffix}")
-                
-        except Exception as e:
-            logger.error(f"Failed to load {file_path}: {str(e)}")
-            return None
+        data = pd.read_csv(file_path)
+        print(f"✅ Data loaded successfully from {file_path}")
+        print(f"   Shape: {data.shape}")
+        print(f"   Memory usage: {data.memory_usage(deep=True).sum() / (1024*1024):.2f} MB")
+        return data
+    except Exception as e:
+        print(f"❌ Error loading data from {file_path}: {e}")
+        return None
 
 
-class DataAnalyzer:
-    """Comprehensive data analysis functionality."""
-    
-    @staticmethod
-    def get_basic_stats(df: pl.DataFrame) -> Dict:
-        """
-        Generate comprehensive basic statistics for a DataFrame.
+def clean_data(data: pd.DataFrame) -> Tuple[Optional[pd.DataFrame], Optional[Dict[str, int]]]:
+    """
+    Clean and preprocess real estate data following standardized procedures.
+
+    This function applies the cleaning steps used across the project:
+    - Cleans bathroom and room number columns
+    - Converts garage to binary
+    - Creates house type mapping
+    - Drops unnecessary columns
+    - Handles missing values
+    - Applies one-hot encoding to categorical columns
+
+    Parameters
+    ----------
+    data : pd.DataFrame
+        Raw data to be cleaned
+
+    Returns
+    -------
+    Tuple[Optional[pd.DataFrame], Optional[Dict[str, int]]]
+        Cleaned data and house type mapping, or (None, None) if cleaning fails
+    """
+    try:
+        print("🧹 Cleaning and preprocessing data...")
         
-        Args:
-            df: Input DataFrame
+        # Create a copy to avoid modifying the original
+        data_copy = data.copy()
+        
+        # Clean bath_num column
+        if 'bath_num' in data_copy.columns:
+            data_copy['bath_num'] = data_copy['bath_num'].replace('sin baños', '0').astype(float)
+        
+        # Clean room_num column
+        if 'room_num' in data_copy.columns:
+            data_copy['room_num'] = data_copy['room_num'].replace('sin habitación', '0').astype(float)
+
+        # Convert garage column to binary
+        if 'garage' in data_copy.columns:
+            data_copy['garage'] = data_copy['garage'].notna().astype(int)
+
+        # Create house type mapping
+        house_type_mapping = {}
+        if 'house_type' in data_copy.columns:
+            house_type_values = data_copy['house_type'].unique()
+            house_type_mapping = {value: idx for idx, value in enumerate(house_type_values)}
+            data_copy['house_type'] = data_copy['house_type'].map(house_type_mapping)
+
+        # Drop unnecessary columns
+        columns_to_drop = ['ground_size', 'kitchen', 'unfurnished', 'loc_street', 'ad_description']
+        columns_to_drop = [col for col in columns_to_drop if col in data_copy.columns]
+        if columns_to_drop:
+            data_copy = data_copy.drop(columns=columns_to_drop)
+            print(f"   Dropped columns: {columns_to_drop}")
+
+        # Handle missing values for specific numeric columns
+        numeric_cols_to_fill = ['construct_date', 'm2_useful', 'lift']
+        for col in numeric_cols_to_fill:
+            if col in data_copy.columns and data_copy[col].dtype in [np.number]:
+                before_fill = data_copy[col].isnull().sum()
+                data_copy[col].fillna(data_copy[col].median(), inplace=True)
+                if before_fill > 0:
+                    print(f"   Filled {before_fill} missing values in {col} with median")
+
+        # One-hot encoding for categorical columns
+        categorical_columns = [col for col in ['condition', 'heating', 'orientation'] 
+                              if col in data_copy.columns]
+        if categorical_columns:
+            data_copy = pd.get_dummies(data_copy, columns=categorical_columns)
+            print(f"   Applied one-hot encoding to: {categorical_columns}")
+
+        print(f"✅ Data cleaned successfully. Final shape: {data_copy.shape}")
+        return data_copy, house_type_mapping
+        
+    except Exception as e:
+        print(f"❌ Error cleaning data: {e}")
+        return None, None
+
+
+def split_data(data_cleaned: pd.DataFrame, 
+               house_type_mapping: Dict[str, int]) -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]:
+    """
+    Split cleaned data into rental and sales datasets based on house_type.
+
+    Parameters
+    ----------
+    data_cleaned : pd.DataFrame
+        Cleaned data
+    house_type_mapping : Dict[str, int]
+        Mapping of house types to integer values
+
+    Returns
+    -------
+    Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame]]
+        Rental data and sales data, or (None, None) if splitting fails
+    """
+    try:
+        # Identify codes corresponding to rental types
+        alquiler_codes = [
+            code for key, code in house_type_mapping.items()
+            if 'alquiler' in str(key).lower()
+        ]
+
+        if alquiler_codes:
+            rental_data = data_cleaned[data_cleaned['house_type'].isin(alquiler_codes)]
+            sales_data = data_cleaned[~data_cleaned['house_type'].isin(alquiler_codes)]
             
-        Returns:
-            Dictionary containing various statistics
-        """
-        stats = {
-            "shape": {"rows": df.height, "columns": df.width},
-            "memory_usage_mb": df.estimated_size() / (1024 * 1024),
-            "dtypes": dict(zip(df.columns, df.dtypes)),
-            "null_counts": df.null_count().to_dict(),
-            "duplicate_rows": df.is_duplicated().sum(),
+            print(f"📊 Data split successfully:")
+            print(f"   Rental data: {rental_data.shape[0]} records")
+            print(f"   Sales data: {sales_data.shape[0]} records")
+            
+            return rental_data, sales_data
+        else:
+            print("⚠️ No rental types found in house_type mapping")
+            return None, data_cleaned
+            
+    except Exception as e:
+        print(f"❌ Error splitting data: {e}")
+        return None, None
+
+
+def save_data(data: pd.DataFrame, output_file_path: Union[str, Path]) -> bool:
+    """
+    Save data to a CSV file with error handling.
+
+    Parameters
+    ----------
+    data : pd.DataFrame
+        Data to be saved
+    output_file_path : Union[str, Path]
+        Path to save the CSV file
+
+    Returns
+    -------
+    bool
+        True if save was successful, False otherwise
+    """
+    try:
+        output_file_path = Path(output_file_path)
+        output_file_path.parent.mkdir(parents=True, exist_ok=True)
+        
+        data.to_csv(output_file_path, index=False)
+        print(f"💾 Data saved successfully to {output_file_path}")
+        print(f"   Shape: {data.shape}")
+        return True
+        
+    except Exception as e:
+        print(f"❌ Error saving data to {output_file_path}: {e}")
+        return False
+
+
+def create_mapping_dataframe(dictionary: Dict[str, int], 
+                           df_name: str = 'Mapping') -> pd.DataFrame:
+    """
+    Convert a dictionary to a pandas DataFrame for saving mappings.
+
+    Parameters
+    ----------
+    dictionary : Dict[str, int]
+        Dictionary to convert
+    df_name : str, default 'Mapping'
+        Name for the index of the DataFrame
+
+    Returns
+    -------
+    pd.DataFrame
+        DataFrame representation of the dictionary
+    """
+    df = pd.DataFrame(list(dictionary.items()), columns=['House_Type', 'Code'])
+    df.index.name = df_name
+    return df
+
+
+def generate_basic_profile(df: pd.DataFrame, title: str) -> Dict:
+    """
+    Generate a basic profile report for a dataset.
+    
+    Parameters
+    ----------
+    df : pd.DataFrame
+        DataFrame to profile
+    title : str
+        Title for the report
+    
+    Returns
+    -------
+    Dict
+        Dictionary with basic statistics and profile information
+    """
+    print(f"📈 Generating basic profile for: {title}")
+    print(f"   DataFrame shape: {df.shape}")
+    
+    # Basic statistics
+    profile = {
+        "title": title,
+        "shape": df.shape,
+        "dtypes": df.dtypes,
+        "missing_values": df.isna().sum(),
+        "missing_percentage": (df.isna().sum() / len(df) * 100).round(2),
+        "duplicates": df.duplicated().sum(),
+    }
+    
+    # Numeric statistics
+    numeric_cols = df.select_dtypes(include=['int64', 'float64']).columns
+    if len(numeric_cols) > 0:
+        profile["numeric_stats"] = df[numeric_cols].describe()
+    
+    # Categorical statistics
+    cat_cols = df.select_dtypes(include=['object', 'category']).columns
+    if len(cat_cols) > 0:
+        profile["categorical_stats"] = {
+            col: {
+                "unique_values": df[col].nunique(),
+                "top_values": df[col].value_counts().head(5).to_dict()
+            } for col in cat_cols
         }
-        
-        # Get numeric and categorical columns
-        numeric_cols = [
-            col for col, dtype in zip(df.columns, df.dtypes) 
-            if pl.datatypes.is_numeric(dtype)
-        ]
-        categorical_cols = [
-            col for col, dtype in zip(df.columns, df.dtypes) 
-            if dtype in [pl.Utf8, pl.Categorical]
-        ]
-        
-        stats["column_types"] = {
-            "numeric": numeric_cols,
-            "categorical": categorical_cols,
-            "other": [col for col in df.columns 
-                     if col not in numeric_cols + categorical_cols]
-        }
-        
-        # Numeric summary
-        if numeric_cols:
-            stats["numeric_summary"] = df.select(numeric_cols).describe()
-            
-        # Categorical summary
-        if categorical_cols:
-            categorical_stats = {}
-            for col in categorical_cols:
-                unique_count = df.select(pl.col(col).n_unique()).item()
-                categorical_stats[col] = {
-                    "unique_values": unique_count,
-                    "most_frequent": df.select(pl.col(col).mode().first()).item()
-                }
-            stats["categorical_summary"] = categorical_stats
-            
-        return stats
     
-    @staticmethod
-    def analyze_dataset(df: pl.DataFrame, name: str) -> Dict:
-        """
-        Perform comprehensive dataset analysis with detailed reporting.
-        
-        Args:
-            df: DataFrame to analyze
-            name: Name of the dataset for reporting
-            
-        Returns:
-            Dictionary containing all analysis results
-        """
-        logger.info(f"Starting analysis of dataset: {name}")
-        
-        print(f"\n{'='*60}")
-        print(f"DATASET ANALYSIS: {name.upper()}")
-        print(f"{'='*60}")
-        
-        try:
-            stats = DataAnalyzer.get_basic_stats(df)
-            
-            # Basic information
-            print(f"\n📊 BASIC INFORMATION")
-            print(f"├── Rows: {stats['shape']['rows']:,}")
-            print(f"├── Columns: {stats['shape']['columns']}")
-            print(f"└── Memory Usage: {stats['memory_usage_mb']:.2f} MB")
-            
-            # Data types
-            print(f"\n🔍 DATA TYPES")
-            print(f"├── Numeric: {len(stats['column_types']['numeric'])}")
-            print(f"├── Categorical: {len(stats['column_types']['categorical'])}")
-            print(f"└── Other: {len(stats['column_types']['other'])}")
-            
-            # Data quality
-            print(f"\n🚨 DATA QUALITY")
-            total_nulls = sum(stats['null_counts'].values())
-            print(f"├── Total Null Values: {total_nulls:,}")
-            print(f"├── Duplicate Rows: {stats['duplicate_rows']:,}")
-            
-            if total_nulls > 0:
-                print("├── Columns with Nulls:")
-                for col, count in stats['null_counts'].items():
-                    if count > 0:
-                        pct = (count / stats['shape']['rows']) * 100
-                        print(f"│   ├── {col}: {count:,} ({pct:.2f}%)")
-            
-            # Numeric variables summary
-            if stats['column_types']['numeric']:
-                print(f"\n📈 NUMERIC VARIABLES ({len(stats['column_types']['numeric'])})")
-                for col in stats['column_types']['numeric']:
-                    col_stats = df.select(
-                        pl.col(col).min().alias('min'),
-                        pl.col(col).max().alias('max'),
-                        pl.col(col).mean().alias('mean'),
-                        pl.col(col).std().alias('std')
-                    ).row(0)
-                    print(f"├── {col}:")
-                    print(f"│   ├── Range: [{col_stats[0]:.2f}, {col_stats[1]:.2f}]")
-                    print(f"│   └── Mean±Std: {col_stats[2]:.2f}±{col_stats[3]:.2f}")
-            
-            # Categorical variables summary
-            if stats['column_types']['categorical']:
-                print(f"\n📋 CATEGORICAL VARIABLES ({len(stats['column_types']['categorical'])})")
-                for col in stats['column_types']['categorical']:
-                    unique_count = df.select(pl.col(col).n_unique()).item()
-                    print(f"├── {col}: {unique_count} unique values")
-            
-            logger.success(f"Analysis completed for dataset: {name}")
-            return stats
-            
-        except Exception as e:
-            logger.error(f"Analysis failed for dataset {name}: {str(e)}")
-            raise
-
-
-class DataVisualizer:
-    """High-quality data visualization using Plotly."""
+    # Print summary
+    print(f"\n   === PROFILE SUMMARY ===")
+    print(f"   Rows: {profile['shape'][0]:,}")
+    print(f"   Columns: {profile['shape'][1]}")
+    print(f"   Duplicate rows: {profile['duplicates']}")
     
-    @staticmethod
-    def plot_numeric_distributions(
-        df: pl.DataFrame, 
-        cols: Optional[List[str]] = None,
-        max_cols: int = 15,
-        title_prefix: str = ""
-    ) -> Optional[go.Figure]:
-        """
-        Create comprehensive distribution plots for numeric variables.
-        
-        Args:
-            df: Input DataFrame
-            cols: Specific columns to plot (if None, all numeric)
-            max_cols: Maximum number of columns to visualize
-            title_prefix: Prefix for plot titles
-            
-        Returns:
-            Plotly Figure or None if no numeric columns
-        """
-        numeric_cols = [
-            col for col, dtype in zip(df.columns, df.dtypes) 
-            if pl.datatypes.is_numeric(dtype)
-        ]
-        
-        if cols:
-            numeric_cols = [col for col in cols if col in numeric_cols]
-        
-        if not numeric_cols:
-            logger.warning("No numeric columns found for distribution plotting")
-            return None
-            
-        if len(numeric_cols) > max_cols:
-            logger.warning(f"Limiting visualization to {max_cols} columns")
-            numeric_cols = numeric_cols[:max_cols]
-        
-        n_cols = len(numeric_cols)
-        fig = make_subplots(
-            rows=n_cols, 
-            cols=2,
-            subplot_titles=[f"{title_prefix}Distribution: {col}" for col in numeric_cols] * 2,
-            horizontal_spacing=0.1,
-            vertical_spacing=0.05
-        )
-        
-        for idx, col in enumerate(numeric_cols, 1):
-            try:
-                # Get clean data (remove nulls)
-                clean_data = df.select(col).drop_nulls().to_numpy().flatten()
-                
-                if len(clean_data) == 0:
-                    logger.warning(f"No valid data for column {col}")
-                    continue
-                
-                # Histogram
-                fig.add_trace(
-                    go.Histogram(
-                        x=clean_data, 
-                        name=f"{col}_hist",
-                        nbinsx=min(50, max(10, len(clean_data) // 100)),
-                        showlegend=False
-                    ),
-                    row=idx, col=1
-                )
-                
-                # Box plot
-                fig.add_trace(
-                    go.Box(
-                        y=clean_data, 
-                        name=f"{col}_box",
-                        showlegend=False,
-                        boxpoints='outliers'
-                    ),
-                    row=idx, col=2
-                )
-                
-            except Exception as e:
-                logger.error(f"Failed to plot {col}: {str(e)}")
-                continue
-        
-        fig.update_layout(
-            height=300 * n_cols,
-            width=1200,
-            title_text=f"{title_prefix}Numeric Variables Distribution Analysis",
-            showlegend=False
-        )
-        
-        return fig
+    print(f"\n   Missing values:")
+    missing = profile['missing_values'][profile['missing_values'] > 0]
+    if len(missing) > 0:
+        for col, count in missing.items():
+            print(f"     - {col}: {count} ({profile['missing_percentage'][col]}%)")
+    else:
+        print(f"     No missing values")
     
-    @staticmethod
-    def plot_categorical_distributions(
-        df: pl.DataFrame,
-        cols: Optional[List[str]] = None,
-        max_categories: int = 20,
-        title_prefix: str = ""
-    ) -> List[go.Figure]:
-        """
-        Create bar plots for categorical variables.
-        
-        Args:
-            df: Input DataFrame
-            cols: Specific columns to plot
-            max_categories: Maximum categories to show per variable
-            title_prefix: Prefix for plot titles
-            
-        Returns:
-            List of Plotly figures
-        """
-        categorical_cols = [
-            col for col, dtype in zip(df.columns, df.dtypes) 
-            if dtype in [pl.Utf8, pl.Categorical]
-        ]
-        
-        if cols:
-            categorical_cols = [col for col in cols if col in categorical_cols]
-        
-        if not categorical_cols:
-            logger.warning("No categorical columns found")
-            return []
-        
-        figures = []
-        for col in categorical_cols:
-            try:
-                # Get value counts
-                value_counts = (
-                    df.select(col)
-                    .group_by(col)
-                    .count()
-                    .sort("count", descending=True)
-                    .limit(max_categories)
-                )
-                
-                if value_counts.height == 0:
-                    continue
-                
-                # Convert to pandas for plotly
-                df_plot = value_counts.to_pandas()
-                
-                fig = px.bar(
-                    df_plot,
-                    x=col,
-                    y="count",
-                    title=f"{title_prefix}Distribution of {col}",
-                    labels={"count": "Frequency", col: col}
-                )
-                
-                fig.update_layout(
-                    xaxis_tickangle=-45,
-                    height=500,
-                    showlegend=False
-                )
-                
-                figures.append(fig)
-                
-            except Exception as e:
-                logger.error(f"Failed to plot categorical variable {col}: {str(e)}")
-                continue
-        
-        return figures
+    return profile
+
+
+def harmonize_datasets(df_sales: pd.DataFrame, 
+                      df_rental: pd.DataFrame,
+                      output_dir: Union[str, Path]) -> Tuple[pd.DataFrame, pd.DataFrame]:
+    """
+    Harmonize sales and rental datasets for comparative analysis.
     
-    @staticmethod
-    def plot_correlation_matrix(
-        df: pl.DataFrame, 
-        title_prefix: str = ""
-    ) -> Optional[go.Figure]:
-        """
-        Generate an interactive correlation heatmap for numeric variables.
+    Parameters
+    ----------
+    df_sales : pd.DataFrame
+        Sales data
+    df_rental : pd.DataFrame
+        Rental data
+    output_dir : Union[str, Path]
+        Directory to save harmonized datasets
         
-        Args:
-            df: Input DataFrame
-            title_prefix: Prefix for plot title
-            
-        Returns:
-            Plotly Figure or None if insufficient numeric columns
-        """
-        numeric_cols = [
-            col for col, dtype in zip(df.columns, df.dtypes) 
-            if pl.datatypes.is_numeric(dtype)
-        ]
-        
-        if len(numeric_cols) < 2:
-            logger.warning("Need at least 2 numeric columns for correlation matrix")
-            return None
-        
-        try:
-            # Calculate correlation matrix
-            corr_matrix = df.select(numeric_cols).corr()
-            
-            # Create heatmap
-            fig = px.imshow(
-                corr_matrix.to_numpy(),
-                labels=dict(x="Variables", y="Variables", color="Correlation"),
-                x=numeric_cols,
-                y=numeric_cols,
-                color_continuous_scale="RdBu_r",
-                aspect="auto",
-                title=f"{title_prefix}Correlation Matrix"
-            )
-            
-            fig.update_layout(
-                width=max(600, len(numeric_cols) * 50),
-                height=max(600, len(numeric_cols) * 50)
-            )
-            
-            return fig
-            
-        except Exception as e:
-            logger.error(f"Failed to create correlation matrix: {str(e)}")
-            return None
-
-
-# Convenience functions for backward compatibility
-def load_dataset(file_path: Union[str, Path]) -> Optional[pl.DataFrame]:
-    """Load a dataset using the DataLoader class."""
-    return DataLoader.load_dataset(file_path)
-
-
-def get_basic_stats(df: pl.DataFrame) -> Dict:
-    """Get basic statistics using the DataAnalyzer class."""
-    return DataAnalyzer.get_basic_stats(df)
-
-
-def analyze_dataset(df: pl.DataFrame, name: str) -> Dict:
-    """Analyze dataset using the DataAnalyzer class."""
-    return DataAnalyzer.analyze_dataset(df, name)
-
-
-def plot_numeric_distributions(
-    df: pl.DataFrame, 
-    cols: Optional[List[str]] = None,
-    max_cols: int = 15
-) -> Optional[go.Figure]:
-    """Plot numeric distributions using the DataVisualizer class."""
-    return DataVisualizer.plot_numeric_distributions(df, cols, max_cols)
-
-
-def plot_categorical_distributions(
-    df: pl.DataFrame,
-    cols: Optional[List[str]] = None,
-    max_categories: int = 20
-) -> List[go.Figure]:
-    """Plot categorical distributions using the DataVisualizer class."""
-    return DataVisualizer.plot_categorical_distributions(df, cols, max_categories)
-
-
-def plot_correlation_matrix(df: pl.DataFrame) -> Optional[go.Figure]:
-    """Plot correlation matrix using the DataVisualizer class."""
-    return DataVisualizer.plot_correlation_matrix(df) 
+    Returns
+    -------
+    Tuple[pd.DataFrame, pd.DataFrame]
+        Harmonized sales and rental datasets
+    """
+    print("🔄 Harmonizing datasets for export...")
+    
+    output_dir = Path(output_dir)
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Identify common columns
+    common_columns = sorted(list(set(df_sales.columns) & set(df_rental.columns)))
+    print(f"   Common columns: {len(common_columns)}")
+    
+    # Select important columns
+    rental_describe_columns = df_rental.describe().columns.tolist()
+    
+    # Key columns for analysis
+    key_columns = ['price', 'bath_num', 'room_num', 'house_type', 'house_id', 
+                  'm2_real', 'm2_useful', 'loc_city', 'loc_zone', 'construct_date']
+    
+    # Build selected columns list
+    selected_columns = [col for col in key_columns if col in common_columns]
+    
+    # Add numeric columns from describe
+    for col in rental_describe_columns:
+        if col not in selected_columns and col in common_columns:
+            selected_columns.append(col)
+    
+    # Add important categorical columns
+    categorical_columns = []
+    
+    for col in categorical_columns:
+        if col in common_columns and col not in selected_columns:
+            selected_columns.append(col)
+    
+    print(f"   Selected {len(selected_columns)} columns for export")
+    
+    # Create harmonized datasets
+    df_sales_export = df_sales[selected_columns].copy()
+    df_rental_export = df_rental[selected_columns].copy()
+    
+    # Generate and save descriptions
+    sales_describe = df_sales_export.describe(include='all')
+    rental_describe = df_rental_export.describe(include='all')
+    
+    # Save all files
+    save_data(df_sales_export, output_dir / 'alava_sales_final.csv')
+    save_data(df_rental_export, output_dir / 'alava_rental_final.csv')
+    
+    sales_describe.to_csv(output_dir / 'alava_sales_describe.csv')
+    rental_describe.to_csv(output_dir / 'alava_rental_describe.csv')
+    
+    print(f"✅ Harmonized datasets saved to: {output_dir}")
+    print(f"   Sales: {df_sales_export.shape[0]} records, {df_sales_export.shape[1]} columns")
+    print(f"   Rental: {df_rental_export.shape[0]} records, {df_rental_export.shape[1]} columns")
+    
+    return df_sales_export, df_rental_export 
