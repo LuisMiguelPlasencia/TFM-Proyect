@@ -1,31 +1,85 @@
-.PHONY: check_python check_virtualenv create_env
+.PHONY: help install install-dev test lint format clean data notebooks
+.DEFAULT_GOAL := help
 
-check_python:
-	@echo "Se verifica instalación de python."
-	@python3 --version >/dev/null 2>&1 || { echo >&2 "No se pudo iniciar Python, revisar instalación."; exit 1; }
-	@echo "Verificación ok."
+PYTHON := python3
+PIP := pip3
+VENV := venv
 
-check_virtualenv: check_python
-	@echo "Se verifica instalación de la librería venv."
-	@python3 -c 'import venv' >/dev/null 2>&1 || { echo >&2 "No se encontró venv. Se debe instalar para seguir."; exit 1; }
-	@echo "Verificación ok."
-	
-create_env: check_virtualenv
-	@python3 -m venv .env --prompt 13MBID
-	@echo "Se crea el entorno virtual."
+help: ## Show this help message
+	@echo "Real Estate Forecasting Spain - Available Commands:"
+	@echo ""
+	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | sort | awk 'BEGIN {FS = ":.*?## "}; {printf "\033[36m%-20s\033[0m %s\n", $$1, $$2}'
 
-create_requirements:
-	@echo "Se crea el archivo de dependencias a instalar."
-	echo "jupyter" >> config/requirements.txt
-	echo "pandas" >> config/requirements.txt
-	echo "numpy" >> config/requirements.txt
-	echo "scikit-learn" >> config/requirements.txt
-	echo "mlflow" >> config/requirements.txt
-	echo "dvc" >> config/requirements.txt
-	echo "ydata_profiling" >> config/requirements.txt
-	echo "streamlit" >> config/requirements.txt
-	@echo "Archivo generado en el directorio config."
+# Environment Management
+install: ## Install project dependencies
+	$(PIP) install -e .
 
-clean:
-	@rm -rf .env
-	@echo "Se eliminó el entorno virtual."
+install-dev: ## Install development dependencies
+	$(PIP) install -e ".[dev]"
+
+setup-env: ## Setup complete development environment
+	$(PYTHON) -m venv $(VENV)
+	source $(VENV)/bin/activate && $(MAKE) install-dev
+
+# Code Quality
+lint: ## Run linting checks
+	black --check src notebooks
+	isort --check-only src notebooks
+	flake8 src
+
+format: ## Format code with black and isort
+	black src notebooks
+	isort src notebooks
+
+test: ## Run tests
+	pytest tests/ -v
+
+# Data Pipeline
+data-download: ## Download raw datasets
+	dvc pull
+
+data-process: ## Process raw data
+	$(PYTHON) -m src.data.make_dataset
+
+# Notebooks
+notebooks-run: ## Execute all notebooks
+	jupyter nbconvert --execute --inplace notebooks/*.ipynb
+
+notebooks-clean: ## Clean notebook outputs
+	jupyter nbconvert --clear-output --inplace notebooks/*.ipynb
+
+notebooks-html: ## Convert notebooks to HTML
+	mkdir -p reports/notebooks
+	jupyter nbconvert --to html notebooks/*.ipynb --output-dir reports/notebooks
+
+# MLflow and Experiments
+mlflow-ui: ## Start MLflow UI
+	mlflow ui --host 0.0.0.0 --port 5000
+
+train: ## Train models
+	$(PYTHON) -m src.models.train_model
+
+evaluate: ## Evaluate models
+	$(PYTHON) -m src.models.evaluate_model
+
+# Utilities
+clean: ## Clean temporary files and caches
+	find . -type f -name "*.pyc" -delete
+	find . -type d -name "__pycache__" -delete
+	find . -type d -name "*.egg-info" -exec rm -rf {} +
+	find . -type d -name ".pytest_cache" -exec rm -rf {} +
+	rm -rf build/
+	rm -rf dist/
+	rm -rf htmlcov/
+
+# DVC Operations  
+dvc-add: ## Add files to DVC tracking
+	dvc add data/raw/
+	dvc add data/processed/
+	dvc add models/
+
+dvc-push: ## Push data to remote storage
+	dvc push
+
+dvc-status: ## Check DVC status
+	dvc status
