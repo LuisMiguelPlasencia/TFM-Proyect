@@ -10,8 +10,7 @@ Dependencies: pandas, numpy, pathlib
 import sys
 import warnings
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple, Union
-
+from typing import Dict, List, Optional, Tuple, Union, Callable
 import numpy as np
 import pandas as pd
 
@@ -45,6 +44,35 @@ def load_data(file_path: Union[str, Path]) -> Optional[pd.DataFrame]:
         print(f"❌ Error loading data from {file_path}: {e}")
         return None
 
+def clean_numeric_col(df, col, zero_strings=None, fillna=None):
+    """
+    Clean column `col` in-place:
+    - convert known zero-strings to '0' (e.g. 'sin baños')
+    - normalize comma -> dot
+    - extract numeric substring if present
+    - convert to float (non-numeric -> NaN)
+    - optionally fillna(value)
+    """
+    if col not in df.columns:
+        return
+
+    s = df[col].astype(str).str.strip().str.lower()
+
+    if zero_strings:
+        for z in zero_strings:
+            s = s.replace(z.lower(), '0')
+
+    # Replace commas with dots for decimal, remove thousands separators if needed
+    s = s.str.replace(r'\s', '', regex=True)     # strip internal spaces
+    s = s.str.replace(',', '.', regex=False)
+
+    # Extract first numeric token (supports integers and decimals, optional sign)
+    extracted = s.str.extract(r'([-+]?\d*\.?\d+)')[0]
+
+    df[col] = pd.to_numeric(extracted, errors='coerce')
+
+    if fillna is not None:
+        df[col] = df[col].fillna(fillna)
 
 def clean_data(data: pd.DataFrame) -> Tuple[Optional[pd.DataFrame], Optional[Dict[str, int]]]:
     """
@@ -76,12 +104,13 @@ def clean_data(data: pd.DataFrame) -> Tuple[Optional[pd.DataFrame], Optional[Dic
         
         # Clean bath_num column
         if 'bath_num' in data_copy.columns:
-            data_copy['bath_num'] = data_copy['bath_num'].replace('sin baños', '0').astype(float)
+            #data_copy['bath_num'] = data_copy['bath_num'].replace('sin baños', '0').astype(float)
+            clean_numeric_col(data_copy, 'bath_num', zero_strings=['sin baños'], fillna=0.0)
         
         # Clean room_num column
         if 'room_num' in data_copy.columns:
-            data_copy['room_num'] = data_copy['room_num'].replace('sin habitación', '0').astype(float)
-
+            #data_copy['room_num'] = data_copy['room_num'].replace('sin habitación', '0').astype(float)
+            clean_numeric_col(data_copy, 'room_num', zero_strings=['sin habitación'], fillna=0.0)
         # Convert garage column to binary
         if 'garage' in data_copy.columns:
             data_copy['garage'] = data_copy['garage'].notna().astype(int)
@@ -279,79 +308,122 @@ def generate_basic_profile(df: pd.DataFrame, title: str) -> Dict:
     return profile
 
 
-def harmonize_datasets(df_sales: pd.DataFrame, 
-                      df_rental: pd.DataFrame,
-                      output_dir: Union[str, Path]) -> Tuple[pd.DataFrame, pd.DataFrame]:
+SaveFunc = Callable[[pd.DataFrame, Path], None]
+
+def harmonize_datasets(
+    df_sales: Optional[pd.DataFrame],
+    df_rental: Optional[pd.DataFrame],
+    output_dir: Union[str, Path],
+    province: str,
+    save_func: Optional[SaveFunc] = None,
+) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
     Harmonize sales and rental datasets for comparative analysis.
-    
+
+    - Accepts None or empty DataFrames.
+    - Builds a consistent column set and reindexes both frames to it (missing columns become NaN).
+    - Uses an optional save_func(dataframe, path). If not provided, falls back to DataFrame.to_csv.
+    - Returns the harmonized (export-ready) DataFrames.
+
     Parameters
     ----------
-    df_sales : pd.DataFrame
-        Sales data
-    df_rental : pd.DataFrame
-        Rental data
+    df_sales : Optional[pd.DataFrame]
+        Sales DataFrame (may be None or empty).
+    df_rental : Optional[pd.DataFrame]
+        Rental DataFrame (may be None or empty).
     output_dir : Union[str, Path]
-        Directory to save harmonized datasets
-        
+        Directory where harmonized CSVs and descriptions will be saved.
+    save_func : Optional[Callable[[pd.DataFrame, Path], None]]
+        Optional function to save a DataFrame. If None, DataFrame.to_csv is used.
+
     Returns
     -------
     Tuple[pd.DataFrame, pd.DataFrame]
-        Harmonized sales and rental datasets
+        (df_sales_export, df_rental_export) — harmonized DataFrames (may be empty).
     """
-    print("🔄 Harmonizing datasets for export...")
-    
+    # Normalize inputs
+    df_sales = pd.DataFrame() if df_sales is None else df_sales.copy()
+    df_rental = pd.DataFrame() if df_rental is None else df_rental.copy()
+
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
-    
-    # Identify common columns
-    common_columns = sorted(list(set(df_sales.columns) & set(df_rental.columns)))
-    print(f"   Common columns: {len(common_columns)}")
-    
-    # Select important columns
-    rental_describe_columns = df_rental.describe().columns.tolist()
-    
-    # Key columns for analysis
-    key_columns = ['price', 'bath_num', 'room_num', 'house_type', 'house_id', 
-                  'm2_real', 'm2_useful', 'loc_city', 'loc_zone', 'construct_date']
-    
-    # Build selected columns list
-    selected_columns = [col for col in key_columns if col in common_columns]
-    
-    # Add numeric columns from describe
-    for col in rental_describe_columns:
-        if col not in selected_columns and col in common_columns:
-            selected_columns.append(col)
-    
-    # Add important categorical columns
-    categorical_columns = []
-    
-    for col in categorical_columns:
-        if col in common_columns and col not in selected_columns:
-            selected_columns.append(col)
-    
-    print(f"   Selected {len(selected_columns)} columns for export")
-    
-    # Create harmonized datasets
-    df_sales_export = df_sales[selected_columns].copy()
-    df_rental_export = df_rental[selected_columns].copy()
-    
-    # Generate and save descriptions
-    sales_describe = df_sales_export.describe(include='all')
-    rental_describe = df_rental_export.describe(include='all')
-    
-    # Save all files
-    save_data(df_sales_export, output_dir / 'alava_sales_final.csv')
-    save_data(df_rental_export, output_dir / 'alava_rental_final.csv')
-    
-    sales_describe.to_csv(output_dir / 'alava_sales_describe.csv')
-    rental_describe.to_csv(output_dir / 'alava_rental_describe.csv')
-    
+
+    # Column sets
+    sales_cols = set(df_sales.columns)
+    rental_cols = set(df_rental.columns)
+
+    # Determine common/target columns:
+    # - If both non-empty: intersection (strict common schema)
+    # - If one is empty: use the other's columns (so exported schema is useful)
+    # - If both empty: use key_columns as consistent schema
+    key_columns = [
+        "price", "bath_num", "room_num", "house_type", "house_id",
+        "m2_real", "m2_useful", "loc_city", "loc_zone", "construct_date"
+    ]
+
+    if not df_sales.empty and not df_rental.empty:
+        target_cols = sorted(sales_cols & rental_cols)
+    elif not df_sales.empty:
+        target_cols = sorted(sales_cols)
+    elif not df_rental.empty:
+        target_cols = sorted(rental_cols)
+    else:
+        # both empty -> provide consistent schema
+        target_cols = key_columns.copy()
+
+    # Preferentially include key columns that exist in the chosen target set (keep order defined in key_columns)
+    selected = [c for c in key_columns if c in target_cols]
+
+    # Add numeric columns from rental (if rental available) that are in target_cols and not already selected.
+    # select_dtypes is faster and clearer than describe().columns for numeric detection.
+    if not df_rental.empty:
+        numeric_from_rental = [c for c in df_rental.select_dtypes(include="number").columns if c in target_cols]
+        for c in numeric_from_rental:
+            if c not in selected:
+                selected.append(c)
+
+    # If nothing selected yet (e.g. target_cols didn't intersect with key_columns), fallback to target_cols
+    if not selected:
+        selected = target_cols.copy()
+
+    # Final selected columns (unique, preserve order)
+    seen = set()
+    selected_columns = [x for x in selected if not (x in seen or seen.add(x))]
+
+    # Reindex both DataFrames to the selected columns (adds missing columns as NaN, keeps consistent schema)
+    df_sales_export = df_sales.reindex(columns=selected_columns).copy()
+    df_rental_export = df_rental.reindex(columns=selected_columns).copy()
+
+    # Descriptions (safe on empty DataFrames)
+    sales_describe = df_sales_export.describe(include="all")
+    rental_describe = df_rental_export.describe(include="all")
+
+    # Safe save helper
+    def _save(df: pd.DataFrame, path: Path) -> None:
+        if save_func is not None:
+            save_func(df, path)
+        else:
+            df.to_csv(path, index=False)
+
+    # Paths
+    sales_csv = output_dir / f"{province}_sales_final.csv"
+    rental_csv = output_dir / f"{province}_rental_final.csv"
+    sales_desc_csv = output_dir / f"{province}_sales_describe.csv"
+    rental_desc_csv = output_dir / f"{province}_rental_describe.csv"
+
+    # Save files (any exceptions will bubble up so caller can handle them)
+    _save(df_sales_export, sales_csv)
+    _save(df_rental_export, rental_csv)
+    sales_describe.to_csv(sales_desc_csv)
+    rental_describe.to_csv(rental_desc_csv)
+
+    # Summary prints
     print(f"✅ Harmonized datasets saved to: {output_dir}")
-    print(f"   Sales: {df_sales_export.shape[0]} records, {df_sales_export.shape[1]} columns")
-    print(f"   Rental: {df_rental_export.shape[0]} records, {df_rental_export.shape[1]} columns")
-    
-    return df_sales_export, df_rental_export 
+    print(f"   Sales: {df_sales_export.shape[0]} rows × {df_sales_export.shape[1]} cols")
+    print(f"   Rental: {df_rental_export.shape[0]} rows × {df_rental_export.shape[1]} cols")
+
+    return df_sales_export, df_rental_export
+
 
 
 def discover_city_files(data_dir: Union[str, Path]) -> List[str]:

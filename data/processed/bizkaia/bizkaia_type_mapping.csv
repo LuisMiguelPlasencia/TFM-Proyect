@@ -1,0 +1,29 @@
+House_Type,Code
+ Casa o chalet independiente,0
+ Casa rural,1
+Piso,2
+ Casa de pueblo,3
+Dúplex,4
+Ático,5
+ Caserón,6
+ Casa o chalet,7
+Casa rural,8
+ Finca rústica,9
+ Chalet adosado,10
+Estudio,11
+ Chalet pareado,12
+ Casa terrera,13
+ Palacio,14
+Alquiler de Piso,15
+Alquiler de Dúplex,16
+Alquiler de Ático,17
+Alquiler de Casa o chalet independiente,18
+Alquiler de Chalet pareado,19
+Alquiler de Estudio,20
+Alquiler de Casa rural,21
+Alquiler de Casa o chalet,22
+Alquiler de Chalet adosado,23
+Alquiler de Finca rústica,24
+Alquiler de Caserón,25
+Alquiler de Casa de pueblo,26
+ Castillo,27

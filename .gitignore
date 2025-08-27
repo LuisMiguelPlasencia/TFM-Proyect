@@ -111,8 +111,6 @@ venv.bak/
 Thumbs.db
 
 # Project specific
-/data/processed/*
-/data/final/*
 !/data/processed/.gitkeep
 !/data/final/.gitkeep
 /reports/figures/*

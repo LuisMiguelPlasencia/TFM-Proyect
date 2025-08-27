@@ -1,0 +1,128 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date,air_conditioner,balcony,built_in_wardrobe,chimney,garage,garden,lift,reduced_mobility,storage_room,swimming_pool,terrace,energetic_certif,floor,loc_district,loc_neigh,obtention_date,ad_last_update
+750,1.0,3.0,15,84861203,95,90.0,Vitoria-Gasteiz,Álava,1965.0,0,0,0,0,0,0,1.0,0,0,0,0,no indicado,planta 5ª exterior,Distrito Aranzabela - Aranbizkarra,extremadura,2019-03-29,Anuncio actualizado el 29 de marzo
+750,1.0,3.0,15,83306410,89,80.0,Vitoria-Gasteiz,Álava,1993.0,0,1,0,0,0,0,1.0,0,0,0,0,,planta 1ª exterior,Distrito Adurtza,"Calle Heraclio Fournier, 33",2019-03-29,más de 2 meses sin actualizar
+1000,2.0,4.0,15,83537586,120,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,1,no indicado,planta 1ª exterior,Distrito Lovaina - Aranzabal,"Avenida Gasteiz, 50",2019-03-29,más de 2 meses sin actualizar
+1200,2.0,3.0,15,26011638,120,101.0,Labastida,"Laguardia-Rioja Alavesa, Álava",1993.0,0,0,0,0,0,0,0.0,0,0,0,0,no indicado,planta 1ª exterior,"Calle Marrate, 2",,2019-03-29,más de 2 meses sin actualizar
+700,1.0,2.0,15,83624854,52,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,no indicado,bajo exterior,Distrito Armentia - Ciudad Jardín,"Calle Maite Zuñiga, 2",2019-03-29,Anuncio actualizado el 21 de marzo
+550,1.0,3.0,15,84139748,80,87.0,Okondo,"Ayala, Álava",1993.0,0,0,0,0,0,0,0.0,0,0,0,0,no indicado,planta 1ª exterior,"Jandiola Entitatea, 16",,2019-03-29,Anuncio actualizado el 4 de febrero
+1500,5.0,4.0,16,84100618,360,300.0,Villabuena de Álava,"Laguardia-Rioja Alavesa, Álava",1993.0,0,1,1,0,1,1,1.0,1,1,1,1,,4 plantas,"Calle Viura, 1",,2019-03-29,Anuncio actualizado el 31 de enero
+650,1.0,1.0,15,84737072,42,41.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,bajo exterior,Distrito Zabalgana - Ariznabarra,"Gaztelako Atea, 54",2019-03-29,Anuncio actualizado el 21 de marzo
+800,2.0,2.0,15,84248636,80,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,1,en trámite,planta 6ª exterior,Distrito Lakua,Urb. Estacion,2019-03-29,Anuncio actualizado el 12 de febrero
+650,2.0,3.0,15,84684858,90,87.0,Iruña de Oca,"Añana, Álava",1993.0,0,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 2ª,Plaza Rita Oraá,,2019-03-29,Anuncio actualizado el 15 de marzo
+1150,2.0,3.0,15,84393334,100,94.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,1,0,1,en trámite,planta 8ª exterior,Distrito San Martín,"Avenida Gasteiz, Vitoria-Gasteiz",2019-03-29,Anuncio actualizado el 11 de marzo
+840,2.0,2.0,17,84761675,75,68.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,no indicado,planta 4ª exterior,Distrito Centro,"Calle Florida, 15",2019-03-29,Anuncio actualizado el 25 de marzo
+750,2.0,3.0,15,84792816,80,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,no indicado,planta 3ª exterior,Distrito Casco Viejo,"Casco Viejo, 1",2019-03-29,Anuncio actualizado el 24 de marzo
+800,5.0,4.0,18,26328217,255,210.0,Ribera Baja,"Añana, Álava",2015.0,0,0,0,0,1,1,1.0,0,0,0,1,no indicado,3 plantas,,,2019-03-29,Anuncio actualizado el 5 de octubre
+650,2.0,3.0,15,82778702,85,87.0,Artziniega,"Ayala, Álava",1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,bajo exterior,"Calle Eguzkimendi Urbanizazioa, 4",,2019-03-29,Anuncio actualizado el 12 de marzo
+900,2.0,3.0,15,84815196,120,105.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,0,0,0,1,no indicado,planta 4ª exterior,Distrito Zabalgana - Ariznabarra,"Sofia Erreginaren Hiribidea, 35",2019-03-29,Anuncio actualizado el 29 de marzo
+3000,4.0,4.0,15,34022210,240,220.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,0.0,0,1,0,1,no indicado,planta 1ª exterior,Distrito Armentia - Ciudad Jardín,"Calle antonia maria de oviedo, 24 -1º IZQ",2019-03-29,Anuncio actualizado el 17 de marzo
+650,2.0,3.0,15,38073212,97,90.0,Artziniega,"Ayala, Álava",1993.0,0,0,0,0,0,1,1.0,0,0,1,1,en trámite,planta 2ª exterior,,,2019-03-29,Anuncio actualizado el 26 de noviembre
+525,1.0,3.0,15,81963904,64,87.0,Artziniega,"Ayala, Álava",1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,planta 4ª exterior,"arenatza auzoa, 2",,2019-03-29,Anuncio actualizado el 17 de marzo
+950,2.0,4.0,18,27519479,120,100.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,0,0,0,no indicado,2 plantas,Distrito Betoño - Abetxuko,Urb. Abetxuko,2019-03-29,Anuncio actualizado el 13 de febrero
+950,3.0,3.0,18,83553169,200,132.0,Iruña de Oca,"Añana, Álava",2007.0,0,0,0,0,1,1,1.0,0,1,0,1,no indicado,,,,2019-03-29,Anuncio actualizado el 21 de diciembre
+800,2.0,2.0,15,84264417,85,80.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,,Distrito Lakua,,2019-03-29,Anuncio actualizado el 27 de marzo
+750,2.0,3.0,15,84405903,90,87.0,Vitoria-Gasteiz,Álava,1985.0,0,0,0,0,0,0,1.0,0,1,0,1,no indicado,planta 6ª,Distrito Judimendi - Sta.Lucía,,2019-03-29,Anuncio actualizado el 2 de marzo
+650,1.0,1.0,15,84645640,43,39.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,0,en trámite,,Distrito Centro,,2019-03-29,Anuncio actualizado el 27 de marzo
+550,2.0,3.0,18,84132978,100,110.0,Bernedo,"Campezo- Montaña Alavesa, Álava",1993.0,0,0,0,0,0,1,1.0,0,1,0,0,no indicado,2 plantas,"Calle el Cristo, 62",,2019-03-29,Anuncio actualizado el 24 de marzo
+1800,3.0,3.0,17,38150934,200,130.0,Vitoria-Gasteiz,Álava,1993.0,1,0,1,0,1,0,1.0,0,1,0,1,no indicado,planta 5ª exterior,Distrito Centro,"Senda Ibilbidea, 5",2019-03-29,Anuncio actualizado el 26 de febrero
+1500,2.0,4.0,15,26699231,120,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,no indicado,planta 5ª exterior,Distrito Centro,"Calle Olaguibel, 12",2019-03-29,Anuncio actualizado el 11 de marzo
+950,2.0,3.0,18,83209099,1000,87.0,Barrundia,"Salvatierra, Álava",1993.0,0,1,0,0,1,1,1.0,0,1,0,1,no indicado,2 plantas,"Uria, 26",,2019-03-29,Anuncio actualizado el 19 de febrero
+350,1.0,0.0,19,30284677,50,87.0,Ribera Alta,"Añana, Álava",1993.0,0,0,0,0,0,0,0.0,0,0,0,0,no indicado,planta 1ª exterior,"Axkoeta, 10",,2019-03-29,Anuncio actualizado el 24 de marzo
+520,1.0,1.0,15,84412074,52,87.0,Llodio,"Ayala, Álava",1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,bajo exterior,"Calle Ugarte, 19",,2019-03-29,Anuncio actualizado el 25 de marzo
+650,1.0,1.0,15,33447720,43,39.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,0,,planta 8ª exterior,Distrito Centro,"Calle bake, 10",2019-03-29,Anuncio actualizado el 12 de marzo
+660,2.0,1.0,15,84743374,65,50.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,1,,planta 4ª exterior,Distrito Centro,"Calle Bake, 8",2019-03-29,Anuncio actualizado el 28 de marzo
+550,1.0,2.0,15,27370989,63,60.0,Legutiano,"Zuya, Álava",1993.0,0,0,1,0,0,0,0.0,0,0,0,0,en trámite,bajo exterior,"Calle Comercio Kalea, 17",,2019-03-29,Anuncio actualizado el 17 de marzo
+360,1.0,3.0,20,84536575,130,90.0,Valdegovia,"Añana, Álava",1974.0,0,0,0,0,0,0,1.0,0,1,0,0,no indicado,1 planta,,,2019-03-29,Anuncio actualizado el 7 de marzo
+1375,2.0,4.0,15,40047680,145,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,1,en trámite,planta 2ª exterior,Distrito San Martín,Avenida Gasteiz,2019-03-29,Anuncio actualizado el 5 de febrero
+780,1.0,2.0,15,83020974,56,55.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 5ª exterior,Distrito Centro,San Antonio,2019-03-29,Anuncio actualizado el 3 de enero
+850,2.0,2.0,15,84173239,75,70.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,1,,planta 6ª exterior,Distrito Lovaina - Aranzabal,Adriano VI,2019-03-29,Anuncio actualizado el 15 de marzo
+685,1.0,3.0,15,83901805,75,87.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,0,0,1.0,0,1,0,0,en trámite,planta 3ª,Distrito Txagorritxu - El Pilar,Calle Arriagako Atea,2019-03-29,Anuncio actualizado el 6 de marzo
+800,1.0,2.0,15,2121147,65,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,1,0,0,en trámite,planta 2ª exterior,Distrito Casco Viejo,"Plaza España, 5",2019-03-29,Anuncio actualizado el 24 de marzo
+980,2.0,3.0,15,84656283,70,60.0,Vitoria-Gasteiz,Álava,1993.0,0,1,0,0,0,0,0.0,0,1,0,0,no indicado,planta 1ª exterior,Distrito Casco Viejo,"Calle Nueva Fuera, 28",2019-03-29,Anuncio actualizado el 24 de marzo
+700,2.0,3.0,17,84664242,110,90.0,Alegria-Dulantzi,"Salvatierra, Álava",1993.0,0,0,0,0,1,0,1.0,0,1,0,1,en trámite,bajo exterior,"Calle Larrara, 12",,2019-03-29,Anuncio actualizado el 24 de marzo
+700,1.0,1.0,15,84322089,60,50.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,,Distrito Casco Viejo,,2019-03-29,Anuncio actualizado el 27 de marzo
+1200,3.0,6.0,16,82878902,275,87.0,Iruña de Oca,"Añana, Álava",1993.0,0,0,1,0,1,0,1.0,0,1,0,1,,,,,2019-03-29,Anuncio actualizado el 28 de febrero
+810,2.0,2.0,15,83554123,121,99.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,1,1.0,0,0,1,0,,,Distrito Casco Viejo,,2019-03-29,Anuncio actualizado el 19 de febrero
+2000,3.0,5.0,21,33958046,280,250.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,1,1.0,0,0,0,0,inmueble exento,,Distrito Zona rural este,,2019-03-29,Anuncio actualizado el 31 de enero
+765,1.0,2.0,15,84180864,75,70.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,1,1,1.0,1,0,0,0,no indicado,planta 3ª exterior,Distrito Salburua,Urb. piso tutelado,2019-03-29,Anuncio actualizado el 27 de marzo
+900,2.0,2.0,15,36884771,80,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,,planta 3ª exterior,Distrito Centro,"Calle Florida, 34",2019-03-29,Anuncio actualizado el 25 de marzo
+3000,4.0,4.0,16,34084345,1500,180.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,0,0,0,1,en trámite,1 planta,Distrito Armentia - Ciudad Jardín,Urb. Ander Fernandez Arrizabalaga,2019-03-29,Anuncio actualizado el 4 de marzo
+850,2.0,2.0,15,82718958,70,68.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,1,1.0,1,0,0,0,,planta 2ª exterior,Distrito Lovaina - Aranzabal,"Calle Vicente Goicoechea, 8",2019-03-29,Anuncio actualizado el 24 de marzo
+1800,2.0,3.0,15,84541850,140,120.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,0,0,0,,planta 4ª exterior,Distrito Centro,"Calle Olaguíbel, Vitoria-Gasteiz",2019-03-29,Anuncio actualizado el 23 de marzo
+865,2.0,2.0,22,35531431,80,72.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,1,0,0,1,,planta 6ª exterior,Distrito Santiago - El Anglo,"Calle Logroño, 14",2019-03-29,Anuncio actualizado el 18 de marzo
+1320,2.0,4.0,15,81143617,144,120.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 1ª exterior,Distrito Zabalgana - Ariznabarra,ariznavarra,2019-03-29,Anuncio actualizado el 11 de julio
+1000,1.0,3.0,15,1811730,90,80.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,1,1.0,0,0,0,1,no indicado,planta 3ª interior,Distrito Lovaina - Aranzabal,"Calle Ramiro de Maeztu, 5",2019-03-29,Anuncio actualizado el 24 de febrero
+5000,38.0,35.0,23,29523967,1900,2000.0,Oión,"Laguardia-Rioja Alavesa, Álava",1993.0,1,0,1,0,1,1,1.0,0,1,1,1,no indicado,2 plantas,"Avenida de Navarra, 28",,2019-03-29,Anuncio actualizado el 17 de marzo
+980,2.0,4.0,18,83855993,280,150.0,Zuya,Álava,1993.0,0,0,1,0,1,0,1.0,0,0,0,0,en trámite,1 planta,"Sarria Errepidea, 9",,2019-03-29,Anuncio actualizado el 4 de marzo
+900,1.0,2.0,15,84174878,88,80.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,no indicado,planta 4ª exterior,Distrito Centro,"Calle San Antonio, 2",2019-03-29,Anuncio actualizado el 27 de marzo
+650,2.0,2.0,17,26554757,97,83.0,Alegria-Dulantzi,"Salvatierra, Álava",1993.0,0,0,0,0,1,1,1.0,0,1,0,1,,bajo exterior,"Atxako, 1",,2019-03-29,Anuncio actualizado el 27 de marzo
+3000,4.0,4.0,24,83961430,1500,350.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,0,1,0,1,no indicado,4 plantas,Distrito Armentia - Ciudad Jardín,"Cervantes Ibilbidea, 1",2019-03-29,Anuncio actualizado el 26 de enero
+400,1.0,0.0,19,84786114,42,87.0,Iruña de Oca,"Añana, Álava",2007.0,0,0,0,0,0,0,0.0,0,0,0,0,no indicado,bajo exterior,,,2019-03-29,Anuncio actualizado el 25 de marzo
+750,1.0,2.0,15,84818546,75,70.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,,Distrito Santiago - El Anglo,,2019-03-29,Anuncio actualizado el 27 de marzo
+710,1.0,3.0,15,84823984,75,70.0,Vitoria-Gasteiz,Álava,1977.0,0,0,0,0,0,0,1.0,0,0,0,1,no indicado,planta 4ª,Distrito Aranzabela - Aranbizkarra,,2019-03-29,Anuncio actualizado el 27 de marzo
+850,1.0,3.0,15,84148195,90,87.0,Vitoria-Gasteiz,Álava,1976.0,0,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 3ª,Distrito Aranzabela - Aranbizkarra,Calle Palencia,2019-03-29,Anuncio actualizado el 22 de febrero
+790,1.0,3.0,15,84451689,70,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,en trámite,planta 2ª,Distrito Coronación,Calle Badaia,2019-03-29,Anuncio actualizado el 23 de marzo
+750,1.0,2.0,16,81340008,500,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,en trámite,,Distrito Zona rural noroeste,,2019-03-29,Anuncio actualizado el 20 de marzo
+990,1.0,1.0,15,84754991,85,80.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,0,0,0,en trámite,,Distrito Salburua,,2019-03-29,Anuncio actualizado el 27 de marzo
+600,1.0,1.0,22,82427003,35,87.0,Vitoria-Gasteiz,Álava,1993.0,1,0,1,0,0,0,0.0,0,0,0,0,,planta 4ª exterior,Distrito Casco Viejo,"Calle Errementari, 56",2019-03-29,Anuncio actualizado el 27 de marzo
+600,1.0,1.0,22,84816227,50,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,0.0,0,0,0,0,no indicado,planta 4ª exterior,Distrito Casco Viejo,"Calle Barrenkale, 15",2019-03-29,Anuncio actualizado el 28 de marzo
+975,2.0,3.0,15,84580383,130,101.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 5ª exterior,Distrito Centro,"Calle Olagibel, 6",2019-03-29,Anuncio actualizado el 28 de marzo
+770,2.0,2.0,15,84653599,79,72.0,Vitoria-Gasteiz,Álava,1993.0,0,1,0,0,0,0,1.0,0,0,0,0,,planta 3ª exterior,Distrito Centro,"Calle Rioja, 21",2019-03-29,Anuncio actualizado el 25 de marzo
+750,2.0,3.0,15,32967891,90,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,1,1,0,0,no indicado,planta 4ª exterior,Distrito Zabalgana - Ariznabarra,"gaztelako atea, 60",2019-03-29,Anuncio actualizado el 24 de marzo
+990,1.0,3.0,15,84452688,85,72.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,1,1.0,0,0,0,1,en trámite,planta 5ª exterior,Distrito San Cristóbal,"Calle Domingo Martinez de Aragon, 9",2019-03-29,Anuncio actualizado el 18 de marzo
+1300,2.0,2.0,15,84075067,85,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,0,0,0,no indicado,planta 4ª,Distrito Lovaina - Aranzabal,Paseo la Musica,2019-03-29,Anuncio actualizado el 12 de marzo
+1150,2.0,2.0,15,84075101,85,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,0,0,0,no indicado,planta 2ª,Distrito Lovaina - Aranzabal,Paseo la Musica,2019-03-29,Anuncio actualizado el 29 de enero
+790,1.0,3.0,15,84682840,85,87.0,Vitoria-Gasteiz,Álava,1993.0,0,1,0,0,0,0,1.0,0,0,0,0,,planta 2ª,Distrito Coronación,Plaza Zaldiaran,2019-03-29,Anuncio actualizado el 26 de marzo
+1060,2.0,2.0,15,34092395,75,70.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,1,0,1,,planta 3ª exterior,Distrito Lovaina - Aranzabal,Paseo de la musica,2019-03-29,Anuncio actualizado el 25 de marzo
+1600,2.0,3.0,15,82142534,120,105.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,1,0,0,0,en trámite,planta 3ª exterior,Distrito Lovaina - Aranzabal,Paseo de la musica,2019-03-29,Anuncio actualizado el 23 de noviembre
+1300,2.0,3.0,15,84684869,117,104.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,1,0,1,en trámite,,Distrito Armentia - Ciudad Jardín,Gaztelako Atea,2019-03-29,Anuncio actualizado el 20 de marzo
+2400,4.0,5.0,24,81564437,200,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,0,1,0,0,en trámite,3 plantas,Distrito Armentia - Ciudad Jardín,Calle Salbaterrabide,2019-03-29,Anuncio actualizado el 26 de junio
+890,2.0,3.0,15,84364765,81,73.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,0,en trámite,planta 5ª exterior,Distrito Casco Viejo,,2019-03-29,Anuncio actualizado el 3 de marzo
+650,2.0,3.0,17,84574224,100,90.0,Alegria-Dulantzi,"Salvatierra, Álava",2000.0,0,1,0,0,0,0,1.0,0,1,0,0,en trámite,planta 2ª exterior,Herrador,,2019-03-29,Anuncio actualizado el 27 de marzo
+820,2.0,3.0,15,84635135,85,80.0,Vitoria-Gasteiz,Álava,1976.0,0,1,1,0,0,0,1.0,0,0,0,0,,planta 5ª exterior,Distrito Aranzabela - Aranbizkarra,Jose Pablo Ullibarri,2019-03-29,Anuncio actualizado el 13 de marzo
+820,1.0,3.0,15,84757544,95,87.0,Vitoria-Gasteiz,Álava,1970.0,0,0,0,0,0,0,1.0,0,1,0,0,,planta 2ª exterior,Distrito Zaramaga,portal de legutiano,2019-03-29,Anuncio actualizado el 21 de marzo
+595,1.0,1.0,15,84760198,68,60.0,Alegria-Dulantzi,"Salvatierra, Álava",2002.0,0,0,0,0,0,0,1.0,0,1,0,1,,planta 1ª exterior,Dulantzi,,2019-03-29,Anuncio actualizado el 21 de marzo
+1100,2.0,3.0,15,84147742,120,110.0,Vitoria-Gasteiz,Álava,1995.0,0,0,0,0,1,0,1.0,0,1,0,0,en trámite,planta 5ª exterior,Distrito Centro,FLORIDA,2019-03-29,Anuncio actualizado el 5 de febrero
+750,1.0,1.0,15,39595867,60,58.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,0,0,1.0,0,0,0,0,,planta 3ª exterior,Distrito Lovaina - Aranzabal,PRADO,2019-03-29,Anuncio actualizado el 26 de febrero
+725,1.0,1.0,22,84819370,70,60.0,Vitoria-Gasteiz,Álava,2010.0,0,0,1,0,0,0,1.0,1,1,0,0,en trámite,planta 4ª exterior,Distrito Casco Viejo,"Calle Pintorería, Vitoria-Gasteiz",2019-03-29,Anuncio actualizado el 26 de marzo
+700,3.0,3.0,18,83858567,120,115.0,Ribera Baja,"Añana, Álava",1993.0,0,0,1,0,1,1,1.0,0,1,0,1,,2 plantas,Calle Arenal s/n,,2019-03-29,Anuncio actualizado el 15 de enero
+860,2.0,3.0,15,84616190,95,90.0,Vitoria-Gasteiz,Álava,1980.0,0,0,0,0,1,0,1.0,0,1,0,0,,planta 5ª exterior,Distrito Aranzabela - Aranbizkarra,PALENCIA,2019-03-29,Anuncio actualizado el 11 de marzo
+990,1.0,1.0,15,84745268,80,87.0,Vitoria-Gasteiz,Álava,1993.0,1,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 7ª exterior,Distrito Salburua,"Calle Nadine Gordimer Kalea, 19",2019-03-29,Anuncio actualizado el 20 de marzo
+670,1.0,2.0,15,84805007,70,65.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,0.0,0,0,0,0,,planta 3ª exterior,Distrito Casco Viejo,ZAPATERIA,2019-03-29,Anuncio actualizado el 25 de marzo
+1100,2.0,3.0,15,84711230,135,124.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,0,0,1,en trámite,planta 4ª exterior,Distrito Coronación,Avenida de gasteiz,2019-03-29,Anuncio actualizado el 18 de marzo
+675,1.0,3.0,15,84735350,80,75.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 2ª exterior,Distrito Judimendi - Sta.Lucía,santa lucia,2019-03-29,Anuncio actualizado el 21 de marzo
+785,1.0,3.0,15,84440365,89,85.0,Vitoria-Gasteiz,Álava,1960.0,0,1,0,0,0,0,1.0,0,1,0,0,en trámite,planta 3ª interior,Distrito Casco Viejo,"Francia Kalea, Vitoria-Gasteiz",2019-03-29,Anuncio actualizado el 27 de marzo
+990,1.0,1.0,22,40227341,80,68.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,0,0,1.0,0,0,0,1,,planta 7ª exterior,Distrito Salburua,"Calle Nadine Gordimer, 21",2019-03-29,Anuncio actualizado el 25 de marzo
+1200,2.0,4.0,15,37366913,90,85.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,1,1.0,1,0,0,1,no indicado,planta 1ª exterior,Distrito Txagorritxu - El Pilar,"Calle Bolivia, 7",2019-03-29,Anuncio actualizado el 21 de marzo
+765,1.0,2.0,15,84558569,65,87.0,Vitoria-Gasteiz,Álava,1993.0,0,1,0,0,0,0,0.0,0,0,0,0,,planta 2ª exterior,Distrito Casco Viejo,"Calle zapatería, 39",2019-03-29,Anuncio actualizado el 19 de marzo
+1200,2.0,3.0,15,84593534,104,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,1,0,1,en trámite,planta 4ª,Distrito Armentia - Ciudad Jardín,Gaztelako Atea,2019-03-29,Anuncio actualizado el 11 de marzo
+1400,3.0,5.0,18,83304597,292,248.0,Iruña de Oca,"Añana, Álava",2008.0,0,0,0,0,1,0,1.0,0,1,0,1,en trámite,,Calle San Cristobal,,2019-03-29,Anuncio actualizado el 5 de marzo
+1100,2.0,3.0,15,31721870,120,110.0,Vitoria-Gasteiz,Álava,1990.0,0,0,1,0,1,0,1.0,0,1,0,0,en trámite,planta 5ª exterior,Distrito Centro,"Calle florida, 8",2019-03-29,Anuncio actualizado el 12 de marzo
+780,2.0,3.0,15,84254610,110,92.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,1,1,1.0,0,0,0,1,no indicado,planta 2ª exterior,Distrito Zabalgana - Ariznabarra,Urb. privada,2019-03-29,Anuncio actualizado el 21 de marzo
+725,2.0,3.0,15,84119399,83,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 4ª exterior,Distrito Centro,"Calle Manuel Iradier, 44",2019-03-29,Anuncio actualizado el 25 de marzo
+690,1.0,3.0,15,84399863,73,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,1,0,0,,planta 4ª exterior,Distrito Judimendi - Sta.Lucía,"Calle Errekatxiki, 39",2019-03-29,Anuncio actualizado el 20 de marzo
+850,2.0,2.0,15,84668481,80,75.0,Vitoria-Gasteiz,Álava,1985.0,0,0,1,0,0,0,1.0,1,1,0,1,en trámite,planta 6ª exterior,Distrito Lovaina - Aranzabal,adriano vi,2019-03-29,Anuncio actualizado el 14 de marzo
+850,1.0,3.0,15,84533877,110,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,0.0,0,1,0,1,,planta 1ª exterior,Distrito Judimendi - Sta.Lucía,"Calle de los Herrán, 20",2019-03-29,Anuncio actualizado el 18 de marzo
+1100,3.0,5.0,15,82590898,160,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 7ª exterior,Distrito Lovaina - Aranzabal,"Calle Joaquin Jose Landazuri, 7",2019-03-29,Anuncio actualizado el 15 de febrero
+640,2.0,3.0,15,84213029,90,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,0,1.0,0,1,0,0,no indicado,planta 1ª exterior,Distrito Lakua,"Calle Hondarribia, 8",2019-03-29,Anuncio actualizado el 27 de marzo
+1500,2.0,3.0,16,83565414,900,87.0,Zigoitia,"Zuya, Álava",1993.0,0,0,0,0,1,0,1.0,0,0,0,1,en trámite,2 plantas,Erlautza,,2019-03-29,Anuncio actualizado el 13 de diciembre
+2000,3.0,4.0,16,84401707,240,87.0,Zigoitia,"Zuya, Álava",1993.0,0,0,0,0,1,0,1.0,0,0,0,0,en trámite,,Zelaia,,2019-03-29,Anuncio actualizado el 22 de febrero
+1400,2.0,3.0,21,84821862,300,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,1,1.0,0,1,0,0,,1 planta,Distrito Zona rural suroeste,"Santa Cruz Hiribidea, 4",2019-03-29,Anuncio actualizado el 26 de marzo
+850,2.0,2.0,15,34837504,80,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,1,0,0,en trámite,planta 4ª exterior,Distrito Lovaina - Aranzabal,Calle Portal de Castilla,2019-03-29,Anuncio actualizado el 18 de marzo
+990,2.0,3.0,15,84148544,150,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,1,0,0,,planta 1ª interior,Distrito Lovaina - Aranzabal,"Calle El Prado, 5",2019-03-29,Anuncio actualizado el 11 de marzo
+900,2.0,2.0,15,84771113,70,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,1,0,0,en trámite,planta 2ª exterior,Distrito Centro,Calle Manuel Iradier,2019-03-29,Anuncio actualizado el 22 de marzo
+900,2.0,3.0,15,84480334,90,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 8ª exterior,Distrito San Martín,"Plaza Gerardo Armesto, 7",2019-03-29,Anuncio actualizado el 28 de marzo
+700,1.0,3.0,15,84636977,90,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,,planta 4ª exterior,Distrito Lakua - Arriaga,"Calle Francisco Javier de Landaburu, 32",2019-03-29,Anuncio actualizado el 26 de marzo
+2500,6.0,5.0,16,84540451,2000,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,0,0,0,,,Distrito Zona rural este,Calle Andra Mari de Eskolunbe,2019-03-29,Anuncio actualizado el 28 de marzo
+1293,2.0,3.0,15,84683232,119,104.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,1,1,0,1,en trámite,planta 4ª exterior,Distrito Armentia - Ciudad Jardín,"Portal de Castilla, Vitoria-Gasteiz",2019-03-29,Anuncio actualizado el 15 de marzo
+1400,2.0,4.0,16,84751720,280,87.0,Vitoria-Gasteiz,Álava,1993.0,0,1,1,0,1,0,1.0,0,0,0,0,no indicado,3 plantas,Distrito Zona rural suroeste,"Santa Cruz Hiribidea, 4",2019-03-29,Anuncio actualizado el 22 de marzo
+750,1.0,2.0,15,84794934,95,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 6ª exterior,Distrito Coronación,"Calle Coronacion de la Virgen Blanca, 1",2019-03-29,Anuncio actualizado el 25 de marzo
+774,1.0,1.0,22,39918049,90,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,1,1.0,1,1,0,1,,planta 7ª exterior,Distrito Zabalgana - Ariznabarra,"Gaztelako Atea, 114",2019-03-29,Anuncio actualizado el 25 de marzo
+700,1.0,2.0,15,84805989,84,65.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,0,no indicado,planta 2ª exterior,Distrito Casco Viejo,"Calle Pintore, 30",2019-03-29,Anuncio actualizado el 25 de marzo
+1200,2.0,4.0,15,33436071,120,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,0,no indicado,planta 4ª exterior,Distrito Lovaina - Aranzabal,"Calle cercas bajas, 11",2019-03-29,Anuncio actualizado el 27 de marzo
+810,1.0,2.0,15,84835440,75,70.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,0,0,0,en trámite,planta 2ª exterior,Distrito Lovaina - Aranzabal,Cercas Bajas,2019-03-29,Anuncio actualizado el 27 de marzo
+850,2.0,3.0,15,84849625,95,90.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,0,1.0,0,1,0,1,en trámite,planta 7ª exterior,Distrito Zabalgana - Ariznabarra,Avenida zabalgana,2019-03-29,Anuncio actualizado el 28 de marzo
+750,1.0,2.0,15,84851233,87,76.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,0,0,1.0,0,0,0,1,en trámite,planta 3ª exterior,Distrito Coronación,Calle Bruno Villarreal,2019-03-29,Anuncio actualizado el 29 de marzo
+780,1.0,1.0,15,84852132,51,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,0,0,1,1,1.0,0,0,0,0,en trámite,planta 8ª exterior,Distrito San Martín,Calle Pintor Aurelio Verá-Fajardo,2019-03-29,Anuncio actualizado el 29 de marzo
+1300,2.0,3.0,15,84855714,95,87.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,1,0,1.0,0,1,0,0,,planta 5ª exterior,Distrito Centro,"Calle Independentzia, 1",2019-03-29,Anuncio actualizado el 29 de marzo
+925,2.0,3.0,15,1942576,105,100.0,Vitoria-Gasteiz,Álava,1993.0,0,0,1,0,0,1,1.0,0,0,0,0,no indicado,planta 3ª exterior,Distrito San Martín,"Avenida Gasteiz, 93",2019-03-29,Anuncio actualizado el 28 de marzo

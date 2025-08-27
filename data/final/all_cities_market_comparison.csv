@@ -1,0 +1,27 @@
+# Spanish Cities Real Estate Market Comparison
+# Generated: 2025-08-24 18:21:15
+# Cities analyzed: 20
+# Metrics included: 21
+# Source: Multi-city analysis pipeline
+#
+City,Sales_Count,Rental_Count,Total_Properties,Avg_Sales_Price,Median_Sales_Price,Sales_Price_Std,Min_Sales_Price,Max_Sales_Price,Avg_Sales_Surface,Median_Sales_Surface,Avg_Sales_Price_per_m2,Avg_Rental_Price,Median_Rental_Price,Rental_Price_Std,Min_Rental_Price,Max_Rental_Price,Avg_Rental_Surface,Median_Rental_Surface,Avg_Rental_Price_per_m2,Estimated_Rental_Yield
+Bizkaia,21637,1560,23197,340013.6562832186,260000.0,276430.2413642023,4400.0,4000000.0,522.5455931968387,95.0,650.6870610142878,1084.2788461538462,950.0,460.9522895907728,300.0,6000.0,118.22884615384615,85.0,9.171017745896973,3.8267128138548037
+Alava,3679,127,3806,244807.6855123675,199000.0,163366.110291011,9300.0,1700000.0,456.45827670562653,100.0,536.3199617700127,1015.2125984251968,850.0,596.2998291038044,350.0,5000.0,174.60629921259843,90.0,5.814295377677564,4.976376111560806
+Barcelona,885,0,885,212991.75028248588,150000.0,311462.69881821924,28585.0,5000000.0,3335.0632768361584,150.0,63.86438055368553,,,,,,,,,
+Cadiz,787,0,787,103088.2210927573,80500.0,97440.31895350208,15000.0,1590000.0,547.299872935197,95.0,188.35783852806316,,,,,,,,,
+Madrid,0,0,0,,,,,,,,,,,,,,,,,
+Valladolid,0,0,0,,,,,,,,,,,,,,,,,
+Valencia,0,0,0,,,,,,,,,,,,,,,,,
+Soria,0,0,0,,,,,,,,,,,,,,,,,
+Sevilla,0,0,0,,,,,,,,,,,,,,,,,
+Segovia,0,0,0,,,,,,,,,,,,,,,,,
+Santa_Cruz_De_Tenerife,0,0,0,,,,,,,,,,,,,,,,,
+Girona,0,0,0,,,,,,,,,,,,,,,,,
+Huelva,0,0,0,,,,,,,,,,,,,,,,,
+Albacete,0,0,0,,,,,,,,,,,,,,,,,
+Gipuzkoa,0,0,0,,,,,,,,,,,,,,,,,
+Coruna,0,0,0,,,,,,,,,,,,,,,,,
+Ciudad_Real,0,0,0,,,,,,,,,,,,,,,,,
+Balears,0,0,0,,,,,,,,,,,,,,,,,
+Alicante,0,0,0,,,,,,,,,,,,,,,,,
+Zamora,0,0,0,,,,,,,,,,,,,,,,,
