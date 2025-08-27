@@ -153,3 +153,4 @@ secrets.yaml
 tmp/
 temp/
 *.tmp
+test/

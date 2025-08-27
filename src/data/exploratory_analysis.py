@@ -352,3 +352,229 @@ def harmonize_datasets(df_sales: pd.DataFrame,
     print(f"   Rental: {df_rental_export.shape[0]} records, {df_rental_export.shape[1]} columns")
     
     return df_sales_export, df_rental_export 
+
+
+def discover_city_files(data_dir: Union[str, Path]) -> List[str]:
+    """
+    Discover all available city files in the format houses_*.csv.
+    
+    Parameters
+    ----------
+    data_dir : Union[str, Path]
+        Directory containing the data files
+        
+    Returns
+    -------
+    List[str]
+        List of city names found
+    """
+    data_path = Path(data_dir)
+    city_files = list(data_path.glob("houses_*.csv"))
+    cities = []
+    
+    for file in city_files:
+        # Extract city name from filename houses_cityname.csv
+        city_name = file.stem.replace("houses_", "")
+        cities.append(city_name)
+    
+    print(f"🔍 Discovered {len(cities)} cities with housing data:")
+    for i, city in enumerate(sorted(cities), 1):
+        print(f"   {i:2d}. {city.title()}")
+    
+    return sorted(cities)
+
+
+def process_city_data(city: str, data_dir: Union[str, Path], 
+                     output_dir: Union[str, Path]) -> Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame], Dict]:
+    """
+    Process housing data for a specific city.
+    
+    Parameters
+    ----------
+    city : str
+        City name
+    data_dir : Union[str, Path]
+        Directory containing raw data files
+    output_dir : Union[str, Path]
+        Directory for processed output
+        
+    Returns
+    -------
+    Tuple[Optional[pd.DataFrame], Optional[pd.DataFrame], Dict]
+        Tuple of (sales_data, rental_data, house_type_mapping)
+    """
+    print(f"\n📍 Processing {city.title()} housing data...")
+    
+    # Construct file path
+    data_path = Path(data_dir)
+    city_file = data_path / f"houses_{city}.csv"
+    
+    if not city_file.exists():
+        print(f"❌ File not found: {city_file}")
+        return None, None, {}
+    
+    # Load raw data
+    raw_data = load_data(city_file)
+    if raw_data is None:
+        return None, None, {}
+    
+    # Clean data
+    cleaned_data, house_type_mapping = clean_data(raw_data)
+    if cleaned_data is None:
+        return None, None, {}
+    
+    # Split into rental and sales
+    rental_data, sales_data = split_data(cleaned_data, house_type_mapping)
+    
+    # Create output directory for city
+    city_output_dir = Path(output_dir) / city
+    city_output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # Save processed datasets
+    if rental_data is not None and len(rental_data) > 0:
+        save_data(rental_data, city_output_dir / f"{city}_rental_processed.csv")
+    
+    if sales_data is not None and len(sales_data) > 0:
+        save_data(sales_data, city_output_dir / f"{city}_sales_processed.csv")
+    
+    # Save house type mapping
+    if house_type_mapping:
+        mapping_df = create_mapping_dataframe(house_type_mapping, f'{city.title()}_House_Type_Mapping')
+        save_data(mapping_df, city_output_dir / f"{city}_type_mapping.csv")
+    
+    return sales_data, rental_data, house_type_mapping
+
+
+def process_all_cities(data_dir: Union[str, Path], 
+                      output_dir: Union[str, Path]) -> Dict[str, Dict]:
+    """
+    Process housing data for all available cities.
+    
+    Parameters
+    ----------
+    data_dir : Union[str, Path]
+        Directory containing raw data files
+    output_dir : Union[str, Path]
+        Directory for processed output
+        
+    Returns
+    -------
+    Dict[str, Dict]
+        Dictionary with city data: {city: {'sales': df, 'rental': df, 'mapping': dict}}
+    """
+    print("🏙️ PROCESSING ALL AVAILABLE CITIES")
+    print("=" * 50)
+    
+    # Discover all available cities
+    cities = discover_city_files(data_dir)
+    
+    if not cities:
+        print("❌ No city files found!")
+        return {}
+    
+    # Process each city
+    all_city_data = {}
+    successful_cities = []
+    failed_cities = []
+    
+    for city in cities:
+        try:
+            sales_data, rental_data, mapping = process_city_data(city, data_dir, output_dir)
+            
+            all_city_data[city] = {
+                'sales': sales_data,
+                'rental': rental_data,
+                'mapping': mapping,
+                'sales_count': len(sales_data) if sales_data is not None else 0,
+                'rental_count': len(rental_data) if rental_data is not None else 0
+            }
+            
+            successful_cities.append(city)
+            
+        except Exception as e:
+            print(f"❌ Error processing {city}: {str(e)}")
+            failed_cities.append(city)
+    
+    # Summary report
+    print(f"\n📊 PROCESSING SUMMARY")
+    print("=" * 30)
+    print(f"✅ Successfully processed: {len(successful_cities)} cities")
+    print(f"❌ Failed to process: {len(failed_cities)} cities")
+    
+    if successful_cities:
+        print(f"\n🏆 Successful cities:")
+        for city in successful_cities:
+            data = all_city_data[city]
+            print(f"   📍 {city.title()}: {data['sales_count']:,} sales, {data['rental_count']:,} rentals")
+    
+    if failed_cities:
+        print(f"\n💥 Failed cities: {', '.join(failed_cities)}")
+    
+    return all_city_data
+
+
+def create_city_summary_report(all_city_data: Dict[str, Dict], 
+                              output_dir: Union[str, Path]) -> pd.DataFrame:
+    """
+    Create a summary report of all processed cities.
+    
+    Parameters
+    ----------
+    all_city_data : Dict[str, Dict]
+        Dictionary with processed city data
+    output_dir : Union[str, Path]
+        Directory for output files
+        
+    Returns
+    -------
+    pd.DataFrame
+        Summary report DataFrame
+    """
+    print("\n📋 Creating city summary report...")
+    
+    summary_data = []
+    for city, data in all_city_data.items():
+        sales_df = data['sales']
+        rental_df = data['rental']
+        
+        row = {
+            'city': city.title(),
+            'sales_count': data['sales_count'],
+            'rental_count': data['rental_count'],
+            'total_properties': data['sales_count'] + data['rental_count']
+        }
+        
+        # Add price statistics if available
+        if sales_df is not None and 'price' in sales_df.columns and len(sales_df) > 0:
+            row.update({
+                'avg_sales_price': sales_df['price'].mean(),
+                'median_sales_price': sales_df['price'].median(),
+                'min_sales_price': sales_df['price'].min(),
+                'max_sales_price': sales_df['price'].max()
+            })
+        
+        if rental_df is not None and 'price' in rental_df.columns and len(rental_df) > 0:
+            row.update({
+                'avg_rental_price': rental_df['price'].mean(),
+                'median_rental_price': rental_df['price'].median(),
+                'min_rental_price': rental_df['price'].min(),
+                'max_rental_price': rental_df['price'].max()
+            })
+            
+            # Calculate estimated rental yield if both prices available
+            if 'avg_sales_price' in row and row['avg_sales_price'] > 0:
+                annual_rental = row['avg_rental_price'] * 12
+                row['estimated_rental_yield'] = (annual_rental / row['avg_sales_price']) * 100
+        
+        summary_data.append(row)
+    
+    summary_df = pd.DataFrame(summary_data)
+    
+    # Save summary report
+    output_path = Path(output_dir)
+    summary_file = output_path / "all_cities_summary.csv"
+    save_data(summary_df, summary_file)
+    
+    print(f"💾 Summary report saved to: {summary_file}")
+    
+    return summary_df 
