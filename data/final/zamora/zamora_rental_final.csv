@@ -1,0 +1,164 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date,garage
+320,1.0,1.0,15,81670307,60,,Zamora,"Área de Zamora, Zamora",,1
+360,2.0,4.0,15,83217510,110,,Zamora,"Área de Zamora, Zamora",,0
+350,2.0,3.0,16,83235101,130,,San Cristobal de Entreviñas,"Benavente, Zamora",,1
+400,2.0,3.0,17,83628506,135,,Fuentesauco,"Tierra del Vino - La Guareña, Zamora",,1
+450,2.0,3.0,15,83888721,77,,Zamora,"Área de Zamora, Zamora",,0
+280,1.0,3.0,15,81773102,68,,Benavente,Zamora,,0
+420,2.0,3.0,18,29031417,109,90,Zamora,"Área de Zamora, Zamora",,0
+280,1.0,1.0,15,25248195,60,55,Villalpando,"Tierra de Campos, Zamora",,1
+400,1.0,1.0,15,27375396,50,45,Zamora,"Área de Zamora, Zamora",,1
+450,1.0,3.0,15,83774333,80,78,Zamora,"Área de Zamora, Zamora",,0
+620,3.0,3.0,17,29423829,50,,Galende,"Sanabria, Zamora",,1
+350,2.0,2.0,18,34326116,75,68,Galende,"Sanabria, Zamora",,0
+375,1.0,2.0,15,39988389,80,60,Bermillo de Sayago,"Área de Sayago, Zamora",,1
+350,2.0,3.0,17,326309,100,,El Cubo de Tierra del Vino,"Tierra del Vino - La Guareña, Zamora",,0
+600,2.0,3.0,15,39669159,90,,Zamora,"Área de Zamora, Zamora",,1
+550,3.0,5.0,17,84450771,174,,Zamora,"Área de Zamora, Zamora",,1
+300,1.0,3.0,15,84661957,90,,Toro,"Alfoz de Toro, Zamora",,0
+350,2.0,3.0,15,84659891,84,,Benavente,Zamora,,0
+400,1.0,3.0,15,84738159,85,,Zamora,"Área de Zamora, Zamora",,0
+400,1.0,3.0,15,84814121,98,,Benavente,Zamora,,0
+460,1.0,4.0,15,83063744,104,,Zamora,"Área de Zamora, Zamora",,0
+300,2.0,3.0,15,27965720,105,90,Monfarracinos,"Área de Zamora, Zamora",,1
+400,2.0,3.0,15,84945403,100,,Benavente,Zamora,,1
+450,1.0,4.0,15,35988968,101,90,Zamora,"Área de Zamora, Zamora",1975,0
+450,1.0,4.0,15,35988970,101,90,Zamora,"Área de Zamora, Zamora",1975,0
+400,1.0,2.0,18,81797008,72,58,Morales del Vino,"Área de Zamora, Zamora",2008,1
+450,2.0,3.0,15,81814806,104,84,Morales del Vino,"Área de Zamora, Zamora",2008,1
+450,2.0,3.0,15,81814807,83,67,Morales del Vino,"Área de Zamora, Zamora",2008,1
+450,2.0,3.0,15,81814808,81,66,Morales del Vino,"Área de Zamora, Zamora",2008,1
+385,1.0,1.0,15,83176478,51,50,Zamora,"Área de Zamora, Zamora",,0
+450,1.0,3.0,15,83271953,96,80,Zamora,"Área de Zamora, Zamora",,0
+380,2.0,4.0,15,38182187,110,95,Zamora,"Área de Zamora, Zamora",1985,1
+400,1.0,3.0,15,36300807,84,73,Zamora,"Área de Zamora, Zamora",2003,0
+300,2.0,4.0,15,82549773,120,,Benavente,Zamora,,0
+350,1.0,3.0,15,82584274,80,,Zamora,"Área de Zamora, Zamora",,0
+600,3.0,4.0,15,84272724,180,150,Zamora,"Área de Zamora, Zamora",,1
+300,1.0,1.0,15,36836754,60,55,Toro,"Alfoz de Toro, Zamora",,1
+300,2.0,3.0,16,39742935,600,120,Villardeciervos,"Sanabria, Zamora",,0
+250,2.0,3.0,17,83861025,120,99,Barcial del Barco,"Benavente, Zamora",,1
+400,2.0,3.0,17,32532582,200,190,La Hiniesta,"Área de Zamora, Zamora",,1
+310,1.0,3.0,15,311725,115,,Monfarracinos,"Área de Zamora, Zamora",,0
+450,1.0,4.0,15,27229786,104,95,Zamora,"Área de Zamora, Zamora",1975,0
+330,2.0,3.0,15,36458862,115,85,Benavente,Zamora,,0
+490,1.0,3.0,15,27229626,120,100,Zamora,"Área de Zamora, Zamora",1989,0
+550,2.0,2.0,15,32313780,60,,Zamora,"Área de Zamora, Zamora",2008,1
+410,1.0,4.0,15,83221223,128,100,Zamora,"Área de Zamora, Zamora",1978,1
+500,2.0,4.0,15,83567046,95,80,Zamora,"Área de Zamora, Zamora",1977,0
+380,1.0,3.0,15,39771671,80,75,Zamora,"Área de Zamora, Zamora",,0
+450,1.0,3.0,15,84115227,83,,Zamora,"Área de Zamora, Zamora",,0
+420,1.0,4.0,15,84132422,113,100,Zamora,"Área de Zamora, Zamora",1988,0
+950,3.0,6.0,16,84412834,340,,Zamora,"Área de Zamora, Zamora",,0
+585,2.0,4.0,15,84309784,131,111,Zamora,"Área de Zamora, Zamora",,0
+275,1.0,2.0,16,1983337,120,50,Cobreros,"Sanabria, Zamora",,1
+350,1.0,3.0,15,2099874,80,78,Zamora,"Área de Zamora, Zamora",,0
+325,1.0,3.0,17,2102572,150,95,Ferreras de Arriba,"Sanabria, Zamora",,1
+400,2.0,2.0,18,2169848,70,,Benavente,Zamora,,1
+600,2.0,4.0,19,34264879,100,176,Muelas del Pan,"Área de Zamora, Zamora",,0
+400,1.0,4.0,16,1694152,1000,450,Zamora,"Área de Zamora, Zamora",,1
+300,2.0,3.0,16,35512254,95,90,San Justo,"Sanabria, Zamora",,0
+400,1.0,3.0,15,35536130,110,100,Zamora,"Área de Zamora, Zamora",,0
+330,1.0,1.0,15,38162769,65,63,Benavente,Zamora,,1
+600,2.0,3.0,17,34792827,200,140,Asturianos,"Sanabria, Zamora",,0
+450,1.0,3.0,16,81303698,113,88,Zamora,"Área de Zamora, Zamora",,1
+550,3.0,5.0,15,82476765,210,,Zamora,"Área de Zamora, Zamora",,0
+450,2.0,3.0,15,82561307,100,,Zamora,"Área de Zamora, Zamora",,0
+450,2.0,3.0,15,28217297,104,78,Zamora,"Área de Zamora, Zamora",,0
+430,1.0,2.0,18,27855166,117,85,Zamora,"Área de Zamora, Zamora",,1
+650,2.0,4.0,20,27308189,160,140,Zamora,"Área de Zamora, Zamora",,1
+200,1.0,2.0,16,27509725,90,80,Pobladura del Valle,"Benavente, Zamora",,0
+600,2.0,4.0,15,84137087,141,109,Zamora,"Área de Zamora, Zamora",,1
+370,1.0,1.0,15,84210265,36,,Zamora,"Área de Zamora, Zamora",,0
+350,1.0,4.0,19,40061354,100,,Asturianos,"Sanabria, Zamora",,0
+330,1.0,3.0,15,29062363,80,78,Toro,"Alfoz de Toro, Zamora",,0
+450,1.0,2.0,15,84415626,68,54,Zamora,"Área de Zamora, Zamora",,1
+350,1.0,3.0,15,84480066,110,90,Benavente,Zamora,,0
+300,1.0,3.0,15,84533582,81,,Mombuey,"Sanabria, Zamora",,0
+400,2.0,2.0,16,84775030,1500,70,Puebla de Sanabria,"Sanabria, Zamora",,0
+330,1.0,2.0,15,27229316,87,60,Zamora,"Área de Zamora, Zamora",1970,0
+390,1.0,1.0,15,84692758,66,55,Zamora,"Área de Zamora, Zamora",1965,0
+375,1.0,1.0,15,84910629,71,,Monfarracinos,"Área de Zamora, Zamora",,1
+385,1.0,1.0,15,83222955,52,50,Zamora,"Área de Zamora, Zamora",,0
+440,1.0,2.0,15,83222980,61,,Zamora,"Área de Zamora, Zamora",,0
+465,1.0,2.0,15,84506542,74,,Zamora,"Área de Zamora, Zamora",,0
+410,1.0,4.0,15,83333568,115,100,Zamora,"Área de Zamora, Zamora",,1
+425,1.0,3.0,15,83794761,74,69,Zamora,"Área de Zamora, Zamora",,0
+565,2.0,3.0,15,84590450,106,86,Zamora,"Área de Zamora, Zamora",1995,1
+420,1.0,3.0,15,84601577,94,80,Zamora,"Área de Zamora, Zamora",,0
+300,1.0,3.0,15,1857005,90,86,Benavente,Zamora,,0
+350,1.0,3.0,15,84835433,90,72,Benavente,Zamora,,0
+470,1.0,2.0,15,25746104,80,75,Zamora,"Área de Zamora, Zamora",,1
+330,1.0,2.0,18,34886449,82,,Benavente,Zamora,,0
+300,2.0,3.0,15,83681266,100,,Benavente,Zamora,,0
+300,2.0,4.0,19,39331762,2000,,Villabuena del Puente,"Tierra del Vino - La Guareña, Zamora",,1
+440,1.0,2.0,15,83176442,60,,Zamora,"Área de Zamora, Zamora",,0
+465,1.0,2.0,15,83176444,74,,Zamora,"Área de Zamora, Zamora",,0
+400,2.0,2.0,20,36482653,75,61,Zamora,"Área de Zamora, Zamora",2007,1
+350,1.0,2.0,15,84044557,81,70,Zamora,"Área de Zamora, Zamora",1961,0
+500,2.0,3.0,15,84569819,100,85,Zamora,"Área de Zamora, Zamora",,1
+420,1.0,1.0,15,83707382,55,,Zamora,"Área de Zamora, Zamora",,0
+450,3.0,2.0,16,83600380,142,,Villardeciervos,"Sanabria, Zamora",,0
+350,2.0,3.0,15,84496073,85,,Benavente,Zamora,2008,1
+525,2.0,3.0,16,39049494,700,,Roales,"Área de Zamora, Zamora",,1
+450,1.0,4.0,15,1694147,110,100,Zamora,"Área de Zamora, Zamora",,0
+1200,1.0,5.0,15,27229260,194,157,Zamora,"Área de Zamora, Zamora",2009,0
+500,2.0,4.0,16,27229578,150,127,Roales,"Área de Zamora, Zamora",2009,0
+300,1.0,4.0,16,27880271,1200,160,Bermillo de Sayago,"Área de Sayago, Zamora",,1
+500,1.0,2.0,15,31086655,70,,Zamora,"Área de Zamora, Zamora",,0
+450,1.0,2.0,15,30858350,65,55,Puebla de Sanabria,"Sanabria, Zamora",,0
+400,1.0,2.0,15,29498985,62,55,Zamora,"Área de Zamora, Zamora",,0
+600,2.0,4.0,17,83407698,30,140,Zamora,"Área de Zamora, Zamora",,0
+400,1.0,3.0,19,33095252,70,68,Cobreros,"Sanabria, Zamora",,0
+480,1.0,3.0,15,84762277,120,105,Zamora,"Área de Zamora, Zamora",,0
+380,2.0,3.0,15,33467780,137,98,Morales del Vino,"Área de Zamora, Zamora",2001,1
+2000,2.0,5.0,16,29023380,130,120,Puebla de Sanabria,"Sanabria, Zamora",,0
+450,1.0,3.0,15,31086761,127,94,Zamora,"Área de Zamora, Zamora",,0
+500,2.0,3.0,15,26531447,99,82,Zamora,"Área de Zamora, Zamora",,1
+300,1.0,4.0,21,38050253,250,140,Benegiles,"Área de Zamora, Zamora",,0
+450,1.0,2.0,15,84332107,60,,Zamora,"Área de Zamora, Zamora",,1
+460,2.0,3.0,15,84814336,91,,Zamora,"Área de Zamora, Zamora",,0
+360,1.0,2.0,15,84414378,55,43,Zamora,"Área de Zamora, Zamora",,0
+330,2.0,3.0,15,84611388,80,,Benavente,Zamora,,0
+500,2.0,4.0,15,84541578,120,109,Zamora,"Área de Zamora, Zamora",1977,0
+500,2.0,3.0,15,84628794,90,,Zamora,"Área de Zamora, Zamora",,1
+350,1.0,3.0,15,83173122,90,,Benavente,Zamora,,0
+650,1.0,4.0,15,34088171,140,120,Zamora,"Área de Zamora, Zamora",,0
+575,2.0,3.0,15,81955067,85,80,Zamora,"Área de Zamora, Zamora",,0
+350,2.0,3.0,15,84987619,90,,Toro,"Alfoz de Toro, Zamora",,0
+600,3.0,4.0,15,83858745,180,172,Zamora,"Área de Zamora, Zamora",,1
+340,1.0,1.0,15,1929217,55,50,Benavente,Zamora,,0
+550,2.0,4.0,15,82259074,120,105,Zamora,"Área de Zamora, Zamora",,1
+710,2.0,5.0,15,84569849,210,186,Zamora,"Área de Zamora, Zamora",,0
+460,2.0,3.0,15,84770143,100,90,Zamora,"Área de Zamora, Zamora",,0
+400,2.0,3.0,22,39024841,207,68,Trefacio,"Sanabria, Zamora",2008,0
+350,1.0,3.0,15,84485578,92,82,Moraleja del Vino,"Tierra del Vino - La Guareña, Zamora",,0
+360,2.0,3.0,15,33522675,90,,Benavente,Zamora,,1
+330,1.0,1.0,15,84484502,74,,Benavente,Zamora,,0
+280,1.0,3.0,15,39498462,85,78,Benavente,Zamora,,0
+350,1.0,2.0,15,84648899,70,65,Benavente,Zamora,,1
+375,1.0,1.0,15,82167795,40,39,Zamora,"Área de Zamora, Zamora",,0
+565,2.0,3.0,15,30255108,100,95,Zamora,"Área de Zamora, Zamora",,1
+450,2.0,3.0,18,34448084,180,150,Benavente,Zamora,,1
+520,2.0,3.0,15,33462941,110,90,Zamora,"Área de Zamora, Zamora",,1
+460,1.0,1.0,20,82241558,90,70,Zamora,"Área de Zamora, Zamora",,0
+350,1.0,2.0,18,84908446,75,,Benavente,Zamora,,1
+450,1.0,2.0,15,84979780,50,,Zamora,"Área de Zamora, Zamora",,0
+250,1.0,2.0,19,37904764,40,,Robleda-Cervantes,"Sanabria, Zamora",,0
+1000,1.0,1.0,16,37059543,50,80,San Justo,"Sanabria, Zamora",,0
+220,1.0,3.0,15,36846748,70,65,San Pedro de Ceque,"Benavente, Zamora",,0
+360,1.0,2.0,15,84619245,75,63,Zamora,"Área de Zamora, Zamora",1966,0
+450,2.0,3.0,22,84987805,300,75,Trefacio,"Sanabria, Zamora",,1
+550,2.0,3.0,18,84547350,105,78,Zamora,"Área de Zamora, Zamora",1991,1
+500,2.0,3.0,17,84966876,20,130,Monfarracinos,"Área de Zamora, Zamora",,1
+525,2.0,4.0,17,82077947,202,175,Moraleja del Vino,"Tierra del Vino - La Guareña, Zamora",,0
+440,2.0,2.0,15,82649107,80,75,Zamora,"Área de Zamora, Zamora",,1
+600,3.0,4.0,20,84763710,180,160,Zamora,"Área de Zamora, Zamora",2005,1
+420,1.0,1.0,15,84948489,66,60,Zamora,"Área de Zamora, Zamora",,0
+310,1.0,2.0,18,83229122,76,64,Benavente,Zamora,1994,0
+595,3.0,5.0,17,28737701,150,215,Roales,"Área de Zamora, Zamora",,1
+550,2.0,3.0,18,84870242,80,75,Zamora,"Área de Zamora, Zamora",,1
+570,2.0,4.0,15,84977191,130,113,Zamora,"Área de Zamora, Zamora",1970,0
+320,1.0,3.0,15,29672915,80,60,Zamora,"Área de Zamora, Zamora",1965,0
+390,1.0,1.0,15,84998048,45,40,Zamora,"Área de Zamora, Zamora",,1
+360,1.0,2.0,15,30803696,75,73,Benavente,Zamora,,1

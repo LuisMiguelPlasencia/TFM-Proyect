@@ -1,0 +1,5 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date,garage
+400,3.0,3.0,15,40408689,100,,Aguadulce,"Área de Estepa, Sevilla",,1
+380,1.0,1.0,16,2169353,70,,Estepa,"Área de Estepa, Sevilla",,1
+350,1.0,3.0,17,82935364,200,,La Roda de Andalucia,"Área de Estepa, Sevilla",,0
+1000,1.0,2.0,18,81996828,100,,Los Corrales,"Área de Estepa, Sevilla",,1

@@ -281,8 +281,10 @@ def safe_compare_markets(df_sales: pd.DataFrame,
         # Price per sqm distribution
         df_sales_viz = df_sales.copy()
         df_rental_viz = df_rental.copy()
-        df_sales_viz['price_per_sqm'] = df_sales[price_col] / df_sales[surface_col]
-        df_rental_viz['price_per_sqm'] = df_rental[price_col] / df_rental[surface_col]
+        df_sales_viz['price_per_sqm'] = pd.to_numeric(df_sales[price_col], errors='coerce') / pd.to_numeric(df_sales[surface_col], errors='coerce')
+        df_rental_viz['price_per_sqm'] = pd.to_numeric(df_rental[price_col], errors='coerce') / pd.to_numeric(df_rental[surface_col], errors='coerce')
+        #df_sales_viz['price_per_sqm'] = df_sales[price_col] / df_sales[surface_col]
+        #df_rental_viz['price_per_sqm'] = df_rental[price_col] / df_rental[surface_col]
         
         create_distribution_comparison(
             df_sales_viz, df_rental_viz, 'price_per_sqm',

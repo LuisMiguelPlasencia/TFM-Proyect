@@ -1,0 +1,1223 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+900000,2.0,3.0,0,84610105,5266,173,Tijarafe,"La Palma, Santa Cruz de Tenerife",1981
+79000,1.0,1.0,1,38935496,60,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+180000,2.0,3.0,0,82686512,259,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,3.0,2,81855630,2000,120,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,36330457,82,73,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+70000,1.0,2.0,0,29988909,170,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,2.0,1,33513302,60,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,2.0,1,37959684,60,59,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+96000,1.0,2.0,1,322435,50,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+150000,2.0,4.0,1,81399131,111,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+135000,2.0,3.0,1,35107720,87,78,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+40000,0.0,7.0,3,37610559,1368,94,Garafia,"La Palma, Santa Cruz de Tenerife",
+180000,2.0,3.0,4,37864965,187,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+138000,1.0,3.0,5,38506871,104,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,3.0,1,81699812,120,107,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+115000,1.0,3.0,2,82118909,300,90,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+140000,1.0,3.0,0,450940,438,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+350000,1.0,2.0,0,81534225,100,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+200000,2.0,4.0,1,36261493,209,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+180000,2.0,3.0,1,37791396,111,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+263000,2.0,4.0,0,38484848,8000,150,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+71000,2.0,5.0,0,81298653,2800,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+330000,5.0,6.0,0,26011071,400,80,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+150000,3.0,8.0,1,31302287,160,157,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,4.0,0,82585247,1800,250,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,3.0,0,82687204,2200,250,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+110000,2.0,4.0,0,83737734,110,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",2000
+150000,1.0,3.0,0,84304593,123,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+150000,1.0,2.0,2,83569865,1270,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+96000,2.0,3.0,1,84484135,90,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,3.0,1,84619016,90,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+75000,1.0,2.0,0,84680894,70,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+95000,1.0,3.0,0,84681426,90,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,2.0,1,84833700,85,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+78000,1.0,1.0,1,83337025,70,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,6.0,2,84941108,300,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+105000,2.0,3.0,1,40402981,73,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+40900,1.0,2.0,1,84422626,70,,Garafia,"La Palma, Santa Cruz de Tenerife",
+34400,2.0,0.0,6,31879259,86,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+40900,1.0,2.0,7,38525931,70,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,323793,100,88,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",2005
+130000,1.0,2.0,2,37121943,70,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,3.0,2,31352657,79,77,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",1988
+130000,2.0,3.0,1,36330436,82,73,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+200000,1.0,2.0,3,83378958,3000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+290000,1.0,5.0,2,37858130,1781,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+93000,1.0,2.0,1,39102086,90,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+69300,1.0,1.0,1,34708396,56,45,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+390000,2.0,6.0,0,40176705,1236,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,0.0,6,83556698,200,80,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+250000,1.0,2.0,1,83556709,200,80,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+60700,1.0,1.0,1,34708397,49,39,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+70600,1.0,1.0,1,34708398,56,45,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+70600,1.0,1.0,1,34708399,56,45,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+69300,1.0,1.0,1,34708401,55,45,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+90000,1.0,2.0,1,333790,50,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,1.0,1,83078748,45,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2010
+110000,2.0,3.0,1,26342732,105,90,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+114000,2.0,4.0,8,82554564,120,110,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,3.0,1,83046883,90,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,3.0,1,36610824,90,86,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+200000,1.0,2.0,3,84293544,3000,40,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+450000,3.0,5.0,0,84417033,1227,250,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,3.0,1,82860170,88,75,Barlovento,"La Palma, Santa Cruz de Tenerife",
+78000,1.0,3.0,1,84390667,70,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+450000,4.0,4.0,0,26104474,300,240,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+150000,2.0,3.0,1,1731179,96,86,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+700000,7.0,8.0,2,26059025,2000,400,Puntallana,"La Palma, Santa Cruz de Tenerife",
+195000,2.0,3.0,0,30408079,270,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,1.0,8,30821290,50,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+70000,1.0,3.0,1,32744151,85,70,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+300000,2.0,4.0,4,33788840,1400,180,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+708000,18.0,18.0,3,36118551,1547,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+750000,5.0,14.0,9,36216425,1364,,Garafia,"La Palma, Santa Cruz de Tenerife",
+170000,1.0,2.0,4,37531507,4590,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+206000,2.0,3.0,1,30322824,120,,El Paso,"La Palma, Santa Cruz de Tenerife",
+180000,1.0,3.0,1,38608328,98,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+60000,5.0,5.0,0,81350453,180,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+239000,3.0,4.0,2,82122430,175,150,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+150000,2.0,4.0,1,82169137,180,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+210000,2.0,3.0,0,83206971,200,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,2.0,10,38251255,2600,45,Puntallana,"La Palma, Santa Cruz de Tenerife",
+379000,1.0,3.0,0,84499249,2190,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+84500,2.0,4.0,7,37528436,120,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",1930
+130000,2.0,3.0,7,38631473,108,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+370000,2.0,4.0,2,38726492,300,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+82000,1.0,3.0,11,84409609,81,72,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+30000,1.0,3.0,1,84721056,96,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+139000,2.0,3.0,10,38442537,907,,El Paso,"La Palma, Santa Cruz de Tenerife",
+169000,1.0,2.0,12,38442668,2000,,El Paso,"La Palma, Santa Cruz de Tenerife",
+189000,1.0,3.0,12,38472389,250,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+299000,2.0,3.0,11,40485779,220,200,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+75000,0.0,4.0,11,40499397,500,100,El Paso,"La Palma, Santa Cruz de Tenerife",
+310000,4.0,7.0,11,40511733,1680,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+249000,1.0,2.0,11,40512602,1100,90,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+40900,1.0,2.0,7,34833891,70,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+40900,1.0,2.0,0,39834651,70,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,39037037,73,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+69000,1.0,1.0,1,84422648,154,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+260000,3.0,4.0,0,84452510,726,30,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+400000,1.0,3.0,7,84452512,3977,50,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+420000,2.0,3.0,0,84452515,1614,125,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+219000,1.0,2.0,7,84452999,2385,,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+420000,2.0,4.0,7,84452993,1214,193,El Paso,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,2.0,2,82870298,1260,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+215000,1.0,7.0,10,82906859,771,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+130000,1.0,4.0,1,82966506,116,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,3.0,1,83128948,90,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+130000,2.0,4.0,1,84250013,110,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+169000,1.0,2.0,5,84405214,153,63,Barlovento,"La Palma, Santa Cruz de Tenerife",
+240000,2.0,3.0,8,25533666,254,150,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,38994189,73,,Tazacorte,"La Palma, Santa Cruz de Tenerife",2005
+157500,2.0,3.0,1,82585481,149,,El Paso,"La Palma, Santa Cruz de Tenerife",
+65000,1.0,1.0,1,84704933,85,68,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+146600,1.0,3.0,1,35500596,152,77,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+146600,1.0,2.0,1,35500597,152,61,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+84500,2.0,4.0,0,36730261,120,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+140000,2.0,3.0,7,84340169,197,166,Puntallana,"La Palma, Santa Cruz de Tenerife",
+63000,1.0,1.0,1,84405208,38,34,Barlovento,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,1.0,1,84405210,48,44,Barlovento,"La Palma, Santa Cruz de Tenerife",
+63000,1.0,1.0,1,84405211,37,33,Barlovento,"La Palma, Santa Cruz de Tenerife",
+300000,2.0,5.0,0,26488143,173,300,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+215000,6.0,14.0,0,38980556,320,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+60500,1.0,1.0,7,31699138,61,45,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+74600,1.0,0.0,6,34194314,91,40,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+70000,1.0,3.0,10,28549520,325,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+153000,3.0,5.0,4,30752860,200,300,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+169000,2.0,5.0,0,36622409,590,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+240000,1.0,4.0,3,31379805,400,168,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",1900
+265000,3.0,5.0,1,32028135,160,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+200000,3.0,4.0,12,81291424,128,93,Breña Alta,"La Palma, Santa Cruz de Tenerife",2000
+122000,2.0,3.0,1,1620378,99,83,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+460000,3.0,4.0,0,83200122,3750,,El Paso,"La Palma, Santa Cruz de Tenerife",1990
+240000,2.0,3.0,11,83644604,218,191,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+125500,1.0,3.0,1,38177848,97,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+122100,2.0,3.0,1,81409958,98,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+106100,2.0,3.0,1,81409965,88,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+106100,2.0,3.0,1,81409967,88,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+73800,2.0,3.0,1,81409968,45,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,3.0,1,84217747,110,92,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+99000,1.0,3.0,1,84670586,86,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+367500,1.0,4.0,0,84673590,249,,El Paso,"La Palma, Santa Cruz de Tenerife",
+40000,1.0,1.0,1,84902631,33,29,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,1.0,1,84902632,54,45,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,3.0,1,84902633,82,62,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+225000,2.0,3.0,5,84682726,122,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+480000,2.0,5.0,10,27186966,10000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+237000,1.0,4.0,2,28859320,2000,,El Paso,"La Palma, Santa Cruz de Tenerife",
+110000,2.0,3.0,0,28980910,700,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,3.0,0,30853406,500,100,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,3.0,2,31413733,77,75,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",1980
+70000,1.0,2.0,4,33055349,174,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+250000,3.0,3.0,2,30865279,180,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+85000,4.0,6.0,10,36413918,173,,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+90000,1.0,2.0,2,36779554,1251,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+89000,2.0,3.0,0,39623439,207,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+394000,4.0,5.0,0,39631988,577,290,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+175000,2.0,2.0,11,40486078,115,50,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+189000,1.0,3.0,0,40511442,250,200,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+415000,1.0,3.0,11,40511934,20223,,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+65000,1.0,1.0,1,40447489,40,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+260000,2.0,4.0,10,84318144,270,230,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,3.0,1,84462294,95,94,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+298000,2.0,2.0,0,83774473,1913,70,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,1.0,4,84374754,65,60,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+540000,2.0,3.0,0,34468953,1000,,El Paso,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,4.0,0,38264692,107,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+69000,1.0,1.0,7,34836262,154,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+145000,1.0,1.0,0,39877612,1200,50,Garafia,"La Palma, Santa Cruz de Tenerife",
+69000,1.0,1.0,0,39903868,154,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+155000,2.0,3.0,10,40471107,520,105,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,3.0,1,81221895,406,357,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+82000,1.0,1.0,1,82847165,55,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+285000,2.0,6.0,5,84324017,262,120,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+165000,2.0,4.0,1,84394120,93,78,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+150000,1.0,2.0,2,83705964,51,,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+367500,3.0,4.0,7,84605075,195,195,El Paso,"La Palma, Santa Cruz de Tenerife",2002
+84300,2.0,3.0,1,37841663,86,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+108200,3.0,3.0,7,82124753,129,100,Garafia,"La Palma, Santa Cruz de Tenerife",
+165000,3.0,3.0,11,82837379,120,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+190000,1.0,3.0,2,82950484,120,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+840000,3.0,5.0,7,39200708,2000,260,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+550000,2.0,5.0,7,39200710,306,300,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+90500,1.0,1.0,1,38935470,78,58,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+78500,1.0,2.0,1,31837116,72,56,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+110000,2.0,2.0,1,83487516,91,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+329000,1.0,3.0,0,83774417,1000,110,El Paso,"La Palma, Santa Cruz de Tenerife",
+495000,2.0,2.0,7,84452501,3200,15,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+265000,3.0,5.0,7,84452991,1850,300,Puntallana,"La Palma, Santa Cruz de Tenerife",
+69000,1.0,2.0,7,36326998,2175,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+100000,1.0,2.0,1,82869206,65,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+85000,2.0,3.0,1,82870751,110,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+169000,1.0,2.0,5,85026030,153,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+167000,1.0,2.0,5,85026031,155,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+108000,1.0,2.0,1,85026034,67,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+89000,2.0,1.0,1,85043195,69,,El Paso,"La Palma, Santa Cruz de Tenerife",
+100000,1.0,0.0,6,32238192,65,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+85000,2.0,4.0,2,31413646,795,85,Barlovento,"La Palma, Santa Cruz de Tenerife",1955
+90000,1.0,4.0,0,39676305,2600,,Puntallana,"La Palma, Santa Cruz de Tenerife",1910
+98000,2.0,2.0,1,83239454,112,94,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+150000,1.0,4.0,7,83384512,182,135,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+155000,1.0,3.0,7,83520116,1100,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+127313,2.0,3.0,5,84298733,88,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+121800,2.0,3.0,5,84298734,88,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+399000,2.0,4.0,7,84395711,301,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+160000,1.0,2.0,5,85026039,140,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,2.0,0,84445206,209,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+257500,3.0,3.0,12,28847134,156,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+420000,4.0,6.0,0,31345279,520,290,Breña Alta,"La Palma, Santa Cruz de Tenerife",2000
+850000,4.0,7.0,0,33983972,4500,340,Puntallana,"La Palma, Santa Cruz de Tenerife",1989
+155000,2.0,3.0,1,34362576,126,109,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+430000,3.0,8.0,10,34720732,627,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+145000,2.0,4.0,1,35358699,136,105,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+217000,2.0,3.0,1,35467257,135,131,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+280000,3.0,5.0,0,37840291,1300,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+380000,2.0,3.0,3,39103200,120,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+649000,5.0,9.0,10,39716678,5000,,El Paso,"La Palma, Santa Cruz de Tenerife",
+235000,1.0,2.0,0,39907500,4000,100,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",2001
+216000,3.0,3.0,11,81473250,128,,Breña Alta,"La Palma, Santa Cruz de Tenerife",2002
+124000,1.0,2.0,11,81147558,96,90,El Paso,"La Palma, Santa Cruz de Tenerife",
+91000,1.0,1.0,1,81796575,82,70,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+240000,2.0,3.0,0,82438878,868,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+500000,3.0,4.0,10,82667683,3000,235,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+145000,2.0,4.0,1,83471540,112,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,1.0,5,39951973,56,,Breña Baja,"La Palma, Santa Cruz de Tenerife",1990
+120000,0.0,2.0,3,82081486,1400,,Puntagorda,"La Palma, Santa Cruz de Tenerife",1920
+133000,2.0,2.0,1,84420081,95,80,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+80300,1.0,2.0,1,38171547,76,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,3.0,1,83612246,82,72,Tazacorte,"La Palma, Santa Cruz de Tenerife",1981
+499000,6.0,6.0,0,84361695,750,290,El Paso,"La Palma, Santa Cruz de Tenerife",
+163000,2.0,3.0,10,84362987,1056,75,El Paso,"La Palma, Santa Cruz de Tenerife",
+250000,1.0,2.0,5,84397455,90,75,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+182400,1.0,3.0,11,84490560,70,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+300000,3.0,4.0,0,83925444,665,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1994
+300000,3.0,4.0,0,84362409,1131,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+258000,1.0,2.0,11,84442388,700,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+250000,1.0,3.0,1,84898099,121,110,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+80000,2.0,2.0,1,40140966,90,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+500000,3.0,4.0,1,40559084,230,170,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+350000,1.0,2.0,2,83876375,1812,,Puntagorda,"La Palma, Santa Cruz de Tenerife",2002
+197000,2.0,4.0,1,83837787,115,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+275000,2.0,4.0,11,39056309,490,275,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+285000,2.0,2.0,0,84461345,10000,100,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+215000,1.0,2.0,10,84421142,450,114,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+145000,1.0,2.0,2,40455114,1181,92,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+110300,2.0,2.0,11,83212492,137,118,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+96400,2.0,2.0,11,83212493,120,105,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+350000,2.0,4.0,0,423810,500,198,Breña Alta,"La Palma, Santa Cruz de Tenerife",2008
+260000,2.0,4.0,12,35839981,151,161,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+140000,2.0,3.0,1,39676146,113,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1960
+182900,2.0,2.0,1,39000037,89,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,5.0,1,82839187,245,220,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1965
+125000,2.0,5.0,1,38815173,170,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",2002
+190000,3.0,3.0,0,83774461,570,107,Puntallana,"La Palma, Santa Cruz de Tenerife",
+132300,1.0,2.0,1,84371081,101,86,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+127050,2.0,3.0,1,84371074,101,85,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+132300,2.0,3.0,1,84371076,103,88,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+121800,2.0,3.0,1,84266242,89,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+240000,3.0,5.0,11,39674651,113,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1960
+90000,1.0,2.0,0,83190629,154,,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+175000,1.0,2.0,0,83261379,3000,120,Puntagorda,"La Palma, Santa Cruz de Tenerife",1950
+140000,1.0,3.0,1,83414235,92,87,Tazacorte,"La Palma, Santa Cruz de Tenerife",2009
+219000,1.0,2.0,0,83457188,2385,75,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+99000,1.0,3.0,1,84919262,86,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+95000,1.0,3.0,1,84919263,76,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+414900,2.0,3.0,7,84168659,3850,145,El Paso,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,1.0,2,82352811,55,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1949
+132000,1.0,3.0,0,2078240,99,100,Barlovento,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,3.0,1,84477224,120,90,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,84100158,91,82,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2012
+106050,2.0,3.0,1,84824734,88,77,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+111300,2.0,3.0,1,84824750,88,75,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+850000,2.0,4.0,10,84495538,1500,180,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+135000,1.0,4.0,0,83414742,132,,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+98000,1.0,1.0,1,81826486,62,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+985000,3.0,4.0,0,35817059,7000,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,3.0,11,83880504,73,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1988
+90000,1.0,2.0,1,84908847,70,60,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2007
+390000,3.0,4.0,0,39762935,595,181,Breña Alta,"La Palma, Santa Cruz de Tenerife",2007
+68000,1.0,1.0,1,31019140,57,54,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+90000,1.0,3.0,11,40045431,192,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1940
+110000,1.0,2.0,1,81725051,102,67,Breña Baja,"La Palma, Santa Cruz de Tenerife",2006
+107000,2.0,3.0,1,83587442,89,71,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2007
+65000,1.0,1.0,1,83870447,85,73,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2016
+136000,2.0,3.0,1,84715007,109,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1980
+96400,2.0,2.0,11,84942611,121,,Breña Baja,"La Palma, Santa Cruz de Tenerife",2008
+98750,1.0,3.0,1,37736071,79,70,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",1992
+65000,2.0,4.0,1,38215948,121,112,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",1987
+34400,1.0,1.0,1,37532854,87,78,Tazacorte,"La Palma, Santa Cruz de Tenerife",1991
+155000,2.0,3.0,1,40459606,104,93,Tazacorte,"La Palma, Santa Cruz de Tenerife",2006
+110000,2.0,3.0,1,84362230,98,85,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2000
+159000,2.0,3.0,5,83296749,83,74,Breña Alta,"La Palma, Santa Cruz de Tenerife",2008
+65000,1.0,1.0,1,83197157,52,47,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1996
+199000,2.0,3.0,10,84496458,1040,160,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+200000,2.0,3.0,1,85023274,120,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+78500,1.0,2.0,1,82674261,72,56,Tazacorte,"La Palma, Santa Cruz de Tenerife",2005
+133000,2.0,3.0,1,84074317,82,75,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2000
+260000,2.0,3.0,10,84496935,175,160,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+380000,3.0,3.0,0,84898758,2144,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1980
+178000,2.0,5.0,3,40330942,4152,127,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+99000,1.0,2.0,1,84948535,94,76,Breña Alta,"La Palma, Santa Cruz de Tenerife",2008
+94500,1.0,2.0,1,84972635,85,69,Breña Alta,"La Palma, Santa Cruz de Tenerife",2008
+79500,1.0,1.0,1,84973093,72,59,Breña Alta,"La Palma, Santa Cruz de Tenerife",2008
+160000,2.0,3.0,1,84996407,125,103,Breña Baja,"La Palma, Santa Cruz de Tenerife",2006
+150000,2.0,4.0,0,85059064,223,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+67800,1.0,3.0,1,85050506,81,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",1956
+85000,1.0,2.0,1,37418454,90,80,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,4.0,1,83015586,110,100,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+94500,1.0,3.0,1,84267437,75,70,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+135000,2.0,3.0,1,37515549,98,94,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+130000,2.0,3.0,1,39762247,93,90,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+499200,2.0,3.0,0,81200557,3000,200,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+160000,1.0,1.0,0,82822898,5000,70,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+125000,1.0,2.0,1,82834998,70,68,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+335000,3.0,5.0,0,82835199,275,270,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+1850000,8.0,8.0,10,84569569,4000,450,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+106000,2.0,3.0,1,84435087,97,,Breña Alta,"La Palma, Santa Cruz de Tenerife",1997
+217000,2.0,3.0,1,82163874,140,135,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,83011941,80,75,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+105000,2.0,4.0,1,83012103,135,130,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+237000,2.0,4.0,0,83015800,195,190,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+120000,2.0,3.0,1,83953805,110,100,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+184000,2.0,4.0,1,84157660,125,120,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+115000,2.0,2.0,11,84463471,135,130,Puntallana,"La Palma, Santa Cruz de Tenerife",
+380000,3.0,4.0,11,34266987,312,267,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+550000,2.0,4.0,0,38654163,306,300,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+240000,1.0,4.0,0,83953954,868,130,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+460000,3.0,3.0,1,84268552,100,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+168000,2.0,3.0,1,82750040,80,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,3.0,1,82750357,164,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+175000,2.0,3.0,5,82750349,200,,El Paso,"La Palma, Santa Cruz de Tenerife",
+210000,2.0,4.0,0,82750316,750,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+300000,3.0,4.0,0,82750311,600,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+128000,2.0,3.0,1,82750293,88,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+170000,1.0,2.0,1,82750278,65,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+240000,1.0,4.0,0,82750267,850,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+240000,3.0,4.0,0,82750270,4430,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+239000,2.0,5.0,0,82750255,248,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+240000,2.0,4.0,0,82750258,1172,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+210000,3.0,9.0,0,82750240,365,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+390000,2.0,2.0,7,82750180,14000,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+245000,1.0,2.0,3,82750178,15000,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+300000,2.0,4.0,7,82750175,389,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+115500,3.0,3.0,7,82750113,395,,Barlovento,"La Palma, Santa Cruz de Tenerife",
+200000,4.0,5.0,7,82750094,100,222,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+130000,1.0,3.0,1,82750090,92,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,5.0,7,82749953,16446,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+395000,2.0,4.0,0,82750120,3890,,El Paso,"La Palma, Santa Cruz de Tenerife",
+180000,2.0,2.0,0,38606422,845,114,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",1955
+65000,1.0,3.0,1,82750353,89,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+135000,1.0,2.0,7,82750352,1100,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+378000,2.0,4.0,0,83014129,2000,160,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+294000,2.0,3.0,0,83015182,900,140,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+192000,1.0,2.0,0,83560783,110,100,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+350000,2.0,4.0,0,83782067,500,198,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+480000,2.0,3.0,0,83953505,5297,140,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+395000,3.0,4.0,0,84461590,1782,291,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+220000,2.0,4.0,0,84461932,140,130,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+260000,2.0,4.0,0,84588300,275,270,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+159999,2.0,3.0,0,83034781,2038,131,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+157999,1.0,1.0,0,84253497,2428,,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+819999,4.0,4.0,0,84272204,9258,231,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+125999,2.0,2.0,5,84612518,89,80,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+159999,2.0,4.0,1,84613062,161,152,Barlovento,"La Palma, Santa Cruz de Tenerife",
+198000,2.0,3.0,0,82045961,11122,,Breña Alta,"La Palma, Santa Cruz de Tenerife",1975
+551401,2.0,4.0,7,37641022,500,,Breña Baja,"La Palma, Santa Cruz de Tenerife",2014
+495000,2.0,4.0,7,83657625,500,150,Breña Baja,"La Palma, Santa Cruz de Tenerife",2014
+537000,2.0,4.0,11,83657977,500,150,Breña Baja,"La Palma, Santa Cruz de Tenerife",2014
+85000,2.0,3.0,7,82700551,120,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1996
+200000,3.0,7.0,0,84888329,370,357,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+105000,2.0,4.0,1,84158224,135,130,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+168000,1.0,1.0,1,84828741,62,54,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+208000,5.0,4.0,1,81809891,171,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1940
+212000,2.0,4.0,1,82311273,171,165,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1940
+370000,2.0,3.0,7,82750253,250,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+504000,2.0,3.0,7,82750174,3200,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+98000,2.0,2.0,1,82750085,100,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+170000,2.0,3.0,5,82750067,151,97,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+240000,2.0,3.0,1,82750039,102,96,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",2003
+1000000,2.0,7.0,7,82749862,300,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+299000,2.0,4.0,7,82750004,162,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+750000,3.0,6.0,0,83705862,26265,,Garafia,"La Palma, Santa Cruz de Tenerife",
+350000,2.0,3.0,5,26112734,120,108,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+135000,1.0,1.0,1,84325634,65,50,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+215000,1.0,4.0,0,84960298,456,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+170000,1.0,7.0,0,82750156,552,,El Paso,"La Palma, Santa Cruz de Tenerife",
+380000,3.0,5.0,0,82750335,742,,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+475000,2.0,4.0,0,82750345,2000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+230000,2.0,3.0,5,82750328,180,130,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+365000,2.0,3.0,0,82750321,622,153,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+480000,3.0,5.0,0,82750298,6421,,El Paso,"La Palma, Santa Cruz de Tenerife",
+180000,2.0,4.0,0,82750289,122,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+165000,1.0,2.0,0,82750241,11000,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+40000,1.0,1.0,1,82750224,60,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+219000,2.0,2.0,2,82750226,2385,,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+750000,5.0,7.0,0,82750207,3000,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+250000,1.0,2.0,0,82750220,400000,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+500000,4.0,5.0,0,82750171,4794,,El Paso,"La Palma, Santa Cruz de Tenerife",
+395000,2.0,4.0,0,82750149,1000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+186000,1.0,3.0,0,82750117,247,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+119000,1.0,3.0,1,82750080,92,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+300000,4.0,6.0,0,82750052,1067,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+175000,1.0,3.0,0,82750013,530,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+290000,2.0,5.0,1,84299066,190,186,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+87000,1.0,1.0,1,84735999,55,47,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+389999,3.0,5.0,0,38654839,4957,341,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+174999,3.0,3.0,12,35166551,156,369,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+86999,1.0,3.0,1,38500486,92,77,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+124999,2.0,3.0,1,38660383,96,83,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+134999,1.0,4.0,0,40154435,1500,170,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+159999,1.0,4.0,0,40166322,750,165,El Paso,"La Palma, Santa Cruz de Tenerife",
+849999,4.0,5.0,0,40179466,2193,261,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+389999,2.0,6.0,0,40289104,1236,230,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+99999,2.0,4.0,0,40521804,1022,107,Garafia,"La Palma, Santa Cruz de Tenerife",
+119999,1.0,3.0,12,39072033,435,87,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+64999,1.0,3.0,1,81628347,84,75,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+479999,2.0,4.0,0,82034935,5450,200,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+134999,1.0,2.0,0,82109363,779,55,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+429999,3.0,4.0,0,82109565,2900,245,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+69999,1.0,4.0,12,82259971,229,119,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+479999,3.0,5.0,0,82387581,6422,208,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+238999,3.0,4.0,0,82602989,3634,285,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+113999,2.0,4.0,12,82604820,120,110,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+119999,2.0,3.0,12,82658435,101,92,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+239999,2.0,3.0,0,82700248,868,144,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+84999,1.0,3.0,10,82952557,671,115,Barlovento,"La Palma, Santa Cruz de Tenerife",
+54999,1.0,2.0,0,83035038,825,68,Barlovento,"La Palma, Santa Cruz de Tenerife",
+174999,2.0,3.0,0,83275696,3300,179,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+234999,2.0,2.0,0,83486563,3707,90,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+119999,2.0,4.0,12,83487172,192,182,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+84999,1.0,3.0,1,83500610,84,75,Barlovento,"La Palma, Santa Cruz de Tenerife",
+129999,1.0,3.0,2,83500823,611,161,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+157000,2.0,3.0,11,83705878,107,93,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+399000,3.0,3.0,7,83893546,5536,695,Breña Alta,"La Palma, Santa Cruz de Tenerife",1999
+149999,1.0,3.0,0,84253779,886,160,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+349999,1.0,2.0,0,84402088,1812,56,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+121000,2.0,3.0,1,82813693,116,111,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1994
+310000,1.0,3.0,10,84300907,1900,115,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+100000,1.0,3.0,1,83944917,90,82,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+430000,3.0,4.0,0,83096392,2825,237,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+795000,3.0,2.0,0,83486085,5000,180,Tijarafe,"La Palma, Santa Cruz de Tenerife",2008
+119999,1.0,2.0,3,84895723,3915,129,Garafia,"La Palma, Santa Cruz de Tenerife",
+89999,1.0,2.0,0,84896228,2000,77,El Paso,"La Palma, Santa Cruz de Tenerife",
+378999,1.0,1.0,0,84941974,2041,148,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+194999,1.0,5.0,3,38658796,140000,260,Garafia,"La Palma, Santa Cruz de Tenerife",
+300000,2.0,3.0,0,39921596,902,,El Paso,"La Palma, Santa Cruz de Tenerife",
+157000,1.0,1.0,0,39928254,1932,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+225000,2.0,2.0,0,40080547,1000,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+176000,2.0,4.0,0,40116636,200,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,4.0,0,40222539,1000,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+65000,1.0,1.0,0,40522415,8000,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+235000,1.0,1.0,0,40081607,2163,,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+25000,1.0,1.0,0,82142671,800,25,Puntallana,"La Palma, Santa Cruz de Tenerife",
+300000,3.0,4.0,0,82353643,1583,295,El Paso,"La Palma, Santa Cruz de Tenerife",
+185000,2.0,3.0,0,82657985,50,120,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+168000,2.0,3.0,1,82750190,160,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+110000,2.0,3.0,1,82750194,90,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,3.0,1,82750195,119,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+123000,1.0,1.0,1,82750204,50,,Tazacorte,"La Palma, Santa Cruz de Tenerife",2009
+120000,1.0,3.0,1,82750250,81,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+225000,1.0,3.0,0,82750327,200,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+895000,3.0,4.0,0,82750249,4400,,El Paso,"La Palma, Santa Cruz de Tenerife",
+136500,2.0,4.0,0,82750130,130,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+133000,1.0,1.0,1,82750055,67,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+170000,1.0,3.0,0,82836542,348,149,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+649000,5.0,8.0,0,82884420,5070,,El Paso,"La Palma, Santa Cruz de Tenerife",
+50000,1.0,1.0,0,82750150,3300,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+790000,5.0,5.0,0,82999223,1800,300,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+460000,3.0,3.0,0,83030945,3600,169,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+200000,1.0,3.0,0,83306281,113,103,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+378000,2.0,4.0,0,83459285,2000,160,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+73000,1.0,3.0,0,83575036,110,100,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+70000,1.0,1.0,1,31119100,64,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,1.0,1,83794180,40,35,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+145000,2.0,3.0,1,83815641,82,65,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+158000,1.0,1.0,0,84032392,2500,26,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+116000,1.0,1.0,5,84171118,71,37,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+137000,1.0,3.0,1,84173612,93,83,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+175000,1.0,3.0,0,84205038,2000,160,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+95000,2.0,3.0,1,84459429,100,98,El Paso,"La Palma, Santa Cruz de Tenerife",
+630000,5.0,10.0,0,84497536,1435,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+394999,3.0,3.0,0,40522662,766,136,El Paso,"La Palma, Santa Cruz de Tenerife",
+299999,2.0,2.0,0,82111060,7000,98,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+119999,1.0,3.0,11,83971077,68,108,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1988
+63000,1.0,1.0,0,84679053,500,120,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+369000,1.0,3.0,0,84744102,1000,100,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+333000,1.0,2.0,0,84756021,582,,El Paso,"La Palma, Santa Cruz de Tenerife",
+595000,3.0,5.0,0,84756213,3516,,El Paso,"La Palma, Santa Cruz de Tenerife",
+270000,2.0,3.0,0,82750192,7000,,Garafia,"La Palma, Santa Cruz de Tenerife",
+550000,3.0,2.0,0,84909072,17000,180,El Paso,"La Palma, Santa Cruz de Tenerife",
+379000,1.0,1.0,0,84924250,2041,149,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+75000,1.0,1.0,3,82750121,1752,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+190000,1.0,2.0,0,84960533,3700,43,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+380000,2.0,4.0,7,82955730,2433,189,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",1985
+293000,3.0,7.0,7,84120125,250,220,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+255000,3.0,3.0,0,39926551,2000,163,Garafia,"La Palma, Santa Cruz de Tenerife",
+260000,3.0,4.0,0,39927283,157,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+394000,4.0,5.0,0,39949811,576,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,3.0,0,40082241,2200,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,3.0,10,40150146,7000,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+175000,2.0,2.0,0,82749855,762,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+380000,3.0,3.0,0,82749868,1650,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+185000,1.0,3.0,0,82750274,280,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+285000,2.0,2.0,5,82750172,138,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+200000,2.0,4.0,12,82750076,128,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+130000,1.0,3.0,0,83487503,124,84,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+300000,2.0,2.0,0,83559314,950,160,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+250000,2.0,3.0,0,34910662,1500,,Garafia,"La Palma, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,37198868,107,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+79000,1.0,1.0,1,40029623,49,,Tazacorte,"La Palma, Santa Cruz de Tenerife",2008
+230000,2.0,3.0,0,40114428,11000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+60000,1.0,1.0,1,40148377,45,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+75999,1.0,2.0,5,40148903,64,52,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+129000,1.0,1.0,0,40149503,1000,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+175000,2.0,3.0,5,40154714,100,93,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+115000,1.0,5.0,0,40159390,100,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1910
+135000,1.0,2.0,1,40204963,78,,Tazacorte,"La Palma, Santa Cruz de Tenerife",2008
+170000,1.0,2.0,0,40222141,1331,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+90000,1.0,3.0,0,40224211,1200,,Puntallana,"La Palma, Santa Cruz de Tenerife",
+135000,1.0,4.0,0,40225015,1375,,Breña Alta,"La Palma, Santa Cruz de Tenerife",1950
+140000,2.0,3.0,1,40289242,132,62,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+63000,1.0,1.0,0,40335222,60,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",1720
+250000,2.0,5.0,0,40427735,2266,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+159999,3.0,4.0,0,40521963,678,165,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+231000,1.0,2.0,0,40549583,700,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+50000,1.0,1.0,0,81212127,400,42,Puntallana,"La Palma, Santa Cruz de Tenerife",
+129000,1.0,2.0,1,81212237,84,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+130000,2.0,3.0,1,81260570,100,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+335000,3.0,5.0,0,81281526,490,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+155000,2.0,2.0,0,35514625,60,,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+137000,2.0,3.0,1,81619028,88,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,4.0,0,81750260,620,152,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+80000,1.0,1.0,0,81785736,6500,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,81788777,95,90,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+90000,1.0,1.0,1,81911373,60,57,Tazacorte,"La Palma, Santa Cruz de Tenerife",2007
+220000,2.0,3.0,0,35473248,110,213,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+179000,2.0,3.0,0,82110213,6952,140,Garafia,"La Palma, Santa Cruz de Tenerife",
+360000,3.0,9.0,0,82112539,406,,Tazacorte,"La Palma, Santa Cruz de Tenerife",1960
+230000,1.0,1.0,0,82112872,4370,70,Garafia,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,2.0,1,82121590,58,51,Tazacorte,"La Palma, Santa Cruz de Tenerife",2010
+118000,2.0,3.0,1,82266628,107,105,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+84000,1.0,1.0,1,82359662,60,55,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+220000,2.0,3.0,0,82369669,2658,128,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+91000,1.0,1.0,1,82369860,82,46,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+170000,1.0,5.0,0,82390012,8700,274,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+199000,2.0,4.0,0,82408290,1148,170,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+80000,2.0,3.0,1,82472844,88,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+94500,1.0,3.0,1,82476169,70,67,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+280000,1.0,2.0,0,82481471,1500,69,Tijarafe,"La Palma, Santa Cruz de Tenerife",
+132000,1.0,2.0,1,82646974,75,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+280000,2.0,3.0,0,82750073,900,,El Paso,"La Palma, Santa Cruz de Tenerife",
+390000,3.0,5.0,0,82750181,5459,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,3.0,1,40251973,73,65,Tazacorte,"La Palma, Santa Cruz de Tenerife",2010
+210000,2.0,3.0,0,82890628,1064,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+420000,4.0,6.0,0,82931698,536,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+70000,1.0,2.0,0,82933012,124,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+217000,2.0,3.0,1,82934736,135,130,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+210000,3.0,3.0,11,82970437,176,126,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+136500,2.0,4.0,0,82981241,2000,100,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+168000,2.0,3.0,1,82982776,116,101,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+200000,2.0,5.0,0,83179902,227,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+110000,2.0,3.0,1,83290782,99,83,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+345000,2.0,8.0,0,83348094,330,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+430000,3.0,4.0,0,83411127,2000,,Puntagorda,"La Palma, Santa Cruz de Tenerife",
+315000,2.0,3.0,0,83468451,7347,207,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+150000,1.0,4.0,0,83486690,3000,90,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+160000,1.0,1.0,0,83488145,1950,117,Puntallana,"La Palma, Santa Cruz de Tenerife",
+85000,1.0,3.0,1,83488721,85,75,Barlovento,"La Palma, Santa Cruz de Tenerife",
+189000,2.0,4.0,11,83500262,242,106,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+150000,1.0,3.0,0,83589052,886,122,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+140000,1.0,3.0,1,83633893,97,87,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+180000,1.0,2.0,1,83658823,80,78,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+180000,1.0,3.0,1,83658940,80,78,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+2950000,6.0,6.0,0,83911045,160000,,Breña Alta,"La Palma, Santa Cruz de Tenerife",1800
+159000,2.0,2.0,5,84032860,102,75,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+160000,1.0,3.0,0,84085083,1197,134,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+400000,1.0,10.0,0,84116687,391,381,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+210000,2.0,4.0,1,84155303,135,115,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+137000,2.0,3.0,1,84267571,106,96,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+310000,1.0,3.0,0,39880429,1800,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+220000,2.0,4.0,5,84301231,149,139,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+125000,1.0,2.0,1,84558328,60,52,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+139999,1.0,4.0,11,84973407,225,142,San Andrés y Sauces,"La Palma, Santa Cruz de Tenerife",
+499999,2.0,2.0,0,84998646,6274,227,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+152000,1.0,6.0,0,84692028,482,,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+199999,1.0,3.0,0,81920833,2000,120,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+185000,2.0,3.0,1,84680735,102,92,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+230000,2.0,3.0,0,84732958,254,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+1450000,13.0,12.0,0,84813062,3055,667,Tazacorte,"La Palma, Santa Cruz de Tenerife",
+126000,1.0,0.0,6,84846367,41,35,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+130000,1.0,2.0,1,84864731,76,66,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+125000,1.0,2.0,1,84864410,93,81,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+133000,2.0,3.0,1,83946642,80,,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+147000,2.0,5.0,0,84955125,308,169,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+75000,1.0,2.0,0,84956898,2500,45,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+105000,1.0,4.0,0,84957858,1144,140,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+231000,2.0,3.0,1,84961874,96,86,Los Llanos de Aridane,"La Palma, Santa Cruz de Tenerife",
+270000,3.0,2.0,0,82750265,500,,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+160000,2.0,4.0,1,83416659,198,148,Barlovento,"La Palma, Santa Cruz de Tenerife",
+120000,1.0,3.0,11,83955378,118,88,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,3.0,0,82750139,1000,,Fuencaliente de la Palma,"La Palma, Santa Cruz de Tenerife",
+200000,2.0,3.0,0,84206649,1800,137,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,85032715,56,55,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+165000,2.0,3.0,11,85048364,115,108,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+154999,3.0,3.0,11,85056634,90,82,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+262500,3.0,4.0,0,82774074,3390,,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+940000,4.0,6.0,0,84398259,7600,390,Breña Baja,"La Palma, Santa Cruz de Tenerife",
+105000,2.0,4.0,1,85015041,121,111,Breña Alta,"La Palma, Santa Cruz de Tenerife",
+280000,4.0,6.0,0,40103658,1300,,Santa Cruz de la Palma,"La Palma, Santa Cruz de Tenerife",
+260000,2.0,2.0,0,40522330,1015,85,Villa de Mazo,"La Palma, Santa Cruz de Tenerife",
+price,0.0,0.0,13,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+160000,2.0,2.0,7,84800562,220,95,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+500000,2.0,3.0,7,33474058,4500,100,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+400000,2.0,2.0,3,36963551,4500,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+1000000,1.0,3.0,0,1719148,39000,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+500000,2.0,4.0,3,39633101,20000,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+350000,2.0,4.0,0,32415948,492,338,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+150000,1.0,3.0,2,32939280,1500,125,Vilaflor,"Tenerife, Santa Cruz de Tenerife",1940
+610000,2.0,2.0,7,82134133,280,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+250000,2.0,4.0,7,83694901,142,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+280000,2.0,3.0,0,84188885,730,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+201000,2.0,3.0,3,81415716,1700,155,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+395000,2.0,3.0,7,81182312,1006,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+895000,2.0,3.0,3,82302230,37000,120,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+195000,2.0,3.0,7,39420861,1700,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",1997
+610000,2.0,2.0,14,81415079,10000,187,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+190598,1.0,2.0,3,82309845,5000,249,Vilaflor,"Tenerife, Santa Cruz de Tenerife",2002
+420000,1.0,2.0,11,84641782,4090,90,Vilaflor,"Tenerife, Santa Cruz de Tenerife",2008
+316000,1.0,2.0,14,81445875,733,205,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+280000,2.0,3.0,4,36006947,730,,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+285000,3.0,3.0,7,85050836,290,288,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+199500,2.0,3.0,0,39700628,1700,130,Vilaflor,"Tenerife, Santa Cruz de Tenerife",1999
+475000,8.0,8.0,7,84819709,90,450,Vilaflor,"Tenerife, Santa Cruz de Tenerife",1998
+380000,1.0,3.0,7,84990208,409,349,Vilaflor,"Tenerife, Santa Cruz de Tenerife",
+price,0.0,0.0,13,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+210000,3.0,4.0,7,84124565,166,148,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+107000,2.0,3.0,1,82493761,96,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+230000,4.0,3.0,11,1656473,200,170,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+890000,4.0,4.0,0,40304962,1477,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+160000,3.0,3.0,0,84804498,170,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+110000,2.0,4.0,1,82113621,112,98,Tegueste,"Tenerife, Santa Cruz de Tenerife",1970
+350000,1.0,2.0,3,40486411,3000,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+165000,1.0,2.0,8,28146902,70,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+180000,1.0,1.0,14,84356379,6855,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+1200000,8.0,10.0,0,84603046,1274,,Tegueste,"Tenerife, Santa Cruz de Tenerife",2006
+350000,3.0,7.0,7,37444252,13500,330,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+275000,3.0,4.0,11,84369893,200,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+161700,2.0,2.0,1,84556314,109,89,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+122900,1.0,3.0,7,81968454,116,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+450000,2.0,3.0,9,39628874,331,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1970
+275000,3.0,4.0,12,82845096,220,200,Tegueste,"Tenerife, Santa Cruz de Tenerife",2001
+190000,3.0,3.0,12,83197722,130,115,Tegueste,"Tenerife, Santa Cruz de Tenerife",2009
+450000,3.0,3.0,11,39420828,331,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+75000,2.0,4.0,1,84703817,112,98,Tegueste,"Tenerife, Santa Cruz de Tenerife",1970
+95000,1.0,2.0,14,40325213,150,85,Tegueste,"Tenerife, Santa Cruz de Tenerife",1960
+75000,1.0,1.0,1,83588862,60,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+156000,1.0,2.0,1,39420864,135,65,Tegueste,"Tenerife, Santa Cruz de Tenerife",1997
+121000,2.0,2.0,1,81355074,105,70,Tegueste,"Tenerife, Santa Cruz de Tenerife",2006
+199000,3.0,3.0,1,83189784,162,161,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+199000,3.0,3.0,11,83282252,162,161,Tegueste,"Tenerife, Santa Cruz de Tenerife",1998
+298000,2.0,3.0,7,40232726,500,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+73000,1.0,1.0,1,83766631,59,58,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+450000,2.0,3.0,0,38967778,320,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+161700,2.0,2.0,1,81448497,110,89,Tegueste,"Tenerife, Santa Cruz de Tenerife",2002
+298000,2.0,3.0,7,84724284,500,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+161700,2.0,2.0,1,84779771,109,89,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+196000,2.0,4.0,12,38420132,512,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+690000,4.0,5.0,0,28710021,980,378,Tegueste,"Tenerife, Santa Cruz de Tenerife",2010
+199000,3.0,3.0,11,84165233,162,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1999
+690000,4.0,6.0,0,38303643,979,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+350000,2.0,3.0,0,36077939,948,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+175000,1.0,2.0,7,39993793,6000,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1989
+75000,2.0,4.0,1,81273111,112,98,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+465000,2.0,3.0,0,36759620,1500,350,Tegueste,"Tenerife, Santa Cruz de Tenerife",1978
+354000,2.0,3.0,7,82855328,914,195,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+146500,2.0,3.0,1,39420927,124,106,Tegueste,"Tenerife, Santa Cruz de Tenerife",1998
+410000,3.0,5.0,0,30293561,591,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+435000,3.0,5.0,0,39364348,2660,580,Tegueste,"Tenerife, Santa Cruz de Tenerife",1996
+155000,2.0,3.0,1,31433752,129,90,Tegueste,"Tenerife, Santa Cruz de Tenerife",2006
+687500,6.0,7.0,0,84261235,1070,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1999
+199000,3.0,3.0,11,84199931,162,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1999
+350000,3.0,3.0,0,40564829,970,200,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+180000,3.0,3.0,11,39659461,121,135,Tegueste,"Tenerife, Santa Cruz de Tenerife",2006
+354000,3.0,4.0,0,83745655,922,235,Tegueste,"Tenerife, Santa Cruz de Tenerife",1988
+145000,1.0,3.0,1,83558514,112,95,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+348000,3.0,5.0,12,84069968,352,,Tegueste,"Tenerife, Santa Cruz de Tenerife",2000
+120000,1.0,2.0,1,35818220,78,65,Tegueste,"Tenerife, Santa Cruz de Tenerife",2004
+210000,2.0,4.0,11,83536627,70,200,Tegueste,"Tenerife, Santa Cruz de Tenerife",2003
+275000,3.0,4.0,11,37838862,225,200,Tegueste,"Tenerife, Santa Cruz de Tenerife",2001
+350000,3.0,3.0,0,40299578,985,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+350000,3.0,4.0,0,82955662,450,239,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+165000,1.0,2.0,2,39908463,3150,194,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+690000,5.0,4.0,0,84261240,970,,Tegueste,"Tenerife, Santa Cruz de Tenerife",2007
+214990,3.0,4.0,11,83912182,165,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+119000,2.0,3.0,5,83038596,90,81,Tegueste,"Tenerife, Santa Cruz de Tenerife",2004
+190000,2.0,3.0,0,81899683,170,165,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+350000,1.0,2.0,3,81939891,3000,109,Tegueste,"Tenerife, Santa Cruz de Tenerife",1960
+210000,2.0,4.0,7,84100027,215,,Tegueste,"Tenerife, Santa Cruz de Tenerife",2002
+170000,1.0,2.0,2,83871739,180,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+235000,2.0,3.0,7,84844429,17,,Tegueste,"Tenerife, Santa Cruz de Tenerife",2002
+255000,4.0,4.0,0,83743169,1326,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1975
+145000,2.0,3.0,1,85008197,108,105,Tegueste,"Tenerife, Santa Cruz de Tenerife",2007
+86000,1.0,1.0,1,82914550,57,55,Tegueste,"Tenerife, Santa Cruz de Tenerife",2000
+390000,4.0,6.0,0,35268384,640,528,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+246000,3.0,4.0,0,39608988,1146,292,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+170000,2.0,3.0,8,82253376,149,131,Tegueste,"Tenerife, Santa Cruz de Tenerife",2005
+57000,1.0,3.0,7,84358960,250,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1960
+350000,3.0,4.0,11,82704777,500,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+75000,1.0,1.0,1,38245986,50,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+275000,3.0,4.0,11,83956654,220,200,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+75000,2.0,4.0,1,84702143,112,98,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+548000,3.0,5.0,7,84576020,2370,280,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+160000,2.0,3.0,11,84628766,90,175,Tegueste,"Tenerife, Santa Cruz de Tenerife",2000
+465000,2.0,3.0,0,82211354,1500,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1993
+299000,4.0,4.0,11,82478115,223,230,Tegueste,"Tenerife, Santa Cruz de Tenerife",1982
+360000,3.0,5.0,0,84152537,352,220,Tegueste,"Tenerife, Santa Cruz de Tenerife",1999
+220000,3.0,4.0,11,83450382,120,140,Tegueste,"Tenerife, Santa Cruz de Tenerife",2009
+680000,2.0,5.0,0,84563220,1400,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1987
+890000,4.0,5.0,0,83329063,153,130,Tegueste,"Tenerife, Santa Cruz de Tenerife",1990
+375000,2.0,3.0,7,40156705,89,78,Tegueste,"Tenerife, Santa Cruz de Tenerife",1990
+135900,2.0,3.0,1,38881237,96,90,Tegueste,"Tenerife, Santa Cruz de Tenerife",2005
+110000,1.0,2.0,1,84358882,95,,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+217000,2.0,4.0,7,81183389,347,294,Tegueste,"Tenerife, Santa Cruz de Tenerife",1970
+199000,1.0,4.0,7,83799142,1678,160,Tegueste,"Tenerife, Santa Cruz de Tenerife",1960
+810000,5.0,5.0,7,83817415,490,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1998
+189000,3.0,3.0,11,85022362,195,165,Tegueste,"Tenerife, Santa Cruz de Tenerife",
+687500,5.0,7.0,0,84269614,1012,,Tegueste,"Tenerife, Santa Cruz de Tenerife",1999
+price,0.0,0.0,13,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+235000,3.0,4.0,11,36045544,260,200,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+166500,2.0,3.0,11,37676622,147,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+85000,1.0,0.0,6,81962876,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+72000,1.0,1.0,1,27541761,45,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+480000,3.0,4.0,0,82835722,700,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+55000,1.0,0.0,6,34615675,49,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+189000,3.0,3.0,12,335939,120,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,39649584,62,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+320000,2.0,6.0,0,40326370,2800,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+120000,1.0,3.0,8,34785236,90,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+78000,1.0,2.0,1,81470956,75,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+490000,4.0,4.0,0,30070919,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+222000,3.0,3.0,12,30417269,285,190,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,2.0,6.0,0,36333431,1317,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+290000,3.0,4.0,0,83339022,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+175000,2.0,5.0,0,84242670,168,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+80000,1.0,2.0,1,82899884,70,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+80000,1.0,1.0,3,83808876,2600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+200000,2.0,3.0,11,84136318,107,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,4.0,3.0,0,83294742,486,185,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+73278,1.0,2.0,1,84422639,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+98000,1.0,3.0,12,83556688,97,91,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+95000,1.0,3.0,1,37444297,95,90,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+136000,1.0,3.0,1,37999414,89,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+119000,1.0,3.0,1,38086591,90,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+149000,1.0,2.0,7,37657972,110,105,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+150000,2.0,3.0,0,81472467,120,110,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+88900,1.0,2.0,7,83567086,81,79,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1969
+99900,1.0,1.0,3,83774109,4500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+95000,1.0,2.0,1,40446639,68,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+169000,1.0,4.0,11,39604311,135,100,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+295000,2.0,4.0,0,81990882,700,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1979
+360000,2.0,2.0,0,82175829,922,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+140000,1.0,3.0,7,84703660,194,171,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+80000,1.0,2.0,2,30131083,500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+185000,2.0,3.0,11,2027685,126,131,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+399000,3.0,4.0,0,81397747,502,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,1.0,1,82097598,65,60,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+100000,1.0,2.0,1,31870680,78,75,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+690000,4.0,5.0,0,33687673,10000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+250000,2.0,5.0,2,38041403,400,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+315000,3.0,2.0,0,82026962,775,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1978
+98000,1.0,2.0,1,84075754,79,73,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+375000,2.0,3.0,0,33723963,400,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+120000,1.0,1.0,14,39763505,4000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+160000,3.0,8.0,7,81559355,140,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+165000,2.0,3.0,11,34497937,197,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+320000,3.0,3.0,0,83308994,526,200,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+158000,2.0,3.0,11,82005852,186,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+96000,2.0,3.0,1,26781071,105,100,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,84221956,95,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+165000,2.0,3.0,11,35372288,126,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+97000,1.0,3.0,1,27440004,82,81,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+130000,2.0,3.0,1,27557703,90,87,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2004
+320000,2.0,5.0,2,81622199,1562,342,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+55000,1.0,1.0,1,82057407,65,55,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+145000,1.0,2.0,1,82184622,75,70,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+245000,2.0,3.0,8,82481783,120,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+142200,3.0,3.0,11,83627291,153,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1920
+70000,1.0,0.0,6,84387310,63,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+300000,3.0,4.0,0,40006816,500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+80000,1.0,2.0,0,39458829,153,120,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+85000,1.0,1.0,1,82637714,54,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+58500,1.0,1.0,1,83592460,46,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+73278,1.0,2.0,1,32534881,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+73278,1.0,2.0,1,84261141,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+229000,2.0,4.0,0,39114469,700,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1978
+360000,2.0,2.0,7,82120699,1000,278,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+320000,2.0,4.0,7,82515300,320,218,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+150000,1.0,2.0,1,82945064,70,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+99200,1.0,2.0,1,84423718,68,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+540000,3.0,4.0,0,81139178,704,210,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2001
+250000,1.0,5.0,7,37444240,430,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+690000,3.0,5.0,0,37444283,1000,600,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+250000,2.0,6.0,0,37444285,1914,225,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+199000,1.0,3.0,7,37444295,303,217,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+370000,2.0,3.0,0,37444304,525,150,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+220000,2.0,5.0,7,38386040,1710,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+299000,1.0,4.0,7,38492465,500,320,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+180000,2.0,3.0,0,38735120,110,107,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+166200,4.0,4.0,11,39474317,100,163,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+350000,3.0,5.0,7,40551013,840,250,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+400000,2.0,2.0,0,40517393,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,2.0,3.0,2,40169316,448,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1990
+340000,3.0,9.0,7,82439218,1561,224,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+135000,2.0,3.0,1,82536275,90,89,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+130000,1.0,2.0,1,83469259,95,90,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+142200,3.0,3.0,11,83613886,153,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1920
+290000,2.0,4.0,0,83888782,800,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+170000,2.0,4.0,1,83971754,125,120,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+55000,1.0,1.0,1,40137747,55,50,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1973
+175000,2.0,5.0,7,84369168,168,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+84700,2.0,3.0,1,33142365,100,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+340000,2.0,3.0,7,26728459,574,126,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2001
+194897,2.0,3.0,7,39331398,124,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+150000,1.0,2.0,1,82978081,69,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+199700,2.0,4.0,7,81547036,96,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+73278,1.0,2.0,1,36326995,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+88157,1.0,2.0,1,84842390,64,51,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+760000,1.0,2.0,0,39628660,47393,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1960
+390000,1.0,3.0,0,82755043,1336,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1965
+485000,4.0,4.0,7,83031293,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+130000,1.0,2.0,1,84342107,76,59,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,84599705,60,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+179000,3.0,3.0,7,84709994,166,158,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+425000,3.0,4.0,0,25595678,11400,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+76500,1.0,0.0,6,31394743,75,72,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2010
+114000,2.0,3.0,1,38878368,79,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+88000,2.0,2.0,2,27866965,70,68,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+314500,4.0,5.0,12,40365494,496,332,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1940
+124000,2.0,3.0,1,82606579,110,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+450000,3.0,3.0,7,81634427,3800,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+215000,3.0,3.0,11,84464155,125,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+130000,1.0,3.0,7,83025382,119,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1961
+450000,2.0,3.0,0,33723771,5000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+1500000,4.0,5.0,0,34690275,1500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+189500,3.0,4.0,11,81398833,100,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+159000,2.0,3.0,11,83843686,181,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+98000,1.0,3.0,11,84191537,120,97,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1960
+335000,3.0,2.0,0,84944712,780,150,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1980
+690000,3.0,5.0,0,82569312,1000,302,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+2100000,5.0,4.0,0,38372982,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2012
+210000,2.0,4.0,11,39564767,250,115,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+49000,1.0,2.0,1,82621490,40,39,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1980
+219500,3.0,3.0,12,84075990,285,190,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2008
+299500,1.0,5.0,7,38932344,1020,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+55000,1.0,2.0,1,82550525,65,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+105000,1.0,3.0,1,82550524,155,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+289000,4.0,4.0,0,81277000,1128,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2018
+340000,3.0,3.0,0,84640914,707,212,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+450000,3.0,5.0,0,84849498,1600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+142344,2.0,3.0,11,83309008,118,98,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1992
+450000,3.0,3.0,0,1800753,3500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+640000,3.0,8.0,0,28573126,580,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+385000,2.0,4.0,0,37866276,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+98000,1.0,2.0,1,84038993,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+137000,3.0,5.0,1,84528712,130,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1974
+230000,2.0,3.0,0,37444239,151,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+260000,2.0,4.0,7,37444238,650,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2001
+105000,1.0,3.0,7,82674932,96,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+98000,1.0,3.0,7,84371777,96,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1920
+360000,2.0,3.0,0,84764821,423,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+165000,2.0,4.0,7,81162694,200,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+380000,2.0,6.0,7,81244671,1320,302,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+159000,2.0,3.0,0,81787399,177,163,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2011
+210200,1.0,4.0,7,84423648,204,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198000,3.0,4.0,11,84572113,230,207,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+495000,4.0,4.0,0,84776356,840,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+184000,2.0,4.0,11,28808821,105,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+90000,1.0,3.0,5,81474046,130,110,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+85000,1.0,2.0,1,81801916,65,60,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2014
+195000,3.0,3.0,7,83683972,179,150,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+350000,1.0,5.0,3,39696776,950,190,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1935
+250000,2.0,4.0,7,84820801,305,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+140000,1.0,4.0,0,34412386,198,117,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+103950,1.0,1.0,1,84414400,93,89,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1972
+51700,2.0,0.0,6,36160403,88,74,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+257800,4.0,5.0,7,37646898,760,639,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+159000,1.0,2.0,7,83893661,167,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+84000,1.0,2.0,1,83066144,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+175000,1.0,5.0,11,84053437,100,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+690000,3.0,5.0,0,84134495,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+93500,2.0,5.0,7,84423658,110,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+69000,1.0,3.0,1,84754386,75,63,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+450000,3.0,4.0,0,27071669,360,180,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,3.0,4.0,0,31578086,604,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,2.0,3.0,0,36946339,289,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,2.0,4.0,0,37492836,604,250,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+222000,3.0,3.0,7,36999911,190,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2008
+290000,3.0,5.0,0,37697178,390,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+400000,2.0,5.0,0,38086587,1000,250,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+375000,3.0,3.0,0,40423880,900,284,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+330000,2.0,3.0,0,40565235,195,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+380000,2.0,3.0,7,81751938,788,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+89500,1.0,3.0,1,81391618,88,73,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1980
+110000,1.0,2.0,1,37678105,60,54,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+385000,2.0,4.0,0,81711830,970,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+120000,1.0,2.0,1,82692554,93,85,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+72000,1.0,0.0,6,82707053,45,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+340000,2.0,3.0,0,83103530,535,145,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+135000,2.0,2.0,1,83292340,71,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+142200,2.0,3.0,7,83567539,151,133,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+88900,1.0,3.0,7,83581323,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1969
+340000,1.0,3.0,0,83590855,535,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+370000,3.0,8.0,3,83774122,1300,250,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+207383,2.0,3.0,7,81906915,186,1,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+255000,2.0,4.0,0,83904250,305,150,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+99200,1.0,2.0,1,84125951,68,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+360000,1.0,2.0,0,81524302,1090,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+700000,3.0,6.0,0,82312983,450,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+165000,2.0,4.0,7,36834335,180,135,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+317000,3.0,4.0,0,36126916,550,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1977
+277000,3.0,4.0,3,83251187,1500,153,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+355000,2.0,2.0,0,82020906,760,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198000,2.0,4.0,7,83812654,207,170,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2008
+189000,3.0,3.0,12,40142357,185,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,84369895,60,54,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+210000,3.0,4.0,0,84434964,167,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+136955,1.0,2.0,1,84558707,74,66,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+430000,3.0,3.0,0,84693055,707,310,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1982
+385000,2.0,4.0,0,84890461,970,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1995
+45700,1.0,2.0,1,84969624,72,63,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+205000,3.0,3.0,11,36784739,157,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+200000,1.0,3.0,0,38173367,350,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1870
+319000,3.0,4.0,0,40197180,380,220,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+375000,3.0,5.0,0,40461468,219,209,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+390000,3.0,4.0,0,81141370,545,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+200000,3.0,3.0,11,81990198,160,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+222000,3.0,3.0,12,82560484,285,190,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+224000,3.0,3.0,11,82368489,292,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+222000,3.0,3.0,0,83721448,190,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+93500,2.0,5.0,7,82087898,110,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+130000,2.0,3.0,1,84084475,94,85,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+190000,3.0,3.0,11,84603442,163,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+441900,1.0,13.0,9,38231133,283,226,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+64000,1.0,1.0,1,84214884,45,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+145000,2.0,4.0,12,39048604,120,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+219000,2.0,3.0,12,84962789,250,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+2100000,6.0,6.0,0,26423660,600,450,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+325000,3.0,6.0,0,33382067,2500,210,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,3.0,4.0,0,36045843,800,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+1500000,6.0,5.0,0,37684405,1241,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+340000,2.0,4.0,0,38895736,350,255,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+355000,3.0,3.0,0,40352003,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+269000,2.0,3.0,4,82412625,213,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1900
+387000,4.0,5.0,0,82536390,1400,320,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+179900,2.0,4.0,0,40505401,220,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+195000,2.0,4.0,11,36252503,135,133,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+215000,2.0,3.0,0,83986742,179,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+825000,5.0,5.0,0,39896070,1852,600,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1975
+380000,2.0,3.0,0,84352282,563,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+430000,3.0,3.0,0,35348402,1482,170,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2003
+350000,2.0,3.0,0,40375784,534,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2001
+385000,2.0,3.0,0,82669452,150,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+395000,5.0,3.0,0,83512964,1362,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1940
+235000,2.0,4.0,4,83759535,420,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+242000,2.0,4.0,11,84181028,164,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+408000,3.0,3.0,0,84328958,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+136500,2.0,3.0,11,84641786,119,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1990
+120000,2.0,3.0,11,84722802,96,82,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2004
+230000,1.0,2.0,2,38173670,3464,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+125000,2.0,3.0,1,37026956,110,97,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2009
+185000,2.0,4.0,11,81466958,105,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+375000,4.0,5.0,0,81493430,1075,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+275000,2.0,3.0,7,37678100,360,269,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+276000,2.0,3.0,3,40231319,693,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1940
+650000,3.0,4.0,0,82707644,2900,350,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+240000,4.0,4.0,11,83941632,157,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+210200,2.0,6.0,7,82169850,204,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+174000,3.0,4.0,12,84276256,120,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198500,2.0,3.0,11,40282463,433,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1800
+330000,1.0,3.0,0,81377792,471,180,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+79900,2.0,2.0,3,38737070,220,55,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+145000,2.0,3.0,11,82663372,99,80,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+100000,2.0,4.0,0,83247593,198,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1995
+300000,4.0,2.0,0,37345262,2600,270,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+489000,4.0,4.0,7,81726916,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+330000,3.0,5.0,0,82862017,1128,293,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1980
+210200,3.0,5.0,0,82088060,469,196,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+550000,3.0,3.0,9,84379584,980,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1935
+97500,1.0,2.0,1,83212506,71,55,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+240000,3.0,4.0,0,39441867,700,380,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+210200,1.0,4.0,11,84779683,204,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+540000,2.0,3.0,0,34287726,256,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,4.0,3.0,0,36754969,604,300,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2003
+395000,3.0,3.0,0,38971291,764,272,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+360000,2.0,3.0,0,39970192,650,157,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+294900,2.0,3.0,0,83385847,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+615800,4.0,3.0,0,84166415,1103,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+180000,3.0,3.0,12,84263597,200,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198000,2.0,4.0,11,84269202,215,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+230000,1.0,3.0,0,84676695,142,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+375000,2.0,3.0,0,84975104,400,153,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+113000,2.0,3.0,7,85047250,89,77,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+106000,1.0,2.0,7,85047259,65,54,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+107000,1.0,2.0,7,85047263,61,51,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+1500000,7.0,9.0,0,35358557,4245,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+98000,1.0,1.0,0,38356177,2750,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1980
+445000,3.0,3.0,7,39471205,1389,240,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+690000,2.0,3.0,0,81684875,1152,200,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+137000,1.0,3.0,1,82031744,99,92,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+220000,2.0,5.0,11,82095934,122,172,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+245500,4.0,4.0,7,83485587,290,254,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+1180000,5.0,5.0,7,84380656,1793,433,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+300000,2.0,4.0,0,84106011,512,165,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1986
+115000,1.0,2.0,0,38456858,113,83,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,2.0,2.0,0,81977644,4010,165,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2010
+76400,1.0,2.0,1,83212513,74,56,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,4.0,3.0,0,82793093,604,269,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+385000,2.0,4.0,0,83941997,15000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+416800,2.0,4.0,4,84791693,388,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+490000,2.0,3.0,7,81870200,604,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2003
+330000,2.0,4.0,0,84806235,472,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+150000,2.0,3.0,1,85010390,95,90,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+285500,4.0,5.0,12,38051864,750,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+690000,2.0,3.0,0,82813586,1200,200,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+489000,4.0,4.0,7,84724275,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+165000,2.0,4.0,11,84829383,206,181,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1977
+319000,4.0,4.0,0,84905024,230,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+76400,1.0,2.0,1,81869654,89,67,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+725000,3.0,5.0,0,82607433,990,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+165000,1.0,2.0,11,84906484,120,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+285000,2.0,3.0,7,85028231,350,110,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+277000,3.0,4.0,7,83776029,1500,153,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+425000,3.0,3.0,0,82976814,680,164,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+145000,2.0,3.0,0,83689844,1000,110,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1986
+86500,1.0,2.0,1,84827220,72,57,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+220000,3.0,4.0,12,84890346,277,142,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+152000,1.0,2.0,0,82763403,167,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+379900,4.0,5.0,0,35995761,600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2008
+369000,3.0,4.0,7,38509286,2600,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+500000,4.0,7.0,0,81832377,1281,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+117000,1.0,1.0,3,82075719,3200,37,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1993
+178000,3.0,4.0,11,36517951,150,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+130000,2.0,4.0,1,83451303,95,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+190000,2.0,4.0,11,83769283,150,140,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+550000,3.0,3.0,0,84558778,818,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+189993,2.0,4.0,12,81400131,240,145,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+162900,3.0,4.0,12,84214355,179,166,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1985
+340000,4.0,4.0,0,84773401,707,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+140000,1.0,2.0,1,84992554,65,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+370000,2.0,3.0,3,82039533,2137,178,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+93000,1.0,2.0,1,36880399,87,78,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,1.0,1,38452500,56,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+160000,1.0,2.0,3,40365334,253,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+257800,5.0,3.0,7,37817609,390,332,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1940
+160000,1.0,5.0,2,39725848,350,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1870
+139000,2.0,3.0,11,35986387,170,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+370000,2.0,3.0,0,81346670,2137,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+289900,1.0,3.0,0,84929335,2064,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+176000,2.0,4.0,11,84977437,170,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+725000,3.0,4.0,0,40014163,900,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+725000,3.0,5.0,0,82724512,900,360,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+110000,1.0,2.0,1,36928891,60,56,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+545000,2.0,3.0,7,40493804,1389,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+240000,2.0,4.0,12,83874148,380,360,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1997
+360000,3.0,2.0,0,85017104,1000,240,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+168900,2.0,4.0,0,39471396,199,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,3.0,4.0,0,82345154,520,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1990
+890000,4.0,4.0,0,84380346,550,380,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+195500,1.0,1.0,7,82239992,6869,75,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198000,3.0,2.0,11,84662690,177,137,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+399900,4.0,5.0,0,84819873,1303,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+283000,2.0,4.0,4,84792060,900,170,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+1413400,3.0,3.0,7,81765532,995,415,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+234900,2.0,4.0,7,83447209,145,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+252500,1.0,2.0,1,83955672,170,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+129900,3.0,3.0,7,84203772,125,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+595000,2.0,7.0,7,84359504,1391,437,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1989
+162000,1.0,2.0,7,84377942,142,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+159000,2.0,4.0,2,84462828,450,120,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+1490000,5.0,5.0,0,28947767,1124,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+427000,3.0,4.0,0,84955668,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+525000,2.0,3.0,0,84957694,877,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2004
+298000,3.0,4.0,3,30946220,2600,214,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+170000,2.0,3.0,11,85054271,178,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+84000,1.0,2.0,7,85052061,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1969
+98000,1.0,2.0,1,85052344,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+99200,1.0,2.0,1,85052586,68,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+195000,2.0,2.0,0,26040100,120,100,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+130000,2.0,3.0,1,85018514,88,77,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+283000,2.0,4.0,0,85030501,230,170,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1920
+93500,2.0,5.0,7,85052353,110,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1960
+360000,2.0,3.0,7,35318986,512,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+210000,2.0,3.0,11,39756021,259,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+140000,2.0,3.0,11,81294659,68,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2003
+73278,1.0,2.0,1,84480135,55,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,36371484,70,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+375000,3.0,4.0,0,36387353,1000,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2007
+86338,1.0,2.0,1,84364634,65,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+59500,1.0,0.0,6,84826361,40,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+70000,1.0,0.0,6,82090855,63,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+340000,2.0,3.0,0,83402090,500,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2008
+88900,1.0,2.0,1,84203569,78,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+96500,1.0,2.0,1,84605174,80,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+145000,2.0,3.0,7,81934069,44,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+495000,3.0,3.0,0,39880493,820,197,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2001
+298000,3.0,4.0,0,40516807,2600,195,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1960
+70000,1.0,1.0,1,81291608,50,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+335000,2.0,3.0,0,84429258,535,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+110000,1.0,2.0,1,84730236,76,75,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1995
+180000,1.0,1.0,0,33464744,1200,100,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+500000,4.0,6.0,0,37764415,1281,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+219000,2.0,4.0,11,82138826,144,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+156000,1.0,3.0,0,82939922,105,95,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+147000,2.0,4.0,1,83331702,108,89,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+187000,3.0,3.0,11,84190471,123,106,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+145000,2.0,3.0,3,84333023,244,189,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1975
+750000,5.0,6.0,0,33372474,1855,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+215000,3.0,5.0,7,36699472,140,160,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+190000,1.0,4.0,4,83859739,119,223,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1992
+169000,3.0,3.0,11,84149915,113,102,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+155000,2.0,3.0,11,81996258,190,100,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+470000,3.0,4.0,7,84021318,312,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+520000,3.0,5.0,0,84124971,2180,290,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1986
+170000,2.0,3.0,11,84502333,168,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+520000,4.0,5.0,0,84611489,2180,300,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,3.0,5.0,0,82623383,574,330,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1992
+170000,2.0,4.0,11,83450153,199,190,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+225000,2.0,4.0,0,36913551,700,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1978
+198000,3.0,4.0,11,82289552,170,120,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+220000,3.0,3.0,12,82567864,91,130,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+400000,4.0,5.0,0,82669567,3000,430,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1999
+338000,4.0,5.0,12,84165006,800,280,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+200000,2.0,3.0,12,84368728,150,113,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+153000,2.0,3.0,8,83331648,100,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2004
+243000,3.0,3.0,11,84446572,257,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+380000,3.0,3.0,0,84774093,900,151,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+129000,1.0,3.0,1,82063121,85,80,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1970
+195000,3.0,4.0,11,82867436,50,170,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2003
+145000,2.0,3.0,1,84395005,83,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2010
+350000,1.0,4.0,0,84999929,1300,200,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+69000,1.0,2.0,1,39625139,109,86,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1990
+89000,1.0,2.0,1,84931428,70,67,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+230000,4.0,3.0,12,36448953,180,150,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+245000,4.0,3.0,8,83930971,254,177,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+690000,3.0,5.0,0,84420519,1000,400,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2004
+450000,3.0,4.0,7,35580562,10000,273,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2000
+350000,4.0,8.0,7,40211230,290,247,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1998
+298000,2.0,2.0,7,82807064,6470,415,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1975
+575000,3.0,4.0,0,83247758,345,293,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1982
+420000,5.0,5.0,7,84121541,720,573,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+319000,3.0,4.0,7,84444070,320,230,Tacoronte,"Tenerife, Santa Cruz de Tenerife",1991
+279000,2.0,3.0,0,84500807,346,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+850000,3.0,5.0,7,84530517,339,307,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+159000,1.0,2.0,0,82787849,167,114,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+199000,2.0,3.0,5,39707103,100,98,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2005
+184000,3.0,3.0,11,39967923,66,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+198500,2.0,4.0,12,40455277,100,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+231000,2.0,3.0,11,81138857,100,122,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+540000,3.0,7.0,3,83801029,340,480,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+80000,1.0,2.0,1,40366925,117,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+350000,5.0,5.0,7,84287121,730,411,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+275000,2.0,5.0,7,82829354,197,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2002
+399500,3.0,5.0,0,81627661,960,280,Tacoronte,"Tenerife, Santa Cruz de Tenerife",2006
+145000,2.0,2.0,1,40199691,108,,Tacoronte,"Tenerife, Santa Cruz de Tenerife",
+price,0.0,0.0,13,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+165000,2.0,3.0,11,36610723,160,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2003
+150000,2.0,3.0,1,81529054,98,93,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2016
+120000,2.0,3.0,1,34864912,119,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+125000,1.0,2.0,1,38756631,75,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+66000,1.0,4.0,0,81755587,69,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+260000,3.0,3.0,11,29236402,196,206,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+80000,1.0,2.0,1,84471409,54,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+85000,1.0,1.0,1,81941197,70,25,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+14000,2.0,3.0,3,83520109,360,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+885000,4.0,8.0,0,82841263,485,266,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,84701262,68,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2007
+95900,2.0,2.0,1,84701346,78,62,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2006
+299000,3.0,3.0,5,83633692,200,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+500000,3.0,5.0,0,84516650,600,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+200000,2.0,2.0,8,39881309,110,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+170000,1.0,2.0,1,34089835,60,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+270000,3.0,6.0,4,81579746,160,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+115000,2.0,2.0,1,35489959,77,70,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+365000,2.0,3.0,0,35534877,565,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+106000,2.0,3.0,1,364026,90,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+105000,1.0,0.0,6,84658838,50,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",1990
+105000,1.0,1.0,1,84900691,50,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",1990
+95900,2.0,2.0,1,81679477,80,63,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2006
+116000,2.0,3.0,1,84076002,115,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2004
+140000,2.0,2.0,1,84197605,108,93,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2004
+97986,2.0,2.0,1,84307430,75,60,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2005
+89000,2.0,2.0,1,84395707,94,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+126000,1.0,3.0,3,84471709,151,97,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",1975
+97000,2.0,3.0,1,26325751,78,70,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+160000,2.0,2.0,1,28450243,112,102,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+272000,2.0,4.0,0,33522047,500,190,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,35777914,69,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2007
+187500,3.0,2.0,11,33924678,105,90,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+975000,2.0,3.0,0,81988808,1095,390,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+390000,4.0,4.0,11,82038135,200,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+78900,1.0,2.0,1,82060275,60,44,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+149000,2.0,3.0,7,83693761,280,240,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+160000,2.0,3.0,8,39867585,118,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+97986,2.0,2.0,1,38845449,75,59,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+130000,2.0,2.0,1,84265571,87,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+95000,1.0,3.0,8,36638113,140,108,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+75000,1.0,2.0,1,28969976,68,49,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+78900,1.0,2.0,1,81947125,60,44,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+590000,9.0,9.0,0,36547773,1747,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+278000,2.0,3.0,11,39466791,125,113,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+63000,1.0,1.0,1,82270753,50,45,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+114400,2.0,3.0,1,84556379,113,90,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+99000,1.0,1.0,1,83562428,60,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+245000,3.0,3.0,11,83866423,130,112,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+1950000,5.0,4.0,0,25031390,1125,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+1200000,3.0,3.0,0,84616703,678,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2009
+375000,3.0,3.0,0,36048636,248,211,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2010
+500000,3.0,3.0,0,38346866,552,190,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",2008
+97000,2.0,3.0,1,84701203,78,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",1992
+63000,1.0,1.0,1,84724237,50,45,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+140000,1.0,2.0,1,32376300,92,,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",
+245000,3.0,3.0,11,84288616,161,112,Santa Ursula,"Tenerife, Santa Cruz de Tenerife",

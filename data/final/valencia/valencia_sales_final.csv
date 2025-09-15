@@ -1,0 +1,1405 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+67500,1.0,4.0,0,84926697,80,162,Ademuz,"El Rincón de Ademuz, València",
+60000,2.0,5.0,1,374094,176,,Casas Bajas,"El Rincón de Ademuz, València",
+18000,1.0,3.0,1,28228285,55,,Ademuz,"El Rincón de Ademuz, València",
+60000,1.0,4.0,2,82134694,105,,Ademuz,"El Rincón de Ademuz, València",
+10000,1.0,3.0,3,29512920,50,,Castielfabib,"El Rincón de Ademuz, València",
+30000,2.0,4.0,3,31356811,160,,Vallanca,"El Rincón de Ademuz, València",
+49000,2.0,5.0,3,31122802,78,,Ademuz,"El Rincón de Ademuz, València",
+50000,1.0,1.0,3,36189350,312,,Vallanca,"El Rincón de Ademuz, València",
+30000,1.0,3.0,4,83622908,180,,Ademuz,"El Rincón de Ademuz, València",
+60000,1.0,5.0,3,31165754,132,,Castielfabib,"El Rincón de Ademuz, València",
+12000,1.0,3.0,3,82772225,70,,Ademuz,"El Rincón de Ademuz, València",
+43000,2.0,8.0,3,35984677,960,,Ademuz,"El Rincón de Ademuz, València",
+10000,3.0,5.0,5,81995480,150,140,Casas Bajas,"El Rincón de Ademuz, València",1911
+25000,0.0,0.0,6,27202865,210,,Vallanca,"El Rincón de Ademuz, València",
+168000,3.0,5.0,7,33012300,120,,Ademuz,"El Rincón de Ademuz, València",
+75000,1.0,7.0,3,39664573,440,,Ademuz,"El Rincón de Ademuz, València",
+140000,2.0,4.0,1,28995561,190,,Casas Bajas,"El Rincón de Ademuz, València",
+64900,1.0,2.0,2,32918637,60,55,Torre Baja,"El Rincón de Ademuz, València",
+40000,0.0,1.0,8,31475230,55,,Castielfabib,"El Rincón de Ademuz, València",
+64900,1.0,2.0,2,38244577,60,55,Torre Baja,"El Rincón de Ademuz, València",
+88000,3.0,4.0,3,81887277,165,150,Ademuz,"El Rincón de Ademuz, València",2010
+36000,1.0,5.0,3,82193441,230,,Ademuz,"El Rincón de Ademuz, València",
+25000,1.0,5.0,3,82262164,138,,Casas Bajas,"El Rincón de Ademuz, València",
+54900,1.0,2.0,2,83166947,60,,Torre Baja,"El Rincón de Ademuz, València",
+80000,1.0,2.0,9,84191672,4882,,Ademuz,"El Rincón de Ademuz, València",
+70000,1.0,4.0,3,83927904,140,120,Castielfabib,"El Rincón de Ademuz, València",
+100000,2.0,3.0,3,39026944,193,,Torre Baja,"El Rincón de Ademuz, València",
+12000,1.0,3.0,3,39504587,250,,Ademuz,"El Rincón de Ademuz, València",
+22000,2.0,6.0,3,84079931,90,,Ademuz,"El Rincón de Ademuz, València",
+36416,2.0,3.0,10,84718229,154,75,Castielfabib,"El Rincón de Ademuz, València",
+9000,1.0,4.0,9,37616367,35,34,Casas Altas,"El Rincón de Ademuz, València",
+70000,1.0,4.0,1,81541990,165,,Castielfabib,"El Rincón de Ademuz, València",
+70000,1.0,8.0,3,34615634,400,320,Ademuz,"El Rincón de Ademuz, València",
+40000,1.0,4.0,7,1769956,122,108,Casas Bajas,"El Rincón de Ademuz, València",
+28000,0.0,2.0,3,33897577,108,,Ademuz,"El Rincón de Ademuz, València",
+60000,2.0,4.0,3,82175848,450,,Torre Baja,"El Rincón de Ademuz, València",
+35000,1.0,4.0,3,81858673,66,,Ademuz,"El Rincón de Ademuz, València",1890
+18500,1.0,1.0,10,34215567,189,,Castielfabib,"El Rincón de Ademuz, València",1922
+63000,1.0,2.0,2,39662751,65,,Torre Baja,"El Rincón de Ademuz, València",2010
+74000,2.0,3.0,1,82089124,104,,Torre Baja,"El Rincón de Ademuz, València",1890
+100000,3.0,3.0,4,30820862,130,120,Torre Baja,"El Rincón de Ademuz, València",
+18000,1.0,3.0,3,34938973,300,270,Castielfabib,"El Rincón de Ademuz, València",
+26000,1.0,2.0,4,35011439,80,,Castielfabib,"El Rincón de Ademuz, València",
+14000,2.0,3.0,4,35062201,103,,Casas Bajas,"El Rincón de Ademuz, València",
+93000,2.0,6.0,4,37927842,329,241,Castielfabib,"El Rincón de Ademuz, València",1985
+40000,1.0,4.0,4,36523150,90,,Castielfabib,"El Rincón de Ademuz, València",1980
+73000,1.0,5.0,1,82906629,100,,Castielfabib,"El Rincón de Ademuz, València",
+50000,2.0,3.0,1,82950686,158,,Castielfabib,"El Rincón de Ademuz, València",1989
+628300,2.0,4.0,1,82439166,14000,,Casas Altas,"El Rincón de Ademuz, València",
+55000,1.0,2.0,10,84159755,120,90,Ademuz,"El Rincón de Ademuz, València",1890
+7480,1.0,5.0,4,37830549,135,37,Ademuz,"El Rincón de Ademuz, València",
+89000,2.0,4.0,3,30912095,300,210,Castielfabib,"El Rincón de Ademuz, València",
+50000,2.0,2.0,11,32622177,118,,Casas Bajas,"El Rincón de Ademuz, València",
+31000,2.0,3.0,9,40226426,200,,Castielfabib,"El Rincón de Ademuz, València",
+110000,3.0,4.0,1,40376511,190,,Torre Baja,"El Rincón de Ademuz, València",
+77000,2.0,5.0,10,81475073,172,,Castielfabib,"El Rincón de Ademuz, València",1992
+45000,2.0,2.0,4,35742147,20,140,Castielfabib,"El Rincón de Ademuz, València",
+97000,2.0,4.0,1,84771355,403,,Castielfabib,"El Rincón de Ademuz, València",2007
+68000,1.0,2.0,9,34246067,80,70,Ademuz,"El Rincón de Ademuz, València",
+75000,2.0,5.0,3,30131464,300,234,Vallanca,"El Rincón de Ademuz, València",
+20000,1.0,3.0,11,40179860,99,92,Castielfabib,"El Rincón de Ademuz, València",
+price,0.0,0.0,12,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+82500,2.0,4.0,2,84465066,135,126,Sagunto/Sagunt,"Camp de Morvedre, València",
+175000,2.0,7.0,1,348494,200,,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,3.0,4.0,1,81346393,200,,Sagunto/Sagunt,"Camp de Morvedre, València",
+90000,2.0,4.0,2,360082,125,119,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,2.0,3.0,1,81363783,1500,,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,1.0,3.0,1,81962765,115,,Sagunto/Sagunt,"Camp de Morvedre, València",
+33000,1.0,3.0,2,82647256,75,74,Sagunto/Sagunt,"Camp de Morvedre, València",
+215000,2.0,3.0,13,430632,200,,Sagunto/Sagunt,"Camp de Morvedre, València",
+115000,2.0,3.0,2,36634041,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+45000,1.0,4.0,2,37340806,78,,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,2.0,3.0,2,37373038,112,104,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,3.0,2,36485606,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+105000,2.0,3.0,2,81720721,110,102,Sagunto/Sagunt,"Camp de Morvedre, València",
+265000,2.0,4.0,1,82486334,3000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+66000,1.0,3.0,2,82515625,70,65,Sagunto/Sagunt,"Camp de Morvedre, València",
+109000,1.0,2.0,1,1991216,700,,Sagunto/Sagunt,"Camp de Morvedre, València",
+175000,2.0,4.0,2,28421449,165,145,Sagunto/Sagunt,"Camp de Morvedre, València",
+52000,1.0,2.0,2,35709076,60,,Sagunto/Sagunt,"Camp de Morvedre, València",
+330000,1.0,3.0,4,1603713,101,140,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,2.0,4.0,2,34385521,105,,Sagunto/Sagunt,"Camp de Morvedre, València",
+195000,2.0,3.0,3,83560535,120,,Sagunto/Sagunt,"Camp de Morvedre, València",
+87000,2.0,3.0,2,83794542,105,,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,2.0,3.0,1,84402855,220,,Sagunto/Sagunt,"Camp de Morvedre, València",
+240000,3.0,5.0,11,348202,400,,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,4.0,3,39876029,120,100,Sagunto/Sagunt,"Camp de Morvedre, València",1950
+95000,2.0,4.0,2,84064328,120,,Sagunto/Sagunt,"Camp de Morvedre, València",
+30000,1.0,3.0,2,84064288,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+125000,1.0,3.0,1,39426903,209,,Sagunto/Sagunt,"Camp de Morvedre, València",
+58974,1.0,1.0,2,84309138,212,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47800,1.0,3.0,2,84956993,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47800,1.0,3.0,2,84983811,80,,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+700000,3.0,4.0,1,38637590,271,500,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,2.0,3.0,2,38875675,76,,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,3.0,2,82598445,74,,Sagunto/Sagunt,"Camp de Morvedre, València",
+49000,1.0,3.0,2,82715330,82,,Sagunto/Sagunt,"Camp de Morvedre, València",
+56000,1.0,3.0,2,82715331,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+56000,1.0,3.0,2,82715348,85,,Sagunto/Sagunt,"Camp de Morvedre, València",
+100000,2.0,3.0,2,40130387,87,,Sagunto/Sagunt,"Camp de Morvedre, València",
+103000,2.0,3.0,2,39687876,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+72300,2.0,4.0,2,84052078,125,,Sagunto/Sagunt,"Camp de Morvedre, València",
+114000,2.0,3.0,2,83906167,85,,Sagunto/Sagunt,"Camp de Morvedre, València",
+125000,2.0,5.0,2,29947549,140,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,4.0,2,31431056,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,3.0,2,33950307,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+58000,2.0,4.0,2,33950517,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,3.0,2,33951085,96,,Sagunto/Sagunt,"Camp de Morvedre, València",
+50000,1.0,3.0,2,34809030,84,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,5.0,2,34842664,124,,Sagunto/Sagunt,"Camp de Morvedre, València",
+56000,1.0,4.0,3,34910892,150,100,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+82000,1.0,3.0,2,34984999,104,,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,2.0,3.0,2,35236327,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",2004
+290000,1.0,1.0,1,37445927,300,,Sagunto/Sagunt,"Camp de Morvedre, València",
+37000,2.0,5.0,3,82647234,140,138,Sagunto/Sagunt,"Camp de Morvedre, València",
+113000,1.0,2.0,2,32993310,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+49000,1.0,3.0,2,34540567,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+72000,1.0,3.0,3,34655516,72,,Sagunto/Sagunt,"Camp de Morvedre, València",
+119000,2.0,3.0,2,38488680,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+35000,1.0,2.0,1,81654907,55,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+75000,2.0,5.0,3,81683298,115,165,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,5.0,1,84306813,268,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,4.0,2,30220180,140,,Sagunto/Sagunt,"Camp de Morvedre, València",
+54000,1.0,4.0,2,33950237,120,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,2.0,4.0,2,33950244,124,114,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,4.0,2,33950281,148,135,Sagunto/Sagunt,"Camp de Morvedre, València",
+75000,2.0,3.0,2,33950275,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+47000,1.0,3.0,2,33950289,109,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+120000,2.0,3.0,2,33950291,127,107,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+70000,1.0,4.0,2,33950304,92,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,4.0,2,33950319,160,150,Sagunto/Sagunt,"Camp de Morvedre, València",
+149000,2.0,5.0,2,33950343,175,170,Sagunto/Sagunt,"Camp de Morvedre, València",
+50000,1.0,4.0,2,33950379,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+53000,2.0,4.0,2,33950380,120,95,Sagunto/Sagunt,"Camp de Morvedre, València",
+100000,2.0,4.0,2,33950392,110,105,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,1.0,5.0,2,33950394,175,170,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,3.0,2,33950399,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,3.0,2,33950404,85,75,Sagunto/Sagunt,"Camp de Morvedre, València",
+72000,2.0,4.0,2,33950427,140,130,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+169000,2.0,3.0,2,33950430,140,100,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+135000,2.0,4.0,2,33950445,167,160,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+62000,1.0,3.0,2,33950447,95,85,Sagunto/Sagunt,"Camp de Morvedre, València",1899
+110000,2.0,6.0,2,33950456,141,132,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+36000,1.0,4.0,2,33950468,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+90000,2.0,3.0,2,33950473,160,150,Sagunto/Sagunt,"Camp de Morvedre, València",1964
+85000,2.0,5.0,2,33950488,150,140,Sagunto/Sagunt,"Camp de Morvedre, València",1969
+100000,2.0,3.0,2,33950494,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+90000,1.0,3.0,2,33950496,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+55000,2.0,3.0,2,33950540,112,104,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+140000,2.0,3.0,2,33950545,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+99000,2.0,3.0,2,33950565,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",1998
+59000,1.0,4.0,0,33950689,136,126,Sagunto/Sagunt,"Camp de Morvedre, València",1889
+85000,1.0,4.0,0,33950706,190,187,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+99900,2.0,4.0,0,33950740,210,200,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,3.0,0,33950812,230,225,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+52000,1.0,4.0,0,33950822,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",1963
+300000,2.0,3.0,13,33950878,120,117,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,3.0,13,33950882,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+93000,2.0,4.0,13,33950896,130,125,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+200000,1.0,3.0,1,33950999,6333,70,Sagunto/Sagunt,"Camp de Morvedre, València",
+164900,1.0,4.0,1,33951319,2100,110,Sagunto/Sagunt,"Camp de Morvedre, València",1998
+125000,1.0,5.0,1,34076532,10000,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+250000,2.0,4.0,1,33951000,3000,150,Sagunto/Sagunt,"Camp de Morvedre, València",
+49000,1.0,3.0,2,34778604,105,100,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+150000,2.0,4.0,1,33950937,2500,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+143168,2.0,3.0,2,35112329,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",1811
+65000,1.0,3.0,2,29721048,100,84,Sagunto/Sagunt,"Camp de Morvedre, València",
+59000,2.0,4.0,2,33950361,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,2.0,3.0,1,33951038,3602,104,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+56000,1.0,3.0,0,35442884,180,167,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+60000,1.0,3.0,0,35488354,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",1950
+99000,2.0,3.0,2,35791202,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",1999
+80000,2.0,4.0,2,33950383,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,4.0,2,36771106,93,82,Sagunto/Sagunt,"Camp de Morvedre, València",1972
+170000,2.0,3.0,13,36902232,97,90,Sagunto/Sagunt,"Camp de Morvedre, València",2002
+89000,2.0,6.0,2,37053562,165,160,Sagunto/Sagunt,"Camp de Morvedre, València",1964
+70000,2.0,4.0,2,37053569,130,125,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+93000,2.0,3.0,2,37678194,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+63000,2.0,6.0,2,37688804,164,160,Sagunto/Sagunt,"Camp de Morvedre, València",1964
+96000,1.0,2.0,2,36001183,85,80,Sagunto/Sagunt,"Camp de Morvedre, València",
+149000,2.0,3.0,0,33950738,160,150,Sagunto/Sagunt,"Camp de Morvedre, València",1888
+62000,1.0,5.0,0,38000667,140,130,Sagunto/Sagunt,"Camp de Morvedre, València",1940
+83000,1.0,3.0,0,38018926,155,150,Sagunto/Sagunt,"Camp de Morvedre, València",1888
+49000,1.0,3.0,0,38018933,80,70,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+72000,1.0,4.0,0,38018940,205,195,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+145000,2.0,3.0,2,38076431,156,150,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+28000,1.0,5.0,2,38087489,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+110000,2.0,3.0,2,38087492,110,105,Sagunto/Sagunt,"Camp de Morvedre, València",2009
+90000,2.0,4.0,2,38200024,114,104,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+99500,1.0,4.0,2,38254846,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",1972
+53900,1.0,3.0,2,38334619,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+120000,2.0,6.0,2,33950603,172,163,Sagunto/Sagunt,"Camp de Morvedre, València",1964
+115000,1.0,4.0,1,38527129,9000,90,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+90000,1.0,4.0,2,38550125,200,180,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+99900,2.0,3.0,2,38550159,122,90,Sagunto/Sagunt,"Camp de Morvedre, València",1993
+125000,2.0,5.0,2,38554059,145,138,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+230000,3.0,3.0,4,38709471,200,195,Sagunto/Sagunt,"Camp de Morvedre, València",2001
+150000,1.0,5.0,1,38916057,7218,240,Sagunto/Sagunt,"Camp de Morvedre, València",
+79900,2.0,4.0,2,39111956,150,140,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+275000,3.0,3.0,4,39116870,285,,Sagunto/Sagunt,"Camp de Morvedre, València",
+73000,2.0,3.0,13,39318928,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+75000,2.0,3.0,2,39427904,110,98,Sagunto/Sagunt,"Camp de Morvedre, València",1976
+68000,1.0,2.0,2,39447882,93,87,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+105000,2.0,3.0,2,39488310,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+68000,1.0,3.0,2,39599850,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",1964
+50000,2.0,4.0,2,39599859,125,120,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+98000,1.0,3.0,2,39613647,83,78,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+128500,2.0,3.0,2,40044125,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+36000,1.0,4.0,2,40044127,110,105,Sagunto/Sagunt,"Camp de Morvedre, València",
+39000,1.0,4.0,0,40462605,86,80,Sagunto/Sagunt,"Camp de Morvedre, València",1900
+105000,2.0,4.0,1,40462607,1917,200,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+45000,1.0,4.0,2,40477939,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+116000,2.0,3.0,2,40485574,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+119000,2.0,3.0,2,81183011,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+50000,1.0,3.0,2,81230785,115,106,Sagunto/Sagunt,"Camp de Morvedre, València",1989
+64000,2.0,3.0,2,81491379,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",1963
+85000,1.0,4.0,1,81539398,832,85,Sagunto/Sagunt,"Camp de Morvedre, València",1976
+103000,2.0,4.0,2,81572009,122,115,Sagunto/Sagunt,"Camp de Morvedre, València",1974
+125000,2.0,4.0,2,33950476,155,145,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+130000,2.0,4.0,2,33950560,103,95,Sagunto/Sagunt,"Camp de Morvedre, València",1977
+43000,1.0,3.0,2,81243792,115,105,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+80000,1.0,1.0,0,81243810,180,170,Sagunto/Sagunt,"Camp de Morvedre, València",1900
+330000,1.0,4.0,1,33951074,2810,150,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,2.0,5.0,7,82013099,135,126,Sagunto/Sagunt,"Camp de Morvedre, València",
+170000,3.0,3.0,7,82013109,139,100,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+198000,3.0,3.0,7,82013122,175,170,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+26000,1.0,3.0,2,82231238,65,60,Sagunto/Sagunt,"Camp de Morvedre, València",1956
+40000,2.0,5.0,0,82231242,107,100,Sagunto/Sagunt,"Camp de Morvedre, València",1920
+50000,1.0,3.0,0,82277344,103,100,Sagunto/Sagunt,"Camp de Morvedre, València",1888
+36000,0.0,0.0,2,82538316,85,80,Sagunto/Sagunt,"Camp de Morvedre, València",1961
+69000,2.0,5.0,0,82608054,197,190,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+70000,1.0,4.0,0,82708481,165,160,Sagunto/Sagunt,"Camp de Morvedre, València",1963
+80000,2.0,5.0,2,82733198,158,150,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+95000,2.0,3.0,2,82747156,95,85,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+42000,1.0,3.0,2,82845828,122,95,Sagunto/Sagunt,"Camp de Morvedre, València",1972
+130000,2.0,3.0,2,82928127,100,92,Sagunto/Sagunt,"Camp de Morvedre, València",1958
+110000,2.0,3.0,2,82983809,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+72000,1.0,4.0,2,83132433,92,81,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+75000,2.0,3.0,2,83204821,112,100,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+35000,2.0,3.0,0,83443481,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+78000,1.0,3.0,2,35578326,72,69,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+45000,1.0,4.0,0,83538973,176,170,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+85000,2.0,3.0,2,83594344,109,90,Sagunto/Sagunt,"Camp de Morvedre, València",1998
+62500,1.0,3.0,2,83640014,105,94,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+70000,2.0,4.0,0,83809642,110,106,Sagunto/Sagunt,"Camp de Morvedre, València",1957
+39500,1.0,4.0,2,83811931,100,93,Sagunto/Sagunt,"Camp de Morvedre, València",1971
+85000,1.0,3.0,8,83902294,8000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+100000,2.0,5.0,2,33950320,175,165,Sagunto/Sagunt,"Camp de Morvedre, València",
+37000,1.0,3.0,3,27842969,95,,Sagunto/Sagunt,"Camp de Morvedre, València",
+62000,1.0,2.0,2,84109481,88,84,Sagunto/Sagunt,"Camp de Morvedre, València",1967
+45000,1.0,4.0,2,84149925,91,81,Sagunto/Sagunt,"Camp de Morvedre, València",1966
+125000,2.0,3.0,2,84149927,105,90,Sagunto/Sagunt,"Camp de Morvedre, València",2004
+80000,2.0,4.0,2,84237275,135,120,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+90000,1.0,3.0,13,84313236,120,96,Sagunto/Sagunt,"Camp de Morvedre, València",
+115000,1.0,4.0,1,84332912,2375,150,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+42896,1.0,3.0,2,84406570,94,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+74000,1.0,4.0,0,84547386,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47500,2.0,3.0,2,81475659,110,96,Sagunto/Sagunt,"Camp de Morvedre, València",
+46550,1.0,3.0,11,81475317,135,115,Sagunto/Sagunt,"Camp de Morvedre, València",
+74500,1.0,2.0,2,81871573,83,73,Sagunto/Sagunt,"Camp de Morvedre, València",
+52000,2.0,4.0,2,83554390,107,,Sagunto/Sagunt,"Camp de Morvedre, València",
+104300,2.0,4.0,2,84062215,143,126,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,3.0,2,84933963,67,60,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+60000,1.0,3.0,2,31367391,93,79,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,3.0,2,1681721,110,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,4.0,2,1856363,100,96,Sagunto/Sagunt,"Camp de Morvedre, València",
+100000,2.0,3.0,2,2058277,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+50000,1.0,3.0,2,2064182,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,3.0,13,441598,160,,Sagunto/Sagunt,"Camp de Morvedre, València",
+160000,3.0,3.0,7,28577295,132,110,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,1.0,3.0,2,30191202,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+40000,1.0,3.0,2,32516805,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+68000,2.0,5.0,2,32816355,216,162,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,3.0,2,1620561,98,88,Sagunto/Sagunt,"Camp de Morvedre, València",
+79000,2.0,3.0,2,2036472,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,1.0,3.0,2,35299359,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93600,2.0,3.0,2,35430941,111,,Sagunto/Sagunt,"Camp de Morvedre, València",
+140000,1.0,2.0,2,28256979,85,75,Sagunto/Sagunt,"Camp de Morvedre, València",
+89999,1.0,3.0,2,37362162,85,,Sagunto/Sagunt,"Camp de Morvedre, València",
+92500,2.0,5.0,2,37495997,140,,Sagunto/Sagunt,"Camp de Morvedre, València",
+122000,2.0,4.0,2,36558717,145,112,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,2.0,1,38633568,59,,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,3.0,2,38676497,95,,Sagunto/Sagunt,"Camp de Morvedre, València",
+140000,2.0,3.0,2,38754247,90,84,Sagunto/Sagunt,"Camp de Morvedre, València",
+40000,1.0,3.0,2,38992139,100,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+148000,2.0,4.0,2,39196937,105,95,Sagunto/Sagunt,"Camp de Morvedre, València",
+89999,2.0,4.0,2,39226490,117,115,Sagunto/Sagunt,"Camp de Morvedre, València",
+138000,1.0,1.0,1,40213101,224,,Sagunto/Sagunt,"Camp de Morvedre, València",
+96400,1.0,1.0,1,40519953,71,,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,0.0,1.0,2,40568708,81,,Sagunto/Sagunt,"Camp de Morvedre, València",
+110000,2.0,2.0,2,40573045,105,,Sagunto/Sagunt,"Camp de Morvedre, València",
+28000,1.0,3.0,2,81332748,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+82550,1.0,3.0,2,81622022,90,80,Sagunto/Sagunt,"Camp de Morvedre, València",
+95100,1.0,1.0,2,81666726,137,,Sagunto/Sagunt,"Camp de Morvedre, València",
+82500,2.0,3.0,2,81726594,98,87,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,1.0,3.0,2,81912349,76,,Sagunto/Sagunt,"Camp de Morvedre, València",
+275250,1.0,3.0,2,82733765,150,118,Sagunto/Sagunt,"Camp de Morvedre, València",
+160000,2.0,3.0,1,82912551,4155,,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,4.0,2,83059116,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+37065,1.0,3.0,2,38824953,107,,Sagunto/Sagunt,"Camp de Morvedre, València",
+32543,1.0,3.0,2,39706693,50,,Sagunto/Sagunt,"Camp de Morvedre, València",
+36602,1.0,3.0,2,36558100,78,,Sagunto/Sagunt,"Camp de Morvedre, València",
+30374,1.0,3.0,2,36557469,58,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,1.0,2,38662439,90,76,Sagunto/Sagunt,"Camp de Morvedre, València",
+56100,1.0,4.0,2,39236284,94,78,Sagunto/Sagunt,"Camp de Morvedre, València",
+41300,2.0,2.0,2,83085317,9999,,Sagunto/Sagunt,"Camp de Morvedre, València",
+39100,1.0,2.0,2,36558719,96,,Sagunto/Sagunt,"Camp de Morvedre, València",
+37600,1.0,1.0,2,83086097,99,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47000,1.0,4.0,2,83086302,95,81,Sagunto/Sagunt,"Camp de Morvedre, València",
+44200,2.0,4.0,2,83205974,94,86,Sagunto/Sagunt,"Camp de Morvedre, València",
+60400,1.0,3.0,2,83237934,999,,Sagunto/Sagunt,"Camp de Morvedre, València",
+44503,1.0,4.0,2,36555459,116,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93000,1.0,3.0,2,83634625,75,,Sagunto/Sagunt,"Camp de Morvedre, València",
+73500,1.0,3.0,2,83825618,104,83,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,1.0,3.0,2,83940056,95,,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,2.0,4.0,2,83982808,125,,Sagunto/Sagunt,"Camp de Morvedre, València",
+35000,1.0,3.0,1,84163452,150,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+58000,1.0,3.0,2,84520121,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+68000,2.0,3.0,2,84623463,75,60,Sagunto/Sagunt,"Camp de Morvedre, València",
+22000,1.0,1.0,3,33768032,20,37,Sagunto/Sagunt,"Camp de Morvedre, València",
+184000,2.0,3.0,13,82715338,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+29000,1.0,4.0,2,83905867,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+73000,2.0,4.0,2,84437637,119,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+78000,1.0,4.0,2,84755620,99,80,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+50000,1.0,4.0,2,84764807,99,88,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+59000,2.0,4.0,2,33950299,135,125,Sagunto/Sagunt,"Camp de Morvedre, València",
+25000,1.0,3.0,2,38227854,65,60,Sagunto/Sagunt,"Camp de Morvedre, València",1959
+43000,1.0,5.0,2,84894838,120,,Sagunto/Sagunt,"Camp de Morvedre, València",
+49000,1.0,4.0,11,84926492,122,,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,1.0,1.0,1,31379755,60,,Sagunto/Sagunt,"Camp de Morvedre, València",
+63000,1.0,3.0,2,37387664,117,,Sagunto/Sagunt,"Camp de Morvedre, València",
+51000,1.0,3.0,13,81652190,96,77,Sagunto/Sagunt,"Camp de Morvedre, València",1962
+83710,1.0,4.0,2,81946423,124,101,Sagunto/Sagunt,"Camp de Morvedre, València",
+94810,1.0,1.0,2,82303981,139,,Sagunto/Sagunt,"Camp de Morvedre, València",
+85200,2.0,3.0,2,82733764,107,82,Sagunto/Sagunt,"Camp de Morvedre, València",
+37300,1.0,3.0,2,82733772,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60000,1.0,3.0,2,27892936,93,,Sagunto/Sagunt,"Camp de Morvedre, València",
+41299,1.0,3.0,2,38662584,102,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+50600,1.0,3.0,2,36560066,93,76,Sagunto/Sagunt,"Camp de Morvedre, València",
+37100,1.0,1.0,2,81183843,72,58,Sagunto/Sagunt,"Camp de Morvedre, València",
+35800,1.0,1.0,2,83085570,63,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+51000,1.0,3.0,2,81285161,96,77,Sagunto/Sagunt,"Camp de Morvedre, València",
+33230,1.0,3.0,2,36536676,84,,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,2.0,3.0,2,28917465,114,,Sagunto/Sagunt,"Camp de Morvedre, València",
+48000,1.0,2.0,2,38227864,80,75,Sagunto/Sagunt,"Camp de Morvedre, València",1955
+39900,1.0,3.0,2,82692465,85,80,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+103300,2.0,3.0,2,84524641,98,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+110600,2.0,3.0,2,84525421,98,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+70000,1.0,2.0,3,84773209,220,,Sagunto/Sagunt,"Camp de Morvedre, València",
+98000,2.0,4.0,2,84791606,119,,Sagunto/Sagunt,"Camp de Morvedre, València",
+79000,2.0,5.0,3,84791628,172,105,Sagunto/Sagunt,"Camp de Morvedre, València",
+63000,1.0,3.0,2,37358436,117,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+39000,1.0,3.0,2,83905887,75,70,Sagunto/Sagunt,"Camp de Morvedre, València",
+290000,1.0,1.0,1,84342521,300,,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+275250,1.0,3.0,2,84500611,150,,Sagunto/Sagunt,"Camp de Morvedre, València",
+39000,1.0,3.0,2,31468652,85,,Sagunto/Sagunt,"Camp de Morvedre, València",
+104300,4.0,4.0,2,33141807,143,,Sagunto/Sagunt,"Camp de Morvedre, València",
+86400,1.0,2.0,2,33143024,85,,Sagunto/Sagunt,"Camp de Morvedre, València",
+275250,1.0,3.0,2,82658519,150,118,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+68000,2.0,4.0,2,40135050,108,100,Sagunto/Sagunt,"Camp de Morvedre, València",1984
+34714,1.0,2.0,2,39275963,66,54,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,1.0,0,81476090,115,110,Sagunto/Sagunt,"Camp de Morvedre, València",
+47000,1.0,4.0,2,81740874,95,81,Sagunto/Sagunt,"Camp de Morvedre, València",
+128000,1.0,3.0,1,83620003,1200,95,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+37065,1.0,3.0,2,39274521,107,89,Sagunto/Sagunt,"Camp de Morvedre, València",
+100300,1.0,3.0,8,84747284,241,,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+63000,1.0,3.0,2,83663077,117,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+230000,2.0,3.0,4,83686086,169,,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+32543,1.0,3.0,2,81135986,59,49,Sagunto/Sagunt,"Camp de Morvedre, València",
+38000,1.0,3.0,13,84902414,95,,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,2.0,3.0,2,38456650,165,,Sagunto/Sagunt,"Camp de Morvedre, València",
+110000,1.0,6.0,2,33950550,155,149,Sagunto/Sagunt,"Camp de Morvedre, València",1953
+175000,2.0,4.0,0,33950744,205,200,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+306000,3.0,5.0,1,33951004,1800,180,Sagunto/Sagunt,"Camp de Morvedre, València",
+109000,2.0,2.0,2,33951258,98,90,Sagunto/Sagunt,"Camp de Morvedre, València",2000
+85000,2.0,4.0,2,33951274,135,128,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+288000,3.0,3.0,4,35716750,280,265,Sagunto/Sagunt,"Camp de Morvedre, València",
+235000,3.0,5.0,0,35780624,230,210,Sagunto/Sagunt,"Camp de Morvedre, València",1920
+477200,3.0,4.0,1,36500092,2208,,Sagunto/Sagunt,"Camp de Morvedre, València",
+35400,1.0,3.0,2,38236711,60,55,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+300000,2.0,3.0,1,33950987,2125,245,Sagunto/Sagunt,"Camp de Morvedre, València",
+33000,1.0,5.0,2,38247446,120,117,Sagunto/Sagunt,"Camp de Morvedre, València",1957
+360000,2.0,4.0,1,38779905,556,170,Sagunto/Sagunt,"Camp de Morvedre, València",1985
+119000,2.0,4.0,2,33950536,150,144,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+71250,1.0,3.0,0,81476327,112,102,Sagunto/Sagunt,"Camp de Morvedre, València",
+33250,1.0,3.0,2,81475944,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+186000,2.0,3.0,1,81243816,3486,140,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+120000,2.0,3.0,7,82013112,155,147,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+140000,2.0,5.0,13,82909934,165,153,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+42896,1.0,3.0,2,83069201,94,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+37000,1.0,3.0,13,83204367,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+104300,4.0,4.0,2,83656030,143,,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+96000,1.0,2.0,2,83657490,85,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+120000,1.0,4.0,1,84639304,4307,150,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+70000,1.0,2.0,1,30900691,250,,Sagunto/Sagunt,"Camp de Morvedre, València",
+73000,1.0,1.0,1,36996746,103,99,Sagunto/Sagunt,"Camp de Morvedre, València",
+30374,1.0,3.0,2,38528866,59,49,Sagunto/Sagunt,"Camp de Morvedre, València",
+477200,3.0,4.0,2,39809508,128,,Sagunto/Sagunt,"Camp de Morvedre, València",
+410000,3.0,6.0,4,82277526,230,203,Sagunto/Sagunt,"Camp de Morvedre, València",
+36602,1.0,3.0,2,37824371,78,64,Sagunto/Sagunt,"Camp de Morvedre, València",
+42900,1.0,3.0,2,39202711,94,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+44200,2.0,4.0,2,83920110,94,86,Sagunto/Sagunt,"Camp de Morvedre, València",
+39900,1.0,3.0,2,84662868,64,,Sagunto/Sagunt,"Camp de Morvedre, València",
+121300,1.0,3.0,1,84952101,1001,90,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+125000,3.0,3.0,3,39423622,100,89,Sagunto/Sagunt,"Camp de Morvedre, València",
+41299,1.0,3.0,2,39274842,102,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+83710,1.0,4.0,2,37825642,124,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,1.0,5.0,2,1800884,130,115,Sagunto/Sagunt,"Camp de Morvedre, València",
+110000,2.0,4.0,13,28556621,180,160,Sagunto/Sagunt,"Camp de Morvedre, València",
+129000,2.0,4.0,2,30902905,106,,Sagunto/Sagunt,"Camp de Morvedre, València",
+96000,2.0,3.0,2,31340774,105,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+125000,2.0,2.0,2,33464641,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,1.0,3.0,2,34464076,66,,Sagunto/Sagunt,"Camp de Morvedre, València",1969
+119000,2.0,3.0,2,36955717,103,85,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+477200,3.0,4.0,0,37445923,128,118,Sagunto/Sagunt,"Camp de Morvedre, València",
+87000,1.0,4.0,2,38045960,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",1974
+60000,2.0,2.0,1,38437795,45,99,Sagunto/Sagunt,"Camp de Morvedre, València",
+140000,2.0,4.0,1,38664048,900,116,Sagunto/Sagunt,"Camp de Morvedre, València",1999
+142000,2.0,3.0,2,39050617,101,95,Sagunto/Sagunt,"Camp de Morvedre, València",2012
+299000,2.0,4.0,0,39106285,275,260,Sagunto/Sagunt,"Camp de Morvedre, València",1997
+80000,1.0,6.0,1,39365915,72,145,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,3.0,4.0,7,39741001,87,,Sagunto/Sagunt,"Camp de Morvedre, València",
+240000,3.0,6.0,0,40331056,200,190,Sagunto/Sagunt,"Camp de Morvedre, València",1956
+65000,1.0,2.0,2,81437690,72,65,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,5.0,2,81243796,200,180,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+115000,1.0,4.0,1,82136123,9000,120,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,1.0,3.0,13,82455434,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",1953
+115000,2.0,3.0,2,82692462,109,100,Sagunto/Sagunt,"Camp de Morvedre, València",1998
+39000,1.0,3.0,2,82990234,80,75,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,1.0,4.0,2,83185562,110,94,Sagunto/Sagunt,"Camp de Morvedre, València",
+59800,1.0,4.0,2,83109495,70,,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,3.0,2,83964237,107,95,Sagunto/Sagunt,"Camp de Morvedre, València",2002
+33000,1.0,3.0,2,83967279,70,,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+34000,1.0,3.0,2,84285610,85,80,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+160000,2.0,3.0,1,84420149,1200,125,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+120000,2.0,5.0,2,84425739,145,140,Sagunto/Sagunt,"Camp de Morvedre, València",
+220000,3.0,3.0,4,84534670,250,180,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+120000,1.0,2.0,0,84622611,154,145,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+41300,1.0,2.0,2,82665142,9999,,Sagunto/Sagunt,"Camp de Morvedre, València",
+110000,2.0,4.0,1,83839326,140,,Sagunto/Sagunt,"Camp de Morvedre, València",
+30500,1.0,4.0,2,81476371,96,80,Sagunto/Sagunt,"Camp de Morvedre, València",
+28442,1.0,3.0,2,36556669,81,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47800,1.0,3.0,2,84951379,80,77,Sagunto/Sagunt,"Camp de Morvedre, València",1969
+240000,3.0,4.0,4,39271655,250,,Sagunto/Sagunt,"Camp de Morvedre, València",
+94810,2.0,3.0,2,82470017,139,,Sagunto/Sagunt,"Camp de Morvedre, València",
+35800,1.0,2.0,2,83727239,62,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+39900,1.0,3.0,2,84675072,64,,Sagunto/Sagunt,"Camp de Morvedre, València",
+69080,4.0,5.0,2,84828377,150,,Sagunto/Sagunt,"Camp de Morvedre, València",
+72000,1.0,3.0,2,1625738,95,,Sagunto/Sagunt,"Camp de Morvedre, València",
+112500,1.0,3.0,13,2031674,180,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+90000,2.0,5.0,2,27526051,144,143,Sagunto/Sagunt,"Camp de Morvedre, València",
+99000,2.0,4.0,2,32905803,120,,Sagunto/Sagunt,"Camp de Morvedre, València",
+115000,1.0,4.0,1,33213143,8500,130,Sagunto/Sagunt,"Camp de Morvedre, València",
+90000,2.0,4.0,2,34663999,120,,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,1.0,3.0,8,34849335,3012,198,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+180000,2.0,3.0,13,2146099,200,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+119000,2.0,3.0,2,37892365,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+110000,2.0,4.0,2,39026299,110,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+95000,2.0,3.0,9,39340418,453,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+65000,1.0,4.0,3,40093052,200,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93600,2.0,3.0,2,40231730,111,92,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,6.0,4,81711138,97,,Sagunto/Sagunt,"Camp de Morvedre, València",
+58000,2.0,3.0,2,82784817,112,,Sagunto/Sagunt,"Camp de Morvedre, València",
+34714,1.0,2.0,2,36555534,67,,Sagunto/Sagunt,"Camp de Morvedre, València",
+25500,1.0,2.0,1,39259954,63,,Sagunto/Sagunt,"Camp de Morvedre, València",
+60400,1.0,3.0,2,83727464,999,,Sagunto/Sagunt,"Camp de Morvedre, València",
+69100,4.0,5.0,2,84935546,150,,Sagunto/Sagunt,"Camp de Morvedre, València",
+47800,1.0,3.0,2,84971124,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,3.0,2,84993433,120,115,Sagunto/Sagunt,"Camp de Morvedre, València",2006
+180000,1.0,2.0,2,30899636,65,,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,2.0,4.0,1,30899997,72,,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,1.0,2.0,1,30900097,980,,Sagunto/Sagunt,"Camp de Morvedre, València",
+105000,1.0,3.0,1,30900316,953,,Sagunto/Sagunt,"Camp de Morvedre, València",
+103000,1.0,3.0,1,30900632,800,,Sagunto/Sagunt,"Camp de Morvedre, València",
+70000,1.0,3.0,2,30901298,108,,Sagunto/Sagunt,"Camp de Morvedre, València",
+140000,2.0,3.0,1,30901791,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93000,1.0,2.0,0,30902077,5000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+125000,2.0,5.0,1,30902184,50,,Sagunto/Sagunt,"Camp de Morvedre, València",
+73000,1.0,4.0,1,30902298,1000,,Sagunto/Sagunt,"Camp de Morvedre, València",1995
+124000,1.0,3.0,1,30902410,900,,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,1.0,2.0,2,30902458,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+65000,2.0,6.0,1,30902520,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+163000,1.0,2.0,4,30902994,50,,Sagunto/Sagunt,"Camp de Morvedre, València",
+155000,1.0,3.0,1,30903044,10400,,Sagunto/Sagunt,"Camp de Morvedre, València",
+200000,2.0,3.0,1,82580922,300,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+33000,2.0,3.0,3,82896260,90,,Sagunto/Sagunt,"Camp de Morvedre, València",1954
+180000,3.0,4.0,1,1120237,170,,Sagunto/Sagunt,"Camp de Morvedre, València",
+260000,3.0,5.0,1,83642731,1470,,Sagunto/Sagunt,"Camp de Morvedre, València",2001
+33500,1.0,2.0,3,84137885,39,,Sagunto/Sagunt,"Camp de Morvedre, València",1900
+49500,2.0,3.0,3,84139919,72,,Sagunto/Sagunt,"Camp de Morvedre, València",1950
+99000,2.0,2.0,2,83794457,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93600,2.0,3.0,2,30272981,111,92,Sagunto/Sagunt,"Camp de Morvedre, València",2006
+248000,3.0,3.0,4,33526850,170,,Sagunto/Sagunt,"Camp de Morvedre, València",
+68000,1.0,4.0,1,26640072,200,180,Sagunto/Sagunt,"Camp de Morvedre, València",
+47000,1.0,2.0,2,27256690,60,58,Sagunto/Sagunt,"Camp de Morvedre, València",
+99600,2.0,3.0,2,81388311,98,,Sagunto/Sagunt,"Camp de Morvedre, València",
+106700,2.0,3.0,2,81387601,98,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93300,2.0,3.0,2,81390213,98,,Sagunto/Sagunt,"Camp de Morvedre, València",
+99500,2.0,3.0,2,81387834,98,,Sagunto/Sagunt,"Camp de Morvedre, València",
+550000,3.0,5.0,1,83303225,3000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,1.0,3.0,2,36538355,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+59900,1.0,3.0,2,36556237,74,,Sagunto/Sagunt,"Camp de Morvedre, València",
+41962,1.0,3.0,2,36555237,96,,Sagunto/Sagunt,"Camp de Morvedre, València",
+56300,1.0,3.0,2,36556238,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+101300,1.0,4.0,2,83672843,148,,Sagunto/Sagunt,"Camp de Morvedre, València",
+93600,2.0,3.0,2,31172031,111,92,Sagunto/Sagunt,"Camp de Morvedre, València",
+48700,2.0,4.0,2,81359692,164,126,Sagunto/Sagunt,"Camp de Morvedre, València",
+96000,1.0,2.0,13,83674949,85,80,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+42896,1.0,3.0,2,83802126,94,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+41000,1.0,2.0,2,83978407,54,50,Sagunto/Sagunt,"Camp de Morvedre, València",1950
+100000,2.0,3.0,2,84764809,130,119,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+160000,2.0,4.0,2,1816534,180,160,Sagunto/Sagunt,"Camp de Morvedre, València",
+220000,2.0,5.0,1,35968254,1800,120,Sagunto/Sagunt,"Camp de Morvedre, València",1986
+215000,3.0,3.0,4,36883043,150,140,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,1.0,2.0,8,36911086,5817,100,Sagunto/Sagunt,"Camp de Morvedre, València",1994
+70000,1.0,3.0,1,83569832,140,,Sagunto/Sagunt,"Camp de Morvedre, València",
+105000,2.0,4.0,2,83667269,125,120,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+55000,2.0,4.0,2,84650699,115,,Sagunto/Sagunt,"Camp de Morvedre, València",
+135000,1.0,3.0,1,35090518,1800,100,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+42000,1.0,3.0,2,84889694,75,,Sagunto/Sagunt,"Camp de Morvedre, València",
+31000,1.0,3.0,2,84769574,75,,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+96000,1.0,2.0,13,34933104,86,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+180000,2.0,6.0,1,82622974,4348,245,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+33000,2.0,3.0,0,82880874,90,,Sagunto/Sagunt,"Camp de Morvedre, València",
+250000,2.0,3.0,4,30075368,200,180,Sagunto/Sagunt,"Camp de Morvedre, València",
+28442,1.0,3.0,2,37823513,81,65,Sagunto/Sagunt,"Camp de Morvedre, València",
+55000,1.0,3.0,2,81946711,167,,Sagunto/Sagunt,"Camp de Morvedre, València",
+30800,1.0,3.0,2,31719390,99,78,Sagunto/Sagunt,"Camp de Morvedre, València",
+260000,3.0,5.0,1,32421430,1500,,Sagunto/Sagunt,"Camp de Morvedre, València",1995
+265000,3.0,4.0,4,33074651,252,240,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+67200,2.0,4.0,2,33712130,112,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+154000,1.0,4.0,1,33951341,980,98,Sagunto/Sagunt,"Camp de Morvedre, València",1985
+250000,3.0,4.0,4,33951405,295,285,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+150000,2.0,4.0,1,33951387,2300,105,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+1850000,7.0,6.0,1,35543313,3237,840,Sagunto/Sagunt,"Camp de Morvedre, València",
+216900,3.0,3.0,1,38151197,207,200,Sagunto/Sagunt,"Camp de Morvedre, València",
+120000,2.0,3.0,2,36064271,110,,Sagunto/Sagunt,"Camp de Morvedre, València",
+169500,3.0,7.0,1,39488312,800,240,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+300000,2.0,4.0,1,39636221,1398,370,Sagunto/Sagunt,"Camp de Morvedre, València",1985
+192000,2.0,3.0,11,40390416,195,182,Sagunto/Sagunt,"Camp de Morvedre, València",
+64250,1.0,1.0,2,81425810,61,49,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,1.0,3.0,1,82530367,1300,130,Sagunto/Sagunt,"Camp de Morvedre, València",
+250000,3.0,5.0,4,82608056,273,236,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+190000,2.0,5.0,1,82747180,1537,315,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+51000,1.0,3.0,2,83305073,96,,Sagunto/Sagunt,"Camp de Morvedre, València",1962
+133000,1.0,3.0,1,83740109,1000,65,Sagunto/Sagunt,"Camp de Morvedre, València",
+78000,1.0,2.0,3,83877817,46,,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+112000,1.0,2.0,1,83942615,2000,49,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+245900,3.0,4.0,4,84187444,295,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+1850000,4.0,5.0,1,28407473,2400,760,Sagunto/Sagunt,"Camp de Morvedre, València",
+1400000,4.0,4.0,1,28407611,1070,350,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,5.0,8,38736144,2370,220,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+28027,1.0,3.0,13,39537005,120,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,2.0,2.0,0,83215139,1203,166,Sagunto/Sagunt,"Camp de Morvedre, València",
+44503,1.0,4.0,2,37828504,116,108,Sagunto/Sagunt,"Camp de Morvedre, València",
+115500,2.0,4.0,2,84756340,118,110,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+68000,2.0,3.0,2,84775354,75,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+42500,1.0,3.0,2,32242406,107,,Sagunto/Sagunt,"Camp de Morvedre, València",
+800000,4.0,5.0,1,81352354,1004,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+1550000,13.0,15.0,1,82067583,9000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+230000,2.0,3.0,4,83246347,150,160,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+40900,1.0,2.0,2,83943583,54,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+22000,1.0,2.0,2,83943600,65,,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+70000,1.0,3.0,3,84844582,111,150,Sagunto/Sagunt,"Camp de Morvedre, València",
+80000,1.0,2.0,2,25718631,91,,Sagunto/Sagunt,"Camp de Morvedre, València",
+140000,2.0,3.0,2,27796660,100,87,Sagunto/Sagunt,"Camp de Morvedre, València",
+138000,2.0,3.0,1,30822258,160,145,Sagunto/Sagunt,"Camp de Morvedre, València",
+65000,1.0,2.0,4,29422770,84,,Sagunto/Sagunt,"Camp de Morvedre, València",
+175000,1.0,3.0,1,36883944,10400,,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+180000,2.0,5.0,1,38756193,214,,Sagunto/Sagunt,"Camp de Morvedre, València",
+260000,3.0,5.0,4,81786218,156,205,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+96500,1.0,3.0,9,81803507,3435,,Sagunto/Sagunt,"Camp de Morvedre, València",
+147000,3.0,6.0,4,81988151,150,,Sagunto/Sagunt,"Camp de Morvedre, València",2004
+180000,2.0,3.0,3,82365038,150,,Sagunto/Sagunt,"Camp de Morvedre, València",
+94000,1.0,4.0,9,83166908,5500,95,Sagunto/Sagunt,"Camp de Morvedre, València",
+119000,2.0,3.0,2,83478616,107,96,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+100000,2.0,3.0,2,84276948,122,,Sagunto/Sagunt,"Camp de Morvedre, València",
+180000,1.0,4.0,1,30902612,2400,,Sagunto/Sagunt,"Camp de Morvedre, València",
+390000,3.0,5.0,1,33790920,682,183,Sagunto/Sagunt,"Camp de Morvedre, València",
+41962,1.0,3.0,2,37902175,95,74,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,1.0,3.0,2,38826821,100,84,Sagunto/Sagunt,"Camp de Morvedre, València",
+59900,1.0,3.0,2,37829987,73,64,Sagunto/Sagunt,"Camp de Morvedre, València",
+530000,2.0,4.0,1,84055542,1035,240,Sagunto/Sagunt,"Camp de Morvedre, València",
+33230,1.0,3.0,2,37828022,84,76,Sagunto/Sagunt,"Camp de Morvedre, València",
+275000,4.0,6.0,1,84617559,1700,215,Sagunto/Sagunt,"Camp de Morvedre, València",1989
+148000,1.0,5.0,0,84824394,367,360,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+95445,2.0,3.0,0,84865101,163,123,Sagunto/Sagunt,"Camp de Morvedre, València",1940
+1800000,4.0,4.0,1,32908187,1404,,Sagunto/Sagunt,"Camp de Morvedre, València",2010
+120000,1.0,4.0,1,30901528,1500,,Sagunto/Sagunt,"Camp de Morvedre, València",1995
+206000,2.0,3.0,13,39233515,120,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+34900,1.0,2.0,2,82781825,57,50,Sagunto/Sagunt,"Camp de Morvedre, València",
+105000,1.0,3.0,1,82820860,110,90,Sagunto/Sagunt,"Camp de Morvedre, València",
+190000,3.0,6.0,1,84363653,200,190,Sagunto/Sagunt,"Camp de Morvedre, València",
+130000,1.0,3.0,2,84589959,76,,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+28150,1.0,3.0,2,35320045,73,66,Sagunto/Sagunt,"Camp de Morvedre, València",
+210000,3.0,4.0,4,84350054,168,187,Sagunto/Sagunt,"Camp de Morvedre, València",
+149000,2.0,3.0,1,345271,165,,Sagunto/Sagunt,"Camp de Morvedre, València",
+128500,2.0,3.0,2,40244280,134,,Sagunto/Sagunt,"Camp de Morvedre, València",2009
+56300,1.0,3.0,2,37823327,80,75,Sagunto/Sagunt,"Camp de Morvedre, València",
+47700,1.0,4.0,2,39549328,100,83,Sagunto/Sagunt,"Camp de Morvedre, València",
+125000,2.0,3.0,2,39948774,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+149000,2.0,4.0,2,40422182,193,174,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+65000,2.0,5.0,7,84268700,120,115,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+130000,2.0,4.0,2,81421553,176,,Sagunto/Sagunt,"Camp de Morvedre, València",1977
+305000,3.0,5.0,1,83071772,4200,250,Sagunto/Sagunt,"Camp de Morvedre, València",1993
+67200,2.0,4.0,2,84351307,112,102,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+45000,1.0,2.0,2,84495664,81,71,Sagunto/Sagunt,"Camp de Morvedre, València",1971
+30000,1.0,3.0,2,83511913,80,77,Sagunto/Sagunt,"Camp de Morvedre, València",
+92000,1.0,3.0,8,81209721,1056,90,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+680000,3.0,7.0,1,81887008,1060,317,Sagunto/Sagunt,"Camp de Morvedre, València",1992
+47700,1.0,4.0,2,36556366,100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+650000,3.0,4.0,1,83285299,1232,,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+119000,2.0,3.0,2,39540319,100,97,Sagunto/Sagunt,"Camp de Morvedre, València",2005
+150000,1.0,2.0,1,81347611,1000,89,Sagunto/Sagunt,"Camp de Morvedre, València",1987
+1800000,5.0,4.0,1,31726541,1400,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1800000,6.0,4.0,1,35807003,1404,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1050000,4.0,4.0,1,30953720,1098,,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+205000,2.0,3.0,13,31561029,106,,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+250000,2.0,4.0,1,36454327,2500,190,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,3.0,13,36454331,120,116,Sagunto/Sagunt,"Camp de Morvedre, València",
+108300,2.0,4.0,2,37829440,144,111,Sagunto/Sagunt,"Camp de Morvedre, València",
+115000,1.0,4.0,1,38981514,9000,156,Sagunto/Sagunt,"Camp de Morvedre, València",
+160000,2.0,6.0,2,39998690,134,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+149000,2.0,4.0,2,40550248,193,174,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+160000,2.0,3.0,2,81149817,159,,Sagunto/Sagunt,"Camp de Morvedre, València",1978
+530000,2.0,4.0,1,84858941,1000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+530000,2.0,4.0,1,1601668,1035,140,Sagunto/Sagunt,"Camp de Morvedre, València",
+195000,2.0,5.0,1,81189339,1543,,Sagunto/Sagunt,"Camp de Morvedre, València",
+100300,1.0,3.0,5,81956093,2199,,Sagunto/Sagunt,"Camp de Morvedre, València",2012
+530000,2.0,4.0,1,40263826,975,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+120000,2.0,3.0,3,83781711,96,,Sagunto/Sagunt,"Camp de Morvedre, València",1942
+75000,2.0,4.0,2,81243798,125,118,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+35000,1.0,4.0,2,85044193,105,86,Sagunto/Sagunt,"Camp de Morvedre, València",1961
+35000,1.0,3.0,2,85060154,84,75,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+235000,3.0,3.0,11,84776164,198,,Sagunto/Sagunt,"Camp de Morvedre, València",
+230000,3.0,3.0,11,84776150,198,,Sagunto/Sagunt,"Camp de Morvedre, València",
+215000,3.0,3.0,4,84776227,110,,Sagunto/Sagunt,"Camp de Morvedre, València",
+210000,3.0,3.0,4,84776211,110,,Sagunto/Sagunt,"Camp de Morvedre, València",
+950000,3.0,5.0,1,33492066,1118,,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,7.0,3,37933715,250,,Sagunto/Sagunt,"Camp de Morvedre, València",1930
+680000,3.0,6.0,1,81932845,1100,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1500000,4.0,3.0,1,84870791,1887,,Sagunto/Sagunt,"Camp de Morvedre, València",1991
+39000,1.0,3.0,2,83059067,71,61,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+51000,1.0,4.0,2,84023004,110,98,Sagunto/Sagunt,"Camp de Morvedre, València",1973
+45580,2.0,4.0,4,36615715,107,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1150000,3.0,4.0,1,32523496,1118,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+190000,2.0,3.0,2,39998689,255,,Sagunto/Sagunt,"Camp de Morvedre, València",1981
+780000,4.0,5.0,1,40139115,1122,,Sagunto/Sagunt,"Camp de Morvedre, València",1994
+299000,2.0,4.0,1,81645873,206,,Sagunto/Sagunt,"Camp de Morvedre, València",1997
+790000,3.0,6.0,1,83493800,1281,,Sagunto/Sagunt,"Camp de Morvedre, València",1997
+119000,2.0,3.0,2,34911832,107,89,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+47000,1.0,4.0,2,38001052,75,,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+625000,2.0,7.0,1,84922130,1114,,Sagunto/Sagunt,"Camp de Morvedre, València",
+244000,2.0,4.0,4,31584886,220,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1560000,5.0,5.0,1,37563087,1060,,Sagunto/Sagunt,"Camp de Morvedre, València",
+550000,3.0,5.0,1,25629389,850,,Sagunto/Sagunt,"Camp de Morvedre, València",2007
+650000,4.0,4.0,1,27063216,375,,Sagunto/Sagunt,"Camp de Morvedre, València",
+129900,2.0,3.0,2,84222709,97,87,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+93600,2.0,3.0,2,40174710,123,111,Sagunto/Sagunt,"Camp de Morvedre, València",2006
+1550000,6.0,5.0,1,31055679,1300,,Sagunto/Sagunt,"Camp de Morvedre, València",
+34000,1.0,3.0,2,83059073,76,66,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+33000,2.0,3.0,0,83720801,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",
+38500,1.0,3.0,13,84924927,78,,Sagunto/Sagunt,"Camp de Morvedre, València",1971
+1190000,4.0,5.0,1,82517668,900,,Sagunto/Sagunt,"Camp de Morvedre, València",2014
+99000,2.0,5.0,2,38657457,175,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+118000,1.0,1.0,2,35561302,118,100,Sagunto/Sagunt,"Camp de Morvedre, València",
+51000,1.0,3.0,13,81259933,96,,Sagunto/Sagunt,"Camp de Morvedre, València",1962
+78000,1.0,3.0,1,40539089,872,,Sagunto/Sagunt,"Camp de Morvedre, València",
+129537,1.0,3.0,1,83381981,100,95,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+82500,2.0,3.0,2,84942471,98,87,Sagunto/Sagunt,"Camp de Morvedre, València",
+60100,1.0,3.0,2,84942495,103,83,Sagunto/Sagunt,"Camp de Morvedre, València",
+37600,1.0,3.0,2,84943478,99,,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+37065,1.0,3.0,2,84943597,107,89,Sagunto/Sagunt,"Camp de Morvedre, València",
+36602,1.0,3.0,2,84943609,78,64,Sagunto/Sagunt,"Camp de Morvedre, València",
+410000,3.0,6.0,2,84942408,229,203,Sagunto/Sagunt,"Camp de Morvedre, València",
+101300,2.0,4.0,2,84942510,148,,Sagunto/Sagunt,"Camp de Morvedre, València",
+85200,2.0,3.0,2,84943482,106,81,Sagunto/Sagunt,"Camp de Morvedre, València",2006
+55000,1.0,3.0,2,81961716,167,,Sagunto/Sagunt,"Camp de Morvedre, València",
+45000,1.0,3.0,2,81961717,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+155000,3.0,3.0,0,39818875,250,200,Sagunto/Sagunt,"Camp de Morvedre, València",1980
+530000,2.0,3.0,1,81249512,140,,Sagunto/Sagunt,"Camp de Morvedre, València",1979
+1850000,7.0,5.0,0,81249516,1076,,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+1495000,6.0,6.0,1,81249533,1200,,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+1550000,13.0,15.0,0,81249537,583,,Sagunto/Sagunt,"Camp de Morvedre, València",
+790000,4.0,5.0,1,81249569,523,,Sagunto/Sagunt,"Camp de Morvedre, València",2002
+128750,1.0,3.0,1,82317535,2500,100,Sagunto/Sagunt,"Camp de Morvedre, València",1960
+700000,3.0,4.0,0,82421002,550,,Sagunto/Sagunt,"Camp de Morvedre, València",2006
+275250,1.0,3.0,2,83533491,150,118,Sagunto/Sagunt,"Camp de Morvedre, València",1968
+200000,0.0,0.0,0,84539594,269,,Sagunto/Sagunt,"Camp de Morvedre, València",
+45000,2.0,3.0,2,84488164,81,76,Sagunto/Sagunt,"Camp de Morvedre, València",1961
+82000,2.0,4.0,2,83688374,145,125,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+1325000,6.0,7.0,1,82515408,1144,,Sagunto/Sagunt,"Camp de Morvedre, València",2004
+95000,2.0,3.0,2,84173322,103,,Sagunto/Sagunt,"Camp de Morvedre, València",1990
+625000,2.0,7.0,1,84490141,1114,,Sagunto/Sagunt,"Camp de Morvedre, València",2005
+42500,1.0,3.0,2,85017197,107,,Sagunto/Sagunt,"Camp de Morvedre, València",
+28150,1.0,3.0,2,85017198,73,66,Sagunto/Sagunt,"Camp de Morvedre, València",
+39100,1.0,2.0,2,84943426,96,,Sagunto/Sagunt,"Camp de Morvedre, València",
+44200,2.0,4.0,2,84943427,94,86,Sagunto/Sagunt,"Camp de Morvedre, València",
+350000,2.0,3.0,1,82588706,9000,,Sagunto/Sagunt,"Camp de Morvedre, València",
+32500,1.0,3.0,2,84972558,80,,Sagunto/Sagunt,"Camp de Morvedre, València",
+45000,1.0,3.0,2,81961719,75,,Sagunto/Sagunt,"Camp de Morvedre, València",
+1600000,4.0,4.0,1,83951950,2099,,Sagunto/Sagunt,"Camp de Morvedre, València",
+2500000,5.0,5.0,1,83967677,2296,,Sagunto/Sagunt,"Camp de Morvedre, València",
+41962,1.0,3.0,2,84943445,95,74,Sagunto/Sagunt,"Camp de Morvedre, València",
+37100,1.0,3.0,2,84943454,71,57,Sagunto/Sagunt,"Camp de Morvedre, València",
+85000,1.0,3.0,2,84943610,100,84,Sagunto/Sagunt,"Camp de Morvedre, València",1974
+94810,2.0,3.0,2,84943618,139,,Sagunto/Sagunt,"Camp de Morvedre, València",1975
+3900000,6.0,6.0,1,81249529,691,,Sagunto/Sagunt,"Camp de Morvedre, València",2017
+109000,1.0,2.0,1,82915536,2400,120,Sagunto/Sagunt,"Camp de Morvedre, València",1995
+995000,4.0,4.0,1,81249578,298,,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+299000,2.0,4.0,0,85013543,275,,Sagunto/Sagunt,"Camp de Morvedre, València",1997
+83000,1.0,3.0,1,35829040,1123,80,Sagunto/Sagunt,"Camp de Morvedre, València",1976
+129000,2.0,3.0,2,84029418,109,95,Sagunto/Sagunt,"Camp de Morvedre, València",2003
+79900,2.0,4.0,2,83687699,129,110,Sagunto/Sagunt,"Camp de Morvedre, València",1982
+131000,2.0,2.0,1,40346210,114,,Sagunto/Sagunt,"Camp de Morvedre, València",1920
+444000,3.0,4.0,11,83523599,230,203,Sagunto/Sagunt,"Camp de Morvedre, València",2010
+100000,2.0,3.0,2,39242280,122,,Sagunto/Sagunt,"Camp de Morvedre, València",1993
+175000,2.0,3.0,2,84596094,144,123,Sagunto/Sagunt,"Camp de Morvedre, València",2008
+365000,3.0,4.0,1,81889806,262,,Sagunto/Sagunt,"Camp de Morvedre, València",
+150000,2.0,3.0,1,40170809,131,,Sagunto/Sagunt,"Camp de Morvedre, València",1888
+60000,1.0,4.0,13,84793726,130,122,Sagunto/Sagunt,"Camp de Morvedre, València",
+151000,1.0,5.0,2,40332338,134,,Sagunto/Sagunt,"Camp de Morvedre, València",1953
+70000,2.0,2.0,1,84822761,1000,43,Sagunto/Sagunt,"Camp de Morvedre, València",1977
+40000,1.0,3.0,2,84788045,95,90,Sagunto/Sagunt,"Camp de Morvedre, València",1970
+36000,1.0,3.0,2,84987740,65,58,Sagunto/Sagunt,"Camp de Morvedre, València",1956
+45000,1.0,3.0,13,84988467,90,85,Sagunto/Sagunt,"Camp de Morvedre, València",1965
+price,0.0,0.0,12,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+119900,2.0,4.0,2,83612025,108,98,La Torre,"Valencia, València",2001
+68000,2.0,3.0,2,81426292,100,95,Forn de Alcedo,"Valencia, València",
+120000,2.0,3.0,2,36425052,90,85,Castellar-Oliveral,"Valencia, València",
+350000,4.0,6.0,7,40023531,180,,La Torre,"Valencia, València",
+85000,1.0,2.0,2,27116634,130,73,La Torre,"Valencia, València",
+35344,1.0,4.0,2,36532891,99,,La Torre,"Valencia, València",
+69000,1.0,4.0,2,83384393,81,80,La Torre,"Valencia, València",
+49000,2.0,3.0,2,84528568,85,74,La Torre,"Valencia, València",
+75000,1.0,2.0,2,82315637,71,,La Torre,"Valencia, València",
+65000,1.0,3.0,2,84601369,78,,La Torre,"Valencia, València",1956
+49000,1.0,3.0,13,27261506,80,75,Castellar-Oliveral,"Valencia, València",
+120000,2.0,3.0,2,81932747,108,90,La Torre,"Valencia, València",
+87000,1.0,3.0,2,84844900,86,79,La Torre,"Valencia, València",1976
+135000,2.0,4.0,2,33117638,150,142,Castellar-Oliveral,"Valencia, València",
+55000,1.0,4.0,2,34843410,95,,Castellar-Oliveral,"Valencia, València",
+100000,1.0,3.0,2,35020263,118,,Castellar-Oliveral,"Valencia, València",
+150000,2.0,3.0,2,36828828,93,80,Castellar-Oliveral,"Valencia, València",1975
+165000,2.0,3.0,2,36850430,98,80,La Torre,"Valencia, València",1996
+90000,1.0,3.0,2,38266935,98,,La Torre,"Valencia, València",
+180000,3.0,3.0,4,28316044,150,135,Forn de Alcedo,"Valencia, València",2000
+145000,2.0,3.0,2,33219078,98,80,La Torre,"Valencia, València",
+120000,1.0,3.0,2,81561851,100,,Castellar-Oliveral,"Valencia, València",1973
+225000,2.0,3.0,1,81642883,440,,La Torre,"Valencia, València",
+95000,1.0,4.0,2,83927432,90,,La Torre,"Valencia, València",
+278000,1.0,4.0,4,84594228,280,,La Torre,"Valencia, València",1988
+52349,1.0,3.0,2,36590957,68,,La Torre,"Valencia, València",
+79100,1.0,3.0,2,81328286,78,,La Torre,"Valencia, València",1980
+330000,2.0,4.0,7,26038012,160,154,Castellar-Oliveral,"Valencia, València",
+285000,4.0,5.0,7,26152934,320,300,Castellar-Oliveral,"Valencia, València",
+150000,2.0,4.0,2,31078869,110,106,La Torre,"Valencia, València",
+160000,2.0,3.0,2,33308263,100,93,Castellar-Oliveral,"Valencia, València",
+75000,1.0,2.0,2,36129449,80,70,La Torre,"Valencia, València",
+49000,0.0,1.0,2,38213197,110,,La Torre,"Valencia, València",
+206000,2.0,3.0,2,35245774,138,125,Castellar-Oliveral,"Valencia, València",2010
+32795,1.0,3.0,2,36532860,68,,La Torre,"Valencia, València",
+98270,1.0,2.0,2,36815722,68,,Castellar-Oliveral,"Valencia, València",
+98000,1.0,4.0,2,82359766,99,,Castellar-Oliveral,"Valencia, València",
+47000,1.0,3.0,2,82843876,78,,Castellar-Oliveral,"Valencia, València",
+78000,1.0,3.0,2,84495087,85,,Castellar-Oliveral,"Valencia, València",1964
+225000,2.0,3.0,7,84581554,155,120,Castellar-Oliveral,"Valencia, València",2004
+170000,2.0,3.0,2,36330607,110,100,La Torre,"Valencia, València",
+125000,2.0,3.0,2,84729355,107,,Castellar-Oliveral,"Valencia, València",
+136000,2.0,3.0,2,38153698,117,100,La Torre,"Valencia, València",2008
+71000,2.0,2.0,2,82471766,80,74,La Torre,"Valencia, València",1957
+150000,2.0,3.0,2,82554318,110,100,La Torre,"Valencia, València",1982
+145000,2.0,2.0,7,83813832,108,96,Forn de Alcedo,"Valencia, València",1996
+73000,1.0,3.0,2,34423946,80,70,La Torre,"Valencia, València",1976
+52000,1.0,4.0,2,40289951,85,80,Forn de Alcedo,"Valencia, València",1970
+63000,1.0,3.0,2,84068795,70,,Castellar-Oliveral,"Valencia, València",
+215000,2.0,3.0,0,39696629,235,,Castellar-Oliveral,"Valencia, València",1942
+65000,1.0,3.0,2,81742906,77,,La Torre,"Valencia, València",
+65000,1.0,3.0,2,84057453,70,,Castellar-Oliveral,"Valencia, València",
+62000,1.0,3.0,2,84774088,88,83,La Torre,"Valencia, València",1966
+139000,2.0,2.0,2,37330211,80,,La Torre,"Valencia, València",
+88000,1.0,3.0,2,37990893,102,,Castellar-Oliveral,"Valencia, València",
+366000,1.0,3.0,2,38883208,120,,La Torre,"Valencia, València",
+49500,1.0,4.0,2,39391789,81,,Castellar-Oliveral,"Valencia, València",1969
+215000,1.0,4.0,3,81420881,141,,Castellar-Oliveral,"Valencia, València",1920
+115000,2.0,2.0,2,83722371,150,,La Torre,"Valencia, València",2009
+98000,1.0,4.0,2,83812827,99,84,Castellar-Oliveral,"Valencia, València",
+65000,1.0,3.0,2,83958777,79,,Castellar-Oliveral,"Valencia, València",1970
+70000,1.0,4.0,2,84397428,105,,Castellar-Oliveral,"Valencia, València",1969
+74500,1.0,2.0,2,84471271,70,60,Castellar-Oliveral,"Valencia, València",1974
+80000,1.0,3.0,2,84471368,83,72,La Torre,"Valencia, València",1965
+109230,1.0,3.0,2,38782529,116,,Castellar-Oliveral,"Valencia, València",
+92970,1.0,3.0,2,38782548,108,,Castellar-Oliveral,"Valencia, València",
+206000,2.0,3.0,2,83620717,140,,Castellar-Oliveral,"Valencia, València",
+106200,1.0,2.0,2,39038189,80,66,La Torre,"Valencia, València",2013
+32795,1.0,3.0,2,37826020,67,56,La Torre,"Valencia, València",
+54200,1.0,4.0,2,84854055,83,,La Torre,"Valencia, València",1961
+70000,1.0,4.0,2,1761152,110,85,La Torre,"Valencia, València",
+98000,1.0,4.0,2,39710986,99,84,Castellar-Oliveral,"Valencia, València",1976
+79100,1.0,3.0,2,36556263,78,,La Torre,"Valencia, València",
+98270,1.0,2.0,2,81615387,78,59,Castellar-Oliveral,"Valencia, València",
+140000,1.0,3.0,2,30901802,105,,La Torre,"Valencia, València",
+220000,2.0,3.0,1,82479082,250,,Castellar-Oliveral,"Valencia, València",
+47000,1.0,3.0,2,84572952,80,,La Torre,"Valencia, València",
+75000,1.0,4.0,2,28404745,95,85,Castellar-Oliveral,"Valencia, València",1967
+100000,2.0,4.0,2,81576926,120,108,Forn de Alcedo,"Valencia, València",1975
+38000,1.0,2.0,2,83454520,67,61,La Torre,"Valencia, València",1957
+205000,1.0,4.0,1,83815712,414,400,La Torre,"Valencia, València",1930
+171000,2.0,3.0,2,39055844,105,102,La Torre,"Valencia, València",2017
+126000,2.0,3.0,2,39173486,116,,La Torre,"Valencia, València",2013
+49900,1.0,3.0,2,83686658,88,,La Torre,"Valencia, València",
+101600,2.0,2.0,2,83934254,96,,La Torre,"Valencia, València",
+120500,1.0,2.0,2,84241218,96,,La Torre,"Valencia, València",
+124000,1.0,2.0,2,84241234,96,,La Torre,"Valencia, València",
+127000,1.0,2.0,2,84241241,99,,La Torre,"Valencia, València",
+124500,1.0,2.0,2,84241326,99,,La Torre,"Valencia, València",
+122000,1.0,2.0,2,84336924,99,,La Torre,"Valencia, València",
+122500,1.0,2.0,2,84336937,99,,La Torre,"Valencia, València",
+126500,1.0,2.0,2,84336938,99,,La Torre,"Valencia, València",
+122000,1.0,2.0,2,84505614,97,,La Torre,"Valencia, València",
+57000,1.0,4.0,2,84780605,90,,La Torre,"Valencia, València",
+98270,1.0,2.0,2,39872276,78,59,Castellar-Oliveral,"Valencia, València",
+65500,1.0,3.0,2,84590545,70,,La Torre,"Valencia, València",
+101600,1.0,2.0,2,84592946,96,,La Torre,"Valencia, València",2013
+45000,1.0,2.0,2,84967038,71,64,La Torre,"Valencia, València",1957
+75000,1.0,3.0,2,81818927,90,,Castellar-Oliveral,"Valencia, València",1974
+40000,1.0,3.0,2,83649675,70,,La Torre,"Valencia, València",
+220000,4.0,8.0,4,81293095,442,420,La Torre,"Valencia, València",1940
+180000,2.0,3.0,2,83296573,110,86,La Torre,"Valencia, València",2017
+75000,1.0,3.0,2,84538682,78,75,La Torre,"Valencia, València",1976
+79100,1.0,3.0,2,31929955,78,77,La Torre,"Valencia, València",1980
+103500,1.0,2.0,2,39062510,67,,La Torre,"Valencia, València",2013
+167100,2.0,3.0,2,40392391,111,86,La Torre,"Valencia, València",
+206000,2.0,3.0,2,83730060,128,116,Castellar-Oliveral,"Valencia, València",
+220000,2.0,5.0,0,83934764,417,135,Castellar-Oliveral,"Valencia, València",
+98270,1.0,2.0,2,84349916,79,60,Castellar-Oliveral,"Valencia, València",1997
+52349,1.0,3.0,2,81312878,67,60,La Torre,"Valencia, València",
+44000,1.0,3.0,2,84905839,72,65,La Torre,"Valencia, València",1956
+285000,1.0,3.0,4,35052315,258,,Castellar-Oliveral,"Valencia, València",
+122000,1.0,2.0,2,81247854,99,67,La Torre,"Valencia, València",
+120500,1.0,2.0,2,81247851,96,65,La Torre,"Valencia, València",
+127000,1.0,2.0,2,81247868,99,67,La Torre,"Valencia, València",
+122000,1.0,2.0,2,81247869,96,65,La Torre,"Valencia, València",
+126500,1.0,2.0,2,81247856,99,67,La Torre,"Valencia, València",
+124000,1.0,2.0,2,81247871,96,65,La Torre,"Valencia, València",
+124500,1.0,2.0,2,81247865,99,67,La Torre,"Valencia, València",
+122500,1.0,2.0,2,81247870,99,67,La Torre,"Valencia, València",
+116600,2.0,3.0,2,81247884,116,83,La Torre,"Valencia, València",
+130100,2.0,3.0,2,81247929,124,89,La Torre,"Valencia, València",
+101600,1.0,2.0,2,81247922,96,65,La Torre,"Valencia, València",
+123300,2.0,3.0,2,39038315,101,89,La Torre,"Valencia, València",2013
+124100,2.0,3.0,2,39038258,95,83,La Torre,"Valencia, València",2013
+96000,2.0,4.0,2,81649738,125,110,La Torre,"Valencia, València",1982
+149000,2.0,4.0,2,39840159,105,104,Castellar-Oliveral,"Valencia, València",1981
+70000,2.0,4.0,2,83218667,106,95,Forn de Alcedo,"Valencia, València",
+130000,2.0,2.0,2,83888493,85,79,La Torre,"Valencia, València",
+270000,2.0,4.0,4,84221906,261,234,Forn de Alcedo,"Valencia, València",
+80000,1.0,4.0,2,84973129,100,90,La Torre,"Valencia, València",
+69000,1.0,4.0,2,84645554,96,90,La Torre,"Valencia, València",1974
+167100,2.0,3.0,2,36054289,106,,La Torre,"Valencia, València",2016
+240000,2.0,2.0,9,84941523,200,,Castellar-Oliveral,"Valencia, València",
+165000,2.0,3.0,13,37165237,121,87,La Torre,"Valencia, València",
+220000,2.0,5.0,0,82536110,172,,Castellar-Oliveral,"Valencia, València",
+89000,1.0,2.0,2,84767618,86,79,Castellar-Oliveral,"Valencia, València",1982
+29000,1.0,3.0,2,83086347,67,66,La Torre,"Valencia, València",
+289000,2.0,2.0,0,40297682,447,350,Castellar-Oliveral,"Valencia, València",1920
+167100,2.0,3.0,2,81162895,111,,La Torre,"Valencia, València",2016
+79900,1.0,4.0,2,83755639,114,107,La Torre,"Valencia, València",1965
+61000,2.0,4.0,2,84442224,97,,Forn de Alcedo,"Valencia, València",1971
+67000,2.0,2.0,2,84714518,71,65,La Torre,"Valencia, València",1952
+130000,2.0,3.0,2,39775851,122,,Forn de Alcedo,"Valencia, València",
+116000,2.0,3.0,2,83310519,95,,La Torre,"Valencia, València",
+138000,1.0,3.0,2,83407080,111,,Castellar-Oliveral,"Valencia, València",
+83000,2.0,2.0,2,83653516,76,,La Torre,"Valencia, València",
+52000,1.0,3.0,2,83653521,70,,La Torre,"Valencia, València",
+65000,2.0,4.0,2,83708684,125,,Forn de Alcedo,"Valencia, València",
+270000,2.0,4.0,4,84425893,176,,Forn de Alcedo,"Valencia, València",1998
+156000,2.0,3.0,2,30192329,106,96,La Torre,"Valencia, València",
+208000,2.0,3.0,4,38103780,178,,Forn de Alcedo,"Valencia, València",2000
+58000,1.0,2.0,2,84465487,75,,La Torre,"Valencia, València",1960
+83000,1.0,2.0,2,84574441,76,69,La Torre,"Valencia, València",1976
+210000,3.0,4.0,4,84630262,160,,Forn de Alcedo,"Valencia, València",
+120000,1.0,2.0,2,39916508,65,62,La Torre,"Valencia, València",2013
+116600,2.0,3.0,2,40489687,116,83,La Torre,"Valencia, València",2013
+49900,1.0,3.0,2,84094751,88,,La Torre,"Valencia, València",1966
+122500,3.0,3.0,2,84387460,221,,La Torre,"Valencia, València",1940
+63000,1.0,3.0,2,84751445,80,,La Torre,"Valencia, València",
+150000,2.0,4.0,2,84468453,140,,La Torre,"Valencia, València",1973
+225000,2.0,3.0,7,84836888,155,,Castellar-Oliveral,"Valencia, València",2004
+85000,1.0,2.0,2,84998420,78,75,La Torre,"Valencia, València",
+270000,2.0,4.0,4,84836434,261,,Forn de Alcedo,"Valencia, València",1998
+75200,1.0,3.0,2,38482288,77,,La Torre,"Valencia, València",
+68500,1.0,3.0,2,84760010,83,75,La Torre,"Valencia, València",1975
+125000,2.0,4.0,2,84461630,140,138,La Torre,"Valencia, València",1973
+285000,1.0,3.0,0,34878939,1,,Castellar-Oliveral,"Valencia, València",
+206000,2.0,3.0,2,83284757,140,,Castellar-Oliveral,"Valencia, València",
+53000,2.0,3.0,2,84838434,106,95,Forn de Alcedo,"Valencia, València",1972
+160200,2.0,3.0,2,36176265,106,,La Torre,"Valencia, València",2016
+79100,1.0,3.0,2,40465822,78,,La Torre,"Valencia, València",1980
+137000,2.0,3.0,2,40041330,120,,La Torre,"Valencia, València",2008
+184000,2.0,4.0,2,82954277,150,,La Torre,"Valencia, València",1984
+95000,2.0,2.0,2,84332045,81,70,La Torre,"Valencia, València",2001
+62000,1.0,3.0,2,84831316,80,,La Torre,"Valencia, València",
+270000,2.0,4.0,4,85021582,176,,Forn de Alcedo,"Valencia, València",1998
+44000,2.0,4.0,2,84710058,97,92,Forn de Alcedo,"Valencia, València",1974
+87900,1.0,3.0,2,84737796,96,90,Castellar-Oliveral,"Valencia, València",1976
+69900,2.0,4.0,2,84760069,100,94,Forn de Alcedo,"Valencia, València",1973
+140000,2.0,2.0,7,84784245,100,90,La Torre,"Valencia, València",1999
+98000,1.0,4.0,2,84865283,87,80,Castellar-Oliveral,"Valencia, València",1978
+270000,2.0,4.0,4,84875078,176,150,Forn de Alcedo,"Valencia, València",2000
+220000,2.0,5.0,4,84875087,135,164,Castellar-Oliveral,"Valencia, València",1928
+89000,2.0,4.0,2,84909180,99,92,Castellar-Oliveral,"Valencia, València",1984
+117000,2.0,3.0,2,84909185,103,96,Castellar-Oliveral,"Valencia, València",1994
+136000,2.0,3.0,2,85035884,120,,La Torre,"Valencia, València",2008
+98270,1.0,2.0,2,39528760,80,,Castellar-Oliveral,"Valencia, València",1997
+206000,2.0,3.0,2,85055679,128,110,Castellar-Oliveral,"Valencia, València",2007
+275000,4.0,4.0,4,84503769,190,,La Torre,"Valencia, València",1988
+200000,2.0,3.0,2,84987524,140,122,Castellar-Oliveral,"Valencia, València",2009
+49000,2.0,3.0,2,85009436,100,98,La Torre,"Valencia, València",1957
+145000,2.0,4.0,2,84973373,131,125,La Torre,"Valencia, València",1975
+69000,1.0,4.0,2,81570589,96,,La Torre,"Valencia, València",1974
+50200,1.0,3.0,2,81473197,71,63,La Torre,"Valencia, València",1957
+70000,2.0,4.0,2,84425620,115,106,Forn de Alcedo,"Valencia, València",
+98270,1.0,2.0,2,39541882,78,59,Castellar-Oliveral,"Valencia, València",
+50000,1.0,2.0,2,40132278,63,55,La Torre,"Valencia, València",1964
+83000,1.0,3.0,2,83888891,89,,La Torre,"Valencia, València",
+49900,1.0,3.0,2,83910672,88,,La Torre,"Valencia, València",
+50000,1.0,3.0,2,83965693,66,61,La Torre,"Valencia, València",1956
+135000,2.0,4.0,2,83291449,90,,La Torre,"Valencia, València",
+92970,1.0,3.0,2,37042105,108,90,Castellar-Oliveral,"Valencia, València",1967
+109230,1.0,3.0,2,37042118,119,110,Castellar-Oliveral,"Valencia, València",1965
+210000,2.0,4.0,4,81627396,500,450,La Torre,"Valencia, València",
+79000,1.0,3.0,2,84896320,86,80,La Torre,"Valencia, València",1976
+44000,1.0,3.0,2,84655444,63,,La Torre,"Valencia, València",1965
+52000,1.0,3.0,2,83620623,70,69,La Torre,"Valencia, València",1960
+83000,2.0,2.0,2,83635694,76,,La Torre,"Valencia, València",1976
+65000,2.0,4.0,2,83691934,125,105,Forn de Alcedo,"Valencia, València",1972
+233000,2.0,3.0,13,39353446,155,,Castellar-Oliveral,"Valencia, València",2004
+69000,2.0,4.0,2,81524959,140,120,Forn de Alcedo,"Valencia, València",1973
+63000,1.0,3.0,2,84733680,80,,La Torre,"Valencia, València",
+89000,2.0,3.0,2,82651624,117,,Forn de Alcedo,"Valencia, València",
+72400,1.0,3.0,2,37042107,78,72,Castellar-Oliveral,"Valencia, València",1969
+58500,1.0,2.0,2,82724262,80,70,La Torre,"Valencia, València",
+225000,2.0,3.0,13,84262919,155,106,Castellar-Oliveral,"Valencia, València",
+55000,1.0,3.0,2,84388751,89,79,La Torre,"Valencia, València",1966
+145000,2.0,4.0,2,84866411,150,142,Castellar-Oliveral,"Valencia, València",1978
+79100,1.0,3.0,2,84944027,78,,La Torre,"Valencia, València",
+206000,2.0,3.0,2,83256715,140,,Castellar-Oliveral,"Valencia, València",2011
+275000,3.0,4.0,4,81961695,107,,La Torre,"Valencia, València",
+72000,2.0,4.0,2,83610902,100,95,Forn de Alcedo,"Valencia, València",1973
+126800,2.0,3.0,2,84943234,116,83,La Torre,"Valencia, València",
+124000,1.0,2.0,2,84943555,96,65,La Torre,"Valencia, València",
+126700,2.0,3.0,2,84943556,116,83,La Torre,"Valencia, València",
+55000,1.0,4.0,2,83425358,76,,La Torre,"Valencia, València",1961
+122000,1.0,2.0,2,39916501,99,68,La Torre,"Valencia, València",2013
+53000,2.0,4.0,2,81247639,93,,Forn de Alcedo,"Valencia, València",1971
+138000,2.0,4.0,2,83590194,153,,Castellar-Oliveral,"Valencia, València",1987
+199000,4.0,5.0,1,83633397,221,190,Castellar-Oliveral,"Valencia, València",1986
+60000,2.0,4.0,2,84660046,96,,Forn de Alcedo,"Valencia, València",1971
+270000,2.0,4.0,0,84995272,168,134,Forn de Alcedo,"Valencia, València",1998
+140000,2.0,5.0,4,84634407,160,150,Castellar-Oliveral,"Valencia, València",1970
+150000,2.0,3.0,2,81438344,128,118,Castellar-Oliveral,"Valencia, València",1999
+370000,3.0,4.0,4,39637420,352,,Castellar-Oliveral,"Valencia, València",2012
+258000,2.0,3.0,4,84122501,167,157,La Torre,"Valencia, València",1988
+59000,1.0,3.0,2,81157253,80,,La Torre,"Valencia, València",
+88000,1.0,4.0,2,84819667,99,84,Castellar-Oliveral,"Valencia, València",1976
+195000,2.0,3.0,2,38977586,100,90,La Torre,"Valencia, València",2016
+118000,2.0,3.0,2,85035247,140,129,La Torre,"Valencia, València",1973
+61000,1.0,3.0,2,84968598,84,75,Castellar-Oliveral,"Valencia, València",1962
+88000,1.0,4.0,2,85016506,99,85,Castellar-Oliveral,"Valencia, València",1976
+110000,2.0,4.0,2,85015803,125,120,Castellar-Oliveral,"Valencia, València",1985
+65000,1.0,2.0,2,84695839,80,76,Castellar-Oliveral,"Valencia, València",1969
+200000,2.0,3.0,2,85047874,130,116,Castellar-Oliveral,"Valencia, València",2007
+44000,1.0,3.0,2,84039401,68,,La Torre,"Valencia, València",
+83500,1.0,2.0,2,83494237,129,69,La Torre,"Valencia, València",
+160000,2.0,4.0,2,82954275,140,,La Torre,"Valencia, València",1973
+price,0.0,0.0,12,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+348000,2.0,3.0,2,83875270,116,93,València,"Valencia, València",
+95000,1.0,3.0,2,27115508,80,,València,"Valencia, València",
+130000,1.0,3.0,2,81317210,90,80,València,"Valencia, València",
+110000,1.0,1.0,2,82516509,70,,València,"Valencia, València",
+245000,2.0,3.0,2,36934921,110,100,València,"Valencia, València",
+115000,1.0,2.0,2,84249736,78,70,València,"Valencia, València",
+140000,1.0,1.0,2,82495575,58,,València,"Valencia, València",2004
+470000,2.0,3.0,2,30420726,146,,València,"Valencia, València",1996
+260000,2.0,4.0,1,39517954,400,,València,"Valencia, València",1970
+105000,1.0,2.0,2,82738414,75,70,València,"Valencia, València",1967
+149000,1.0,4.0,2,83799053,110,95,València,"Valencia, València",
+153000,1.0,2.0,2,83835760,75,68,València,"Valencia, València",1965
+185000,2.0,3.0,2,84447164,110,,València,"Valencia, València",
+390000,2.0,2.0,2,84480764,115,110,València,"Valencia, València",2002
+130000,1.0,1.0,2,84491372,60,,València,"Valencia, València",1998
+150000,2.0,2.0,2,38736912,85,78,València,"Valencia, València",2001
+110000,2.0,4.0,2,82486635,115,,València,"Valencia, València",
+170000,2.0,3.0,2,84074296,90,,València,"Valencia, València",
+215000,2.0,3.0,2,38167377,136,,València,"Valencia, València",1982
+190000,2.0,4.0,2,81561947,110,,València,"Valencia, València",1971
+80000,1.0,3.0,2,82597435,105,100,València,"Valencia, València",
+85000,1.0,2.0,2,82845529,64,60,València,"Valencia, València",1966
+145000,1.0,4.0,2,82175479,94,,València,"Valencia, València",1961
+149000,1.0,4.0,2,83881457,102,95,València,"Valencia, València",1968
+250000,2.0,4.0,2,84294165,150,,València,"Valencia, València",
+218000,2.0,4.0,2,84876089,124,,València,"Valencia, València",1975
+480000,3.0,4.0,13,82621714,203,171,València,"Valencia, València",2000
+55000,1.0,2.0,2,83318484,60,,València,"Valencia, València",1969
+240000,1.0,3.0,2,84497548,98,,València,"Valencia, València",
+63000,1.0,3.0,2,84865155,60,,València,"Valencia, València",
+129500,1.0,2.0,2,84963109,77,,València,"Valencia, València",1975
+65000,1.0,3.0,2,84755774,73,,València,"Valencia, València",
+145000,1.0,2.0,2,84925242,76,75,València,"Valencia, València",1936
+490000,3.0,4.0,13,1665097,203,171,València,"Valencia, València",
+165000,2.0,4.0,7,1891976,122,90,València,"Valencia, València",
+250000,2.0,2.0,7,1895260,80,65,València,"Valencia, València",
+180000,1.0,1.0,13,33153525,60,45,València,"Valencia, València",
+130000,1.0,3.0,2,36584629,100,90,València,"Valencia, València",
+375000,2.0,3.0,2,39690751,145,135,València,"Valencia, València",2003
+200000,2.0,2.0,2,81216794,90,85,València,"Valencia, València",
+165000,1.0,4.0,2,83021070,120,100,València,"Valencia, València",
+79900,1.0,3.0,2,83202833,73,,València,"Valencia, València",
+125000,1.0,2.0,2,83268721,78,70,València,"Valencia, València",
+78000,1.0,3.0,2,84044457,80,75,València,"Valencia, València",
+235000,2.0,7.0,1,84431854,150,,València,"Valencia, València",
+70000,1.0,3.0,2,84050485,73,,València,"Valencia, València",
+519000,2.0,2.0,13,84251864,120,,València,"Valencia, València",2005
+207000,2.0,3.0,2,39566916,135,105,València,"Valencia, València",
+180000,2.0,4.0,2,37324569,130,104,València,"Valencia, València",
+114900,1.0,2.0,2,84840376,85,,València,"Valencia, València",1977
+145000,1.0,2.0,2,84901487,76,,València,"Valencia, València",
+50000,2.0,3.0,2,84910652,74,70,València,"Valencia, València",1970
+145000,1.0,2.0,2,84653011,78,65,València,"Valencia, València",
+150000,1.0,1.0,1,39517032,240,,València,"Valencia, València",
+165000,1.0,2.0,2,32214355,85,,València,"Valencia, València",
+290000,2.0,3.0,2,82423249,110,102,València,"Valencia, València",
+149000,1.0,3.0,2,82706392,94,,València,"Valencia, València",
+250000,1.0,4.0,2,83022895,239,,València,"Valencia, València",
+105000,2.0,2.0,2,83333294,80,,València,"Valencia, València",
+78000,2.0,3.0,2,84165478,75,,València,"Valencia, València",
+185000,2.0,3.0,2,84404779,135,,València,"Valencia, València",
+110000,1.0,3.0,2,84653807,88,,València,"Valencia, València",
+210000,1.0,3.0,2,39311566,95,,València,"Valencia, València",1977
+149000,1.0,4.0,2,82383584,100,95,València,"Valencia, València",1968
+220000,2.0,3.0,2,83107748,130,,València,"Valencia, València",
+78000,1.0,3.0,2,84382030,75,,València,"Valencia, València",
+109000,1.0,2.0,2,84788135,65,62,València,"Valencia, València",
+155000,1.0,2.0,2,84821216,80,72,València,"Valencia, València",1930
+185000,1.0,1.0,2,84292911,67,62,València,"Valencia, València",2007
+390000,0.0,0.0,1,82721707,538,,València,"Valencia, València",1940
+149000,1.0,4.0,2,82984316,94,90,València,"Valencia, València",1968
+110000,2.0,4.0,2,83383848,103,,València,"Valencia, València",
+145000,1.0,2.0,2,84924990,64,,València,"Valencia, València",
+112000,1.0,3.0,2,84491368,98,,València,"Valencia, València",
+170000,2.0,3.0,2,81524076,90,85,València,"Valencia, València",1993
+240000,2.0,4.0,2,84028812,140,,València,"Valencia, València",
+180000,2.0,2.0,2,83034966,100,90,València,"Valencia, València",2012
+113000,1.0,2.0,2,83757572,69,66,València,"Valencia, València",
+169500,2.0,3.0,2,84262670,98,94,València,"Valencia, València",
+143000,2.0,3.0,2,82517597,80,75,València,"Valencia, València",1970
+149000,1.0,4.0,2,82532576,95,90,València,"Valencia, València",1970
+150000,2.0,2.0,2,83364879,101,95,València,"Valencia, València",1985
+130000,1.0,1.0,2,83795917,60,50,València,"Valencia, València",1998
+95000,1.0,3.0,2,84071136,81,,València,"Valencia, València",1973
+199000,2.0,3.0,13,84205333,100,78,València,"Valencia, València",2014
+199000,2.0,3.0,13,84223233,100,78,València,"Valencia, València",2014
+199000,2.0,3.0,13,84230792,100,78,València,"Valencia, València",2014
+115000,1.0,4.0,2,84267389,102,,València,"Valencia, València",1973
+240000,3.0,4.0,2,82050444,240,,València,"Valencia, València",
+83000,1.0,1.0,1,82539795,105,,València,"Valencia, València",1930
+160000,2.0,2.0,0,83910905,119,,València,"Valencia, València",1949
+225000,2.0,3.0,2,84152843,125,115,València,"Valencia, València",
+185000,2.0,3.0,2,84351587,135,120,València,"Valencia, València",1997
+185000,2.0,3.0,2,84361841,110,,València,"Valencia, València",
+200000,2.0,2.0,2,84465900,90,,València,"Valencia, València",
+134900,1.0,3.0,2,84536047,91,85,València,"Valencia, València",1965
+88000,1.0,2.0,2,84795732,89,,València,"Valencia, València",
+75000,1.0,2.0,2,84957781,68,65,València,"Valencia, València",1966
+80000,1.0,3.0,2,39559238,99,92,València,"Valencia, València",1964
+410000,2.0,4.0,2,40379263,182,,València,"Valencia, València",1998
+420000,2.0,3.0,2,40576329,120,80,València,"Valencia, València",2000
+125000,2.0,3.0,2,81251702,110,109,València,"Valencia, València",1977
+136000,2.0,2.0,2,81882162,85,,València,"Valencia, València",
+240000,1.0,4.0,2,84433028,98,85,València,"Valencia, València",1966
+148000,1.0,2.0,2,84499103,76,,València,"Valencia, València",1936
+190000,2.0,2.0,2,84732126,85,,València,"Valencia, València",
+105000,1.0,3.0,2,83172022,80,,València,"Valencia, València",
+111400,2.0,4.0,2,81370925,130,87,València,"Valencia, València",1974
+79900,1.0,3.0,2,84771488,75,70,València,"Valencia, València",
+595000,4.0,4.0,4,83035042,70,140,València,"Valencia, València",2015
+275000,2.0,3.0,13,85011927,140,,València,"Valencia, València",
+190000,2.0,3.0,2,84954542,119,,València,"Valencia, València",1960
+225000,2.0,3.0,2,33097112,97,90,València,"Valencia, València",
+140000,1.0,2.0,2,33284456,79,70,València,"Valencia, València",
+189000,2.0,3.0,2,40483918,100,,València,"Valencia, València",1978
+111400,2.0,4.0,2,81407431,95,80,València,"Valencia, València",1970
+220000,2.0,4.0,2,83111469,150,135,València,"Valencia, València",1978
+149999,1.0,4.0,2,83225944,115,110,València,"Valencia, València",
+176000,1.0,2.0,2,83752296,87,72,València,"Valencia, València",
+135000,2.0,2.0,2,83763367,80,,València,"Valencia, València",1960
+399000,2.0,3.0,13,83913955,121,95,València,"Valencia, València",2001
+360000,2.0,5.0,2,83925952,202,,València,"Valencia, València",
+111400,2.0,3.0,2,81371171,102,,València,"Valencia, València",
+450000,4.0,5.0,1,84347151,199,,València,"Valencia, València",
+95000,1.0,3.0,2,84563341,85,75,València,"Valencia, València",
+119000,1.0,1.0,2,84682908,70,,València,"Valencia, València",2007
+150000,1.0,4.0,2,84754621,86,,València,"Valencia, València",1975
+88000,1.0,2.0,2,84826847,86,80,València,"Valencia, València",
+94000,1.0,3.0,2,84844145,77,70,València,"Valencia, València",1971
+160000,2.0,3.0,2,84887840,122,112,València,"Valencia, València",1968
+158000,2.0,3.0,2,82957986,118,,València,"Valencia, València",
+91000,1.0,3.0,2,84898468,79,75,València,"Valencia, València",1973
+145000,1.0,3.0,2,84965121,76,,València,"Valencia, València",1936
+240000,2.0,5.0,2,39398154,183,165,València,"Valencia, València",
+695000,4.0,3.0,7,39857493,188,157,València,"Valencia, València",
+210000,2.0,3.0,2,40228547,141,,València,"Valencia, València",2004
+120000,1.0,3.0,2,81515330,60,,València,"Valencia, València",1937
+182000,1.0,2.0,2,83464960,74,,València,"Valencia, València",
+220000,1.0,1.0,13,84160922,67,58,València,"Valencia, València",1960
+195000,2.0,2.0,7,83377415,110,90,València,"Valencia, València",2001
+160000,1.0,4.0,2,84351851,100,,València,"Valencia, València",1957
+120000,1.0,2.0,2,84447445,94,,València,"Valencia, València",
+218000,2.0,4.0,2,84754041,135,,València,"Valencia, València",
+145000,1.0,2.0,2,84905009,75,,València,"Valencia, València",
+115000,1.0,2.0,2,38774439,90,,València,"Valencia, València",1966
+450000,3.0,4.0,7,83512174,174,,València,"Valencia, València",
+150000,1.0,3.0,2,84534100,80,75,València,"Valencia, València",
+195000,2.0,2.0,7,337263,110,97,València,"Valencia, València",
+415000,2.0,3.0,2,1806324,107,74,València,"Valencia, València",
+500000,2.0,4.0,2,39063637,120,,València,"Valencia, València",
+91146,2.0,4.0,2,81947317,82,76,València,"Valencia, València",
+149000,1.0,4.0,2,82593288,99,95,València,"Valencia, València",1968
+75000,1.0,2.0,2,82962537,98,,València,"Valencia, València",
+190000,1.0,2.0,13,81765372,60,,València,"Valencia, València",1965
+112000,1.0,3.0,2,84103101,98,87,València,"Valencia, València",1968
+185000,2.0,3.0,2,84549322,110,100,València,"Valencia, València",
+140000,1.0,3.0,2,84621836,94,86,València,"Valencia, València",1967
+130000,2.0,2.0,2,30902658,80,,València,"Valencia, València",
+160000,2.0,3.0,2,81842542,103,,València,"Valencia, València",
+135000,1.0,3.0,2,84470938,98,,València,"Valencia, València",
+272000,2.0,3.0,2,84847602,168,,València,"Valencia, València",
+145000,1.0,2.0,2,84896813,75,,València,"Valencia, València",1970
+63000,1.0,3.0,2,84914272,60,,València,"Valencia, València",
+190000,1.0,2.0,2,85048719,80,,València,"Valencia, València",
+287000,2.0,4.0,2,27478790,171,,València,"Valencia, València",1978
+125000,2.0,3.0,2,81255616,110,,València,"Valencia, València",1977
+130000,2.0,2.0,2,82793698,113,98,València,"Valencia, València",1977
+70000,2.0,3.0,2,83549807,99,,València,"Valencia, València",
+185000,2.0,3.0,2,84598419,110,,València,"Valencia, València",1997
+145000,1.0,2.0,2,84893564,76,,València,"Valencia, València",1936
+230000,2.0,2.0,7,84910619,91,80,València,"Valencia, València",1999
+73000,1.0,2.0,2,84931460,85,,València,"Valencia, València",
+85000,1.0,3.0,2,81886047,92,85,València,"Valencia, València",1977
+72900,1.0,3.0,2,83687060,78,,València,"Valencia, València",1965
+225000,2.0,3.0,2,84061389,132,95,València,"Valencia, València",
+230000,2.0,3.0,2,84061386,132,95,València,"Valencia, València",
+236000,2.0,3.0,2,84061390,132,95,València,"Valencia, València",
+190000,2.0,3.0,2,84061395,122,87,València,"Valencia, València",
+214000,2.0,3.0,2,84061403,131,94,València,"Valencia, València",
+196000,2.0,3.0,2,84061410,122,87,València,"Valencia, València",
+163000,2.0,2.0,2,84061411,89,64,València,"Valencia, València",
+197000,2.0,3.0,2,84061408,122,87,València,"Valencia, València",
+225000,2.0,3.0,2,84061419,131,94,València,"Valencia, València",
+169000,2.0,2.0,2,84061421,89,64,València,"Valencia, València",
+204000,2.0,3.0,2,84061422,122,87,València,"Valencia, València",
+231000,2.0,3.0,2,84061423,131,94,València,"Valencia, València",
+174000,2.0,2.0,2,84061413,76,65,València,"Valencia, València",
+210000,2.0,3.0,2,84061425,104,88,València,"Valencia, València",
+177000,2.0,2.0,2,84061415,89,64,València,"Valencia, València",
+171000,2.0,2.0,2,84256782,89,64,València,"Valencia, València",
+211000,2.0,2.0,2,84267712,99,70,València,"Valencia, València",
+316000,2.0,4.0,2,84267715,143,100,València,"Valencia, València",
+286000,2.0,4.0,2,84267723,142,100,València,"Valencia, València",
+233500,2.0,2.0,2,84267726,105,73,València,"Valencia, València",
+213500,2.0,2.0,2,84267733,105,73,València,"Valencia, València",
+200500,2.0,2.0,2,84267746,99,70,València,"Valencia, València",
+219500,2.0,2.0,2,84267748,98,68,València,"Valencia, València",
+224000,2.0,2.0,2,84267751,105,73,València,"Valencia, València",
+242500,2.0,3.0,2,84267753,123,86,València,"Valencia, València",
+293500,2.0,4.0,2,84267756,142,100,València,"Valencia, València",
+248000,2.0,3.0,2,84267757,120,84,València,"Valencia, València",
+252500,2.0,3.0,2,84267758,119,84,València,"Valencia, València",
+236000,2.0,3.0,2,84267761,123,86,València,"Valencia, València",
+288000,2.0,4.0,2,84267765,142,100,València,"Valencia, València",
+197500,2.0,2.0,2,84267780,98,70,València,"Valencia, València",
+202000,2.0,2.0,2,84267781,99,70,València,"Valencia, València",
+203000,2.0,2.0,2,84267782,99,70,València,"Valencia, València",
+214500,2.0,2.0,2,84267785,105,73,València,"Valencia, València",
+213500,2.0,2.0,2,84267788,99,70,València,"Valencia, València",
+215500,2.0,2.0,2,84267792,101,70,València,"Valencia, València",
+259000,2.0,3.0,2,84267799,119,84,València,"Valencia, València",
+292000,2.0,4.0,2,84267800,142,100,València,"Valencia, València",
+233000,2.0,3.0,2,84267804,111,80,València,"Valencia, València",
+235000,2.0,4.0,2,84267806,120,86,València,"Valencia, València",
+219000,2.0,3.0,2,84267807,111,80,València,"Valencia, València",
+465000,2.0,4.0,2,84267809,150,108,València,"Valencia, València",
+380000,2.0,3.0,2,84267810,131,93,València,"Valencia, València",
+267500,2.0,4.0,2,84267812,121,87,València,"Valencia, València",
+253000,2.0,4.0,2,84267813,121,87,València,"Valencia, València",
+244500,2.0,4.0,2,84267815,120,86,València,"Valencia, València",
+230000,2.0,4.0,2,84267818,120,86,València,"Valencia, València",
+268000,2.0,4.0,2,84267829,121,87,València,"Valencia, València",
+240000,2.0,4.0,2,84267831,121,87,València,"Valencia, València",
+249500,2.0,4.0,2,84267832,120,86,València,"Valencia, València",
+258500,2.0,4.0,2,84267833,120,86,València,"Valencia, València",
+271500,2.0,4.0,2,84267834,120,86,València,"Valencia, València",
+234500,2.0,3.0,2,84267835,112,81,València,"Valencia, València",
+248000,2.0,4.0,2,84267836,121,87,València,"Valencia, València",
+256500,2.0,4.0,2,84267837,120,86,València,"Valencia, València",
+260000,2.0,4.0,2,84267838,121,87,València,"Valencia, València",
+255000,2.0,4.0,2,84267839,121,87,València,"Valencia, València",
+273000,2.0,4.0,2,84267841,121,87,València,"Valencia, València",
+233500,2.0,3.0,2,84267842,112,81,València,"Valencia, València",
+206000,2.0,3.0,2,84267843,111,80,València,"Valencia, València",
+262500,2.0,4.0,2,84267844,121,87,València,"Valencia, València",
+263500,2.0,4.0,2,84267845,120,86,València,"Valencia, València",
+241000,2.0,4.0,2,84267847,121,87,València,"Valencia, València",
+205000,2.0,3.0,2,84267848,111,80,València,"Valencia, València",
+230500,2.0,3.0,2,84267849,112,81,València,"Valencia, València",
+223500,2.0,3.0,2,84267850,112,81,València,"Valencia, València",
+266500,2.0,4.0,2,84267851,120,86,València,"Valencia, València",
+318000,2.0,3.0,2,84268132,128,87,València,"Valencia, València",
+386000,2.0,4.0,2,84268138,148,101,València,"Valencia, València",
+281500,2.0,2.0,2,84268140,105,70,València,"Valencia, València",
+281500,2.0,2.0,2,84268145,106,71,València,"Valencia, València",
+392000,2.0,4.0,2,84268148,148,101,València,"Valencia, València",
+296500,2.0,3.0,2,84268152,130,88,València,"Valencia, València",
+287500,2.0,2.0,2,84268155,104,69,València,"Valencia, València",
+277500,2.0,3.0,2,84268160,130,88,València,"Valencia, València",
+287000,2.0,3.0,2,84268164,128,87,València,"Valencia, València",
+316000,2.0,3.0,2,84268168,128,87,València,"Valencia, València",
+292000,2.0,3.0,2,84268169,128,87,València,"Valencia, València",
+286000,2.0,2.0,2,84268174,98,65,València,"Valencia, València",
+389000,2.0,4.0,2,84268178,147,100,València,"Valencia, València",
+284000,2.0,3.0,2,84268182,128,87,València,"Valencia, València",
+277500,2.0,2.0,2,84268188,106,71,València,"Valencia, València",
+296000,2.0,2.0,2,84268202,115,77,València,"Valencia, València",
+320000,2.0,3.0,2,84268207,128,87,València,"Valencia, València",
+319000,2.0,3.0,2,84268211,128,87,València,"Valencia, València",
+310500,2.0,3.0,2,84268214,130,88,València,"Valencia, València",
+318500,2.0,3.0,2,84268216,130,88,València,"Valencia, València",
+318000,2.0,3.0,2,84268217,130,88,València,"Valencia, València",
+299000,2.0,3.0,2,84268218,128,87,València,"Valencia, València",
+154000,2.0,3.0,2,39658218,119,109,València,"Valencia, València",1988
+149000,1.0,4.0,2,82372555,100,95,València,"Valencia, València",1968
+230000,2.0,4.0,2,82471719,200,,València,"Valencia, València",1971
+145000,2.0,3.0,2,83465951,99,90,València,"Valencia, València",
+78000,1.0,3.0,2,84087858,80,75,València,"Valencia, València",
+205000,2.0,4.0,2,84180228,104,97,València,"Valencia, València",1968
+185000,2.0,3.0,2,84282190,127,,València,"Valencia, València",1997
+134900,1.0,3.0,2,84569374,98,82,València,"Valencia, València",1960
+169500,2.0,3.0,2,84779271,95,85,València,"Valencia, València",
+160000,1.0,1.0,2,36046417,43,,València,"Valencia, València",2009
+132000,2.0,3.0,2,38841251,115,105,València,"Valencia, València",
+850000,2.0,4.0,7,40474155,169,137,València,"Valencia, València",1996
+200000,2.0,2.0,2,82659342,90,,València,"Valencia, València",
+125000,1.0,3.0,2,83418781,100,97,València,"Valencia, València",1977
+239900,1.0,2.0,1,83683146,141,250,València,"Valencia, València",
+78000,1.0,3.0,2,84403453,73,,València,"Valencia, València",1965
+185000,2.0,3.0,2,84381512,130,110,València,"Valencia, València",
+218000,2.0,4.0,2,84781032,124,,València,"Valencia, València",
+88000,1.0,1.0,2,84952844,69,57,València,"Valencia, València",
+320000,2.0,3.0,2,38575308,110,100,València,"Valencia, València",
+120000,2.0,3.0,2,81488596,110,99,València,"Valencia, València",1993
+595000,4.0,4.0,4,83955370,170,225,València,"Valencia, València",2010
+95000,1.0,3.0,2,84116538,80,72,València,"Valencia, València",
+149000,1.0,3.0,2,81568110,94,89,València,"Valencia, València",1963
+240000,1.0,3.0,2,84517519,112,,València,"Valencia, València",1966
+520000,2.0,2.0,2,38430523,117,,València,"Valencia, València",2000
+132000,2.0,4.0,2,82603401,110,,València,"Valencia, València",1982
+240000,1.0,3.0,2,84289264,102,95,València,"Valencia, València",
+315000,2.0,3.0,2,84423041,105,,València,"Valencia, València",
+202000,2.0,3.0,7,84724886,122,85,València,"Valencia, València",
+145000,1.0,2.0,2,84923302,76,73,València,"Valencia, València",1936
+85000,1.0,3.0,2,84996969,93,85,València,"Valencia, València",1977
+589000,4.0,4.0,3,33713711,200,150,València,"Valencia, València",2015
+380000,2.0,5.0,2,81165128,195,,València,"Valencia, València",
+140000,2.0,2.0,2,81935413,100,85,València,"Valencia, València",1970
+140000,1.0,3.0,2,82155820,93,,València,"Valencia, València",1972
+130000,1.0,3.0,2,82597344,78,,València,"Valencia, València",
+460000,2.0,4.0,2,83892727,188,170,València,"Valencia, València",1996
+79000,1.0,4.0,2,84734969,82,,València,"Valencia, València",
+218000,2.0,3.0,2,84061409,131,94,València,"Valencia, València",
+270000,2.0,3.0,2,38154267,148,,València,"Valencia, València",
+278000,2.0,3.0,2,38154281,148,,València,"Valencia, València",
+275000,2.0,3.0,2,38154280,148,,València,"Valencia, València",
+340000,3.0,5.0,2,38154309,187,,València,"Valencia, València",
+285000,2.0,3.0,2,38154330,143,,València,"Valencia, València",
+320000,3.0,4.0,2,38154337,173,,València,"Valencia, València",
+310000,3.0,4.0,2,38154338,158,,València,"Valencia, València",
+870000,2.0,4.0,7,81670829,280,260,València,"Valencia, València",
+85000,1.0,3.0,2,82987381,78,67,València,"Valencia, València",1953
+230000,2.0,3.0,2,83077152,108,,València,"Valencia, València",2009
+360000,3.0,7.0,2,83662694,195,,València,"Valencia, València",1959
+68000,1.0,3.0,2,83801019,60,,València,"Valencia, València",
+260000,2.0,3.0,2,84275750,124,104,València,"Valencia, València",2008
+270000,2.0,3.0,2,84284937,105,91,València,"Valencia, València",2002
+118000,2.0,3.0,2,84525271,103,90,València,"Valencia, València",1978
+157000,2.0,3.0,2,84350134,95,,València,"Valencia, València",
+147000,1.0,3.0,2,84350146,90,,València,"Valencia, València",
+144000,1.0,3.0,2,84838277,97,,València,"Valencia, València",1969
+145000,1.0,2.0,2,84949898,78,,València,"Valencia, València",1936
+240000,2.0,3.0,2,82255529,100,90,València,"Valencia, València",1998
+50000,1.0,2.0,2,39058449,63,,València,"Valencia, València",1967
+145000,1.0,2.0,2,35606548,72,57,València,"Valencia, València",2009
+109000,1.0,2.0,2,84851298,65,,València,"Valencia, València",1966
+110000,2.0,3.0,2,84357210,109,,València,"Valencia, València",1977
+149500,2.0,4.0,2,40496414,116,105,València,"Valencia, València",1978
+595000,2.0,2.0,13,82248658,150,130,València,"Valencia, València",2001
+300000,4.0,3.0,0,82332169,535,500,València,"Valencia, València",1933
+149000,1.0,4.0,2,82361821,100,95,València,"Valencia, València",
+299999,2.0,4.0,2,82599273,151,150,València,"Valencia, València",
+203630,2.0,3.0,2,82958218,115,,València,"Valencia, València",2006
+145000,2.0,3.0,2,83545525,110,,València,"Valencia, València",1977
+137500,2.0,2.0,2,39449183,87,,València,"Valencia, València",
+114000,2.0,1.0,2,83928282,75,67,València,"Valencia, València",1970
+100000,1.0,3.0,2,84272442,70,,València,"Valencia, València",1966
+290000,2.0,4.0,2,84362156,157,,València,"Valencia, València",1957
+159000,1.0,1.0,2,84577542,55,50,València,"Valencia, València",2000
+220000,1.0,1.0,13,84748967,67,,València,"Valencia, València",
+115000,1.0,3.0,2,84981306,95,90,València,"Valencia, València",
+330000,3.0,6.0,1,39545249,153,,València,"Valencia, València",1920
+375000,2.0,3.0,2,39825265,145,130,València,"Valencia, València",2003
+70000,1.0,3.0,2,84064199,73,,València,"Valencia, València",
+72900,1.0,3.0,2,84094693,78,,València,"Valencia, València",1965
+110000,1.0,3.0,2,84825153,95,,València,"Valencia, València",1977
+159000,2.0,3.0,2,84872181,108,95,València,"Valencia, València",1990
+69000,1.0,2.0,2,84197791,82,75,València,"Valencia, València",1970
+150000,1.0,2.0,2,84934823,76,,València,"Valencia, València",1936
+125000,1.0,1.0,2,84960639,65,,València,"Valencia, València",2011
+245000,2.0,3.0,2,34076207,110,,València,"Valencia, València",
+168000,1.0,2.0,2,35962812,75,,València,"Valencia, València",
+160000,1.0,1.0,2,39569369,58,43,València,"Valencia, València",2009
+210000,2.0,3.0,2,40284366,115,102,València,"Valencia, València",2006
+850000,2.0,4.0,7,82013782,280,260,València,"Valencia, València",1996
+200000,2.0,2.0,2,82637479,90,,València,"Valencia, València",
+299000,2.0,3.0,2,82893083,136,,València,"Valencia, València",
+97000,1.0,2.0,2,83211788,87,77,València,"Valencia, València",
+185000,2.0,3.0,2,83326463,90,85,València,"Valencia, València",
+159000,1.0,4.0,2,83457254,117,112,València,"Valencia, València",
+160000,1.0,1.0,2,83683792,58,,València,"Valencia, València",2009
+180000,2.0,4.0,4,83861028,106,90,València,"Valencia, València",
+400000,3.0,3.0,2,84388369,134,115,València,"Valencia, València",1994
+185000,2.0,3.0,2,84627736,135,120,València,"Valencia, València",
+125000,1.0,2.0,2,84943310,75,,València,"Valencia, València",
+70000,2.0,4.0,2,85043244,126,,València,"Valencia, València",1977
+225000,2.0,3.0,2,84131408,113,105,València,"Valencia, València",
+165000,1.0,3.0,2,83362556,120,115,València,"Valencia, València",
+540000,3.0,9.0,0,81738989,529,500,València,"Valencia, València",1940
+96000,1.0,1.0,2,83932928,80,60,València,"Valencia, València",
+78000,1.0,3.0,2,84214849,73,,València,"Valencia, València",1968
+220000,1.0,1.0,13,84274823,81,,València,"Valencia, València",1960
+142900,1.0,2.0,2,84368353,76,,València,"Valencia, València",
+149000,1.0,3.0,2,84640137,94,,València,"Valencia, València",1963
+170000,2.0,4.0,2,84872020,120,,València,"Valencia, València",1979
+72000,1.0,2.0,2,84066472,75,70,València,"Valencia, València",
+165000,1.0,3.0,2,84288901,120,100,València,"Valencia, València",
+850000,2.0,4.0,2,84848561,197,,València,"Valencia, València",
+195000,2.0,3.0,2,84896458,118,,València,"Valencia, València",
+210000,2.0,4.0,2,84987236,104,,València,"Valencia, València",
+850000,3.0,3.0,7,33476388,203,,València,"Valencia, València",
+498000,2.0,3.0,13,81130656,115,110,València,"Valencia, València",
+395000,2.0,4.0,2,81336812,200,,València,"Valencia, València",
+480000,3.0,4.0,7,81277491,204,172,València,"Valencia, València",2000
+115000,2.0,3.0,2,82156717,88,80,València,"Valencia, València",
+410000,2.0,4.0,2,82397319,184,,València,"Valencia, València",
+146999,1.0,4.0,2,83374293,95,94,València,"Valencia, València",1968
+245000,3.0,5.0,2,84209555,151,,València,"Valencia, València",1977
+299000,2.0,3.0,2,84279176,136,126,València,"Valencia, València",2000
+240000,1.0,3.0,2,84334677,98,,València,"Valencia, València",1966
+145000,2.0,3.0,2,84286527,100,,València,"Valencia, València",
+185000,2.0,3.0,2,84377081,135,,València,"Valencia, València",1997
+240000,1.0,3.0,2,84865238,103,,València,"Valencia, València",1966
+145000,1.0,2.0,2,84896540,70,,València,"Valencia, València",1936
+125000,1.0,4.0,2,84991239,98,,València,"Valencia, València",
+250000,1.0,4.0,4,38645875,250,200,València,"Valencia, València",1930
+139900,1.0,2.0,2,82323840,73,65,València,"Valencia, València",1970
+165000,1.0,4.0,2,83054660,114,,València,"Valencia, València",1966
+145000,2.0,3.0,2,83824313,99,,València,"Valencia, València",1968
+165000,1.0,2.0,2,83773970,70,,València,"Valencia, València",1924
+167000,2.0,3.0,2,84488148,104,94,València,"Valencia, València",2001
+255900,2.0,3.0,13,84595102,80,75,València,"Valencia, València",1996
+64000,1.0,3.0,2,84647426,83,,València,"Valencia, València",
+143900,1.0,3.0,2,84675575,90,81,València,"Valencia, València",
+140000,1.0,3.0,2,84813538,94,84,València,"Valencia, València",
+170000,1.0,0.0,14,25912730,50,36,València,"Valencia, València",2010
+79000,2.0,6.0,0,81341942,256,,València,"Valencia, València",1930
+595000,2.0,2.0,13,81961689,149,,València,"Valencia, València",
+230000,2.0,3.0,2,40405880,100,90,València,"Valencia, València",2011
+149000,1.0,4.0,2,82845659,99,,València,"Valencia, València",
+480000,3.0,2.0,13,82939492,204,,València,"Valencia, València",2000
+210000,2.0,4.0,2,83524883,104,,València,"Valencia, València",
+250000,3.0,5.0,2,83637001,151,,València,"Valencia, València",1977
+380000,2.0,7.0,2,83637005,195,,València,"Valencia, València",1959
+179000,1.0,2.0,2,83459767,70,,València,"Valencia, València",1996
+159000,1.0,1.0,2,84163133,50,,València,"Valencia, València",2000
+60000,1.0,3.0,2,84593385,71,66,València,"Valencia, València",
+145000,1.0,2.0,2,84917148,70,62,València,"Valencia, València",
+195000,2.0,2.0,7,83277743,134,117,València,"Valencia, València",1990
+148000,1.0,2.0,2,84920362,64,,València,"Valencia, València",
+149000,1.0,4.0,2,82350633,95,,València,"Valencia, València",
+53000,1.0,3.0,2,82663914,70,,València,"Valencia, València",
+195000,2.0,2.0,7,82663918,110,,València,"Valencia, València",
+149000,1.0,3.0,2,82964675,110,,València,"Valencia, València",
+119900,1.0,3.0,2,82984154,92,88,València,"Valencia, València",
+152000,2.0,3.0,2,83109257,90,,València,"Valencia, València",
+147000,1.0,3.0,2,83109281,90,,València,"Valencia, València",

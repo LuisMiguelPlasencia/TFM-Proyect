@@ -1,0 +1,2653 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+199000,2.0,4.0,0,84854870,150,110,Valladolid,"Área Metropolitana Valladolid, Valladolid",1986
+105000,1.0,2.0,1,84327681,100,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+78700,1.0,2.0,1,82661082,75,59,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+140000,2.0,3.0,2,83970730,153,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+145000,1.0,2.0,3,38891523,50,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+179000,2.0,3.0,0,82590316,30,160,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+135000,1.0,2.0,4,84409803,136,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+105000,2.0,2.0,5,83938035,90,70,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+115000,2.0,3.0,1,85029925,125,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+130000,2.0,3.0,1,412733,110,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+56000,1.0,3.0,1,82806156,87,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+100000,2.0,3.0,0,36614336,95,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+120000,2.0,2.0,0,82708714,80,75,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+250000,3.0,4.0,7,34611646,160,,Olivares,"Aljarafe, Sevilla",
+75000,1.0,4.0,7,82546830,200,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110000,2.0,3.0,0,1767981,110,85,Albaida del Aljarafe,"Aljarafe, Sevilla",
+67000,1.0,0.0,8,38512705,60,56,Olivares,"Aljarafe, Sevilla",
+270000,3.0,5.0,4,31991206,2517,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+360000,2.0,4.0,4,27769686,590,589,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+130000,2.0,3.0,0,30645012,144,86,Albaida del Aljarafe,"Aljarafe, Sevilla",
+150000,3.0,4.0,4,1826775,200,,Olivares,"Aljarafe, Sevilla",
+185000,1.0,2.0,3,32912488,2812,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+185000,3.0,4.0,0,37432137,90,,Olivares,"Aljarafe, Sevilla",
+185000,3.0,4.0,0,37495534,85,140,Olivares,"Aljarafe, Sevilla",
+150000,2.0,3.0,4,36673130,150,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65800,1.0,3.0,1,1995691,80,76,Olivares,"Aljarafe, Sevilla",
+160000,3.0,4.0,2,448453,190,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+98500,2.0,3.0,2,83807058,80,64,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,1.0,4.0,7,39140462,350,140,Albaida del Aljarafe,"Aljarafe, Sevilla",1975
+110000,1.0,1.0,1,39129148,120,,Olivares,"Aljarafe, Sevilla",
+130000,2.0,4.0,4,82869134,240,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+170000,1.0,3.0,4,83937161,2618,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+231000,2.0,5.0,4,84416863,7000,,Olivares,"Aljarafe, Sevilla",
+75000,1.0,3.0,7,84476976,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+45000,1.0,3.0,1,38619620,60,59,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+95000,2.0,3.0,1,83521620,100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+220000,3.0,4.0,2,84414954,270,143,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+98500,2.0,3.0,0,83222801,80,64,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+50000,2.0,2.0,9,84662285,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+115000,2.0,3.0,10,84817986,97,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65500,1.0,2.0,1,35645931,103,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+70200,1.0,2.0,4,83934302,107,,Olivares,"Aljarafe, Sevilla",
+103500,2.0,2.0,1,84152213,94,,Olivares,"Aljarafe, Sevilla",
+103500,2.0,2.0,1,84107487,94,,Olivares,"Aljarafe, Sevilla",
+116800,1.0,1.0,1,84127307,91,,Olivares,"Aljarafe, Sevilla",
+116800,2.0,3.0,1,33496461,91,,Olivares,"Aljarafe, Sevilla",
+98000,2.0,3.0,0,84943493,160,,Olivares,"Aljarafe, Sevilla",
+65160,2.0,3.0,0,83010282,90,81,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+105000,1.0,3.0,4,82106475,2575,88,Sanlúcar la Mayor,"Aljarafe, Sevilla",1990
+65500,1.0,2.0,1,83807053,102,61,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+74000,1.0,2.0,2,84445129,106,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1975
+55000,1.0,2.0,0,84343105,100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1973
+900000,1.0,4.0,9,40321246,7800,100,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+600000,2.0,4.0,9,84380298,4500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,1.0,0.0,8,83224766,61,42,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+69400,1.0,3.0,0,83571071,78,75,Olivares,"Aljarafe, Sevilla",
+110000,1.0,3.0,9,37528700,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+60000,1.0,3.0,0,84343188,234,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1950
+80000,2.0,4.0,7,31884631,127,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+79000,1.0,2.0,1,84701162,81,65,Sanlúcar la Mayor,"Aljarafe, Sevilla",1958
+85500,1.0,2.0,1,84701955,76,57,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+86000,1.0,1.0,1,84949331,230,,Olivares,"Aljarafe, Sevilla",
+49000,2.0,3.0,0,84606241,85,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85700,1.0,2.0,1,303462,63,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2005
+123000,1.0,2.0,1,1651854,61,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+67000,1.0,1.0,1,25908926,50,,Olivares,"Aljarafe, Sevilla",
+66900,1.0,1.0,1,26755303,55,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2005
+86000,1.0,1.0,1,329023,50,45,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+190000,2.0,3.0,2,37768834,105,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+82000,2.0,3.0,2,38534867,100,90,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,1.0,1.0,1,299830,52,44,Olivares,"Aljarafe, Sevilla",
+70000,1.0,3.0,1,29046690,95,,Olivares,"Aljarafe, Sevilla",
+110000,1.0,3.0,4,30463073,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+189000,2.0,5.0,4,32085381,200,180,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+129000,2.0,3.0,2,83296516,90,,Olivares,"Aljarafe, Sevilla",
+175000,3.0,4.0,0,32598574,142,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+150000,1.0,3.0,4,34870242,1500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+120000,2.0,3.0,1,35684260,102,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+100000,1.0,3.0,4,39138314,1800,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+275000,3.0,3.0,4,39982208,840,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65000,1.0,2.0,1,81877433,56,48,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+86000,1.0,3.0,1,84904885,90,85,Olivares,"Aljarafe, Sevilla",
+55000,1.0,1.0,1,40411887,50,37,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110000,1.0,3.0,11,81846023,119,104,Olivares,"Aljarafe, Sevilla",
+85000,1.0,2.0,11,82834130,170,150,Olivares,"Aljarafe, Sevilla",1950
+139000,2.0,4.0,2,39516758,171,107,Albaida del Aljarafe,"Aljarafe, Sevilla",
+55000,1.0,1.0,1,2055916,50,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,2.0,2.0,10,2072273,85,75,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+55000,1.0,2.0,1,25914190,52,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+100000,2.0,3.0,0,30141746,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+130000,2.0,3.0,0,31288038,125,,Olivares,"Aljarafe, Sevilla",
+69999,1.0,2.0,1,31859956,87,67,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+150000,2.0,3.0,0,33825565,200,120,Olivares,"Aljarafe, Sevilla",
+339000,4.0,5.0,4,34798133,505,240,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110000,1.0,3.0,4,35662216,1300,210,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+128000,2.0,4.0,0,35775593,140,,Olivares,"Aljarafe, Sevilla",
+79500,1.0,2.0,1,36901692,75,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+220000,3.0,4.0,0,37910456,120,,Olivares,"Aljarafe, Sevilla",
+90000,1.0,3.0,7,39196256,85,,Olivares,"Aljarafe, Sevilla",
+255000,3.0,8.0,4,39655186,143,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+56000,1.0,1.0,1,40018581,60,50,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+135000,1.0,1.0,4,81142758,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+84000,1.0,3.0,1,37853164,76,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110000,2.0,2.0,1,1780225,114,78,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+150000,1.0,3.0,3,82186922,4100,70,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+98000,6.0,3.0,0,82894487,120,110,Olivares,"Aljarafe, Sevilla",1998
+120000,2.0,3.0,4,1675419,160,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+86130,1.0,3.0,1,36572005,99,72,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+108600,1.0,2.0,1,83832327,74,60,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+84000,1.0,3.0,0,83873284,150,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85000,1.0,2.0,1,38456270,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+78890,2.0,2.0,1,84183998,98,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+97800,2.0,3.0,1,84567968,115,,Olivares,"Aljarafe, Sevilla",
+95000,1.0,1.0,1,39616812,54,45,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+53000,1.0,3.0,1,31925576,87,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+129000,2.0,3.0,5,82510505,137,103,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+112000,2.0,1.0,5,84278502,94,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+49000,1.0,1.0,1,32535020,55,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+74000,1.0,2.0,0,36617058,106,88,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85500,1.0,2.0,1,33001720,75,56,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+78890,2.0,2.0,1,39903919,98,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+49000,1.0,1.0,1,39904010,55,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85100,1.0,2.0,1,39904011,74,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+96368,2.0,4.0,1,81947408,141,90,Olivares,"Aljarafe, Sevilla",
+97800,2.0,3.0,1,30426311,115,,Olivares,"Aljarafe, Sevilla",
+76000,2.0,4.0,0,84633430,127,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+53000,1.0,3.0,1,31832868,87,68,Sanlúcar la Mayor,"Aljarafe, Sevilla",1973
+120750,2.0,3.0,11,82609584,85,85,Olivares,"Aljarafe, Sevilla",2007
+72000,1.0,1.0,1,83225263,60,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+270000,3.0,5.0,11,83677293,3000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2012
+95000,2.0,3.0,0,84153160,121,79,Olivares,"Aljarafe, Sevilla",2000
+88000,2.0,3.0,1,84732423,85,67,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+230000,2.0,4.0,4,37847144,1000,100,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+183000,2.0,4.0,2,40099495,103,100,Albaida del Aljarafe,"Aljarafe, Sevilla",2004
+130000,2.0,3.0,0,84394690,140,,Albaida del Aljarafe,"Aljarafe, Sevilla",
+89900,2.0,3.0,1,35090243,105,73,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65000,1.0,2.0,1,32489098,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+195000,1.0,3.0,4,395313,2850,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+540000,2.0,3.0,9,26856820,400,,Olivares,"Aljarafe, Sevilla",
+85500,1.0,2.0,1,32994064,75,57,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+79000,1.0,2.0,1,38497327,81,65,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+120000,2.0,3.0,0,81893665,106,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+129000,1.0,4.0,0,83114745,231,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1995
+86130,1.0,3.0,1,37830719,99,72,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+135744,2.0,6.0,11,82815797,129,,Olivares,"Aljarafe, Sevilla",1978
+55000,1.0,2.0,0,85022877,222,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+77000,1.0,1.0,1,28815237,55,41,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+55000,1.0,3.0,1,31849530,86,68,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+130000,1.0,2.0,10,1640761,70,60,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+215000,2.0,3.0,4,2016118,300,156,Olivares,"Aljarafe, Sevilla",
+85000,1.0,3.0,5,27080696,100,,Albaida del Aljarafe,"Aljarafe, Sevilla",
+110000,2.0,3.0,1,32817498,95,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+155000,3.0,3.0,0,27359089,150,110,Olivares,"Aljarafe, Sevilla",2008
+95000,2.0,3.0,1,36886167,110,100,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+82000,2.0,3.0,1,34401344,123,106,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+330000,3.0,5.0,4,35698515,520,207,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+100000,2.0,2.0,10,39667152,100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+90000,1.0,3.0,1,40082197,124,120,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+232000,3.0,4.0,3,81625978,5000,200,Sanlúcar la Mayor,"Aljarafe, Sevilla",1990
+220000,2.0,4.0,4,81728317,2884,165,Sanlúcar la Mayor,"Aljarafe, Sevilla",1980
+127000,2.0,3.0,2,83043357,100,,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+106000,2.0,3.0,0,83835110,120,88,Olivares,"Aljarafe, Sevilla",
+98000,2.0,3.0,0,84930075,150,90,Olivares,"Aljarafe, Sevilla",
+67000,1.0,2.0,1,81869445,61,43,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+72000,1.0,1.0,5,82861398,60,42,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+76500,1.0,2.0,5,83809337,65,46,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+75000,1.0,2.0,1,84059777,61,43,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+75000,2.0,3.0,0,84861227,86,82,Albaida del Aljarafe,"Aljarafe, Sevilla",
+96000,2.0,2.0,5,29198895,78,70,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+79000,1.0,4.0,9,84763583,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+126250,2.0,4.0,0,1948108,90,,Olivares,"Aljarafe, Sevilla",
+119500,2.0,3.0,2,1969168,150,,Albaida del Aljarafe,"Aljarafe, Sevilla",
+129000,2.0,3.0,2,25684668,211,95,Albaida del Aljarafe,"Aljarafe, Sevilla",
+115000,2.0,3.0,7,32935409,122,110,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110425,2.0,2.0,5,39537401,108,107,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+225000,3.0,4.0,4,81172863,2300,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+128000,1.0,2.0,1,81771469,86,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+129000,1.0,1.0,4,2167096,1260,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+143990,2.0,4.0,0,82369221,143,93,Olivares,"Aljarafe, Sevilla",
+185000,2.0,3.0,4,82565241,2500,90,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+95000,1.0,2.0,1,32232517,67,65,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+170200,3.0,4.0,11,83209862,122,,Olivares,"Aljarafe, Sevilla",
+350000,3.0,7.0,3,83641530,2490,280,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+120000,3.0,4.0,0,37996883,140,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+89500,3.0,4.0,9,29392956,3250,130,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+70000,1.0,1.0,1,81381456,52,45,Sanlúcar la Mayor,"Aljarafe, Sevilla",2009
+79000,1.0,1.0,10,1630189,60,41,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+150000,2.0,7.0,0,35152503,198,,Olivares,"Aljarafe, Sevilla",
+79000,2.0,4.0,4,82661033,109,90,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+49400,1.0,1.0,1,84153323,104,12,Olivares,"Aljarafe, Sevilla",
+79900,3.0,6.0,11,84182281,180,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+50000,1.0,1.0,1,84337541,40,33,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+159900,2.0,1.0,11,84405549,5000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+78890,2.0,2.0,5,35803349,98,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+54100,1.0,1.0,1,82846428,80,,Olivares,"Aljarafe, Sevilla",
+116000,1.0,4.0,4,83319345,138,,Olivares,"Aljarafe, Sevilla",
+58700,1.0,3.0,1,83934329,86,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+380000,4.0,5.0,4,25889133,1000,245,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+64334,1.0,3.0,0,30589569,91,75,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65500,1.0,2.0,1,35592511,102,61,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+32900,1.0,3.0,1,36956863,55,46,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+82000,1.0,3.0,1,37914736,88,,Olivares,"Aljarafe, Sevilla",1975
+209000,2.0,3.0,4,83682190,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+93000,1.0,3.0,1,84626959,85,75,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+225000,2.0,3.0,2,84741847,780,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+119000,2.0,4.0,0,84764708,119,,Olivares,"Aljarafe, Sevilla",1996
+85100,1.0,2.0,1,84770969,74,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+97800,1.0,2.0,11,84772637,119,,Olivares,"Aljarafe, Sevilla",
+115000,2.0,3.0,11,36279440,114,94,Olivares,"Aljarafe, Sevilla",
+105000,1.0,3.0,11,37971493,144,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+159900,3.0,4.0,2,38895114,120,110,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+500000,3.0,3.0,4,81186438,1274,400,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+54100,1.0,1.0,1,81725275,80,,Olivares,"Aljarafe, Sevilla",
+235000,2.0,5.0,2,37395270,450,130,Sanlúcar la Mayor,"Aljarafe, Sevilla",1992
+116000,1.0,4.0,11,83253115,110,110,Olivares,"Aljarafe, Sevilla",2006
+70200,1.0,2.0,11,83880233,107,,Olivares,"Aljarafe, Sevilla",
+58700,1.0,3.0,1,83880289,86,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+97800,1.0,2.0,11,34220622,119,,Olivares,"Aljarafe, Sevilla",
+39200,1.0,1.0,1,31694360,54,37,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+63900,1.0,4.0,11,34367396,173,130,Olivares,"Aljarafe, Sevilla",
+95000,2.0,5.0,0,38075187,123,,Olivares,"Aljarafe, Sevilla",1996
+88000,2.0,3.0,1,39242064,85,67,Sanlúcar la Mayor,"Aljarafe, Sevilla",2002
+65000,2.0,3.0,1,82858351,183,170,Olivares,"Aljarafe, Sevilla",1988
+199000,3.0,6.0,2,84061507,300,176,Sanlúcar la Mayor,"Aljarafe, Sevilla",2002
+58700,1.0,2.0,5,33054133,87,,Olivares,"Aljarafe, Sevilla",
+58700,1.0,2.0,1,84127263,87,,Olivares,"Aljarafe, Sevilla",
+385000,3.0,5.0,11,84525819,2500,400,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85000,2.0,3.0,0,82159973,100,,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+109900,2.0,5.0,2,84700472,128,,Olivares,"Aljarafe, Sevilla",
+78890,2.0,2.0,1,84948176,98,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+80000,3.0,3.0,1,84732368,92,64,Olivares,"Aljarafe, Sevilla",
+69000,1.0,2.0,1,84343635,70,,Olivares,"Aljarafe, Sevilla",2008
+98000,1.0,2.0,10,28301582,70,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+127500,2.0,3.0,2,82272624,170,,Albaida del Aljarafe,"Aljarafe, Sevilla",2008
+117500,2.0,3.0,1,30835581,140,110,Sanlúcar la Mayor,"Aljarafe, Sevilla",2003
+112500,2.0,3.0,0,33737772,103,,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+74500,1.0,3.0,1,33797504,70,,Olivares,"Aljarafe, Sevilla",2000
+49000,1.0,1.0,1,35501074,42,38,Olivares,"Aljarafe, Sevilla",2005
+100000,2.0,3.0,11,35836459,92,80,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+39100,1.0,1.0,1,36434920,41,39,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+210000,3.0,4.0,0,36734778,600,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+209000,1.0,3.0,4,37855295,3000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+117500,2.0,3.0,2,29097313,124,,Olivares,"Aljarafe, Sevilla",
+109000,1.0,5.0,0,38461616,112,130,Olivares,"Aljarafe, Sevilla",2005
+126000,2.0,4.0,0,39942474,147,,Olivares,"Aljarafe, Sevilla",
+245000,3.0,3.0,4,40160813,2800,114,Sanlúcar la Mayor,"Aljarafe, Sevilla",2010
+72000,2.0,4.0,7,40201891,138,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1972
+79400,3.0,3.0,1,32801098,111,95,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+135000,2.0,3.0,2,40572196,200,,Albaida del Aljarafe,"Aljarafe, Sevilla",2000
+79000,1.0,3.0,0,81435471,251,,Olivares,"Aljarafe, Sevilla",1970
+127500,2.0,3.0,2,34437816,180,,Olivares,"Aljarafe, Sevilla",2003
+127260,1.0,3.0,0,81759186,137,,Olivares,"Aljarafe, Sevilla",1980
+112500,2.0,3.0,0,32925869,124,,Albaida del Aljarafe,"Aljarafe, Sevilla",2006
+148000,3.0,4.0,2,82617567,266,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+69500,2.0,3.0,0,82729577,188,175,Sanlúcar la Mayor,"Aljarafe, Sevilla",1960
+119500,2.0,3.0,1,82651555,96,,Olivares,"Aljarafe, Sevilla",2009
+159500,2.0,4.0,2,33382101,150,115,Olivares,"Aljarafe, Sevilla",2007
+240000,3.0,4.0,4,83255786,4548,363,Sanlúcar la Mayor,"Aljarafe, Sevilla",1987
+145000,3.0,4.0,2,84987914,139,135,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+175000,3.0,4.0,2,85023644,250,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65000,2.0,3.0,0,83950605,74,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+200000,3.0,6.0,0,84533672,162,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1989
+125000,2.0,3.0,10,84735782,103,89,Sanlúcar la Mayor,"Aljarafe, Sevilla",1996
+98000,1.0,1.0,7,81538381,312,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+80000,2.0,2.0,1,84153076,92,64,Olivares,"Aljarafe, Sevilla",2009
+78000,1.0,1.0,1,36348815,52,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2009
+139950,2.0,5.0,0,82983965,181,,Olivares,"Aljarafe, Sevilla",1994
+362705,3.0,5.0,11,84623005,495,344,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+235000,3.0,4.0,4,39505499,813,124,Sanlúcar la Mayor,"Aljarafe, Sevilla",1980
+81831,1.0,2.0,0,27942737,110,106,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+124900,3.0,4.0,11,82680547,200,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1989
+59500,1.0,3.0,1,82794659,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1900
+95000,2.0,3.0,0,83176303,104,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1999
+329000,2.0,4.0,4,83652114,589,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2005
+150000,2.0,4.0,2,84598478,242,126,Sanlúcar la Mayor,"Aljarafe, Sevilla",2001
+129500,2.0,3.0,4,84988129,163,,Albaida del Aljarafe,"Aljarafe, Sevilla",2004
+200000,2.0,4.0,2,30322428,513,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1989
+139000,2.0,4.0,0,84703914,187,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1975
+74000,1.0,2.0,0,29076586,106,89,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+115000,2.0,3.0,0,30535043,95,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+340000,3.0,5.0,4,34333863,505,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+83000,2.0,3.0,0,37058661,80,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+330000,2.0,5.0,4,37282761,502,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+80000,1.0,3.0,0,39337041,200,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+95000,2.0,3.0,0,81718290,104,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2000
+600000,3.0,4.0,11,37713572,7780,,Olivares,"Aljarafe, Sevilla",
+525000,3.0,5.0,4,82267889,1074,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1997
+123600,2.0,3.0,1,82372839,100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+150000,2.0,6.0,9,83204981,22748,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+99500,2.0,3.0,0,83194383,133,116,Olivares,"Aljarafe, Sevilla",2000
+123600,1.0,3.0,4,82125757,2529,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+154620,1.0,3.0,10,84164327,259,,Olivares,"Aljarafe, Sevilla",
+169950,2.0,4.0,0,84122518,141,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+110000,2.0,4.0,4,83535749,2226,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1998
+210000,3.0,4.0,4,31258116,3000,255,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+260000,3.0,4.0,4,82474795,2390,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1983
+280000,4.0,7.0,4,83584208,460,280,Olivares,"Aljarafe, Sevilla",
+75000,2.0,3.0,0,37256358,112,82,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+65000,1.0,3.0,1,85033041,87,79,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+54100,1.0,1.0,1,83942299,80,,Olivares,"Aljarafe, Sevilla",
+71000,1.0,3.0,1,83957441,86,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+189000,2.0,3.0,4,84189561,2491,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+188400,3.0,4.0,2,82948682,267,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+105000,2.0,3.0,11,85026829,3100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+138000,3.0,4.0,0,84220563,136,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+49000,1.0,1.0,1,83956154,55,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+580000,3.0,3.0,4,40383463,18765,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+106000,2.0,4.0,0,82486748,90,,Albaida del Aljarafe,"Aljarafe, Sevilla",
+620000,3.0,5.0,4,83939290,7900,450,Olivares,"Aljarafe, Sevilla",2010
+85000,2.0,3.0,5,81353494,141,,Albaida del Aljarafe,"Aljarafe, Sevilla",2006
+146000,3.0,3.0,0,82790794,120,,Olivares,"Aljarafe, Sevilla",2002
+77000,1.0,4.0,0,82884971,161,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+115000,2.0,3.0,2,35831401,171,88,Albaida del Aljarafe,"Aljarafe, Sevilla",
+108000,2.0,3.0,1,83131512,110,85,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+108000,2.0,3.0,0,84941743,97,72,Olivares,"Aljarafe, Sevilla",2009
+109000,3.0,4.0,0,81151208,150,,Albaida del Aljarafe,"Aljarafe, Sevilla",2007
+97500,2.0,3.0,0,81151329,97,,Olivares,"Aljarafe, Sevilla",2012
+82970,2.0,3.0,1,34601054,97,85,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+61900,1.0,1.0,1,84337534,64,42,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+39900,1.0,1.0,1,84337526,41,27,Sanlúcar la Mayor,"Aljarafe, Sevilla",2018
+85000,1.0,2.0,1,84337527,93,62,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85000,1.0,2.0,1,84337528,93,62,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+78000,1.0,2.0,1,84337538,85,57,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+81000,2.0,2.0,1,84337539,84,56,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+41400,1.0,1.0,1,84337542,42,28,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+67000,1.0,2.0,1,84337533,72,48,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+53000,1.0,4.0,0,82626877,222,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+130000,2.0,5.0,0,85049789,160,150,Olivares,"Aljarafe, Sevilla",
+60000,1.0,4.0,4,31554638,110,,Olivares,"Aljarafe, Sevilla",
+730000,5.0,6.0,4,85030636,20100,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1975
+250000,2.0,3.0,9,85056908,210,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+149000,3.0,3.0,0,85018342,119,,Olivares,"Aljarafe, Sevilla",2002
+40000,2.0,4.0,0,85018077,140,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,2.0,3.0,11,84171481,250,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+65500,1.0,1.0,5,84823335,102,55,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+107500,2.0,3.0,11,84152765,161,75,Albaida del Aljarafe,"Aljarafe, Sevilla",2003
+220000,2.0,4.0,4,81533766,2900,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1980
+75000,2.0,3.0,0,82488669,72,115,Olivares,"Aljarafe, Sevilla",2002
+185000,2.0,3.0,11,84659275,2541,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1993
+155000,3.0,4.0,4,82880094,304,178,Olivares,"Aljarafe, Sevilla",2009
+63900,1.0,2.0,1,82396083,75,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+85000,2.0,3.0,1,82737546,129,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+135000,2.0,3.0,0,82199438,152,82,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+220000,2.0,4.0,4,81540968,2877,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1980
+58680,1.0,3.0,11,82095742,159,120,Olivares,"Aljarafe, Sevilla",1971
+40000,1.0,3.0,4,82601288,120,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+318000,4.0,4.0,4,81969739,1000,218,Sanlúcar la Mayor,"Aljarafe, Sevilla",2013
+110000,1.0,3.0,0,84433055,146,85,Olivares,"Aljarafe, Sevilla",1971
+99000,1.0,3.0,9,84722078,2500,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1994
+103000,2.0,5.0,0,35666950,124,107,Olivares,"Aljarafe, Sevilla",1992
+140000,2.0,3.0,4,83426590,217,120,Sanlúcar la Mayor,"Aljarafe, Sevilla",1996
+109680,1.0,3.0,11,84290604,171,200,Olivares,"Aljarafe, Sevilla",1960
+88000,2.0,3.0,0,39804943,60,90,Olivares,"Aljarafe, Sevilla",1986
+127000,1.0,3.0,4,82691836,2600,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1986
+169990,4.0,5.0,4,81558332,3000,270,Sanlúcar la Mayor,"Aljarafe, Sevilla",1967
+270000,4.0,6.0,4,36058550,481,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+86000,2.0,3.0,2,84916374,100,69,Albaida del Aljarafe,"Aljarafe, Sevilla",2005
+60000,2.0,4.0,7,82781098,145,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1998
+169900,1.0,3.0,11,81453522,105,,Albaida del Aljarafe,"Aljarafe, Sevilla",
+78990,2.0,3.0,5,84248298,85,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+129900,2.0,3.0,0,83560630,104,80,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+250000,2.0,3.0,4,83679074,3000,170,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+210000,2.0,3.0,9,83698975,2500,152,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+299997,3.0,5.0,2,82822756,366,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1985
+120000,2.0,4.0,0,39856296,100,,Olivares,"Aljarafe, Sevilla",
+177500,2.0,4.0,4,25474693,185,150,Olivares,"Aljarafe, Sevilla",
+89990,2.0,3.0,0,84924671,104,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+79400,3.0,3.0,1,82406092,111,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1991
+125000,2.0,2.0,5,40020756,106,97,Sanlúcar la Mayor,"Aljarafe, Sevilla",2005
+410000,4.0,9.0,4,83838364,2548,350,Sanlúcar la Mayor,"Aljarafe, Sevilla",2000
+85470,1.0,3.0,1,84941104,91,90,Olivares,"Aljarafe, Sevilla",
+500000,4.0,7.0,4,40369827,9000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+75000,1.0,2.0,1,82954507,60,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+76500,1.0,2.0,1,83953037,60,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2008
+424500,2.0,4.0,4,83891347,14000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+730000,3.0,4.0,4,81920214,17000,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1998
+205900,3.0,3.0,2,84898731,240,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+115000,2.0,3.0,0,84996010,114,,Olivares,"Aljarafe, Sevilla",2002
+63000,1.0,1.0,1,84725491,65,,Sanlúcar la Mayor,"Aljarafe, Sevilla",2010
+139000,2.0,4.0,0,84927173,187,,Sanlúcar la Mayor,"Aljarafe, Sevilla",1975
+95000,3.0,4.0,3,84979094,3300,160,Sanlúcar la Mayor,"Aljarafe, Sevilla",2009
+56000,1.0,1.0,1,84787953,50,45,Sanlúcar la Mayor,"Aljarafe, Sevilla",2007
+679000,4.0,5.0,11,82593978,530,,Sanlúcar la Mayor,"Aljarafe, Sevilla",
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+118000,2.0,4.0,1,35201158,124,116,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+42600,1.0,2.0,1,38756547,75,60,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+170000,2.0,3.0,1,84153146,79,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+98600,2.0,3.0,1,541609,83,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+168000,2.0,4.0,0,38879999,140,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+115000,2.0,2.0,1,84283712,80,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2007
+300000,3.0,4.0,4,38887738,270,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+162000,2.0,3.0,0,304996,274,190,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+98000,1.0,1.0,10,27537599,45,40,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+120000,2.0,3.0,1,35363510,101,80,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+129300,2.0,6.0,11,82053533,220,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+124999,2.0,3.0,1,306368,95,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+140000,2.0,4.0,4,84250021,800,150,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+168000,2.0,4.0,4,83571706,147,218,Valladolid,"Área Metropolitana Valladolid, Valladolid",1981
+125000,2.0,3.0,1,81728961,102,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+131000,2.0,3.0,1,82665776,95,80,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+158000,2.0,3.0,1,38664030,128,95,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+135000,1.0,2.0,10,84765292,92,76,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+129300,2.0,6.0,4,82846454,220,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+174000,2.0,3.0,10,83165177,108,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+79999,2.0,4.0,1,83624259,102,87,Valladolid,"Área Metropolitana Valladolid, Valladolid",1999
+32000,1.0,1.0,1,84971049,51,47,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+93000,2.0,2.0,1,40226001,83,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2007
+168000,2.0,4.0,0,82108702,70,200,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+143000,2.0,4.0,0,83953703,800,200,Valladolid,"Área Metropolitana Valladolid, Valladolid",1980
+100000,2.0,3.0,1,82637597,96,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+118000,2.0,3.0,1,83679310,99,84,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+129990,1.0,5.0,4,83918779,180,157,Valladolid,"Área Metropolitana Valladolid, Valladolid",1988
+190000,2.0,3.0,1,84986513,99,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+147000,2.0,3.0,1,84894525,94,78,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+89900,2.0,2.0,1,40174100,72,65,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+110000,2.0,3.0,1,83695446,92,78,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+120000,2.0,3.0,1,84862189,90,80,Valladolid,"Área Metropolitana Valladolid, Valladolid",2008
+65600,2.0,3.0,1,39831225,84,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+149000,3.0,4.0,0,82861001,178,152,Sevilla,"Sevilla capital, Sevilla",1968
+240000,2.0,4.0,1,32090591,140,120,Sevilla,"Sevilla capital, Sevilla",
+80000,1.0,3.0,1,37502936,82,,Sevilla,"Sevilla capital, Sevilla",
+450000,3.0,5.0,0,1918010,300,,Sevilla,"Sevilla capital, Sevilla",
+107000,1.0,3.0,1,36415147,70,,Sevilla,"Sevilla capital, Sevilla",
+119000,1.0,2.0,1,37862601,65,57,Sevilla,"Sevilla capital, Sevilla",
+70000,1.0,3.0,1,84445517,76,65,Sevilla,"Sevilla capital, Sevilla",
+229000,3.0,3.0,0,83766839,139,,Sevilla,"Sevilla capital, Sevilla",
+65000,1.0,3.0,1,83070176,70,,Sevilla,"Sevilla capital, Sevilla",
+110000,1.0,3.0,1,84777105,72,,Sevilla,"Sevilla capital, Sevilla",1990
+220000,2.0,3.0,1,36614181,107,,Sevilla,"Sevilla capital, Sevilla",
+72000,1.0,3.0,1,82704228,65,59,Sevilla,"Sevilla capital, Sevilla",
+110260,2.0,3.0,0,84753284,74,,Sevilla,"Sevilla capital, Sevilla",1970
+125000,1.0,2.0,5,82117159,100,80,Sevilla,"Sevilla capital, Sevilla",2018
+87000,1.0,3.0,1,30986049,90,,Sevilla,"Sevilla capital, Sevilla",
+105000,1.0,2.0,1,34760782,90,80,Sevilla,"Sevilla capital, Sevilla",
+104235,3.0,4.0,4,37938880,217,180,Sevilla,"Sevilla capital, Sevilla",
+175000,1.0,2.0,1,83353112,70,,Sevilla,"Sevilla capital, Sevilla",
+134000,1.0,3.0,1,83725112,94,89,Sevilla,"Sevilla capital, Sevilla",
+240000,3.0,7.0,4,83756391,320,210,Sevilla,"Sevilla capital, Sevilla",1970
+55000,1.0,1.0,1,83794661,50,,Sevilla,"Sevilla capital, Sevilla",
+92000,1.0,3.0,1,84196096,80,70,Sevilla,"Sevilla capital, Sevilla",
+135000,2.0,2.0,0,83905785,131,,Sevilla,"Sevilla capital, Sevilla",2010
+89500,1.0,0.0,8,1622209,39,35,Sevilla,"Sevilla capital, Sevilla",
+270455,2.0,3.0,1,1806848,100,,Sevilla,"Sevilla capital, Sevilla",
+269000,2.0,4.0,1,2124337,140,,Sevilla,"Sevilla capital, Sevilla",
+120000,1.0,3.0,10,299873,75,70,Sevilla,"Sevilla capital, Sevilla",
+89000,1.0,2.0,1,1617605,70,55,Sevilla,"Sevilla capital, Sevilla",
+370000,2.0,3.0,1,81836985,110,,Sevilla,"Sevilla capital, Sevilla",
+110000,2.0,3.0,1,25293571,90,75,Sevilla,"Sevilla capital, Sevilla",
+130000,2.0,4.0,1,82547080,118,,Sevilla,"Sevilla capital, Sevilla",
+173000,1.0,2.0,1,82652605,70,60,Sevilla,"Sevilla capital, Sevilla",
+120000,1.0,2.0,1,83016869,85,,Sevilla,"Sevilla capital, Sevilla",
+125000,2.0,3.0,1,83180011,90,,Sevilla,"Sevilla capital, Sevilla",2005
+70000,1.0,2.0,1,83544105,68,57,Sevilla,"Sevilla capital, Sevilla",
+129500,2.0,4.0,1,83541898,140,,Sevilla,"Sevilla capital, Sevilla",
+75000,1.0,3.0,1,83707659,73,,Sevilla,"Sevilla capital, Sevilla",
+260000,2.0,3.0,1,83930301,120,,Sevilla,"Sevilla capital, Sevilla",
+200000,1.0,2.0,1,33510910,75,68,Sevilla,"Sevilla capital, Sevilla",
+295000,4.0,4.0,2,30125286,175,160,Sevilla,"Sevilla capital, Sevilla",
+238000,2.0,3.0,1,84413968,110,,Sevilla,"Sevilla capital, Sevilla",
+249000,3.0,3.0,0,84565410,125,120,Sevilla,"Sevilla capital, Sevilla",
+111000,2.0,2.0,1,84585482,91,,Sevilla,"Sevilla capital, Sevilla",
+39500,1.0,2.0,1,84035338,44,,Sevilla,"Sevilla capital, Sevilla",
+100000,1.0,2.0,1,81368402,71,62,Sevilla,"Sevilla capital, Sevilla",1994
+98400,1.0,3.0,1,84473959,74,56,Sevilla,"Sevilla capital, Sevilla",
+111000,2.0,2.0,1,84764247,90,77,Sevilla,"Sevilla capital, Sevilla",2000
+285000,3.0,4.0,0,32706234,140,,Sevilla,"Sevilla capital, Sevilla",
+520000,3.0,9.0,0,83906208,559,,Sevilla,"Sevilla capital, Sevilla",
+111000,2.0,2.0,1,84409591,90,78,Sevilla,"Sevilla capital, Sevilla",
+55000,1.0,3.0,1,40047213,75,70,Sevilla,"Sevilla capital, Sevilla",
+135000,2.0,2.0,0,84121120,131,,Sevilla,"Sevilla capital, Sevilla",
+66000,1.0,3.0,1,84035583,63,,Sevilla,"Sevilla capital, Sevilla",
+82000,1.0,3.0,1,84222135,85,80,Sevilla,"Sevilla capital, Sevilla",
+50000,1.0,2.0,1,81587343,60,55,Sevilla,"Sevilla capital, Sevilla",1955
+66000,1.0,3.0,1,39165095,64,,Sevilla,"Sevilla capital, Sevilla",1969
+57000,1.0,3.0,0,39355220,190,100,Sevilla,"Sevilla capital, Sevilla",
+100000,1.0,2.0,1,40490855,76,,Sevilla,"Sevilla capital, Sevilla",
+177500,1.0,2.0,1,82795047,75,68,Sevilla,"Sevilla capital, Sevilla",2010
+80000,1.0,3.0,1,40071590,70,67,Sevilla,"Sevilla capital, Sevilla",
+52600,1.0,1.0,1,82054994,70,57,Sevilla,"Sevilla capital, Sevilla",
+66000,1.0,3.0,1,83905258,63,,Sevilla,"Sevilla capital, Sevilla",
+85000,1.0,0.0,8,37020733,80,72,Sevilla,"Sevilla capital, Sevilla",
+130000,2.0,4.0,1,40217026,110,100,Sevilla,"Sevilla capital, Sevilla",2000
+95000,1.0,4.0,1,82326171,105,100,Sevilla,"Sevilla capital, Sevilla",
+117000,2.0,3.0,1,84811670,79,,Sevilla,"Sevilla capital, Sevilla",
+230000,2.0,3.0,1,38291749,105,84,Sevilla,"Sevilla capital, Sevilla",2008
+19900,2.0,3.0,11,83639548,140,120,Sevilla,"Sevilla capital, Sevilla",
+74000,1.0,3.0,1,84951174,77,65,Sevilla,"Sevilla capital, Sevilla",1970
+129900,2.0,4.0,1,83037869,118,90,Sevilla,"Sevilla capital, Sevilla",1975
+69700,1.0,1.0,1,82405694,56,,Sevilla,"Sevilla capital, Sevilla",1996
+129900,1.0,3.0,1,82733033,94,,Sevilla,"Sevilla capital, Sevilla",
+75000,1.0,2.0,1,83818798,65,,Sevilla,"Sevilla capital, Sevilla",
+55000,1.0,2.0,1,84805977,60,50,Sevilla,"Sevilla capital, Sevilla",2004
+280000,3.0,3.0,0,31440897,130,125,Sevilla,"Sevilla capital, Sevilla",
+140000,1.0,3.0,4,81956508,165,,Sevilla,"Sevilla capital, Sevilla",
+98400,1.0,2.0,1,84906200,70,65,Sevilla,"Sevilla capital, Sevilla",
+85000,1.0,3.0,1,2078049,79,,Sevilla,"Sevilla capital, Sevilla",
+78000,1.0,1.0,1,39809345,40,,Sevilla,"Sevilla capital, Sevilla",
+120000,1.0,3.0,10,81214465,75,,Sevilla,"Sevilla capital, Sevilla",
+170000,1.0,2.0,1,36417236,79,68,Sevilla,"Sevilla capital, Sevilla",
+85000,1.0,3.0,1,83579830,82,,Sevilla,"Sevilla capital, Sevilla",
+125000,2.0,2.0,1,84517551,73,,Sevilla,"Sevilla capital, Sevilla",
+36000,1.0,3.0,1,33698720,90,,Sevilla,"Sevilla capital, Sevilla",1970
+60000,1.0,3.0,1,84120837,64,,Sevilla,"Sevilla capital, Sevilla",
+50000,1.0,1.0,1,81587342,60,57,Sevilla,"Sevilla capital, Sevilla",1955
+49000,1.0,1.0,2,82944148,52,,Sevilla,"Sevilla capital, Sevilla",
+60000,1.0,3.0,0,84330560,58,50,Sevilla,"Sevilla capital, Sevilla",1958
+105000,1.0,2.0,1,84954998,76,,Sevilla,"Sevilla capital, Sevilla",
+64990,1.0,3.0,1,37721380,55,48,Sevilla,"Sevilla capital, Sevilla",1975
+89500,1.0,2.0,1,84036001,91,,Sevilla,"Sevilla capital, Sevilla",
+175000,1.0,2.0,1,83195395,88,,Sevilla,"Sevilla capital, Sevilla",
+245000,2.0,3.0,1,83227156,125,,Sevilla,"Sevilla capital, Sevilla",
+44000,1.0,2.0,1,39031938,72,60,Sevilla,"Sevilla capital, Sevilla",
+98400,1.0,2.0,1,81774395,73,56,Sevilla,"Sevilla capital, Sevilla",1976
+99100,1.0,3.0,1,82553558,76,61,Sevilla,"Sevilla capital, Sevilla",
+167200,1.0,2.0,1,84329793,77,,Sevilla,"Sevilla capital, Sevilla",2009
+383000,2.0,3.0,1,84329910,107,,Sevilla,"Sevilla capital, Sevilla",2008
+135000,2.0,3.0,1,82501981,115,90,Sevilla,"Sevilla capital, Sevilla",1982
+155000,1.0,2.0,1,84285813,78,70,Sevilla,"Sevilla capital, Sevilla",2007
+93000,1.0,2.0,1,83905304,91,,Sevilla,"Sevilla capital, Sevilla",
+110000,1.0,3.0,1,81338979,84,,Sevilla,"Sevilla capital, Sevilla",
+135000,1.0,3.0,1,83176364,94,86,Sevilla,"Sevilla capital, Sevilla",2001
+280000,2.0,3.0,4,84638714,480,185,Sevilla,"Sevilla capital, Sevilla",
+295000,5.0,9.0,0,83906021,410,,Sevilla,"Sevilla capital, Sevilla",
+49000,1.0,1.0,0,84929183,51,,Sevilla,"Sevilla capital, Sevilla",
+240000,2.0,3.0,1,84762704,110,,Sevilla,"Sevilla capital, Sevilla",2003
+160000,2.0,3.0,0,32596709,130,73,Sevilla,"Sevilla capital, Sevilla",
+182000,1.0,2.0,1,84742965,75,,Sevilla,"Sevilla capital, Sevilla",
+93000,1.0,3.0,1,83593649,94,85,Sevilla,"Sevilla capital, Sevilla",1980
+248712,2.0,3.0,4,84823669,320,189,Sevilla,"Sevilla capital, Sevilla",
+264000,2.0,3.0,1,84621040,122,102,Sevilla,"Sevilla capital, Sevilla",2005
+60000,1.0,1.0,1,83878286,52,45,Sevilla,"Sevilla capital, Sevilla",1989
+267800,1.0,4.0,0,84262462,195,,Sevilla,"Sevilla capital, Sevilla",1992
+120000,1.0,3.0,1,84546761,70,,Sevilla,"Sevilla capital, Sevilla",1992
+72000,1.0,1.0,1,84723548,51,,Sevilla,"Sevilla capital, Sevilla",
+125000,2.0,3.0,1,84723572,78,,Sevilla,"Sevilla capital, Sevilla",
+125000,2.0,3.0,1,84723565,78,,Sevilla,"Sevilla capital, Sevilla",
+89500,2.0,2.0,1,84723564,62,,Sevilla,"Sevilla capital, Sevilla",
+295000,5.0,9.0,0,84121249,410,,Sevilla,"Sevilla capital, Sevilla",
+67260,1.0,3.0,1,81835486,67,60,Sevilla,"Sevilla capital, Sevilla",
+104050,1.0,2.0,1,35316754,85,,Sevilla,"Sevilla capital, Sevilla",1972
+75000,1.0,4.0,1,37600330,105,,Sevilla,"Sevilla capital, Sevilla",1970
+112260,1.0,5.0,1,34571714,100,85,Sevilla,"Sevilla capital, Sevilla",1970
+76260,1.0,2.0,1,39484562,75,68,Sevilla,"Sevilla capital, Sevilla",1973
+220000,2.0,3.0,1,83315642,101,,Sevilla,"Sevilla capital, Sevilla",
+220000,2.0,3.0,1,84330030,107,,Sevilla,"Sevilla capital, Sevilla",2008
+230000,2.0,3.0,1,84564122,101,90,Sevilla,"Sevilla capital, Sevilla",2006
+90000,1.0,2.0,1,37657587,80,,Sevilla,"Sevilla capital, Sevilla",1970
+60000,1.0,3.0,1,81258811,79,65,Sevilla,"Sevilla capital, Sevilla",1970
+140000,2.0,3.0,1,30645037,74,,Sevilla,"Sevilla capital, Sevilla",
+140000,2.0,4.0,1,84988311,121,,Sevilla,"Sevilla capital, Sevilla",1990
+189990,1.0,2.0,0,84948045,164,,Sevilla,"Sevilla capital, Sevilla",1970
+240000,2.0,3.0,1,84733852,101,95,Sevilla,"Sevilla capital, Sevilla",
+231700,2.0,3.0,1,84809604,95,,Sevilla,"Sevilla capital, Sevilla",
+70000,1.0,2.0,1,81353147,75,65,Sevilla,"Sevilla capital, Sevilla",
+129000,2.0,6.0,11,81712699,214,182,Sevilla,"Sevilla capital, Sevilla",1973
+108000,2.0,3.0,1,84182280,101,86,Sevilla,"Sevilla capital, Sevilla",2005
+125000,1.0,3.0,1,85039197,90,,Sevilla,"Sevilla capital, Sevilla",
+95000,1.0,3.0,5,1896035,120,105,Sevilla,"Sevilla capital, Sevilla",
+152000,2.0,3.0,0,81823097,87,163,Sevilla,"Sevilla capital, Sevilla",1993
+97260,1.0,3.0,1,82274078,92,,Sevilla,"Sevilla capital, Sevilla",1968
+80000,1.0,2.0,1,83929509,60,,Sevilla,"Sevilla capital, Sevilla",1960
+99990,2.0,4.0,1,29258480,128,103,Sevilla,"Sevilla capital, Sevilla",
+179990,2.0,6.0,0,38491615,219,,Sevilla,"Sevilla capital, Sevilla",1970
+150000,2.0,3.0,2,39811149,116,105,Sevilla,"Sevilla capital, Sevilla",1970
+320000,2.0,3.0,4,39885379,483,142,Sevilla,"Sevilla capital, Sevilla",1970
+275000,1.0,3.0,4,29227892,1400,135,Sevilla,"Sevilla capital, Sevilla",
+233310,2.0,3.0,1,82297828,95,90,Sevilla,"Sevilla capital, Sevilla",2004
+65000,1.0,2.0,1,39355978,72,60,Sevilla,"Sevilla capital, Sevilla",1968
+175000,1.0,2.0,1,84794116,70,,Sevilla,"Sevilla capital, Sevilla",
+119990,2.0,4.0,1,85000587,102,83,Sevilla,"Sevilla capital, Sevilla",1987
+234000,2.0,3.0,1,84836027,101,,Sevilla,"Sevilla capital, Sevilla",
+85000,1.0,3.0,1,84950375,80,65,Sevilla,"Sevilla capital, Sevilla",1975
+165000,4.0,4.0,5,40454822,190,180,Sevilla,"Sevilla capital, Sevilla",1983
+230000,2.0,3.0,1,83601923,102,84,Sevilla,"Sevilla capital, Sevilla",2004
+158000,2.0,7.0,0,40462079,194,165,Sevilla,"Sevilla capital, Sevilla",1978
+128000,2.0,4.0,1,81368359,116,99,Sevilla,"Sevilla capital, Sevilla",1990
+260800,3.0,4.0,0,85009380,163,139,Sevilla,"Sevilla capital, Sevilla",2019
+229000,3.0,4.0,0,85009377,139,118,Sevilla,"Sevilla capital, Sevilla",2019
+235000,3.0,4.0,0,84784146,93,125,Sevilla,"Sevilla capital, Sevilla",2002
+108000,1.0,5.0,11,84764456,138,118,Sevilla,"Sevilla capital, Sevilla",1970
+65000,1.0,2.0,1,81136549,78,62,Sevilla,"Sevilla capital, Sevilla",
+85000,1.0,3.0,1,85040045,72,,Sevilla,"Sevilla capital, Sevilla",
+170000,2.0,4.0,0,85051557,160,,Sevilla,"Sevilla capital, Sevilla",
+111000,2.0,2.0,1,84397681,90,,Sevilla,"Sevilla capital, Sevilla",2000
+94000,1.0,4.0,1,83294149,96,,Sevilla,"Sevilla capital, Sevilla",
+89000,1.0,3.0,1,84381844,73,,Sevilla,"Sevilla capital, Sevilla",1970
+69900,1.0,3.0,1,84502561,65,,Sevilla,"Sevilla capital, Sevilla",
+175000,1.0,2.0,1,83534063,70,,Sevilla,"Sevilla capital, Sevilla",
+59500,1.0,3.0,1,83776108,70,59,Sevilla,"Sevilla capital, Sevilla",1975
+120000,3.0,8.0,11,83728447,200,,Sevilla,"Sevilla capital, Sevilla",
+234000,2.0,3.0,4,39026309,1250,160,Sevilla,"Sevilla capital, Sevilla",2008
+139700,3.0,4.0,0,84622304,105,95,Sevilla,"Sevilla capital, Sevilla",1970
+99000,1.0,2.0,1,84179823,73,,Sevilla,"Sevilla capital, Sevilla",1976
+128000,2.0,4.0,1,39444160,120,,Sevilla,"Sevilla capital, Sevilla",
+77260,2.0,3.0,0,30484952,165,,Sevilla,"Sevilla capital, Sevilla",1972
+117260,1.0,2.0,5,83873447,71,64,Sevilla,"Sevilla capital, Sevilla",1992
+210000,2.0,3.0,1,84422399,90,80,Sevilla,"Sevilla capital, Sevilla",2006
+73500,1.0,3.0,0,32197213,63,,Sevilla,"Sevilla capital, Sevilla",
+85260,1.0,3.0,1,81179549,88,77,Sevilla,"Sevilla capital, Sevilla",1975
+145000,2.0,3.0,1,84822473,81,69,Sevilla,"Sevilla capital, Sevilla",2009
+110000,1.0,2.0,1,84410503,64,,Sevilla,"Sevilla capital, Sevilla",
+94260,1.0,2.0,1,82260529,86,,Sevilla,"Sevilla capital, Sevilla",1970
+225000,3.0,6.0,0,83018927,81,200,Sevilla,"Sevilla capital, Sevilla",1991
+97260,2.0,5.0,0,84589158,59,118,Sevilla,"Sevilla capital, Sevilla",1970
+175000,1.0,2.0,1,84528938,77,63,Sevilla,"Sevilla capital, Sevilla",2009
+138700,2.0,2.0,0,84663360,189,103,Sevilla,"Sevilla capital, Sevilla",1970
+252000,3.0,3.0,11,84822848,122,97,Sevilla,"Sevilla capital, Sevilla",2002
+119990,2.0,2.0,0,84869823,50,110,Sevilla,"Sevilla capital, Sevilla",1970
+155600,2.0,3.0,1,82259924,93,90,Sevilla,"Sevilla capital, Sevilla",
+103260,1.0,4.0,1,83217716,104,,Sevilla,"Sevilla capital, Sevilla",1978
+189300,2.0,3.0,1,83243798,104,85,Sevilla,"Sevilla capital, Sevilla",2008
+165000,2.0,5.0,11,84150367,181,170,Sevilla,"Sevilla capital, Sevilla",1970
+72000,1.0,3.0,1,84370940,73,61,Sevilla,"Sevilla capital, Sevilla",1970
+86000,1.0,3.0,1,39236719,94,78,Sevilla,"Sevilla capital, Sevilla",1980
+125000,2.0,3.0,1,83635001,90,76,Sevilla,"Sevilla capital, Sevilla",2005
+240000,4.0,8.0,0,85040580,300,,Sevilla,"Sevilla capital, Sevilla",1950
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+315000,2.0,3.0,0,85042370,168,90,Altafulla,"Tarragonès, Tarragona",1998
+490000,2.0,3.0,1,1860553,100,,Altafulla,"Tarragonès, Tarragona",
+379000,2.0,3.0,0,83214447,500,200,Altafulla,"Tarragonès, Tarragona",
+441000,3.0,4.0,0,34645992,300,220,Altafulla,"Tarragonès, Tarragona",2000
+97000,1.0,3.0,1,40094491,70,60,Altafulla,"Tarragonès, Tarragona",
+98000,1.0,3.0,1,1922899,70,,Altafulla,"Tarragonès, Tarragona",
+250000,2.0,3.0,0,32556410,130,,Altafulla,"Tarragonès, Tarragona",
+175000,1.0,1.0,1,426651,55,,Altafulla,"Tarragonès, Tarragona",
+500000,3.0,4.0,0,35638455,300,,Altafulla,"Tarragonès, Tarragona",
+99000,1.0,2.0,1,36192998,55,50,Altafulla,"Tarragonès, Tarragona",2007
+143000,2.0,3.0,1,82005439,95,84,Altafulla,"Tarragonès, Tarragona",1989
+122000,2.0,3.0,5,82975543,142,112,Altafulla,"Tarragonès, Tarragona",1964
+290000,2.0,3.0,0,83854307,110,,Altafulla,"Tarragonès, Tarragona",
+498000,2.0,5.0,4,84477443,895,189,Altafulla,"Tarragonès, Tarragona",2001
+99000,1.0,2.0,1,36622586,59,54,Altafulla,"Tarragonès, Tarragona",2007
+180000,1.0,2.0,1,84363360,64,60,Altafulla,"Tarragonès, Tarragona",1975
+190000,2.0,3.0,1,34568299,100,90,Altafulla,"Tarragonès, Tarragona",
+279900,2.0,4.0,0,34568354,170,150,Altafulla,"Tarragonès, Tarragona",
+290000,2.0,4.0,2,35130872,450,300,Altafulla,"Tarragonès, Tarragona",
+180000,1.0,4.0,4,37333770,200,180,Altafulla,"Tarragonès, Tarragona",
+85000,1.0,2.0,1,81285954,53,50,Altafulla,"Tarragonès, Tarragona",2005
+139000,1.0,2.0,1,81958080,60,55,Altafulla,"Tarragonès, Tarragona",
+180000,1.0,2.0,1,84214199,69,50,Altafulla,"Tarragonès, Tarragona",
+265000,1.0,2.0,10,82934625,76,71,Altafulla,"Tarragonès, Tarragona",
+220000,1.0,3.0,2,83391815,150,,Altafulla,"Tarragonès, Tarragona",
+180000,1.0,2.0,1,83970989,50,,Altafulla,"Tarragonès, Tarragona",
+200900,3.0,4.0,0,82957899,189,,Altafulla,"Tarragonès, Tarragona",1999
+360000,3.0,4.0,0,1399627,180,,Altafulla,"Tarragonès, Tarragona",
+310000,3.0,4.0,4,38611690,233,180,Altafulla,"Tarragonès, Tarragona",
+97650,1.0,2.0,1,82178221,65,,Altafulla,"Tarragonès, Tarragona",
+88700,2.0,4.0,1,40319001,100,92,Altafulla,"Tarragonès, Tarragona",
+139000,2.0,3.0,1,30183166,90,,Altafulla,"Tarragonès, Tarragona",1995
+420000,4.0,4.0,0,34645997,340,270,Altafulla,"Tarragonès, Tarragona",9999
+280000,2.0,3.0,0,34930360,105,,Altafulla,"Tarragonès, Tarragona",
+310000,1.0,3.0,0,34930387,82,,Altafulla,"Tarragonès, Tarragona",
+390000,2.0,5.0,0,34928763,180,,Altafulla,"Tarragonès, Tarragona",
+273000,2.0,3.0,2,37455046,185,,Altafulla,"Tarragonès, Tarragona",1973
+79900,1.0,1.0,1,37661014,36,,Altafulla,"Tarragonès, Tarragona",
+119000,1.0,1.0,1,39715115,40,,Altafulla,"Tarragonès, Tarragona",
+580000,4.0,4.0,4,34645957,655,390,Altafulla,"Tarragonès, Tarragona",2005
+359000,2.0,4.0,4,81875146,216,167,Altafulla,"Tarragonès, Tarragona",1984
+119000,1.0,3.0,1,39065901,53,,Altafulla,"Tarragonès, Tarragona",
+139000,1.0,2.0,10,39555563,55,,Altafulla,"Tarragonès, Tarragona",
+85000,1.0,2.0,1,40231710,55,53,Altafulla,"Tarragonès, Tarragona",
+199000,1.0,2.0,1,81170727,45,,Altafulla,"Tarragonès, Tarragona",
+145000,1.0,3.0,1,81811261,85,,Altafulla,"Tarragonès, Tarragona",
+149000,1.0,2.0,5,81811249,60,,Altafulla,"Tarragonès, Tarragona",
+209000,1.0,2.0,1,81914737,50,,Altafulla,"Tarragonès, Tarragona",2008
+284000,2.0,4.0,7,82203268,250,,Altafulla,"Tarragonès, Tarragona",
+180000,1.0,2.0,1,83828717,50,,Altafulla,"Tarragonès, Tarragona",
+249000,2.0,3.0,4,33622331,900,160,Altafulla,"Tarragonès, Tarragona",1989
+198000,2.0,3.0,5,39740992,95,90,Altafulla,"Tarragonès, Tarragona",
+399000,4.0,4.0,0,39903637,244,205,Altafulla,"Tarragonès, Tarragona",
+144900,1.0,3.0,1,83038987,72,,Altafulla,"Tarragonès, Tarragona",
+750000,2.0,4.0,11,84266743,1750,,Altafulla,"Tarragonès, Tarragona",2009
+125000,1.0,2.0,1,33875990,60,,Altafulla,"Tarragonès, Tarragona",
+99000,1.0,2.0,1,36078153,59,55,Altafulla,"Tarragonès, Tarragona",2007
+200900,3.0,4.0,0,81543524,189,,Altafulla,"Tarragonès, Tarragona",1999
+168000,1.0,2.0,1,82775232,84,,Altafulla,"Tarragonès, Tarragona",
+199000,2.0,3.0,5,83656791,87,85,Altafulla,"Tarragonès, Tarragona",1988
+360000,3.0,4.0,4,34568378,280,240,Altafulla,"Tarragonès, Tarragona",
+180000,1.0,2.0,10,37458456,90,55,Altafulla,"Tarragonès, Tarragona",
+280000,2.0,4.0,0,39944356,230,180,Altafulla,"Tarragonès, Tarragona",
+200900,3.0,4.0,0,40521291,189,152,Altafulla,"Tarragonès, Tarragona",
+350000,3.0,4.0,2,82592371,212,174,Altafulla,"Tarragonès, Tarragona",
+215000,1.0,3.0,0,83038990,140,,Altafulla,"Tarragonès, Tarragona",
+449000,3.0,4.0,4,37555907,1100,150,Altafulla,"Tarragonès, Tarragona",
+325000,3.0,4.0,2,39964541,200,180,Altafulla,"Tarragonès, Tarragona",
+240000,1.0,3.0,10,1651621,80,70,Altafulla,"Tarragonès, Tarragona",
+298000,2.0,2.0,5,2112781,136,128,Altafulla,"Tarragonès, Tarragona",
+240000,2.0,3.0,0,39363606,80,70,Altafulla,"Tarragonès, Tarragona",
+215000,1.0,3.0,0,82166900,160,150,Altafulla,"Tarragonès, Tarragona",1984
+205000,2.0,3.0,1,82647981,100,,Altafulla,"Tarragonès, Tarragona",
+430000,3.0,4.0,0,82867336,243,218,Altafulla,"Tarragonès, Tarragona",
+130000,1.0,2.0,1,84544968,80,71,Altafulla,"Tarragonès, Tarragona",1977
+199000,1.0,2.0,1,84818702,50,,Altafulla,"Tarragonès, Tarragona",
+342000,3.0,5.0,0,34568259,240,200,Altafulla,"Tarragonès, Tarragona",
+600000,3.0,5.0,4,38931062,1000,,Altafulla,"Tarragonès, Tarragona",2006
+310000,3.0,4.0,4,37821821,180,232,Altafulla,"Tarragonès, Tarragona",
+190000,2.0,3.0,5,82011103,91,,Altafulla,"Tarragonès, Tarragona",2007
+136000,1.0,2.0,1,34925187,56,,Altafulla,"Tarragonès, Tarragona",
+342000,2.0,4.0,0,566525,240,,Altafulla,"Tarragonès, Tarragona",
+199000,2.0,2.0,1,81143910,60,,Altafulla,"Tarragonès, Tarragona",
+378000,3.0,4.0,11,81845714,240,230,Altafulla,"Tarragonès, Tarragona",
+262000,2.0,3.0,0,84915586,124,,Altafulla,"Tarragonès, Tarragona",2000
+425000,3.0,4.0,4,81684155,290,220,Altafulla,"Tarragonès, Tarragona",
+320000,3.0,4.0,0,81811196,200,,Altafulla,"Tarragonès, Tarragona",
+352000,3.0,5.0,0,81809711,100,,Altafulla,"Tarragonès, Tarragona",
+600000,3.0,5.0,4,81902589,1000,,Altafulla,"Tarragonès, Tarragona",2006
+240000,2.0,4.0,2,85013669,252,,Altafulla,"Tarragonès, Tarragona",
+194000,2.0,3.0,5,38707536,117,,Altafulla,"Tarragonès, Tarragona",1990
+119000,1.0,2.0,1,40405742,100,,Altafulla,"Tarragonès, Tarragona",
+240000,2.0,4.0,2,81681107,251,210,Altafulla,"Tarragonès, Tarragona",
+218000,2.0,3.0,1,81820885,90,,Altafulla,"Tarragonès, Tarragona",
+220000,3.0,4.0,0,82172206,140,128,Altafulla,"Tarragonès, Tarragona",1987
+165000,2.0,5.0,0,81792339,110,,Altafulla,"Tarragonès, Tarragona",
+209000,1.0,2.0,0,83218804,90,,Altafulla,"Tarragonès, Tarragona",
+220000,1.0,3.0,0,83627472,110,100,Altafulla,"Tarragonès, Tarragona",
+116940,1.0,2.0,10,83199130,56,,Altafulla,"Tarragonès, Tarragona",2010
+450000,3.0,5.0,4,83921324,550,,Altafulla,"Tarragonès, Tarragona",
+490000,3.0,4.0,11,28700019,600,165,Altafulla,"Tarragonès, Tarragona",
+259000,4.0,5.0,0,35603358,150,200,Altafulla,"Tarragonès, Tarragona",1997
+342000,3.0,5.0,2,37055526,200,,Altafulla,"Tarragonès, Tarragona",
+280000,2.0,4.0,0,37129429,235,200,Altafulla,"Tarragonès, Tarragona",1995
+310000,3.0,4.0,2,38977499,150,200,Altafulla,"Tarragonès, Tarragona",2004
+280000,3.0,4.0,11,40124431,170,155,Altafulla,"Tarragonès, Tarragona",
+340000,3.0,4.0,2,82922748,185,,Altafulla,"Tarragonès, Tarragona",
+343200,3.0,3.0,11,83553018,190,150,Altafulla,"Tarragonès, Tarragona",2004
+360000,3.0,4.0,4,84088460,280,,Altafulla,"Tarragonès, Tarragona",
+280000,2.0,4.0,2,37321610,211,180,Altafulla,"Tarragonès, Tarragona",
+310000,3.0,4.0,0,39123103,210,160,Altafulla,"Tarragonès, Tarragona",2003
+280000,2.0,3.0,0,81615378,120,100,Altafulla,"Tarragonès, Tarragona",
+310000,2.0,3.0,0,81621988,150,,Altafulla,"Tarragonès, Tarragona",
+340000,2.0,4.0,0,82676152,200,180,Altafulla,"Tarragonès, Tarragona",2004
+250000,3.0,4.0,0,83931550,134,130,Altafulla,"Tarragonès, Tarragona",
+139000,1.0,3.0,1,84180058,70,68,Altafulla,"Tarragonès, Tarragona",
+360000,3.0,3.0,11,84200110,240,200,Altafulla,"Tarragonès, Tarragona",
+130000,1.0,2.0,1,35236502,65,60,Altafulla,"Tarragonès, Tarragona",
+205000,2.0,3.0,4,39090080,102,95,Altafulla,"Tarragonès, Tarragona",
+240000,2.0,4.0,2,81663151,251,,Altafulla,"Tarragonès, Tarragona",2003
+290000,2.0,4.0,2,82310327,40,120,Altafulla,"Tarragonès, Tarragona",2011
+360000,3.0,4.0,4,34086523,300,,Altafulla,"Tarragonès, Tarragona",
+330750,3.0,4.0,0,84633549,200,175,Altafulla,"Tarragonès, Tarragona",2017
+245000,2.0,2.0,4,34177617,970,,Altafulla,"Tarragonès, Tarragona",
+349000,3.0,5.0,4,84179044,450,190,Altafulla,"Tarragonès, Tarragona",
+360000,3.0,4.0,4,84772878,600,250,Altafulla,"Tarragonès, Tarragona",2005
+291200,3.0,5.0,11,84840204,190,180,Altafulla,"Tarragonès, Tarragona",1989
+310000,3.0,4.0,1,37833821,502,232,Altafulla,"Tarragonès, Tarragona",
+256000,2.0,3.0,2,84765861,140,130,Altafulla,"Tarragonès, Tarragona",
+285000,1.0,4.0,11,84778580,148,106,Altafulla,"Tarragonès, Tarragona",
+256000,2.0,3.0,2,38952987,215,127,Altafulla,"Tarragonès, Tarragona",1987
+360000,3.0,4.0,4,84545992,264,245,Altafulla,"Tarragonès, Tarragona",2005
+315000,2.0,3.0,2,81242766,158,110,Altafulla,"Tarragonès, Tarragona",
+275000,2.0,3.0,0,34929385,124,,Altafulla,"Tarragonès, Tarragona",
+450000,2.0,2.0,4,37777454,88,,Altafulla,"Tarragonès, Tarragona",
+449000,3.0,4.0,4,82028919,1055,,Altafulla,"Tarragonès, Tarragona",1986
+229000,1.0,3.0,2,34929107,152,,Altafulla,"Tarragonès, Tarragona",
+350000,3.0,4.0,2,82582498,212,174,Altafulla,"Tarragonès, Tarragona",2017
+285000,2.0,5.0,4,83556125,550,164,Altafulla,"Tarragonès, Tarragona",1980
+220900,3.0,4.0,0,81676008,189,,Altafulla,"Tarragonès, Tarragona",
+235000,2.0,3.0,11,40013642,199,100,Altafulla,"Tarragonès, Tarragona",1999
+390000,3.0,5.0,2,40015161,201,,Altafulla,"Tarragonès, Tarragona",
+325000,3.0,4.0,2,40015728,188,,Altafulla,"Tarragonès, Tarragona",
+450000,2.0,3.0,4,40444963,709,,Altafulla,"Tarragonès, Tarragona",
+250000,3.0,4.0,0,81143386,134,,Altafulla,"Tarragonès, Tarragona",
+144900,1.0,3.0,1,81696029,81,,Altafulla,"Tarragonès, Tarragona",
+210000,1.0,2.0,1,81768256,52,,Altafulla,"Tarragonès, Tarragona",2005
+169000,2.0,2.0,1,40513154,60,,Altafulla,"Tarragonès, Tarragona",
+285000,2.0,3.0,0,82346789,104,,Altafulla,"Tarragonès, Tarragona",
+249000,2.0,3.0,0,82352713,120,,Altafulla,"Tarragonès, Tarragona",
+600000,2.0,3.0,4,82365572,540,,Altafulla,"Tarragonès, Tarragona",1982
+295000,2.0,3.0,0,82690145,152,,Altafulla,"Tarragonès, Tarragona",2000
+215000,2.0,3.0,1,82892277,65,,Altafulla,"Tarragonès, Tarragona",2007
+335000,2.0,4.0,0,83239477,116,,Altafulla,"Tarragonès, Tarragona",1985
+169000,1.0,2.0,10,83289900,51,43,Altafulla,"Tarragonès, Tarragona",2003
+182000,1.0,2.0,1,83510679,56,,Altafulla,"Tarragonès, Tarragona",2006
+129000,1.0,2.0,1,83728998,50,,Altafulla,"Tarragonès, Tarragona",
+399999,3.0,4.0,0,84366820,100,,Altafulla,"Tarragonès, Tarragona",
+399000,2.0,3.0,0,84419902,109,,Altafulla,"Tarragonès, Tarragona",
+165000,2.0,4.0,0,84602570,90,,Altafulla,"Tarragonès, Tarragona",
+330000,3.0,4.0,0,83467546,225,,Altafulla,"Tarragonès, Tarragona",
+310000,3.0,4.0,0,83467617,225,,Altafulla,"Tarragonès, Tarragona",
+325000,2.0,3.0,1,84888759,81,,Altafulla,"Tarragonès, Tarragona",1980
+549999,5.0,9.0,7,81466271,570,,Altafulla,"Tarragonès, Tarragona",1800
+895000,4.0,6.0,4,83214353,1016,,Altafulla,"Tarragonès, Tarragona",2009
+195000,2.0,3.0,5,84074456,90,,Altafulla,"Tarragonès, Tarragona",
+390000,3.0,4.0,9,38914918,566,,Altafulla,"Tarragonès, Tarragona",
+360000,3.0,4.0,4,84266768,500,,Altafulla,"Tarragonès, Tarragona",2010
+299000,3.0,5.0,0,84713314,200,,Altafulla,"Tarragonès, Tarragona",
+256000,2.0,3.0,0,84767862,127,,Altafulla,"Tarragonès, Tarragona",1987
+256000,2.0,3.0,0,81577590,131,,Altafulla,"Tarragonès, Tarragona",1994
+400000,2.0,4.0,0,84323174,250,213,Altafulla,"Tarragonès, Tarragona",1997
+360000,3.0,4.0,4,84632558,260,180,Altafulla,"Tarragonès, Tarragona",
+219000,3.0,4.0,5,34699757,160,,Altafulla,"Tarragonès, Tarragona",2007
+342000,3.0,4.0,11,40105641,240,230,Altafulla,"Tarragonès, Tarragona",
+240000,2.0,4.0,2,82688628,252,,Altafulla,"Tarragonès, Tarragona",2003
+175000,2.0,2.0,5,82771026,80,,Altafulla,"Tarragonès, Tarragona",
+256000,2.0,3.0,2,81810259,80,,Altafulla,"Tarragonès, Tarragona",
+139000,1.0,3.0,1,84203273,65,,Altafulla,"Tarragonès, Tarragona",1979
+270000,3.0,3.0,2,411624,40,115,Altafulla,"Tarragonès, Tarragona",
+130000,1.0,2.0,1,29817743,75,,Altafulla,"Tarragonès, Tarragona",
+269500,3.0,3.0,2,34829987,136,130,Altafulla,"Tarragonès, Tarragona",
+360000,3.0,4.0,4,39994564,260,150,Altafulla,"Tarragonès, Tarragona",
+257000,3.0,3.0,0,84985844,176,,Altafulla,"Tarragonès, Tarragona",2010
+168000,1.0,2.0,0,82262854,90,80,Altafulla,"Tarragonès, Tarragona",
+145000,1.0,2.0,5,84848764,91,,Altafulla,"Tarragonès, Tarragona",2010
+101000,1.0,1.0,1,84848664,62,,Altafulla,"Tarragonès, Tarragona",2010
+105000,1.0,2.0,1,84848352,74,,Altafulla,"Tarragonès, Tarragona",2010
+125000,1.0,3.0,1,84831270,80,,Altafulla,"Tarragonès, Tarragona",2010
+105000,1.0,2.0,1,84829869,68,,Altafulla,"Tarragonès, Tarragona",2010
+330000,3.0,5.0,4,82206286,150,,Altafulla,"Tarragonès, Tarragona",2004
+256000,2.0,3.0,0,84866820,863,127,Altafulla,"Tarragonès, Tarragona",1987
+249900,3.0,4.0,0,84917495,150,120,Altafulla,"Tarragonès, Tarragona",
+89900,1.0,1.0,1,84583288,40,31,Altafulla,"Tarragonès, Tarragona",
+246000,3.0,4.0,0,85014144,50,,Altafulla,"Tarragonès, Tarragona",
+119000,1.0,2.0,1,85055657,64,52,Altafulla,"Tarragonès, Tarragona",1971
+89000,1.0,1.0,10,85054861,38,24,Altafulla,"Tarragonès, Tarragona",1971
+325000,2.0,4.0,0,85053454,288,186,Altafulla,"Tarragonès, Tarragona",
+85000,1.0,2.0,1,36964779,53,50,Altafulla,"Tarragonès, Tarragona",2005
+80000,1.0,3.0,1,39465544,87,85,Altafulla,"Tarragonès, Tarragona",
+130000,1.0,2.0,1,81433007,90,75,Altafulla,"Tarragonès, Tarragona",1988
+165000,2.0,4.0,0,82880434,129,115,Altafulla,"Tarragonès, Tarragona",
+250000,2.0,3.0,0,81355157,132,92,Altafulla,"Tarragonès, Tarragona",1990
+194000,2.0,3.0,5,38922052,167,117,Altafulla,"Tarragonès, Tarragona",1990
+330000,3.0,4.0,4,40453234,186,156,Altafulla,"Tarragonès, Tarragona",
+140000,1.0,4.0,12,82417123,315,250,Altafulla,"Tarragonès, Tarragona",1994
+370000,3.0,4.0,0,81810964,240,165,Altafulla,"Tarragonès, Tarragona",2010
+349000,3.0,4.0,0,83785777,450,186,Altafulla,"Tarragonès, Tarragona",1984
+1200000,3.0,4.0,4,81976961,1000,350,Altafulla,"Tarragonès, Tarragona",2008
+257000,3.0,4.0,0,84689719,135,180,Altafulla,"Tarragonès, Tarragona",1991
+340000,3.0,5.0,0,83285107,250,150,Altafulla,"Tarragonès, Tarragona",
+250000,2.0,3.0,0,84276196,116,105,Altafulla,"Tarragonès, Tarragona",1988
+500000,3.0,3.0,0,84419778,201,190,Altafulla,"Tarragonès, Tarragona",1991
+360000,3.0,5.0,2,84903327,400,280,Altafulla,"Tarragonès, Tarragona",
+250000,2.0,3.0,0,81919413,157,140,Altafulla,"Tarragonès, Tarragona",2002
+700000,3.0,4.0,4,81604193,697,,Altafulla,"Tarragonès, Tarragona",2003
+80000,1.0,3.0,1,84902989,85,,Altafulla,"Tarragonès, Tarragona",
+195000,1.0,3.0,1,81792429,70,,Altafulla,"Tarragonès, Tarragona",1988
+256000,2.0,3.0,0,85013282,132,,Altafulla,"Tarragonès, Tarragona",
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+125000,1.0,3.0,1,39621646,99,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+190000,2.0,3.0,1,81720136,80,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+230000,2.0,3.0,1,82516646,116,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+169000,2.0,2.0,1,40072674,102,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+85000,1.0,2.0,1,82152340,85,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+364400,4.0,6.0,2,37575256,300,335,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+137000,2.0,0.0,5,39169693,110,100,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+163600,1.0,3.0,10,32584198,80,75,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+68000,1.0,3.0,1,83635326,65,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+99600,1.0,2.0,1,84949700,75,67,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+108600,1.0,3.0,1,85041324,89,83,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+91000,1.0,3.0,1,37558993,73,59,Valladolid,"Área Metropolitana Valladolid, Valladolid",1971
+145000,2.0,3.0,5,36460520,103,83,Valladolid,"Área Metropolitana Valladolid, Valladolid",2010
+164000,1.0,3.0,10,36859548,67,54,Valladolid,"Área Metropolitana Valladolid, Valladolid",1976
+247000,2.0,4.0,2,38104389,130,97,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+299000,4.0,6.0,4,39887706,350,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2002
+141000,1.0,3.0,1,40496081,96,80,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+198000,2.0,3.0,1,81835084,114,110,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+50000,1.0,4.0,1,2016023,55,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+98000,1.0,4.0,0,30990293,170,77,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+330000,3.0,4.0,4,39817488,70,252,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+188000,2.0,3.0,1,82494207,98,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+79500,1.0,2.0,1,84351753,60,55,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+182000,2.0,3.0,1,1849977,112,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+310000,3.0,4.0,2,2101714,250,240,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+298000,3.0,4.0,2,29153094,400,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+360000,3.0,6.0,2,32921030,485,330,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+73600,1.0,2.0,1,36826725,76,65,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+165000,2.0,2.0,10,84539968,80,64,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+117300,1.0,3.0,1,84726841,89,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+143000,1.0,2.0,1,82486973,128,76,Valladolid,"Área Metropolitana Valladolid, Valladolid",1999
+68700,1.0,2.0,1,84152054,83,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+179000,1.0,2.0,1,84523483,85,70,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+105000,1.0,3.0,1,84856148,93,83,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+106200,1.0,3.0,1,33129974,77,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+68700,1.0,2.0,1,84127808,83,67,Valladolid,"Área Metropolitana Valladolid, Valladolid",1961
+345000,3.0,4.0,2,39359547,225,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+121000,1.0,3.0,1,40041591,90,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+69500,1.0,3.0,1,83741219,75,70,Valladolid,"Área Metropolitana Valladolid, Valladolid",1970
+76500,1.0,3.0,1,84233874,85,80,Valladolid,"Área Metropolitana Valladolid, Valladolid",1968
+95000,1.0,2.0,1,84254794,84,70,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+178000,1.0,2.0,1,84526279,71,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2011
+53000,1.0,3.0,1,84593862,60,58,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+103000,1.0,3.0,1,40329914,104,94,Valladolid,"Área Metropolitana Valladolid, Valladolid",1970
+280000,4.0,5.0,0,35098842,260,238,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+345000,3.0,4.0,0,84738399,247,225,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+65000,1.0,3.0,1,84997406,80,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+60000,1.0,3.0,13,28873350,10000,297,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+265000,3.0,3.0,0,40398938,225,250,Valladolid,"Área Metropolitana Valladolid, Valladolid",2004
+315000,4.0,4.0,2,81834655,150,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+122000,1.0,3.0,1,83757469,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+147000,1.0,2.0,10,84217409,90,70,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+68000,1.0,3.0,1,84833563,73,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+165000,1.0,3.0,9,28533436,900,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+290000,4.0,5.0,0,82280577,283,265,Valladolid,"Área Metropolitana Valladolid, Valladolid",2003
+232000,2.0,4.0,2,84121970,145,120,Valladolid,"Área Metropolitana Valladolid, Valladolid",2000
+79500,1.0,2.0,1,84467963,60,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1964
+125000,1.0,3.0,1,84815339,75,65,Valladolid,"Área Metropolitana Valladolid, Valladolid",1961
+96000,1.0,2.0,1,84940368,75,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+350000,3.0,3.0,2,81668397,501,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+149800,1.0,2.0,1,84576724,78,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+85000,1.0,3.0,1,83826705,77,62,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+85000,1.0,3.0,1,84143180,116,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1975
+285000,3.0,6.0,0,84871934,310,280,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+95000,1.0,3.0,1,39059569,74,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1966
+122000,1.0,3.0,1,83851688,105,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1950
+295000,4.0,6.0,0,39557048,339,278,Valladolid,"Área Metropolitana Valladolid, Valladolid",2002
+78000,1.0,2.0,1,83327352,57,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1964
+72000,1.0,3.0,1,40267517,81,74,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+275000,4.0,4.0,0,83322856,243,200,Valladolid,"Área Metropolitana Valladolid, Valladolid",2002
+255000,3.0,5.0,4,84259116,225,180,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+122000,1.0,3.0,1,84626876,105,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+73000,1.0,3.0,1,25976014,78,73,Valladolid,"Área Metropolitana Valladolid, Valladolid",1969
+298000,3.0,4.0,2,37160476,550,230,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+330000,3.0,4.0,2,81814935,225,220,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+307000,3.0,4.0,11,39091642,337,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+190000,2.0,3.0,1,84844907,97,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",1999
+365000,3.0,5.0,4,84471447,2200,254,Valladolid,"Área Metropolitana Valladolid, Valladolid",1986
+179000,2.0,4.0,1,84723039,168,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2000
+450000,3.0,6.0,4,36063140,610,370,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+98000,1.0,4.0,1,84950161,122,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+374999,3.0,3.0,2,37754911,300,200,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+149800,1.0,2.0,1,83704797,78,74,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+265000,3.0,4.0,0,84374798,40,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+284000,4.0,5.0,11,82091158,285,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+320000,3.0,5.0,2,82574739,100,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+122000,1.0,3.0,1,83953525,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",1950
+129000,1.0,3.0,1,84231595,118,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1976
+122000,1.0,3.0,1,84374777,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+190000,2.0,3.0,1,84791158,116,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",1999
+690000,3.0,5.0,4,40336832,1144,408,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+149000,1.0,3.0,1,83391283,90,86,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+129000,1.0,3.0,0,40096420,116,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+67000,1.0,3.0,1,84326887,70,65,Valladolid,"Área Metropolitana Valladolid, Valladolid",1976
+495000,4.0,7.0,4,37938985,325,305,Valladolid,"Área Metropolitana Valladolid, Valladolid",1997
+122000,1.0,3.0,1,83875524,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+99000,1.0,3.0,1,40470266,93,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1975
+340000,3.0,3.0,11,83550198,250,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2004
+122000,1.0,3.0,1,83780201,115,110,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+125000,1.0,3.0,1,84097953,103,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1977
+99000,1.0,3.0,1,84888244,100,84,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+595000,4.0,5.0,4,83740028,724,273,Valladolid,"Área Metropolitana Valladolid, Valladolid",2004
+298000,3.0,4.0,0,84183909,247,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+560000,4.0,5.0,4,84372495,498,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+560000,4.0,5.0,4,84372454,498,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+272300,3.0,3.0,0,84475162,225,250,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+229000,2.0,3.0,1,85009321,98,82,Valladolid,"Área Metropolitana Valladolid, Valladolid",1996
+307000,3.0,4.0,4,84259085,337,265,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+96000,1.0,2.0,1,28869600,70,68,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+298000,3.0,4.0,0,84238298,247,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+307000,3.0,5.0,0,39153843,308,265,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+340000,4.0,5.0,2,84713218,196,237,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+70000,1.0,2.0,0,39895083,102,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+295000,4.0,5.0,4,37941189,260,350,Valladolid,"Área Metropolitana Valladolid, Valladolid",2003
+122000,1.0,3.0,1,84643169,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",1950
+258200,2.0,4.0,1,82686070,164,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+248300,2.0,4.0,1,40556751,167,117,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+122000,1.0,3.0,1,84352256,115,105,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+345000,3.0,4.0,0,84409979,250,240,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+94000,1.0,3.0,1,85005174,105,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",1973
+291000,3.0,4.0,0,40488479,290,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+220380,2.0,3.0,1,82657667,111,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+392924,3.0,4.0,1,82657668,140,107,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+392933,2.0,4.0,10,82657720,156,120,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+216142,2.0,3.0,1,82657614,111,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+363245,2.0,3.0,10,82657722,140,108,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+224619,2.0,3.0,1,83080430,111,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+228857,2.0,3.0,1,83094849,111,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+123500,1.0,3.0,1,84942370,101,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1976
+298000,3.0,4.0,0,35664356,290,217,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+450000,4.0,4.0,4,36048609,580,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+410000,4.0,5.0,4,36260902,864,440,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+295000,3.0,2.0,4,36691374,360,157,Valladolid,"Área Metropolitana Valladolid, Valladolid",2016
+350000,3.0,4.0,4,32089168,515,230,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+130000,1.0,3.0,1,82520929,104,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",1975
+355000,3.0,4.0,2,82562735,400,220,Valladolid,"Área Metropolitana Valladolid, Valladolid",2008
+360000,3.0,3.0,0,82745446,265,235,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+414000,4.0,4.0,2,84854150,387,316,Valladolid,"Área Metropolitana Valladolid, Valladolid",2006
+365000,3.0,5.0,4,84480514,2200,254,Valladolid,"Área Metropolitana Valladolid, Valladolid",1979
+53000,1.0,2.0,1,82356845,63,59,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+350000,3.0,6.0,0,26426542,487,336,Valladolid,"Área Metropolitana Valladolid, Valladolid",2007
+76000,1.0,3.0,1,82818593,73,66,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+182000,2.0,3.0,1,85055485,86,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+385000,4.0,5.0,4,37838247,857,450,Valladolid,"Área Metropolitana Valladolid, Valladolid",1997
+165000,2.0,2.0,10,84965246,88,72,Valladolid,"Área Metropolitana Valladolid, Valladolid",2004
+275000,4.0,4.0,0,83739694,400,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2002
+485000,4.0,5.0,11,81976709,468,430,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+375000,3.0,5.0,11,81404070,245,224,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+290000,3.0,4.0,0,84814748,290,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+139800,1.0,4.0,1,84394797,106,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+430000,4.0,4.0,2,84774896,612,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+192000,2.0,3.0,1,83679976,113,82,Valladolid,"Área Metropolitana Valladolid, Valladolid",2005
+110000,1.0,3.0,1,84887996,110,95,Valladolid,"Área Metropolitana Valladolid, Valladolid",1978
+260000,4.0,5.0,2,83937623,300,250,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+298000,3.0,5.0,2,84430599,80,250,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+340000,3.0,3.0,2,84780759,250,,Valladolid,"Área Metropolitana Valladolid, Valladolid",2004
+320000,3.0,5.0,0,81344911,196,321,Valladolid,"Área Metropolitana Valladolid, Valladolid",2002
+209400,2.0,3.0,1,40556706,134,94,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+245400,2.0,3.0,1,82686071,162,,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+296400,3.0,3.0,10,40556801,144,100,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+690000,4.0,5.0,4,82361281,1400,335,Valladolid,"Área Metropolitana Valladolid, Valladolid",2000
+211904,2.0,3.0,1,82657611,111,85,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+286701,3.0,4.0,1,82657574,133,102,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+363858,2.0,3.0,10,82657721,140,108,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+64000,1.0,3.0,1,84592763,60,54,Valladolid,"Área Metropolitana Valladolid, Valladolid",1953
+850000,7.0,6.0,11,84060781,1200,536,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+168500,1.0,3.0,1,84718655,143,90,Valladolid,"Área Metropolitana Valladolid, Valladolid",
+111000,1.0,2.0,1,84762682,72,,Valladolid,"Área Metropolitana Valladolid, Valladolid",1972
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+139000,3.0,5.0,11,83191993,180,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+75000,2.0,3.0,1,81533761,105,,Pilas,"Aljarafe, Sevilla",
+240000,3.0,4.0,7,37530572,350,,Pilas,"Aljarafe, Sevilla",
+40000,2.0,4.0,1,37881322,110,105,Pilas,"Aljarafe, Sevilla",
+40000,2.0,4.0,1,82256760,105,,Pilas,"Aljarafe, Sevilla",
+105000,2.0,3.0,0,32398938,96,,Pilas,"Aljarafe, Sevilla",
+150000,2.0,6.0,7,37530581,400,,Pilas,"Aljarafe, Sevilla",
+80000,3.0,4.0,4,81235053,130,,Pilas,"Aljarafe, Sevilla",
+95000,2.0,4.0,7,82602410,90,,Pilas,"Aljarafe, Sevilla",
+75000,2.0,4.0,2,26574661,110,,Pilas,"Aljarafe, Sevilla",
+90000,2.0,4.0,0,29500267,100,,Castilleja del Campo,"Aljarafe, Sevilla",
+90000,3.0,3.0,2,34124613,185,105,Carrion de los Céspedes,"Aljarafe, Sevilla",
+195000,2.0,4.0,3,31295402,18000,390,Huévar,"Aljarafe, Sevilla",
+60000,1.0,3.0,1,358312,80,75,Pilas,"Aljarafe, Sevilla",
+120000,3.0,4.0,7,37558768,150,,Pilas,"Aljarafe, Sevilla",
+80000,2.0,4.0,0,31457149,120,,Pilas,"Aljarafe, Sevilla",
+97000,3.0,3.0,0,82490938,127,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90000,2.0,4.0,0,40526519,113,90,Pilas,"Aljarafe, Sevilla",2006
+148000,2.0,3.0,4,82196839,196,140,Pilas,"Aljarafe, Sevilla",
+120000,3.0,3.0,0,34416400,130,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+168000,3.0,3.0,4,436424,180,,Pilas,"Aljarafe, Sevilla",
+51000,1.0,1.0,1,40252164,50,,Pilas,"Aljarafe, Sevilla",
+102000,1.0,3.0,4,84204729,5000,,Pilas,"Aljarafe, Sevilla",
+100000,2.0,3.0,1,84305885,100,,Pilas,"Aljarafe, Sevilla",
+125000,2.0,3.0,9,84330575,1200,,Pilas,"Aljarafe, Sevilla",
+85000,1.0,3.0,9,84497027,2750,,Pilas,"Aljarafe, Sevilla",
+120000,2.0,4.0,0,1971232,160,,Pilas,"Aljarafe, Sevilla",
+65000,1.0,2.0,1,35517494,75,70,Pilas,"Aljarafe, Sevilla",
+110000,2.0,1.0,1,39158389,103,,Pilas,"Aljarafe, Sevilla",
+150000,3.0,4.0,4,83212305,110,,Pilas,"Aljarafe, Sevilla",
+100000,1.0,1.0,9,83246154,3500,,Pilas,"Aljarafe, Sevilla",
+55000,1.0,3.0,1,83595882,90,,Pilas,"Aljarafe, Sevilla",
+50000,1.0,2.0,4,37558923,150,,Pilas,"Aljarafe, Sevilla",
+85000,2.0,3.0,2,84813830,130,,Pilas,"Aljarafe, Sevilla",
+73050,1.0,4.0,0,82863096,110,,Pilas,"Aljarafe, Sevilla",
+93000,3.0,4.0,4,85023580,150,,Huévar,"Aljarafe, Sevilla",
+71300,2.0,5.0,1,83806823,337,272,Carrion de los Céspedes,"Aljarafe, Sevilla",
+87500,1.0,4.0,0,83859795,110,95,Pilas,"Aljarafe, Sevilla",
+83470,2.0,4.0,0,81253154,156,93,Pilas,"Aljarafe, Sevilla",2006
+55000,1.0,3.0,0,84254885,54,87,Pilas,"Aljarafe, Sevilla",2002
+170000,1.0,3.0,3,81495524,9900,162,Pilas,"Aljarafe, Sevilla",2003
+130000,1.0,4.0,4,315145,160,130,Pilas,"Aljarafe, Sevilla",
+87260,2.0,3.0,4,30079135,210,,Huévar,"Aljarafe, Sevilla",
+113300,2.0,3.0,11,81937467,120,,Huévar,"Aljarafe, Sevilla",2008
+108000,1.0,6.0,0,84562595,217,,Pilas,"Aljarafe, Sevilla",
+110000,2.0,3.0,4,25960915,160,150,Pilas,"Aljarafe, Sevilla",
+83000,2.0,3.0,7,29529994,90,,Pilas,"Aljarafe, Sevilla",2007
+120000,1.0,2.0,9,31977467,522,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+60000,2.0,3.0,0,84030156,127,,Pilas,"Aljarafe, Sevilla",1955
+82000,1.0,2.0,1,84274651,120,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+150000,2.0,1.0,4,39129581,1333,,Pilas,"Aljarafe, Sevilla",
+51000,1.0,3.0,7,84414451,440,,Huévar,"Aljarafe, Sevilla",
+96000,2.0,3.0,1,31506413,118,,Pilas,"Aljarafe, Sevilla",
+152710,1.0,3.0,11,82134666,193,,Pilas,"Aljarafe, Sevilla",
+76000,2.0,6.0,7,35172081,180,,Pilas,"Aljarafe, Sevilla",
+100000,2.0,3.0,1,1916226,97,,Pilas,"Aljarafe, Sevilla",
+144000,2.0,4.0,0,35929939,215,118,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90000,2.0,3.0,0,36706332,120,95,Pilas,"Aljarafe, Sevilla",
+170000,2.0,4.0,7,40070372,220,,Huévar,"Aljarafe, Sevilla",1992
+55000,2.0,3.0,4,81470437,100,90,Pilas,"Aljarafe, Sevilla",
+65000,1.0,3.0,7,82797570,275,118,Huévar,"Aljarafe, Sevilla",
+130000,3.0,4.0,2,83556576,305,,Huévar,"Aljarafe, Sevilla",
+185000,2.0,4.0,4,83745837,227,,Pilas,"Aljarafe, Sevilla",
+75000,2.0,3.0,0,83841176,110,,Pilas,"Aljarafe, Sevilla",
+65000,1.0,2.0,1,39160587,65,,Pilas,"Aljarafe, Sevilla",
+89500,2.0,4.0,4,354125,102,96,Pilas,"Aljarafe, Sevilla",
+116000,3.0,4.0,7,25675550,200,,Huévar,"Aljarafe, Sevilla",
+120000,1.0,0.0,8,40351829,55,50,Pilas,"Aljarafe, Sevilla",
+95000,2.0,3.0,1,28647547,120,100,Pilas,"Aljarafe, Sevilla",
+110000,2.0,5.0,0,29037036,150,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+250000,2.0,3.0,4,39652248,728,,Huévar,"Aljarafe, Sevilla",
+100000,2.0,3.0,0,84449741,145,,Huévar,"Aljarafe, Sevilla",
+46600,1.0,1.0,11,82832391,60,,Pilas,"Aljarafe, Sevilla",
+71300,2.0,5.0,4,36729541,337,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+70000,2.0,3.0,7,84698146,90,,Pilas,"Aljarafe, Sevilla",
+125000,2.0,3.0,0,301966,176,,Pilas,"Aljarafe, Sevilla",
+38999,1.0,2.0,4,362211,97,,Huévar,"Aljarafe, Sevilla",
+83000,2.0,3.0,0,27593261,94,,Pilas,"Aljarafe, Sevilla",
+125000,2.0,4.0,4,27843236,400,150,Huévar,"Aljarafe, Sevilla",
+130000,2.0,3.0,2,29119656,30,120,Carrion de los Céspedes,"Aljarafe, Sevilla",
+105000,2.0,3.0,0,30059383,113,90,Castilleja del Campo,"Aljarafe, Sevilla",
+85000,2.0,3.0,1,32410085,96,,Pilas,"Aljarafe, Sevilla",
+140000,1.0,4.0,4,1731165,500,115,Huévar,"Aljarafe, Sevilla",
+120000,2.0,3.0,7,34427335,90,180,Castilleja del Campo,"Aljarafe, Sevilla",
+60000,1.0,1.0,10,35178800,40,,Pilas,"Aljarafe, Sevilla",
+130000,3.0,3.0,3,35199654,2500,,Pilas,"Aljarafe, Sevilla",
+60000,0.0,0.0,0,35394121,160,,Pilas,"Aljarafe, Sevilla",
+190000,2.0,4.0,4,37763782,1500,,Pilas,"Aljarafe, Sevilla",
+125000,2.0,3.0,1,37840571,213,,Pilas,"Aljarafe, Sevilla",
+295000,3.0,5.0,4,38126193,2500,,Pilas,"Aljarafe, Sevilla",
+85000,1.0,2.0,3,39137263,1879,,Huévar,"Aljarafe, Sevilla",
+25000,1.0,2.0,7,39139431,170,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+115000,2.0,3.0,0,35557348,180,,Huévar,"Aljarafe, Sevilla",2008
+117000,2.0,4.0,4,81330450,138,115,Pilas,"Aljarafe, Sevilla",
+135000,1.0,3.0,4,81773098,344,,Castilleja del Campo,"Aljarafe, Sevilla",
+200000,1.0,6.0,7,81783660,240,,Castilleja del Campo,"Aljarafe, Sevilla",2006
+67485,2.0,3.0,1,81910677,95,86,Pilas,"Aljarafe, Sevilla",
+86730,1.0,3.0,1,81947240,118,95,Pilas,"Aljarafe, Sevilla",
+78750,2.0,4.0,1,81971751,115,93,Pilas,"Aljarafe, Sevilla",
+80000,2.0,3.0,0,82017015,121,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+160000,2.0,3.0,4,82039064,200,,Pilas,"Aljarafe, Sevilla",
+52658,2.0,3.0,1,83087109,77,63,Pilas,"Aljarafe, Sevilla",
+220000,2.0,4.0,4,83090621,1000,900,Carrion de los Céspedes,"Aljarafe, Sevilla",
+295000,3.0,4.0,4,83229183,170,,Pilas,"Aljarafe, Sevilla",
+55000,1.0,1.0,1,1860134,65,55,Pilas,"Aljarafe, Sevilla",2007
+99000,2.0,3.0,2,83788006,30,,Huévar,"Aljarafe, Sevilla",
+89500,2.0,3.0,1,366748,115,,Pilas,"Aljarafe, Sevilla",
+49990,1.0,2.0,10,25758220,82,78,Carrion de los Céspedes,"Aljarafe, Sevilla",
+180000,2.0,4.0,0,31898637,220,180,Huévar,"Aljarafe, Sevilla",
+90000,2.0,3.0,0,32934168,90,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90000,2.0,4.0,0,84475461,105,,Pilas,"Aljarafe, Sevilla",
+235000,3.0,4.0,4,39158600,1850,,Huévar,"Aljarafe, Sevilla",
+83600,1.0,2.0,1,37415721,83,62,Pilas,"Aljarafe, Sevilla",
+84500,1.0,2.0,1,37415719,71,53,Pilas,"Aljarafe, Sevilla",
+130000,1.0,4.0,9,28598229,20000,95,Huévar,"Aljarafe, Sevilla",
+85120,2.0,3.0,11,36665739,100,,Pilas,"Aljarafe, Sevilla",
+53767,1.0,3.0,1,36536266,113,,Huévar,"Aljarafe, Sevilla",
+74910,2.0,3.0,1,38871262,96,80,Pilas,"Aljarafe, Sevilla",
+85120,2.0,3.0,4,39904082,100,,Pilas,"Aljarafe, Sevilla",
+49900,1.0,1.0,1,84651873,65,,Pilas,"Aljarafe, Sevilla",
+80000,1.0,3.0,1,81994017,127,115,Pilas,"Aljarafe, Sevilla",
+69900,2.0,3.0,0,82587977,115,104,Pilas,"Aljarafe, Sevilla",1915
+155527,2.0,5.0,0,82907142,164,134,Pilas,"Aljarafe, Sevilla",1984
+85000,1.0,0.0,4,83443676,1800,50,Huévar,"Aljarafe, Sevilla",
+80000,2.0,4.0,0,84237061,105,,Huévar,"Aljarafe, Sevilla",2008
+103000,2.0,4.0,0,84724383,120,,Pilas,"Aljarafe, Sevilla",
+144600,2.0,4.0,0,84843915,60,,Pilas,"Aljarafe, Sevilla",
+133770,1.0,2.0,0,28823774,210,174,Huévar,"Aljarafe, Sevilla",
+90000,2.0,3.0,0,82690469,129,,Pilas,"Aljarafe, Sevilla",2008
+80000,2.0,3.0,2,84158810,138,118,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+30600,1.0,2.0,1,31719164,106,88,Pilas,"Aljarafe, Sevilla",
+73050,1.0,4.0,2,83807035,110,95,Pilas,"Aljarafe, Sevilla",
+1249000,5.0,8.0,14,29812201,30000,,Huévar,"Aljarafe, Sevilla",
+114450,2.0,3.0,1,38202027,100,,Pilas,"Aljarafe, Sevilla",
+89000,2.0,3.0,0,84733489,95,83,Pilas,"Aljarafe, Sevilla",
+51600,2.0,2.0,0,38037503,111,90,Pilas,"Aljarafe, Sevilla",
+108000,4.0,6.0,11,39963739,125,140,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+160000,2.0,4.0,2,40556532,298,244,Carrion de los Céspedes,"Aljarafe, Sevilla",1900
+85000,2.0,3.0,1,81254373,100,,Pilas,"Aljarafe, Sevilla",
+168500,2.0,3.0,5,83638614,150,,Pilas,"Aljarafe, Sevilla",
+127200,3.0,5.0,11,84026624,150,130,Huévar,"Aljarafe, Sevilla",
+52000,1.0,2.0,1,37974678,60,,Pilas,"Aljarafe, Sevilla",
+55000,1.0,1.0,3,28623883,3056,135,Pilas,"Aljarafe, Sevilla",
+400000,3.0,9.0,3,27813261,1000,,Pilas,"Aljarafe, Sevilla",
+65000,2.0,2.0,4,32945879,1000,,Pilas,"Aljarafe, Sevilla",
+80000,1.0,3.0,0,83942765,195,,Pilas,"Aljarafe, Sevilla",1965
+99000,1.0,3.0,1,2079466,86,63,Pilas,"Aljarafe, Sevilla",
+95000,2.0,3.0,2,25509591,180,96,Pilas,"Aljarafe, Sevilla",
+125000,3.0,3.0,2,35709326,90,120,Huévar,"Aljarafe, Sevilla",2007
+165000,2.0,10.0,7,37559756,500,,Huévar,"Aljarafe, Sevilla",
+205000,2.0,4.0,0,37919773,217,197,Carrion de los Céspedes,"Aljarafe, Sevilla",
+160000,3.0,5.0,7,39789578,300,300,Carrion de los Céspedes,"Aljarafe, Sevilla",
+110000,2.0,4.0,0,81435801,114,,Pilas,"Aljarafe, Sevilla",
+114500,2.0,4.0,2,25152378,130,105,Pilas,"Aljarafe, Sevilla",
+27000,1.0,1.0,4,82322533,50,,Pilas,"Aljarafe, Sevilla",
+115000,3.0,3.0,5,82724384,145,,Pilas,"Aljarafe, Sevilla",
+44700,3.0,4.0,0,83866242,115,99,Carrion de los Céspedes,"Aljarafe, Sevilla",
+60900,1.0,2.0,1,38172815,71,,Pilas,"Aljarafe, Sevilla",
+180000,3.0,4.0,4,34698497,1000,,Huévar,"Aljarafe, Sevilla",1980
+87000,3.0,4.0,0,40003526,252,,Pilas,"Aljarafe, Sevilla",
+90000,1.0,4.0,11,82781089,223,200,Pilas,"Aljarafe, Sevilla",1960
+74910,1.0,3.0,1,38961232,96,80,Pilas,"Aljarafe, Sevilla",
+75000,2.0,3.0,2,84922457,100,95,Huévar,"Aljarafe, Sevilla",2003
+140000,2.0,2.0,4,28623674,86,128,Pilas,"Aljarafe, Sevilla",
+83000,2.0,3.0,5,29432403,100,98,Pilas,"Aljarafe, Sevilla",
+98000,2.0,5.0,0,1772926,122,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+185000,2.0,3.0,4,35827865,1328,130,Pilas,"Aljarafe, Sevilla",
+350000,3.0,8.0,7,37551381,1400,,Huévar,"Aljarafe, Sevilla",
+80000,2.0,3.0,0,37976649,138,118,Carrion de los Céspedes,"Aljarafe, Sevilla",
+120000,2.0,3.0,4,39735348,5000,,Pilas,"Aljarafe, Sevilla",
+86730,1.0,3.0,1,81959449,118,95,Pilas,"Aljarafe, Sevilla",
+91000,3.0,3.0,0,81508951,150,,Huévar,"Aljarafe, Sevilla",
+76400,3.0,5.0,4,39846479,153,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90000,1.0,2.0,1,84119303,97,85,Pilas,"Aljarafe, Sevilla",2007
+87260,1.0,3.0,0,82205673,180,103,Pilas,"Aljarafe, Sevilla",1998
+154000,2.0,5.0,0,35040257,130,,Huévar,"Aljarafe, Sevilla",2006
+110000,2.0,3.0,0,38361637,100,89,Pilas,"Aljarafe, Sevilla",
+166493,1.0,1.0,1,81947403,1389,90,Pilas,"Aljarafe, Sevilla",
+79000,2.0,3.0,0,27813552,113,65,Pilas,"Aljarafe, Sevilla",
+73000,2.0,4.0,4,82913324,135,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90379,2.0,3.0,1,81947401,134,110,Pilas,"Aljarafe, Sevilla",
+80900,2.0,3.0,0,82772770,85,,Pilas,"Aljarafe, Sevilla",
+98600,2.0,4.0,0,84271288,133,,Pilas,"Aljarafe, Sevilla",
+86700,2.0,3.0,11,84273171,97,,Pilas,"Aljarafe, Sevilla",
+81700,2.0,3.0,11,84273847,86,,Pilas,"Aljarafe, Sevilla",
+53767,1.0,3.0,1,37827329,112,92,Huévar,"Aljarafe, Sevilla",
+145500,2.0,3.0,7,38512163,300,120,Castilleja del Campo,"Aljarafe, Sevilla",
+160000,1.0,3.0,4,1816208,10500,100,Pilas,"Aljarafe, Sevilla",2006
+70900,2.0,5.0,0,33841031,130,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+126400,2.0,3.0,11,31879070,262,218,Carrion de los Céspedes,"Aljarafe, Sevilla",
+69000,2.0,3.0,0,31694650,118,98,Carrion de los Céspedes,"Aljarafe, Sevilla",
+80000,2.0,4.0,2,313280,116,,Pilas,"Aljarafe, Sevilla",
+65000,2.0,3.0,0,81454542,96,,Pilas,"Aljarafe, Sevilla",
+27200,2.0,3.0,0,32010954,83,,Huévar,"Aljarafe, Sevilla",
+75000,1.0,3.0,1,36262491,83,75,Pilas,"Aljarafe, Sevilla",
+73000,1.0,3.0,11,36664195,89,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+135000,2.0,3.0,0,38124079,116,,Pilas,"Aljarafe, Sevilla",2005
+150000,3.0,4.0,11,33377025,296,,Pilas,"Aljarafe, Sevilla",
+54100,1.0,5.0,11,31718714,117,100,Carrion de los Céspedes,"Aljarafe, Sevilla",
+69800,2.0,5.0,0,34272289,121,98,Carrion de los Céspedes,"Aljarafe, Sevilla",
+58800,2.0,3.0,0,36303897,85,70,Pilas,"Aljarafe, Sevilla",
+62300,1.0,3.0,1,38594632,111,61,Pilas,"Aljarafe, Sevilla",
+76600,2.0,3.0,1,38813372,82,76,Pilas,"Aljarafe, Sevilla",2008
+150000,3.0,4.0,4,39904019,296,,Pilas,"Aljarafe, Sevilla",
+66600,2.0,3.0,5,31719998,100,84,Pilas,"Aljarafe, Sevilla",
+91000,2.0,3.0,11,83453748,99,83,Pilas,"Aljarafe, Sevilla",2007
+48000,1.0,1.0,1,81994497,46,42,Pilas,"Aljarafe, Sevilla",2009
+85000,2.0,3.0,0,36615986,108,95,Pilas,"Aljarafe, Sevilla",
+85120,2.0,3.0,11,84771993,100,,Pilas,"Aljarafe, Sevilla",
+149200,2.0,3.0,0,84984884,193,,Pilas,"Aljarafe, Sevilla",
+60900,1.0,3.0,1,40566200,72,62,Pilas,"Aljarafe, Sevilla",2000
+97660,2.0,4.0,11,84732425,102,93,Pilas,"Aljarafe, Sevilla",
+76000,2.0,3.0,0,29436078,116,84,Carrion de los Céspedes,"Aljarafe, Sevilla",2013
+64800,2.0,2.0,1,40346732,112,97,Pilas,"Aljarafe, Sevilla",
+125000,2.0,3.0,0,83235006,180,,Huévar,"Aljarafe, Sevilla",2008
+149200,1.0,3.0,11,38172620,193,,Pilas,"Aljarafe, Sevilla",
+120000,2.0,3.0,0,84523208,120,,Pilas,"Aljarafe, Sevilla",
+24000,1.0,0.0,0,84626851,57,42,Carrion de los Céspedes,"Aljarafe, Sevilla",
+95000,3.0,4.0,0,84995846,125,,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+100000,3.0,5.0,7,36592552,150,,Huévar,"Aljarafe, Sevilla",
+100000,3.0,4.0,2,39356081,130,125,Carrion de los Céspedes,"Aljarafe, Sevilla",
+136900,2.0,4.0,0,39509198,315,255,Carrion de los Céspedes,"Aljarafe, Sevilla",
+375000,3.0,5.0,4,82364518,2000,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+128000,4.0,6.0,0,82675043,159,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+125000,2.0,3.0,4,82672943,190,98,Pilas,"Aljarafe, Sevilla",
+120000,2.0,3.0,0,83245769,134,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+144000,2.0,5.0,7,83349070,139,,Pilas,"Aljarafe, Sevilla",2010
+130000,3.0,3.0,0,83597565,197,,Huévar,"Aljarafe, Sevilla",
+88000,2.0,2.0,4,81164358,120,,Pilas,"Aljarafe, Sevilla",1993
+84500,2.0,4.0,0,82106168,133,116,Pilas,"Aljarafe, Sevilla",
+180000,1.0,3.0,4,82937105,315,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+87000,2.0,3.0,0,84671489,122,86,Pilas,"Aljarafe, Sevilla",2006
+144000,2.0,4.0,0,36780090,260,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+730000,4.0,6.0,4,37481154,6000,,Pilas,"Aljarafe, Sevilla",
+76400,3.0,5.0,11,34016049,153,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+73050,1.0,4.0,0,81839280,110,95,Pilas,"Aljarafe, Sevilla",
+75000,1.0,3.0,1,82625429,91,73,Pilas,"Aljarafe, Sevilla",
+85000,1.0,7.0,0,39377558,212,240,Castilleja del Campo,"Aljarafe, Sevilla",
+69000,1.0,3.0,0,39806779,95,114,Carrion de los Céspedes,"Aljarafe, Sevilla",
+170000,3.0,6.0,0,40159089,404,450,Carrion de los Céspedes,"Aljarafe, Sevilla",
+159000,2.0,5.0,0,81988864,552,301,Carrion de los Céspedes,"Aljarafe, Sevilla",
+295000,3.0,5.0,4,82108171,3000,167,Pilas,"Aljarafe, Sevilla",2007
+199000,1.0,3.0,7,28699573,1000,150,Castilleja del Campo,"Aljarafe, Sevilla",
+47000,2.0,4.0,0,82722502,202,151,Carrion de los Céspedes,"Aljarafe, Sevilla",
+140000,1.0,4.0,0,83113769,396,421,Carrion de los Céspedes,"Aljarafe, Sevilla",
+83900,3.0,4.0,0,83209456,127,110,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+89000,2.0,4.0,5,83430012,130,109,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+195300,3.0,4.0,7,83957454,296,,Pilas,"Aljarafe, Sevilla",
+85000,2.0,4.0,0,34848938,113,,Pilas,"Aljarafe, Sevilla",2007
+110000,2.0,4.0,2,38542684,125,,Pilas,"Aljarafe, Sevilla",1990
+420000,4.0,5.0,4,81715299,60000,,Huévar,"Aljarafe, Sevilla",2016
+90000,1.0,4.0,7,84298967,1150,,Carrion de los Céspedes,"Aljarafe, Sevilla",1900
+110000,2.0,3.0,0,84379518,180,,Huévar,"Aljarafe, Sevilla",2008
+99990,2.0,4.0,0,38638745,142,185,Castilleja del Campo,"Aljarafe, Sevilla",2006
+81500,3.0,4.0,0,38629044,124,,Huévar,"Aljarafe, Sevilla",
+54000,1.0,1.0,10,84886728,47,37,Pilas,"Aljarafe, Sevilla",2007
+97660,2.0,4.0,11,39255141,102,93,Pilas,"Aljarafe, Sevilla",2006
+94000,2.0,3.0,11,39255144,100,84,Pilas,"Aljarafe, Sevilla",2007
+125000,2.0,4.0,11,39255146,183,144,Carrion de los Céspedes,"Aljarafe, Sevilla",1957
+76900,1.0,3.0,0,81360009,123,,Pilas,"Aljarafe, Sevilla",
+62000,1.0,2.0,11,83729117,100,86,Pilas,"Aljarafe, Sevilla",1960
+108000,2.0,3.0,10,84968886,131,90,Pilas,"Aljarafe, Sevilla",2007
+60900,1.0,3.0,1,33250769,76,,Pilas,"Aljarafe, Sevilla",2000
+149200,3.0,4.0,0,32794585,300,,Pilas,"Aljarafe, Sevilla",1968
+96000,2.0,4.0,0,82576401,113,,Pilas,"Aljarafe, Sevilla",
+260000,1.0,2.0,9,39831996,42200,,Huévar,"Aljarafe, Sevilla",
+61000,1.0,4.0,0,31719097,139,115,Pilas,"Aljarafe, Sevilla",
+26000,1.0,3.0,1,82607790,78,,Pilas,"Aljarafe, Sevilla",1970
+175000,2.0,3.0,2,81560892,260,,Pilas,"Aljarafe, Sevilla",2008
+94400,1.0,3.0,4,83956156,167,,Huévar,"Aljarafe, Sevilla",
+63500,1.0,2.0,1,84680846,74,,Pilas,"Aljarafe, Sevilla",
+89900,2.0,3.0,0,82366348,130,85,Pilas,"Aljarafe, Sevilla",2008
+85000,2.0,3.0,0,27152439,108,95,Pilas,"Aljarafe, Sevilla",
+90000,3.0,4.0,2,83908237,134,110,Carrion de los Céspedes,"Aljarafe, Sevilla",2018
+89500,3.0,4.0,0,83820140,125,136,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+91000,2.0,3.0,0,29435992,114,,Carrion de los Céspedes,"Aljarafe, Sevilla",2013
+390000,3.0,4.0,0,84974326,260,,Pilas,"Aljarafe, Sevilla",
+76400,3.0,5.0,4,83954093,153,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+49990,1.0,2.0,1,85033465,105,,Carrion de los Céspedes,"Aljarafe, Sevilla",2006
+65000,2.0,4.0,1,82560725,110,,Pilas,"Aljarafe, Sevilla",
+88000,2.0,3.0,4,83696977,107,,Pilas,"Aljarafe, Sevilla",
+124300,3.0,3.0,0,85015140,180,,Huévar,"Aljarafe, Sevilla",2008
+63000,1.0,2.0,11,39831972,66,,Pilas,"Aljarafe, Sevilla",
+140000,2.0,3.0,0,85034199,130,,Pilas,"Aljarafe, Sevilla",2001
+169000,2.0,3.0,11,85051878,176,136,Pilas,"Aljarafe, Sevilla",
+89000,2.0,3.0,0,83293776,93,,Pilas,"Aljarafe, Sevilla",2005
+65000,1.0,3.0,0,36895915,329,,Castilleja del Campo,"Aljarafe, Sevilla",
+85120,2.0,3.0,0,84087572,100,,Pilas,"Aljarafe, Sevilla",
+89300,3.0,4.0,11,40044140,124,110,Huévar,"Aljarafe, Sevilla",2011
+93000,3.0,3.0,0,82880197,108,89,Pilas,"Aljarafe, Sevilla",2007
+79000,1.0,2.0,1,84371566,80,60,Pilas,"Aljarafe, Sevilla",2007
+103000,2.0,4.0,0,83858891,156,,Pilas,"Aljarafe, Sevilla",
+84500,2.0,4.0,0,84433656,133,116,Pilas,"Aljarafe, Sevilla",2008
+90000,2.0,3.0,0,26770249,92,75,Huévar,"Aljarafe, Sevilla",
+80000,0.0,2.0,7,82403669,89,,Pilas,"Aljarafe, Sevilla",
+80900,2.0,3.0,0,84190662,100,,Pilas,"Aljarafe, Sevilla",2003
+35000,1.0,1.0,1,84351771,65,,Pilas,"Aljarafe, Sevilla",
+152710,1.0,3.0,0,38247401,193,,Pilas,"Aljarafe, Sevilla",
+120000,2.0,3.0,0,39406903,126,,Pilas,"Aljarafe, Sevilla",
+35000,1.0,1.0,1,82688609,65,56,Pilas,"Aljarafe, Sevilla",2008
+55000,2.0,3.0,5,33652554,94,,Pilas,"Aljarafe, Sevilla",2000
+120000,2.0,4.0,0,38998780,169,,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+60000,1.0,2.0,0,39956902,63,,Pilas,"Aljarafe, Sevilla",
+135000,2.0,5.0,0,81859588,110,,Pilas,"Aljarafe, Sevilla",
+125000,2.0,3.0,9,82336513,1200,,Pilas,"Aljarafe, Sevilla",
+79000,2.0,3.0,0,82459728,110,,Pilas,"Aljarafe, Sevilla",
+120000,2.0,3.0,0,83769287,119,,Pilas,"Aljarafe, Sevilla",2010
+73000,2.0,3.0,0,84070385,117,,Carrion de los Céspedes,"Aljarafe, Sevilla",2018
+85000,2.0,3.0,0,84439464,113,,Pilas,"Aljarafe, Sevilla",2010
+109680,1.0,3.0,11,38795172,121,85,Pilas,"Aljarafe, Sevilla",2010
+88000,2.0,3.0,0,84540374,100,,Pilas,"Aljarafe, Sevilla",2010
+87500,2.0,3.0,5,84555087,118,88,Pilas,"Aljarafe, Sevilla",
+84000,2.0,3.0,0,84646928,199,,Pilas,"Aljarafe, Sevilla",2009
+120000,2.0,4.0,11,84749741,116,100,Pilas,"Aljarafe, Sevilla",2005
+149200,1.0,3.0,0,81857123,144,180,Pilas,"Aljarafe, Sevilla",1968
+122500,2.0,4.0,11,40248791,129,95,Pilas,"Aljarafe, Sevilla",2006
+80000,2.0,3.0,0,83419795,108,,Pilas,"Aljarafe, Sevilla",
+126000,1.0,2.0,9,30821866,20000,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+51600,2.0,2.0,0,81175963,122,,Pilas,"Aljarafe, Sevilla",
+69000,2.0,4.0,0,81850560,141,,Carrion de los Céspedes,"Aljarafe, Sevilla",2007
+66600,2.0,3.0,5,82321043,101,,Pilas,"Aljarafe, Sevilla",
+132900,2.0,4.0,0,84595116,207,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+90000,2.0,4.0,0,84257850,183,140,Pilas,"Aljarafe, Sevilla",1984
+129000,1.0,3.0,0,36347798,309,,Carrion de los Céspedes,"Aljarafe, Sevilla",
+86000,2.0,4.0,0,84399574,103,,Pilas,"Aljarafe, Sevilla",2007
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+175000,3.0,5.0,0,82687751,150,,Gines,"Aljarafe, Sevilla",
+180000,2.0,4.0,0,82482467,200,180,Gines,"Aljarafe, Sevilla",
+450000,2.0,4.0,4,82805973,186,,Gines,"Aljarafe, Sevilla",2000
+80000,1.0,3.0,1,33787198,81,,Gines,"Aljarafe, Sevilla",
+250000,3.0,5.0,4,39774760,180,,Gines,"Aljarafe, Sevilla",
+145000,2.0,3.0,0,30388186,108,90,Gines,"Aljarafe, Sevilla",
+210000,3.0,5.0,0,31914523,105,115,Gines,"Aljarafe, Sevilla",
+650000,3.0,5.0,4,34185197,1300,,Gines,"Aljarafe, Sevilla",
+600000,3.0,4.0,4,82320830,1290,,Gines,"Aljarafe, Sevilla",1984
+169000,3.0,4.0,5,25366117,212,210,Gines,"Aljarafe, Sevilla",
+210000,3.0,3.0,2,39139852,190,150,Gines,"Aljarafe, Sevilla",
+170000,3.0,5.0,0,84476783,150,,Gines,"Aljarafe, Sevilla",
+199000,3.0,5.0,0,84735524,136,,Gines,"Aljarafe, Sevilla",
+61500,1.0,1.0,4,81424063,65,,Gines,"Aljarafe, Sevilla",
+170000,3.0,4.0,2,84361812,280,160,Gines,"Aljarafe, Sevilla",
+74500,1.0,3.0,4,84970992,78,,Gines,"Aljarafe, Sevilla",
+74500,1.0,3.0,11,84781794,78,68,Gines,"Aljarafe, Sevilla",
+61500,1.0,1.0,1,83806949,64,53,Gines,"Aljarafe, Sevilla",
+78000,1.0,2.0,1,82688751,64,,Gines,"Aljarafe, Sevilla",
+143730,2.0,4.0,4,84289222,126,,Gines,"Aljarafe, Sevilla",2003
+52900,1.0,3.0,1,84289203,56,,Gines,"Aljarafe, Sevilla",
+239000,3.0,5.0,2,35183904,400,,Gines,"Aljarafe, Sevilla",
+150000,2.0,3.0,0,82734984,110,,Gines,"Aljarafe, Sevilla",
+399999,2.0,4.0,4,37521104,800,,Gines,"Aljarafe, Sevilla",
+80000,1.0,3.0,1,37404794,80,70,Gines,"Aljarafe, Sevilla",1990
+208000,3.0,4.0,0,83445916,149,137,Gines,"Aljarafe, Sevilla",
+150000,3.0,4.0,0,342466,120,,Gines,"Aljarafe, Sevilla",
+85000,2.0,3.0,1,307154,90,74,Gines,"Aljarafe, Sevilla",
+152000,4.0,4.0,0,36303198,140,200,Gines,"Aljarafe, Sevilla",
+300000,3.0,4.0,2,32993446,314,,Gines,"Aljarafe, Sevilla",
+100000,1.0,1.0,5,28514910,75,62,Gines,"Aljarafe, Sevilla",
+52900,1.0,3.0,1,83449351,56,,Gines,"Aljarafe, Sevilla",
+264900,1.0,5.0,4,84445758,500,,Gines,"Aljarafe, Sevilla",
+240000,3.0,4.0,0,84530962,250,190,Gines,"Aljarafe, Sevilla",
+90000,1.0,2.0,1,84608210,65,,Gines,"Aljarafe, Sevilla",
+208000,3.0,4.0,0,83556680,173,137,Gines,"Aljarafe, Sevilla",
+143730,2.0,3.0,4,82846489,126,,Gines,"Aljarafe, Sevilla",
+6273680,1.0,1.0,1,82474031,10391,57,Gines,"Aljarafe, Sevilla",
+50000,1.0,1.0,1,84053424,50,49,Gines,"Aljarafe, Sevilla",
+142000,3.0,4.0,0,84068340,135,110,Gines,"Aljarafe, Sevilla",2002
+275000,2.0,4.0,11,83899688,550,,Gines,"Aljarafe, Sevilla",
+375000,2.0,3.0,4,83023886,650,,Gines,"Aljarafe, Sevilla",
+178000,3.0,4.0,2,83968243,120,,Gines,"Aljarafe, Sevilla",
+158000,3.0,4.0,0,84862630,117,119,Gines,"Aljarafe, Sevilla",1991
+245000,3.0,4.0,4,26807008,160,,Gines,"Aljarafe, Sevilla",
+203000,2.0,5.0,0,83464898,170,,Gines,"Aljarafe, Sevilla",1997
+309000,3.0,5.0,2,25452283,315,210,Gines,"Aljarafe, Sevilla",
+275000,3.0,4.0,0,33794236,267,,Gines,"Aljarafe, Sevilla",
+99000,1.0,2.0,0,81873325,156,,Gines,"Aljarafe, Sevilla",
+450000,3.0,3.0,4,2085005,744,165,Gines,"Aljarafe, Sevilla",
+187000,2.0,4.0,5,2014724,121,,Gines,"Aljarafe, Sevilla",
+143730,2.0,4.0,11,83243412,126,,Gines,"Aljarafe, Sevilla",
+52900,1.0,3.0,1,83390135,56,,Gines,"Aljarafe, Sevilla",
+500000,5.0,5.0,4,27725655,1462,315,Gines,"Aljarafe, Sevilla",
+295000,2.0,4.0,11,39168067,534,139,Gines,"Aljarafe, Sevilla",1996
+420000,2.0,4.0,4,38646896,800,,Gines,"Aljarafe, Sevilla",1982
+1450000,5.0,6.0,4,83222015,1622,707,Gines,"Aljarafe, Sevilla",1948
+445000,3.0,6.0,4,83820261,538,230,Gines,"Aljarafe, Sevilla",2001
+78000,1.0,3.0,1,30979559,75,,Gines,"Aljarafe, Sevilla",
+143730,2.0,3.0,11,32535822,126,,Gines,"Aljarafe, Sevilla",
+157940,2.0,4.0,4,36730340,120,,Gines,"Aljarafe, Sevilla",
+52900,1.0,3.0,1,84820028,56,,Gines,"Aljarafe, Sevilla",
+299000,2.0,4.0,4,37545642,766,,Gines,"Aljarafe, Sevilla",
+165000,2.0,4.0,2,37580949,137,,Gines,"Aljarafe, Sevilla",
+185000,2.0,3.0,0,82611614,125,,Gines,"Aljarafe, Sevilla",
+170000,1.0,4.0,0,37293203,125,,Gines,"Aljarafe, Sevilla",1995
+286000,3.0,5.0,0,82324106,265,220,Gines,"Aljarafe, Sevilla",
+249000,3.0,4.0,2,81671682,190,,Gines,"Aljarafe, Sevilla",
+232000,3.0,4.0,0,83845604,148,248,Gines,"Aljarafe, Sevilla",
+295000,3.0,4.0,4,83923257,516,206,Gines,"Aljarafe, Sevilla",1986
+235000,3.0,5.0,2,82017144,309,160,Gines,"Aljarafe, Sevilla",
+199000,3.0,5.0,0,32555762,161,,Gines,"Aljarafe, Sevilla",1999
+325000,2.0,4.0,4,81399498,689,,Gines,"Aljarafe, Sevilla",
+999000,4.0,8.0,4,82901175,2113,,Gines,"Aljarafe, Sevilla",
+265000,3.0,4.0,2,82712869,250,170,Gines,"Aljarafe, Sevilla",
+89000,1.0,3.0,1,82654214,76,,Gines,"Aljarafe, Sevilla",
+330000,4.0,5.0,4,37089627,600,,Gines,"Aljarafe, Sevilla",
+299000,2.0,4.0,4,40181174,800,190,Gines,"Aljarafe, Sevilla",1979
+170000,3.0,4.0,0,81330037,119,125,Gines,"Aljarafe, Sevilla",1995
+200000,3.0,4.0,0,83127671,140,,Gines,"Aljarafe, Sevilla",
+230000,3.0,4.0,2,84091936,184,180,Gines,"Aljarafe, Sevilla",2005
+463000,2.0,4.0,4,84167473,1100,,Gines,"Aljarafe, Sevilla",1980
+216300,3.0,4.0,0,84556009,200,145,Gines,"Aljarafe, Sevilla",
+250000,3.0,5.0,2,84837622,244,155,Gines,"Aljarafe, Sevilla",
+265000,4.0,5.0,2,29482375,259,239,Gines,"Aljarafe, Sevilla",
+275000,3.0,4.0,2,34176742,238,,Gines,"Aljarafe, Sevilla",
+183000,3.0,3.0,0,82370317,240,200,Gines,"Aljarafe, Sevilla",
+99000,1.0,4.0,0,84114846,128,,Gines,"Aljarafe, Sevilla",
+173000,3.0,5.0,0,84232156,200,180,Gines,"Aljarafe, Sevilla",
+310000,2.0,4.0,4,84727344,900,,Gines,"Aljarafe, Sevilla",
+107000,1.0,2.0,1,84983178,70,65,Gines,"Aljarafe, Sevilla",
+61500,1.0,1.0,11,81284958,64,53,Gines,"Aljarafe, Sevilla",
+150990,2.0,4.0,0,36780116,100,,Gines,"Aljarafe, Sevilla",
+520000,3.0,5.0,4,83817278,804,,Gines,"Aljarafe, Sevilla",1987
+79990,1.0,3.0,1,84074677,70,,Gines,"Aljarafe, Sevilla",
+109000,1.0,2.0,1,84234932,70,,Gines,"Aljarafe, Sevilla",1968
+349990,2.0,4.0,4,39054788,603,215,Gines,"Aljarafe, Sevilla",2000
+400000,4.0,4.0,2,82785788,257,,Gines,"Aljarafe, Sevilla",
+600000,5.0,5.0,4,32340445,1247,,Gines,"Aljarafe, Sevilla",2000
+208000,3.0,4.0,0,83922995,149,137,Gines,"Aljarafe, Sevilla",2006
+600000,3.0,4.0,4,82379388,1289,,Gines,"Aljarafe, Sevilla",1984
+79990,1.0,3.0,1,84082305,75,60,Gines,"Aljarafe, Sevilla",1989
+220000,2.0,4.0,0,82480897,146,,Gines,"Aljarafe, Sevilla",1995
+330000,3.0,6.0,4,83729409,526,,Gines,"Aljarafe, Sevilla",1979
+169000,2.0,3.0,0,81496639,135,,Gines,"Aljarafe, Sevilla",
+525000,4.0,3.0,4,31700068,819,230,Gines,"Aljarafe, Sevilla",1986
+348000,3.0,5.0,4,84050374,465,,Gines,"Aljarafe, Sevilla",
+380000,4.0,4.0,0,84087394,410,,Gines,"Aljarafe, Sevilla",2005
+250000,2.0,4.0,4,84286608,613,350,Gines,"Aljarafe, Sevilla",
+265000,2.0,4.0,4,81837107,440,125,Gines,"Aljarafe, Sevilla",
+179900,3.0,4.0,2,84805516,280,,Gines,"Aljarafe, Sevilla",1994
+169000,3.0,4.0,0,85013444,115,,Gines,"Aljarafe, Sevilla",1991
+450000,4.0,6.0,4,35771942,500,,Gines,"Aljarafe, Sevilla",2004
+260000,3.0,5.0,2,81592301,244,195,Gines,"Aljarafe, Sevilla",2005
+180000,3.0,3.0,0,83927971,153,138,Gines,"Aljarafe, Sevilla",
+52900,1.0,3.0,1,84981681,56,,Gines,"Aljarafe, Sevilla",
+143730,2.0,4.0,0,84982038,126,,Gines,"Aljarafe, Sevilla",
+265000,3.0,4.0,2,81762149,259,,Gines,"Aljarafe, Sevilla",
+635000,6.0,6.0,4,81811577,1000,,Gines,"Aljarafe, Sevilla",
+365000,2.0,5.0,4,84525225,1100,,Gines,"Aljarafe, Sevilla",
+1099000,4.0,5.0,4,82698837,2090,396,Gines,"Aljarafe, Sevilla",1949
+169900,2.0,3.0,5,82939550,133,100,Gines,"Aljarafe, Sevilla",2005
+235900,3.0,4.0,2,31486137,280,164,Gines,"Aljarafe, Sevilla",
+183000,2.0,4.0,0,83839319,200,,Gines,"Aljarafe, Sevilla",
+42000,1.0,1.0,2,84991138,35,25,Gines,"Aljarafe, Sevilla",
+280000,2.0,4.0,4,82365556,758,,Gines,"Aljarafe, Sevilla",1980
+320000,4.0,5.0,2,29458654,500,,Gines,"Aljarafe, Sevilla",
+169000,3.0,4.0,0,27038360,107,113,Gines,"Aljarafe, Sevilla",
+350000,4.0,5.0,2,29560445,470,246,Gines,"Aljarafe, Sevilla",
+348000,4.0,5.0,4,83611319,465,310,Gines,"Aljarafe, Sevilla",1990
+530000,3.0,6.0,4,83820668,616,259,Gines,"Aljarafe, Sevilla",1992
+158000,3.0,4.0,11,85030576,139,119,Gines,"Aljarafe, Sevilla",
+349900,6.0,7.0,4,84316506,687,,Gines,"Aljarafe, Sevilla",1987
+490000,2.0,4.0,11,82799957,2569,,Gines,"Aljarafe, Sevilla",
+158000,3.0,4.0,0,85033337,140,,Gines,"Aljarafe, Sevilla",
+235000,3.0,4.0,2,84856056,220,180,Gines,"Aljarafe, Sevilla",2005
+185000,3.0,4.0,2,85059597,127,110,Gines,"Aljarafe, Sevilla",2000
+180000,3.0,4.0,2,82464054,200,153,Gines,"Aljarafe, Sevilla",1995
+150000,2.0,3.0,0,84954698,120,110,Gines,"Aljarafe, Sevilla",
+290000,3.0,5.0,2,84406671,285,,Gines,"Aljarafe, Sevilla",
+235200,3.0,4.0,0,84228739,351,157,Gines,"Aljarafe, Sevilla",1948
+274400,2.0,5.0,4,82699287,322,130,Gines,"Aljarafe, Sevilla",1989
+143730,2.0,3.0,0,84087999,126,,Gines,"Aljarafe, Sevilla",
+158000,3.0,4.0,0,84826550,140,,Gines,"Aljarafe, Sevilla",
+252000,3.0,5.0,2,82781248,303,210,Gines,"Aljarafe, Sevilla",2002
+300000,3.0,4.0,2,39909515,375,,Gines,"Aljarafe, Sevilla",
+143730,2.0,4.0,11,84784534,126,,Gines,"Aljarafe, Sevilla",
+265000,4.0,5.0,2,39375275,275,220,Gines,"Aljarafe, Sevilla",2003
+400000,2.0,4.0,11,83785896,432,,Gines,"Aljarafe, Sevilla",
+157000,2.0,4.0,0,82686114,145,112,Gines,"Aljarafe, Sevilla",
+151500,2.0,4.0,0,83196472,114,90,Gines,"Aljarafe, Sevilla",1998
+208000,3.0,4.0,2,84182725,178,140,Gines,"Aljarafe, Sevilla",2006
+265000,3.0,5.0,2,84895191,308,170,Gines,"Aljarafe, Sevilla",1988
+175000,2.0,4.0,0,38933525,129,143,Gines,"Aljarafe, Sevilla",2006
+1100000,8.0,9.0,4,82760197,2000,,Gines,"Aljarafe, Sevilla",1930
+348000,3.0,5.0,4,84552390,465,,Gines,"Aljarafe, Sevilla",2003
+150000,2.0,4.0,1,84618926,180,,Gines,"Aljarafe, Sevilla",
+165000,2.0,4.0,0,84982230,164,90,Gines,"Aljarafe, Sevilla",1988
+255000,3.0,5.0,2,84989649,310,,Gines,"Aljarafe, Sevilla",1989
+395000,3.0,6.0,4,83790490,758,,Gines,"Aljarafe, Sevilla",
+320000,4.0,5.0,2,84952762,400,,Gines,"Aljarafe, Sevilla",2001
+88000,2.0,3.0,0,84146326,109,,Gines,"Aljarafe, Sevilla",1964
+550000,3.0,6.0,4,84281461,800,,Gines,"Aljarafe, Sevilla",1995
+222575,3.0,6.0,11,82076093,212,200,Gines,"Aljarafe, Sevilla",
+317000,3.0,5.0,11,82677103,550,,Gines,"Aljarafe, Sevilla",1993
+348000,4.0,5.0,11,83018044,465,,Gines,"Aljarafe, Sevilla",
+350000,3.0,4.0,11,83898197,192,126,Gines,"Aljarafe, Sevilla",
+999000,5.0,8.0,4,84178432,2113,279,Gines,"Aljarafe, Sevilla",1976
+340000,2.0,4.0,4,85027152,494,148,Gines,"Aljarafe, Sevilla",2000
+335000,3.0,6.0,2,40032017,293,220,Gines,"Aljarafe, Sevilla",2003
+price,0.0,0.0,6,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+72900,1.0,1.0,1,40340583,52,46,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+180000,2.0,3.0,0,2072040,220,,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,1.0,2.0,1,81591744,78,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,1,81987997,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,5,82199222,110,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,4.0,0,82738083,130,,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,2.0,3.0,0,82822520,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,1.0,3.0,1,81514574,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,2.0,4.0,4,82442212,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,2.0,4.0,4,82602805,240,,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,2.0,1,395374,58,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,2.0,3.0,4,37692251,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,4.0,5,81821166,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,3.0,0,82403053,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,3.0,4.0,7,82737924,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+572000,2.0,5.0,4,39993979,1200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+60000,1.0,2.0,1,351765,60,,Dos Hermanas,"Área Metropolitana, Sevilla",
+85000,2.0,2.0,9,37340083,500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+145000,2.0,4.0,1,81880601,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,2.0,3.0,0,37777773,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+740000,3.0,7.0,4,81508768,400,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,3.0,7,81654655,102,96,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,4.0,1,82630246,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,2.0,2.0,1,82635308,65,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,0,82775823,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,2.0,3.0,5,25624688,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,2.0,4.0,1,25406799,102,99,Dos Hermanas,"Área Metropolitana, Sevilla",
+105000,1.0,2.0,1,28129728,72,55,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,1.0,3.0,1,31770948,91,85,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,4.0,4,34197203,1000,216,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,1.0,3.0,4,34759570,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,3.0,4,35872770,900,,Dos Hermanas,"Área Metropolitana, Sevilla",
+121000,2.0,4.0,1,36193032,107,,Dos Hermanas,"Área Metropolitana, Sevilla",
+98000,1.0,1.0,9,36281638,1365,,Dos Hermanas,"Área Metropolitana, Sevilla",
+157000,2.0,3.0,4,37552943,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,2.0,6.0,4,415304,800,,Dos Hermanas,"Área Metropolitana, Sevilla",
+47900,1.0,3.0,1,39663709,82,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+280000,1.0,2.0,4,40024885,2385,,Dos Hermanas,"Área Metropolitana, Sevilla",
+70000,2.0,4.0,1,35299513,96,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,3.0,7.0,0,81312384,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,2.0,5,31166831,112,75,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+50000,1.0,3.0,1,81803379,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,3.0,5.0,5,81861749,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+184000,3.0,3.0,0,40506031,125,,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+132000,2.0,3.0,4,82147674,147,,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+210000,2.0,4.0,0,82279016,195,,Dos Hermanas,"Área Metropolitana, Sevilla",
+68000,1.0,2.0,1,82564328,65,55,Dos Hermanas,"Área Metropolitana, Sevilla",1993
+240000,1.0,4.0,4,35206598,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+365000,4.0,5.0,2,309962,263,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,3.0,5,82093475,105,95,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,3.0,1,316730,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+44000,1.0,2.0,1,351044,85,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,1.0,1,39140130,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+255000,2.0,4.0,0,39742870,195,,Dos Hermanas,"Área Metropolitana, Sevilla",
+70000,1.0,2.0,1,39745973,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+265000,3.0,5.0,0,82197926,200,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,3.0,1,1801683,96,86,Dos Hermanas,"Área Metropolitana, Sevilla",
+310000,3.0,5.0,0,32132938,250,220,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,4.0,4,39496978,400,170,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,2.0,1,40579008,60,,Dos Hermanas,"Área Metropolitana, Sevilla",
+159900,3.0,3.0,4,81286176,130,116,Dos Hermanas,"Área Metropolitana, Sevilla",
+850000,3.0,6.0,4,28587498,2000,270,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,1.0,2.0,1,81945257,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+175000,1.0,3.0,10,30764091,103,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,4.0,5.0,4,1852626,1300,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,4.0,1,28843376,92,,Dos Hermanas,"Área Metropolitana, Sevilla",
+96000,1.0,4.0,1,30536846,110,98,Dos Hermanas,"Área Metropolitana, Sevilla",
+70000,1.0,2.0,4,39312192,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,2.0,5.0,7,39138219,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,7,82951677,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,2.0,0.0,4,83045156,366,,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,2.0,4.0,7,83110409,183,,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,3.0,1,83414748,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,3.0,6.0,9,83462387,8500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+97000,1.0,2.0,1,83558894,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,3.0,1,83609000,102,97,Dos Hermanas,"Área Metropolitana, Sevilla",
+370000,2.0,3.0,4,83635312,550,,Dos Hermanas,"Área Metropolitana, Sevilla",
+87000,2.0,3.0,1,83689436,87,,Dos Hermanas,"Área Metropolitana, Sevilla",
+63000,2.0,3.0,4,83890030,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,2.0,1,83891643,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,3.0,6.0,4,83962036,3000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+450000,0.0,0.0,4,84042950,400,,Dos Hermanas,"Área Metropolitana, Sevilla",1900
+180000,2.0,3.0,4,84158137,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+36000,2.0,3.0,4,84351909,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,5.0,4,84564279,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+165000,2.0,1.0,1,39167747,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+66000,1.0,2.0,1,39311752,53,42,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,7,83404032,137,,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,4.0,6.0,9,83616918,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+190000,2.0,3.0,4,83879281,130,,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,2.0,3.0,4,84269087,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,3.0,4,84269210,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+156000,2.0,4.0,0,84575822,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,4,84575881,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95550,1.0,4.0,1,39977474,101,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,2.0,4,84679262,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,2.0,3.0,9,84798710,1500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+98000,1.0,2.0,1,84846098,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+86900,1.0,3.0,1,40519980,78,,Dos Hermanas,"Área Metropolitana, Sevilla",
+54355,1.0,2.0,1,39888424,69,,Dos Hermanas,"Área Metropolitana, Sevilla",
+60000,1.0,3.0,1,84953443,81,,Dos Hermanas,"Área Metropolitana, Sevilla",
+56800,1.0,4.0,1,84415125,84,,Dos Hermanas,"Área Metropolitana, Sevilla",
+52000,2.0,3.0,4,84985995,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+290000,3.0,5.0,7,84963546,300,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95550,1.0,4.0,1,83806881,101,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+123000,1.0,2.0,1,83828968,85,60,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,1.0,2.0,5,83630641,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,1.0,5.0,4,37973023,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+118000,1.0,2.0,1,38617019,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+165000,2.0,3.0,1,40323091,189,170,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+135000,2.0,4.0,11,82064620,149,,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+127500,1.0,2.0,1,82748895,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,3.0,1,39980077,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+65000,1.0,2.0,1,83672087,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+41000,1.0,2.0,1,84123059,45,,Dos Hermanas,"Área Metropolitana, Sevilla",
+108000,2.0,3.0,1,84152832,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,2.0,1,28026053,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+78000,1.0,3.0,1,29010024,68,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,1.0,3.0,4,30033867,236,,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,1.0,1.0,4,32038946,1526,,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,3.0,4.0,4,34821066,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+69000,1.0,2.0,1,38606021,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,2.0,3.0,5,39043462,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+138000,2.0,3.0,7,39138911,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+50382,1.0,3.0,1,39340149,71,58,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+88000,1.0,2.0,1,40291281,72,,Dos Hermanas,"Área Metropolitana, Sevilla",
+60000,1.0,2.0,1,26044873,56,55,Dos Hermanas,"Área Metropolitana, Sevilla",
+165000,2.0,3.0,0,82269426,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,1.0,2.0,1,83026378,65,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+157900,1.0,3.0,0,83058619,127,110,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+120000,1.0,2.0,0,83633049,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+157260,2.0,3.0,1,83699759,92,80,Dos Hermanas,"Área Metropolitana, Sevilla",1981
+86000,2.0,3.0,1,83842960,71,70,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+119000,1.0,3.0,0,36887542,242,221,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,2.0,3.0,1,37377872,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+85000,1.0,3.0,0,84043275,80,70,Dos Hermanas,"Área Metropolitana, Sevilla",1960
+126900,1.0,3.0,2,84057215,107,90,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+120000,2.0,4.0,4,84293830,2750,,Dos Hermanas,"Área Metropolitana, Sevilla",
+41000,1.0,2.0,1,84701148,46,33,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+51800,1.0,2.0,1,84737861,62,,Dos Hermanas,"Área Metropolitana, Sevilla",1969
+111000,2.0,3.0,1,84902823,115,,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+170000,2.0,3.0,9,27958796,500,290,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,2.0,3.0,4,31677563,250,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,0,35194364,160,,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,3.0,3.0,4,35866656,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,4.0,1,84220584,150,146,Dos Hermanas,"Área Metropolitana, Sevilla",
+60000,1.0,0.0,0,84313523,65,59,Dos Hermanas,"Área Metropolitana, Sevilla",
+95500,1.0,4.0,1,84649241,101,87,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+155000,3.0,3.0,0,1642517,75,162,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,3.0,4,2060847,2500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+255000,2.0,6.0,0,429482,451,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,1.0,2.0,1,2147270,92,70,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+120000,2.0,4.0,1,30683519,115,,Dos Hermanas,"Área Metropolitana, Sevilla",
+189900,2.0,4.0,0,1911869,150,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+69000,2.0,3.0,0,38054045,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+74000,1.0,2.0,1,82477375,63,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,1.0,1.0,1,82482132,62,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,1.0,1.0,1,82711361,60,,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+160000,2.0,3.0,1,83575170,90,72,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,4.0,6.0,4,83809981,1000,240,Dos Hermanas,"Área Metropolitana, Sevilla",
+65000,1.0,3.0,1,84448583,110,97,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,1.0,1,360535,64,,Dos Hermanas,"Área Metropolitana, Sevilla",
+98000,2.0,3.0,1,28376989,84,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+495000,4.0,5.0,4,28473384,250,,Dos Hermanas,"Área Metropolitana, Sevilla",
+105000,1.0,2.0,1,32432473,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+300000,2.0,6.0,7,29036055,360,,Dos Hermanas,"Área Metropolitana, Sevilla",
+380000,2.0,3.0,4,36860771,1500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+83000,2.0,4.0,1,37022149,87,77,Dos Hermanas,"Área Metropolitana, Sevilla",
+86000,2.0,4.0,1,37024596,92,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+98540,1.0,3.0,1,33498555,85,72,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+260000,2.0,1.0,4,39129530,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+145000,1.0,3.0,7,39137755,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+375000,2.0,4.0,4,33878240,900,,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,1.0,1,35740753,51,,Dos Hermanas,"Área Metropolitana, Sevilla",
+139840,2.0,3.0,4,37076658,100,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+175000,2.0,3.0,0,81438171,130,,Dos Hermanas,"Área Metropolitana, Sevilla",
+36000,1.0,3.0,1,81689415,66,60,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,2.0,3.0,1,81860329,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,2.0,4.0,7,81978696,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+177000,3.0,4.0,4,82041484,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+114000,1.0,4.0,0,82488104,70,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,4.0,1,83005878,110,102,Dos Hermanas,"Área Metropolitana, Sevilla",
+285000,2.0,4.0,1,83242732,128,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,2.0,4,83447737,60,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,4.0,7,35196514,170,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+98500,2.0,4.0,4,83699459,131,128,Dos Hermanas,"Área Metropolitana, Sevilla",
+145000,2.0,4.0,1,83946155,120,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,2.0,3.0,0,84161242,119,,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,4.0,4,84402473,114,,Dos Hermanas,"Área Metropolitana, Sevilla",
+46000,1.0,3.0,1,84655877,79,,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+139000,2.0,5.0,4,84657993,166,,Dos Hermanas,"Área Metropolitana, Sevilla",
+62000,1.0,2.0,1,82477376,63,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,3.0,5.0,0,82639563,190,128,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+76600,2.0,3.0,7,82781136,100,100,Dos Hermanas,"Área Metropolitana, Sevilla",1973
+260000,2.0,4.0,0,82639365,151,130,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+143000,2.0,3.0,1,82834054,123,,Dos Hermanas,"Área Metropolitana, Sevilla",
+48900,1.0,3.0,1,83783179,71,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,1.0,2.0,1,82748026,74,55,Dos Hermanas,"Área Metropolitana, Sevilla",
+33000,1.0,3.0,1,27252379,63,,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,3.0,4.0,0,84806442,1,,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,4.0,10,301628,120,110,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,2.0,1,2152109,70,68,Dos Hermanas,"Área Metropolitana, Sevilla",
+97000,1.0,1.0,10,27579221,50,37,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,1.0,5,29428062,50,,Dos Hermanas,"Área Metropolitana, Sevilla",
+255000,3.0,5.0,0,2098947,131,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,2.0,4,31611555,134,,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,2.0,1,2098691,90,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,4.0,1,34624261,102,,Dos Hermanas,"Área Metropolitana, Sevilla",
+239000,2.0,4.0,0,27946318,210,195,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,2.0,4,35194560,720,174,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,2.0,1,35259639,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+125000,2.0,2.0,5,35365057,102,85,Dos Hermanas,"Área Metropolitana, Sevilla",
+186000,2.0,4.0,0,32038105,120,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,1.0,4.0,4,29307580,500,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+175000,2.0,3.0,0,35930698,220,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+147000,2.0,4.0,5,36376049,100,96,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,1.0,3.0,1,36910863,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+53000,1.0,3.0,1,38773547,72,57,Dos Hermanas,"Área Metropolitana, Sevilla",
+260000,3.0,4.0,5,38833694,156,,Dos Hermanas,"Área Metropolitana, Sevilla",
+260000,2.0,1.0,9,39130245,2000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,2.0,3.0,1,39293014,100,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,2,39294427,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,3.0,1,39365887,90,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,1.0,2.0,4,39671283,550,,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,2.0,4.0,4,39997879,1500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,3.0,2,40027579,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,4.0,1,40182967,118,98,Dos Hermanas,"Área Metropolitana, Sevilla",
+145000,2.0,3.0,1,81137253,88,,Dos Hermanas,"Área Metropolitana, Sevilla",
+68680,1.0,1.0,1,81453468,58,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,2.0,3.0,4,36246035,120,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,1.0,2.0,4,81645713,120,,Dos Hermanas,"Área Metropolitana, Sevilla",2012
+153510,1.0,3.0,1,81858052,114,95,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,4.0,7,82060260,114,,Dos Hermanas,"Área Metropolitana, Sevilla",
+93000,1.0,2.0,1,33230642,100,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+78000,2.0,2.0,1,82388406,70,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+165000,2.0,4.0,4,82515582,185,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+205000,3.0,3.0,0,82582768,107,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,4,82643818,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,4.0,5.0,0,82727945,200,40,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,0.0,0.0,7,82893874,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+190000,2.0,5.0,0,83033309,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,3.0,1,83039885,95,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,1.0,3.0,4,37891476,130,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+32055,1.0,2.0,1,83085211,56,,Dos Hermanas,"Área Metropolitana, Sevilla",
+50382,1.0,3.0,1,34693875,72,,Dos Hermanas,"Área Metropolitana, Sevilla",
+112000,1.0,2.0,1,83285444,79,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+140000,2.0,3.0,0,83732618,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+170000,2.0,2.0,1,30133356,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+73500,1.0,3.0,1,84031027,80,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,2,84075844,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,3.0,1,84112412,90,64,Dos Hermanas,"Área Metropolitana, Sevilla",
+175000,2.0,3.0,1,84116668,120,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+270000,3.0,5.0,0,84159530,170,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+128000,2.0,3.0,1,28669257,90,85,Dos Hermanas,"Área Metropolitana, Sevilla",
+85000,1.0,2.0,1,84328623,70,60,Dos Hermanas,"Área Metropolitana, Sevilla",
+30000,1.0,2.0,1,29498863,47,46,Dos Hermanas,"Área Metropolitana, Sevilla",
+175000,2.0,7.0,4,84351536,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+128000,2.0,3.0,1,36662208,90,72,Dos Hermanas,"Área Metropolitana, Sevilla",
+95900,1.0,2.0,1,31766711,99,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,1.0,2.0,1,82477374,63,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+126000,1.0,2.0,1,84614357,78,,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+155000,3.0,4.0,1,35247139,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+52000,1.0,3.0,1,84759536,80,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,2.0,3.0,4,84855713,550,200,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+150000,2.0,3.0,0,84907660,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+39000,1.0,3.0,1,81977646,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+335000,2.0,4.0,4,37987663,580,,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,2.0,9,82570420,500,,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,2.0,3.0,1,83939180,72,,Dos Hermanas,"Área Metropolitana, Sevilla",
+170000,2.0,3.0,0,83939510,150,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+100000,1.0,1.0,9,83940144,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+149900,2.0,3.0,0,83943877,162,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,1.0,3.0,0,83942749,142,,Dos Hermanas,"Área Metropolitana, Sevilla",
+44410,1.0,2.0,1,84086545,64,63,Dos Hermanas,"Área Metropolitana, Sevilla",1960
+115000,2.0,3.0,1,82748109,95,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+97000,2.0,3.0,1,82639546,94,71,Dos Hermanas,"Área Metropolitana, Sevilla",
+69000,1.0,2.0,1,84919417,63,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+69000,1.0,1.0,1,84919419,62,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+98540,1.0,3.0,1,29476325,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+152700,2.0,3.0,1,31698260,92,67,Dos Hermanas,"Área Metropolitana, Sevilla",
+38100,1.0,3.0,1,39791275,60,,Dos Hermanas,"Área Metropolitana, Sevilla",
+152700,2.0,3.0,1,34986848,93,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+112400,2.0,3.0,1,32897015,113,91,Dos Hermanas,"Área Metropolitana, Sevilla",
+126600,1.0,0.0,8,82510522,74,55,Dos Hermanas,"Área Metropolitana, Sevilla",
+41000,1.0,2.0,1,40213154,45,33,Dos Hermanas,"Área Metropolitana, Sevilla",
+176000,2.0,3.0,4,84063399,190,,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,3.0,1,84152126,71,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,2.0,4.0,4,356507,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,2.0,4.0,5,36716550,108,97,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+145000,1.0,3.0,4,39722177,162,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+127000,1.0,2.0,1,34730185,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+140000,2.0,3.0,5,82643036,105,58,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+230000,3.0,4.0,0,82621409,168,,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+86000,0.0,0.0,0,82679602,190,,Dos Hermanas,"Área Metropolitana, Sevilla",
+497350,2.0,4.0,4,82938611,954,265,Dos Hermanas,"Área Metropolitana, Sevilla",
+97000,1.0,2.0,10,83047554,91,70,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+106000,2.0,3.0,1,83182747,79,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+115000,1.0,3.0,4,83249471,125,100,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+109900,2.0,3.0,1,83348195,137,88,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+103000,1.0,3.0,1,83665979,97,90,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+95500,1.0,2.0,1,84050930,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,2.0,3.0,1,84248336,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+128000,1.0,1.0,1,84459025,84,80,Dos Hermanas,"Área Metropolitana, Sevilla",2012
+120000,2.0,3.0,0,84643373,132,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,2.0,4.0,1,84681218,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+93500,1.0,3.0,4,84691925,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+84000,1.0,1.0,1,84791799,90,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+183000,2.0,3.0,1,84885045,135,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,2.0,2.0,1,33139972,68,,Dos Hermanas,"Área Metropolitana, Sevilla",
+104000,1.0,1.0,1,34603634,106,79,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+165000,2.0,5.0,11,40165320,176,,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+90000,1.0,3.0,11,81166826,82,,Dos Hermanas,"Área Metropolitana, Sevilla",
+62500,1.0,3.0,11,39061990,97,85,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+56000,1.0,2.0,1,82524253,55,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+52000,1.0,2.0,1,82524254,53,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+49000,1.0,2.0,1,82524255,49,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+49000,1.0,2.0,1,82524257,49,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+47000,1.0,1.0,1,82524258,47,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+62000,1.0,2.0,1,82524261,59,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+66000,2.0,3.0,1,82524262,67,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+57000,1.0,2.0,1,82594373,56,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+53000,1.0,2.0,1,82594377,51,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+72000,1.0,3.0,1,82594378,72,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+64000,2.0,3.0,1,82594380,65,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+49000,1.0,2.0,1,82594381,49,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+122000,2.0,3.0,1,83030438,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,1.0,4,83671917,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+176000,2.0,3.0,11,84061046,190,,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,3.0,1,84062217,71,,Dos Hermanas,"Área Metropolitana, Sevilla",
+106000,2.0,2.0,1,84152758,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+108000,2.0,3.0,1,84152883,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+128000,2.0,3.0,0,84316441,135,,Dos Hermanas,"Área Metropolitana, Sevilla",
+212000,2.0,3.0,11,82942478,151,234,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+125000,2.0,5.0,0,83272764,155,130,Dos Hermanas,"Área Metropolitana, Sevilla",1994
+130000,2.0,3.0,11,83568336,171,142,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+63000,1.0,3.0,1,84395111,57,,Dos Hermanas,"Área Metropolitana, Sevilla",
+66000,1.0,1.0,1,84685459,55,50,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+154500,2.0,2.0,11,40266031,250,,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,3.0,4.0,0,82269423,150,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,2.0,4.0,1,81938278,72,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,3.0,1,82495296,85,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,4.0,0,37173130,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+650000,4.0,4.0,4,82672350,178,,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+44600,1.0,3.0,1,83621445,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,2.0,4.0,0,82835665,100,95,Dos Hermanas,"Área Metropolitana, Sevilla",
+165000,1.0,2.0,4,84106061,192,105,Dos Hermanas,"Área Metropolitana, Sevilla",
+94540,1.0,3.0,1,84123020,95,69,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+120000,2.0,3.0,0,84249833,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+50000,1.0,3.0,1,84305230,78,65,Dos Hermanas,"Área Metropolitana, Sevilla",1973
+270000,2.0,5.0,0,84342990,156,133,Dos Hermanas,"Área Metropolitana, Sevilla",
+53000,1.0,3.0,1,39673283,69,,Dos Hermanas,"Área Metropolitana, Sevilla",
+495000,3.0,4.0,3,38379637,7000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,2.0,3.0,4,81173474,183,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+72000,1.0,0.0,8,1830186,40,33,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+76000,1.0,2.0,1,84679052,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+29500,1.0,2.0,1,84855375,60,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+69000,0.0,0.0,0,40062554,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+56000,1.0,2.0,1,28293909,70,60,Dos Hermanas,"Área Metropolitana, Sevilla",
+196000,2.0,3.0,0,37632177,203,133,Dos Hermanas,"Área Metropolitana, Sevilla",
+209500,2.0,3.0,0,37632158,245,166,Dos Hermanas,"Área Metropolitana, Sevilla",
+209500,2.0,3.0,0,37632159,247,166,Dos Hermanas,"Área Metropolitana, Sevilla",
+216000,2.0,3.0,0,37631839,260,176,Dos Hermanas,"Área Metropolitana, Sevilla",
+216000,2.0,3.0,0,37632227,262,178,Dos Hermanas,"Área Metropolitana, Sevilla",
+290500,2.0,3.0,0,37632168,247,166,Dos Hermanas,"Área Metropolitana, Sevilla",
+209500,2.0,3.0,0,37632092,243,166,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,2.0,3.0,1,38311691,111,,Dos Hermanas,"Área Metropolitana, Sevilla",2017
+99840,1.0,3.0,11,33997817,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,1.0,3.0,1,40191804,117,,Dos Hermanas,"Área Metropolitana, Sevilla",
+41000,1.0,2.0,1,40215080,49,,Dos Hermanas,"Área Metropolitana, Sevilla",1972
+415000,5.0,5.0,4,81443039,573,,Dos Hermanas,"Área Metropolitana, Sevilla",
+600000,1.0,1.0,1,81751834,278,230,Dos Hermanas,"Área Metropolitana, Sevilla",
+118900,1.0,2.0,1,81739616,71,61,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+120000,2.0,3.0,0,82589760,125,135,Dos Hermanas,"Área Metropolitana, Sevilla",
+246000,2.0,4.0,0,82833167,250,,Dos Hermanas,"Área Metropolitana, Sevilla",
+51700,1.0,2.0,1,83303250,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,4.0,1,83648483,120,102,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+124000,2.0,3.0,5,83670126,120,110,Dos Hermanas,"Área Metropolitana, Sevilla",
+152000,2.0,3.0,1,83763447,99,,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,3.0,1,83948855,77,61,Dos Hermanas,"Área Metropolitana, Sevilla",
+85000,1.0,2.0,1,84224719,79,65,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+65000,1.0,2.0,0,84303019,130,70,Dos Hermanas,"Área Metropolitana, Sevilla",1950
+147500,2.0,3.0,5,84183158,102,79,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+65000,1.0,1.0,1,84453266,50,40,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+121000,2.0,3.0,1,84515329,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,1.0,1.0,1,84617979,55,,Dos Hermanas,"Área Metropolitana, Sevilla",
+63000,1.0,1.0,1,84766298,32,,Dos Hermanas,"Área Metropolitana, Sevilla",
+40000,1.0,3.0,1,35477401,71,,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+70000,1.0,0.0,8,35284483,72,66,Dos Hermanas,"Área Metropolitana, Sevilla",
+70000,1.0,3.0,1,81599557,72,65,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,2.0,1,36651918,96,71,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+95500,1.0,0.0,8,84079000,45,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+255000,3.0,3.0,0,82542581,240,235,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,1.0,3.0,0,84298428,85,80,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+54355,1.0,2.0,1,81357355,69,46,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,4.0,1,84701145,119,98,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+69900,1.0,3.0,1,39706243,67,,Dos Hermanas,"Área Metropolitana, Sevilla",
+325000,3.0,4.0,4,33065830,1000,260,Dos Hermanas,"Área Metropolitana, Sevilla",
+146000,3.0,3.0,0,38551828,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,4.0,5,38900992,130,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+204840,2.0,3.0,1,39612161,173,,Dos Hermanas,"Área Metropolitana, Sevilla",1985
+210000,2.0,4.0,4,39998156,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+495000,4.0,6.0,4,40128123,597,300,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+129000,2.0,3.0,1,83219011,90,77,Dos Hermanas,"Área Metropolitana, Sevilla",
+425000,4.0,5.0,4,83314223,600,400,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,3.0,0,83470163,42,128,Dos Hermanas,"Área Metropolitana, Sevilla",
+195000,2.0,5.0,1,84086792,267,,Dos Hermanas,"Área Metropolitana, Sevilla",
+114900,2.0,3.0,1,84169718,89,,Dos Hermanas,"Área Metropolitana, Sevilla",
+195000,2.0,3.0,1,84244132,92,82,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,3.0,1,84607106,90,75,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+54500,1.0,3.0,1,84664083,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+144000,2.0,4.0,11,84664082,250,180,Dos Hermanas,"Área Metropolitana, Sevilla",
+131000,2.0,4.0,11,84664081,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+161500,2.0,3.0,11,84664080,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+138500,1.0,3.0,9,84664079,150,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+126500,2.0,3.0,9,84664068,180,167,Dos Hermanas,"Área Metropolitana, Sevilla",
+121000,2.0,4.0,9,84664066,180,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+227500,2.0,4.0,0,84664065,324,170,Dos Hermanas,"Área Metropolitana, Sevilla",
+191000,2.0,3.0,0,84664063,150,135,Dos Hermanas,"Área Metropolitana, Sevilla",
+177000,2.0,3.0,1,84664056,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+84000,1.0,3.0,1,84664054,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+99800,2.0,3.0,1,84664050,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120800,1.0,3.0,0,84664047,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+124000,1.0,2.0,5,84664046,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+127800,2.0,3.0,1,84664044,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+150000,2.0,3.0,1,84731230,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+146000,2.0,3.0,1,84767240,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+58000,2.0,4.0,1,30519357,93,,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+121000,2.0,4.0,11,84934080,180,150,Dos Hermanas,"Área Metropolitana, Sevilla",1965
+700000,4.0,6.0,4,490148,304,,Dos Hermanas,"Área Metropolitana, Sevilla",
+170000,3.0,5.0,0,36526343,160,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+76600,1.0,3.0,0,39036711,100,103,Dos Hermanas,"Área Metropolitana, Sevilla",1973
+112400,2.0,3.0,1,32522958,113,91,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+85000,1.0,3.0,0,84346238,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+140000,2.0,4.0,0,84662029,120,114,Dos Hermanas,"Área Metropolitana, Sevilla",
+106000,1.0,2.0,0,84738271,93,70,Dos Hermanas,"Área Metropolitana, Sevilla",1977
+116000,2.0,3.0,1,84972526,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+190000,3.0,5.0,4,84976923,190,,Dos Hermanas,"Área Metropolitana, Sevilla",
+68000,1.0,2.0,1,84796818,65,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+110000,1.0,2.0,1,27356285,79,68,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,6.0,4,82321923,920,,Dos Hermanas,"Área Metropolitana, Sevilla",
+84000,1.0,2.0,1,82658475,70,67,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+98000,1.0,1.0,9,84141836,750,117,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+108000,2.0,5.0,4,84631084,182,,Dos Hermanas,"Área Metropolitana, Sevilla",1962
+100000,2.0,0.0,8,36891381,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,2.0,4.0,0,2041102,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+65000,1.0,2.0,1,28153845,70,60,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+98000,1.0,3.0,1,29105031,96,74,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,3.0,4.0,5,33798678,280,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+310000,2.0,3.0,4,36141462,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,3.0,4.0,0,34221783,280,180,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,3.0,7.0,4,37268563,2000,,Dos Hermanas,"Área Metropolitana, Sevilla",
+88000,2.0,2.0,1,38553509,82,,Dos Hermanas,"Área Metropolitana, Sevilla",
+62060,1.0,3.0,1,39340154,59,46,Dos Hermanas,"Área Metropolitana, Sevilla",1968
+330000,3.0,5.0,2,39739915,200,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+259000,3.0,6.0,0,39667632,165,187,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+120000,1.0,3.0,4,40158555,280,,Dos Hermanas,"Área Metropolitana, Sevilla",
+1300000,5.0,6.0,4,81538364,840,320,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,3.0,5.0,0,81552357,225,,Dos Hermanas,"Área Metropolitana, Sevilla",
+215000,3.0,3.0,0,81938457,170,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+149386,2.0,3.0,1,81991283,123,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,4.0,3.0,0,82315635,175,198,Dos Hermanas,"Área Metropolitana, Sevilla",
+142900,2.0,4.0,0,38670859,110,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,3.0,1,82516421,85,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,3.0,1,82516344,85,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+235000,3.0,3.0,0,82737922,107,,Dos Hermanas,"Área Metropolitana, Sevilla",2017
+220000,2.0,3.0,1,82755250,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+43000,1.0,3.0,1,82781049,75,65,Dos Hermanas,"Área Metropolitana, Sevilla",
+107400,2.0,3.0,0,82781134,183,,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+155000,2.0,3.0,4,39739914,170,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,3.0,1,83253995,80,,Dos Hermanas,"Área Metropolitana, Sevilla",
+119900,1.0,2.0,1,83479791,65,,Dos Hermanas,"Área Metropolitana, Sevilla",
+123000,1.0,2.0,5,83558995,111,,Dos Hermanas,"Área Metropolitana, Sevilla",
+195000,2.0,5.0,4,83682772,300,,Dos Hermanas,"Área Metropolitana, Sevilla",
+470000,1.0,1.0,7,83779552,401,,Dos Hermanas,"Área Metropolitana, Sevilla",
+123000,2.0,3.0,5,84369364,100,85,Dos Hermanas,"Área Metropolitana, Sevilla",
+192000,2.0,3.0,1,84508596,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,3.0,5,84613030,210,,Dos Hermanas,"Área Metropolitana, Sevilla",
+64840,1.0,1.0,1,84613823,40,37,Dos Hermanas,"Área Metropolitana, Sevilla",
+128000,1.0,2.0,1,84664041,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+136000,1.0,2.0,11,84755211,248,,Dos Hermanas,"Área Metropolitana, Sevilla",1968
+151900,1.0,3.0,0,84761073,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+36000,1.0,3.0,1,84855309,79,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,2.0,3.0,1,37982122,100,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+217000,2.0,4.0,4,39610594,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+420000,4.0,5.0,4,40165936,400,,Dos Hermanas,"Área Metropolitana, Sevilla",
+41000,1.0,3.0,1,40142461,69,49,Dos Hermanas,"Área Metropolitana, Sevilla",1972
+112800,2.0,3.0,1,33146363,113,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+76000,1.0,2.0,1,84305870,80,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,1.0,4.0,5,84654207,100,75,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+250000,5.0,7.0,4,83401144,300,,Dos Hermanas,"Área Metropolitana, Sevilla",
+90200,1.0,2.0,1,81282427,68,55,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+152300,2.0,3.0,1,81477737,94,82,Dos Hermanas,"Área Metropolitana, Sevilla",
+76600,1.0,3.0,0,81803256,117,103,Dos Hermanas,"Área Metropolitana, Sevilla",
+56800,1.0,4.0,1,84415137,87,,Dos Hermanas,"Área Metropolitana, Sevilla",
+399000,4.0,4.0,4,84790292,590,,Dos Hermanas,"Área Metropolitana, Sevilla",
+149900,2.0,4.0,2,84814197,90,123,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+180000,3.0,3.0,0,84980018,160,,Dos Hermanas,"Área Metropolitana, Sevilla",
+69900,0.0,0.0,0,84924461,155,94,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+185000,3.0,3.0,2,26336515,115,95,Dos Hermanas,"Área Metropolitana, Sevilla",
+239000,3.0,3.0,0,31181854,130,100,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+285000,3.0,5.0,0,33382413,225,205,Dos Hermanas,"Área Metropolitana, Sevilla",
+94000,2.0,4.0,1,37504582,104,,Dos Hermanas,"Área Metropolitana, Sevilla",
+118000,2.0,3.0,1,37562936,140,109,Dos Hermanas,"Área Metropolitana, Sevilla",
+139900,2.0,4.0,0,38040041,55,,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,3.0,3.0,4,38187701,132,220,Dos Hermanas,"Área Metropolitana, Sevilla",
+290000,4.0,4.0,4,38903886,304,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+230000,2.0,3.0,0,1978627,95,110,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+260000,3.0,6.0,4,81819926,765,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,1,82076478,114,84,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+170000,2.0,4.0,0,82878621,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,0.0,8,35336294,83,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+370000,3.0,4.0,4,83626002,610,151,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+110000,1.0,2.0,1,84040567,96,,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+310000,3.0,4.0,0,84138586,330,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+123000,2.0,3.0,1,84248882,90,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,1,31254451,90,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+160000,2.0,3.0,1,84332892,90,78,Dos Hermanas,"Área Metropolitana, Sevilla",2012
+160000,2.0,3.0,1,84347193,94,78,Dos Hermanas,"Área Metropolitana, Sevilla",2012
+98000,2.0,4.0,1,33028528,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+166000,2.0,3.0,1,84553395,112,93,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+113000,2.0,2.0,1,84564806,75,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+42000,1.0,3.0,1,83174689,71,57,Dos Hermanas,"Área Metropolitana, Sevilla",
+75000,2.0,3.0,1,83111500,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+79900,1.0,3.0,1,83470061,88,73,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+200000,3.0,4.0,0,83638254,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,3.0,3.0,5,84364393,174,121,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+108000,1.0,3.0,1,84420827,80,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+40000,1.0,2.0,1,84582878,56,43,Dos Hermanas,"Área Metropolitana, Sevilla",
+235000,3.0,4.0,0,35185825,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+184900,3.0,3.0,4,81292843,115,102,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,1.0,3.0,0,82309020,95,80,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+89995,2.0,2.0,1,82828116,90,85,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+155000,2.0,3.0,5,84248194,100,95,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+190000,2.0,3.0,0,84739614,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+360000,3.0,4.0,4,25672621,535,240,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,2.0,1,25158559,100,87,Dos Hermanas,"Área Metropolitana, Sevilla",
+140304,2.0,4.0,0,37460247,158,133,Dos Hermanas,"Área Metropolitana, Sevilla",
+65000,1.0,2.0,9,32212932,2200,,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+345000,3.0,3.0,4,82439035,617,,Dos Hermanas,"Área Metropolitana, Sevilla",
+39000,1.0,3.0,1,82680466,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+164000,2.0,3.0,0,82368106,160,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+88327,1.0,1.0,1,83864364,77,59,Dos Hermanas,"Área Metropolitana, Sevilla",
+155000,1.0,4.0,0,84040776,130,,Dos Hermanas,"Área Metropolitana, Sevilla",1999
+649000,6.0,9.0,4,84086058,516,,Dos Hermanas,"Área Metropolitana, Sevilla",
+179700,2.0,3.0,1,84111927,117,102,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+160000,2.0,3.0,2,1708626,90,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,1.0,2.0,4,84415052,1239,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,3.0,1,84621042,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+118000,1.0,2.0,4,84940221,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+94700,1.0,2.0,1,84214074,79,66,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+105000,2.0,2.0,5,84984262,80,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+126600,1.0,2.0,1,82844144,75,56,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+96000,2.0,4.0,0,84752909,177,,Dos Hermanas,"Área Metropolitana, Sevilla",
+53600,1.0,3.0,1,35534366,79,63,Dos Hermanas,"Área Metropolitana, Sevilla",
+260000,2.0,3.0,0,40237584,130,150,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+49000,1.0,2.0,1,40299891,49,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+57000,1.0,2.0,1,40299755,56,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+48400,1.0,2.0,1,81297772,77,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+114000,2.0,3.0,5,81299328,90,82,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+36300,1.0,0.0,8,32449112,64,,Dos Hermanas,"Área Metropolitana, Sevilla",
+126000,1.0,3.0,1,82251873,95,,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+51900,1.0,3.0,1,82097049,69,58,Dos Hermanas,"Área Metropolitana, Sevilla",
+275000,2.0,4.0,2,82894427,270,170,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+143108,2.0,4.0,4,82911245,268,215,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,3.0,1,83093902,103,96,Dos Hermanas,"Área Metropolitana, Sevilla",1987
+77400,1.0,2.0,1,83253967,80,64,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,1.0,2.0,4,83371828,100,,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+155000,2.0,3.0,4,37653160,150,170,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+128200,2.0,3.0,0,83728056,140,121,Dos Hermanas,"Área Metropolitana, Sevilla",
+255000,2.0,4.0,4,83940299,928,248,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,2.0,4,84645541,720,50,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,2.0,3.0,1,84695238,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+74990,1.0,2.0,1,84744456,80,70,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+99900,1.0,3.0,0,84753014,132,,Dos Hermanas,"Área Metropolitana, Sevilla",
+255000,2.0,4.0,1,84807233,145,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+198000,2.0,3.0,0,84804087,112,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+100000,2.0,2.0,1,84828111,96,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+180000,3.0,5.0,0,84883011,165,150,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+145000,2.0,3.0,5,32529836,102,90,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+114900,2.0,3.0,1,83832604,90,71,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957262,782,57,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957308,782,30,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957336,782,40,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957347,782,39,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957375,782,57,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957378,782,28,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957402,782,36,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957418,782,26,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957432,782,60,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957481,782,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957485,782,28,Dos Hermanas,"Área Metropolitana, Sevilla",
+780300,1.0,1.0,1,84957562,782,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+207000,3.0,3.0,0,84317060,120,100,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+425000,4.0,6.0,4,29567921,580,,Dos Hermanas,"Área Metropolitana, Sevilla",
+650000,5.0,8.0,4,31617482,1228,300,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+250000,1.0,6.0,4,30988983,451,,Dos Hermanas,"Área Metropolitana, Sevilla",
+305000,3.0,4.0,2,38007186,236,,Dos Hermanas,"Área Metropolitana, Sevilla",
+260000,3.0,4.0,11,39663785,254,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+365000,3.0,4.0,11,39811581,788,270,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+265000,3.0,4.0,11,39949965,177,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,4.0,1,40215241,117,,Dos Hermanas,"Área Metropolitana, Sevilla",1977
+539680,3.0,4.0,4,81443062,550,,Dos Hermanas,"Área Metropolitana, Sevilla",
+580000,3.0,6.0,4,40544676,640,,Dos Hermanas,"Área Metropolitana, Sevilla",
+690000,5.0,5.0,4,81787940,1192,,Dos Hermanas,"Área Metropolitana, Sevilla",
+265000,3.0,6.0,4,38521808,742,135,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+219500,3.0,4.0,0,39854212,174,152,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+290000,1.0,3.0,4,81665773,1000,120,Dos Hermanas,"Área Metropolitana, Sevilla",2013
+224000,2.0,3.0,4,40371679,230,,Dos Hermanas,"Área Metropolitana, Sevilla",
+147500,2.0,3.0,0,81827242,141,113,Dos Hermanas,"Área Metropolitana, Sevilla",1996
+230000,3.0,6.0,4,82369344,490,,Dos Hermanas,"Área Metropolitana, Sevilla",
+216500,3.0,4.0,0,82336944,250,,Dos Hermanas,"Área Metropolitana, Sevilla",
+176900,1.0,3.0,1,82468646,117,103,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+89000,2.0,3.0,0,82363869,120,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+124000,2.0,3.0,0,82636133,130,125,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,2.0,3.0,1,82763799,118,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+48900,1.0,3.0,1,82809917,74,,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,2.0,3.0,1,38711200,132,100,Dos Hermanas,"Área Metropolitana, Sevilla",2017
+108000,2.0,3.0,1,82917428,89,76,Dos Hermanas,"Área Metropolitana, Sevilla",
+99900,1.0,2.0,1,82609102,77,65,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+164000,2.0,4.0,1,83362291,110,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+148600,2.0,2.0,1,83683353,92,69,Dos Hermanas,"Área Metropolitana, Sevilla",
+149200,2.0,3.0,1,83683334,110,82,Dos Hermanas,"Área Metropolitana, Sevilla",
+539680,3.0,4.0,4,40258402,550,,Dos Hermanas,"Área Metropolitana, Sevilla",
+172300,2.0,4.0,1,83810572,132,98,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,1.0,4.0,0,84135610,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+79990,1.0,2.0,1,84236142,60,,Dos Hermanas,"Área Metropolitana, Sevilla",
+155000,1.0,4.0,0,84211566,155,,Dos Hermanas,"Área Metropolitana, Sevilla",1971
+85000,1.0,2.0,0,84380258,109,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,2.0,5.0,4,82024914,900,150,Dos Hermanas,"Área Metropolitana, Sevilla",1986
+106500,2.0,3.0,1,82303718,91,70,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+380000,3.0,6.0,4,82593661,600,,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+165000,3.0,3.0,0,83737545,198,168,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+136000,2.0,3.0,5,83824693,116,97,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+169900,2.0,4.0,11,84433805,203,,Dos Hermanas,"Área Metropolitana, Sevilla",1959
+255000,2.0,3.0,2,84550682,300,,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+106000,1.0,2.0,5,82676731,88,63,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+150000,2.0,4.0,0,84553947,206,,Dos Hermanas,"Área Metropolitana, Sevilla",1958
+149900,1.0,3.0,1,84584417,89,75,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+472000,3.0,5.0,4,84547891,663,,Dos Hermanas,"Área Metropolitana, Sevilla",
+221000,2.0,3.0,11,84664060,224,,Dos Hermanas,"Área Metropolitana, Sevilla",
+235000,3.0,4.0,4,84787745,160,130,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+19000,1.0,3.0,1,84928916,59,,Dos Hermanas,"Área Metropolitana, Sevilla",1960
+43000,1.0,3.0,1,31849261,75,66,Dos Hermanas,"Área Metropolitana, Sevilla",
+115800,1.0,4.0,11,33526928,150,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+66500,1.0,3.0,1,35303772,77,,Dos Hermanas,"Área Metropolitana, Sevilla",
+176800,2.0,5.0,0,37425221,255,,Dos Hermanas,"Área Metropolitana, Sevilla",
+45600,1.0,3.0,1,38468466,71,52,Dos Hermanas,"Área Metropolitana, Sevilla",
+58500,1.0,0.0,5,39034093,63,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+39900,1.0,3.0,1,39476148,80,66,Dos Hermanas,"Área Metropolitana, Sevilla",
+85200,1.0,2.0,0,40063154,134,117,Dos Hermanas,"Área Metropolitana, Sevilla",
+39000,1.0,3.0,1,27270306,80,,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+95400,2.0,4.0,0,30965986,122,,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+107400,1.0,5.0,11,40550946,183,,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+66500,1.0,3.0,1,39499074,77,64,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+43000,1.0,3.0,1,34096869,75,,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+53600,1.0,3.0,1,81525340,79,63,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+310000,4.0,4.0,2,81993774,620,162,Dos Hermanas,"Área Metropolitana, Sevilla",
+412000,2.0,4.0,4,82075287,650,260,Dos Hermanas,"Área Metropolitana, Sevilla",2015
+160000,2.0,3.0,0,82308527,101,,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+68800,1.0,3.0,1,82405008,82,,Dos Hermanas,"Área Metropolitana, Sevilla",
+48400,1.0,2.0,1,82505260,77,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+33000,1.0,2.0,1,82641030,63,45,Dos Hermanas,"Área Metropolitana, Sevilla",
+45600,1.0,3.0,1,82158106,72,52,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+260000,3.0,4.0,11,83855914,206,190,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+65000,1.0,3.0,0,84752139,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+494400,3.0,4.0,4,84828746,900,850,Dos Hermanas,"Área Metropolitana, Sevilla",1984
+99950,2.0,3.0,1,40535039,81,72,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+124000,2.0,3.0,5,81362545,110,80,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+135000,2.0,5.0,0,82243818,120,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,3.0,4.0,0,82243903,125,135,Dos Hermanas,"Área Metropolitana, Sevilla",
+106000,2.0,3.0,1,82740265,88,74,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+150000,1.0,4.0,0,83190496,140,125,Dos Hermanas,"Área Metropolitana, Sevilla",
+108000,1.0,2.0,0,83213070,120,110,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+480000,4.0,5.0,4,83308630,1200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+190500,2.0,3.0,1,40222939,106,70,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+235000,3.0,4.0,0,28059559,160,126,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+179700,2.0,3.0,1,84780053,117,,Dos Hermanas,"Área Metropolitana, Sevilla",
+179700,2.0,3.0,1,84780063,117,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,3.0,4.0,4,40325150,200,180,Dos Hermanas,"Área Metropolitana, Sevilla",
+70500,1.0,1.0,1,33369598,73,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+58500,1.0,1.0,5,488169,66,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+48428,1.0,3.0,1,82544341,76,62,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+125000,2.0,4.0,1,83777507,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+85000,1.0,2.0,4,84135658,115,,Dos Hermanas,"Área Metropolitana, Sevilla",
+134000,2.0,3.0,1,84264104,97,70,Dos Hermanas,"Área Metropolitana, Sevilla",2019
+93000,2.0,3.0,1,84294726,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,4.0,0,84977528,175,110,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+59900,1.0,3.0,1,81521767,69,,Dos Hermanas,"Área Metropolitana, Sevilla",
+127500,1.0,2.0,1,83699599,77,72,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+395000,1.0,3.0,4,83699609,563,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+780000,2.0,4.0,4,83699611,1200,,Dos Hermanas,"Área Metropolitana, Sevilla",1983
+89900,1.0,3.0,1,82408158,97,75,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+89900,1.0,3.0,1,84388193,97,75,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+128500,1.0,3.0,5,84761803,100,80,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+112000,1.0,3.0,1,84053241,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+165000,2.0,3.0,1,84617583,117,102,Dos Hermanas,"Área Metropolitana, Sevilla",
+37700,1.0,3.0,1,35254589,80,66,Dos Hermanas,"Área Metropolitana, Sevilla",
+107400,2.0,3.0,0,31695958,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+44600,1.0,3.0,1,37229355,80,67,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,2.0,4.0,4,38814418,950,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+104000,2.0,3.0,1,39035978,130,105,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+203940,4.0,6.0,4,39490698,173,226,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+325000,5.0,6.0,2,39739916,290,219,Dos Hermanas,"Área Metropolitana, Sevilla",
+650000,6.0,7.0,4,40031888,1200,280,Dos Hermanas,"Área Metropolitana, Sevilla",
+260000,2.0,4.0,0,40136616,200,130,Dos Hermanas,"Área Metropolitana, Sevilla",
+429000,4.0,4.0,4,40160817,1300,201,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+280000,3.0,4.0,0,40265772,253,220,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+285000,3.0,3.0,2,40368515,147,137,Dos Hermanas,"Área Metropolitana, Sevilla",
+186000,2.0,3.0,4,40529803,771,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+219000,2.0,3.0,0,81419859,131,116,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,3.0,4,81443051,160,114,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+241050,1.0,3.0,4,37615567,301,139,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,3.0,3.0,0,81865803,45,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+124000,2.0,3.0,5,82218237,110,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+98000,2.0,3.0,1,82330874,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+48428,1.0,3.0,1,83098069,78,63,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+450000,4.0,4.0,4,83429941,617,224,Dos Hermanas,"Área Metropolitana, Sevilla",
+154000,3.0,3.0,11,83601953,186,160,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+354000,3.0,4.0,4,83628128,616,,Dos Hermanas,"Área Metropolitana, Sevilla",1985
+121000,2.0,3.0,1,83846249,100,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+340000,2.0,3.0,9,84421679,850,,Dos Hermanas,"Área Metropolitana, Sevilla",
+199900,3.0,3.0,0,84627335,126,104,Dos Hermanas,"Área Metropolitana, Sevilla",
+48000,1.0,2.0,1,84638706,56,,Dos Hermanas,"Área Metropolitana, Sevilla",
+497000,4.0,8.0,11,84664064,600,260,Dos Hermanas,"Área Metropolitana, Sevilla",
+171800,2.0,4.0,0,84664062,130,105,Dos Hermanas,"Área Metropolitana, Sevilla",
+193000,3.0,3.0,0,84664061,236,180,Dos Hermanas,"Área Metropolitana, Sevilla",
+221000,2.0,3.0,0,84664059,145,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+129800,1.0,1.0,1,84664040,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+80000,1.0,2.0,1,84690577,65,,Dos Hermanas,"Área Metropolitana, Sevilla",
+142000,2.0,3.0,2,84613673,88,71,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+141000,2.0,3.0,1,84702300,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,1.0,3.0,1,84722193,80,,Dos Hermanas,"Área Metropolitana, Sevilla",1979
+149300,2.0,2.0,11,84730203,129,,Dos Hermanas,"Área Metropolitana, Sevilla",
+143000,2.0,3.0,1,84755214,90,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+220000,2.0,4.0,4,84790402,247,,Dos Hermanas,"Área Metropolitana, Sevilla",
+200000,3.0,4.0,11,84819691,223,183,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,2.0,4.0,5,84821465,105,88,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+181000,2.0,3.0,1,84833039,132,,Dos Hermanas,"Área Metropolitana, Sevilla",
+169800,3.0,4.0,0,84831339,160,,Dos Hermanas,"Área Metropolitana, Sevilla",
+280000,3.0,4.0,0,84872967,215,,Dos Hermanas,"Área Metropolitana, Sevilla",
+136000,1.0,2.0,1,84873506,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+199000,2.0,3.0,11,84917243,176,143,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+89900,1.0,3.0,1,84917256,80,65,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+135700,2.0,3.0,1,37632339,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+114000,1.0,2.0,1,37632336,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110500,1.0,2.0,1,37632342,85,,Dos Hermanas,"Área Metropolitana, Sevilla",
+131900,2.0,3.0,1,37632343,107,,Dos Hermanas,"Área Metropolitana, Sevilla",
+126600,2.0,3.0,1,37632334,102,,Dos Hermanas,"Área Metropolitana, Sevilla",
+141700,2.0,3.0,1,37632338,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+127400,2.0,3.0,1,37632341,103,,Dos Hermanas,"Área Metropolitana, Sevilla",
+141600,2.0,3.0,1,37632273,125,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135700,2.0,3.0,1,37632333,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+126600,2.0,3.0,1,37632340,102,,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,3.0,4.0,4,83881474,1000,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+270000,3.0,5.0,0,84472277,170,150,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+69900,1.0,2.0,11,83335976,73,,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+103000,2.0,3.0,1,84815171,103,83,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+152000,2.0,3.0,5,84787747,127,100,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+90000,1.0,3.0,1,84870609,95,80,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+116000,2.0,3.0,1,84924158,105,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+76000,1.0,4.0,0,84946985,130,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+88328,1.0,1.0,1,84956159,78,,Dos Hermanas,"Área Metropolitana, Sevilla",
+190000,3.0,3.0,5,35165066,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+48519,1.0,4.0,1,82623420,81,64,Dos Hermanas,"Área Metropolitana, Sevilla",
+378000,4.0,5.0,2,83779670,494,,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+252000,2.0,3.0,0,84742418,184,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+90000,1.0,3.0,1,325953,80,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+285000,2.0,4.0,0,2022211,150,145,Dos Hermanas,"Área Metropolitana, Sevilla",
+499000,3.0,6.0,4,305572,630,330,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,3.0,1,2174489,82,72,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,1.0,4.0,4,27839531,162,,Dos Hermanas,"Área Metropolitana, Sevilla",
+73000,1.0,3.0,1,28564415,82,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,3.0,4,33446092,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,1.0,2.0,1,25478343,78,63,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+220000,2.0,5.0,4,37009295,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+195000,3.0,3.0,0,37284115,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,3.0,5.0,4,34590484,1600,360,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,2.0,4.0,4,34858742,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+204900,2.0,4.0,0,39580554,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+370000,2.0,7.0,4,39753529,1026,,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,4.0,4,39812696,120,150,Dos Hermanas,"Área Metropolitana, Sevilla",1996
+189000,3.0,4.0,0,39840736,183,,Dos Hermanas,"Área Metropolitana, Sevilla",
+325000,5.0,6.0,2,40037891,300,270,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+260000,3.0,4.0,0,2123113,108,140,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+142000,2.0,3.0,0,82167053,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,2.0,4.0,0,82190050,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+360000,0.0,0.0,0,34787520,230,,Dos Hermanas,"Área Metropolitana, Sevilla",
+114000,1.0,3.0,1,82286299,98,68,Dos Hermanas,"Área Metropolitana, Sevilla",
+195000,2.0,3.0,1,82338135,109,92,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+695000,4.0,6.0,4,82399944,841,,Dos Hermanas,"Área Metropolitana, Sevilla",
+205000,3.0,5.0,0,29087606,122,,Dos Hermanas,"Área Metropolitana, Sevilla",1997
+180000,2.0,2.0,4,82894142,150,,Dos Hermanas,"Área Metropolitana, Sevilla",1996
+152000,2.0,3.0,5,83103032,127,,Dos Hermanas,"Área Metropolitana, Sevilla",
+370000,3.0,5.0,4,83361724,610,151,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+180000,1.0,3.0,0,83908768,120,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+290000,4.0,3.0,4,83917094,219,,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+199900,2.0,3.0,0,84058559,115,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+650000,6.0,7.0,4,25547778,1185,,Dos Hermanas,"Área Metropolitana, Sevilla",
+110000,1.0,3.0,1,84104369,82,69,Dos Hermanas,"Área Metropolitana, Sevilla",
+73700,1.0,1.0,1,82196695,43,,Dos Hermanas,"Área Metropolitana, Sevilla",
+49000,1.0,2.0,1,83776820,56,47,Dos Hermanas,"Área Metropolitana, Sevilla",1959
+195000,3.0,3.0,0,84738410,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+105000,2.0,3.0,1,84797214,112,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+230000,3.0,4.0,0,83961684,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+235000,3.0,4.0,0,82121722,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+212000,3.0,4.0,0,82121712,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+237000,3.0,4.0,0,83961685,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+220000,3.0,4.0,0,83961682,170,,Dos Hermanas,"Área Metropolitana, Sevilla",
+230000,2.0,3.0,0,84614326,95,110,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+122000,2.0,2.0,5,84722322,110,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+199900,3.0,3.0,0,84760743,230,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+199900,3.0,3.0,0,84823665,52,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+40000,1.0,3.0,1,35702582,71,,Dos Hermanas,"Área Metropolitana, Sevilla",
+56862,1.0,2.0,1,26717353,77,62,Dos Hermanas,"Área Metropolitana, Sevilla",
+344500,3.0,4.0,4,81422277,604,345,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+95000,1.0,3.0,0,81821297,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+380000,3.0,4.0,4,82592193,488,215,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+135000,2.0,3.0,1,82789692,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+185000,3.0,5.0,0,82347205,131,150,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+265000,3.0,3.0,0,83469816,240,205,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+219000,2.0,3.0,0,83833115,103,91,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+89500,2.0,4.0,1,83938677,104,,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+175000,3.0,4.0,0,84042338,126,,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+74900,1.0,2.0,1,84161390,100,,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+180000,2.0,2.0,11,84331956,56,98,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+230000,3.0,3.0,5,84354076,191,163,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+169900,3.0,4.0,0,84592147,158,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+163900,3.0,4.0,1,84855285,130,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+176800,3.0,6.0,0,37270655,161,,Dos Hermanas,"Área Metropolitana, Sevilla",1987
+179990,2.0,4.0,4,81915317,930,,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+165000,2.0,3.0,0,82674037,135,,Dos Hermanas,"Área Metropolitana, Sevilla",1999
+53600,1.0,3.0,1,82781077,80,69,Dos Hermanas,"Área Metropolitana, Sevilla",
+354000,2.0,5.0,11,83934953,444,370,Dos Hermanas,"Área Metropolitana, Sevilla",
+475000,4.0,5.0,4,40122054,1360,242,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+224000,3.0,3.0,0,81294586,200,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+345000,3.0,4.0,4,82100795,640,,Dos Hermanas,"Área Metropolitana, Sevilla",2016
+490000,3.0,3.0,4,82938858,325,270,Dos Hermanas,"Área Metropolitana, Sevilla",
+235000,3.0,3.0,2,84140448,130,170,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+119000,2.0,3.0,1,84448642,103,,Dos Hermanas,"Área Metropolitana, Sevilla",1993
+219995,3.0,4.0,5,84608495,185,175,Dos Hermanas,"Área Metropolitana, Sevilla",
+160000,2.0,3.0,5,84709819,100,,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+120000,1.0,3.0,1,84757734,118,,Dos Hermanas,"Área Metropolitana, Sevilla",
+199900,3.0,4.0,0,2095077,230,195,Dos Hermanas,"Área Metropolitana, Sevilla",
+154000,2.0,5.0,4,40457772,145,,Dos Hermanas,"Área Metropolitana, Sevilla",
+265000,2.0,4.0,0,82941334,200,180,Dos Hermanas,"Área Metropolitana, Sevilla",
+295000,3.0,4.0,0,83765698,140,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+290000,2.0,3.0,0,84104823,267,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+115000,1.0,4.0,0,84394614,113,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+110000,1.0,2.0,1,84578078,85,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+125000,2.0,2.0,1,83098344,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+219000,3.0,4.0,0,82378392,117,125,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+165000,2.0,3.0,1,82934233,100,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+449000,3.0,4.0,4,83431730,1341,250,Dos Hermanas,"Área Metropolitana, Sevilla",1995
+265000,2.0,3.0,5,84138196,130,94,Dos Hermanas,"Área Metropolitana, Sevilla",2015
+189500,2.0,3.0,2,84795461,104,85,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+68688,1.0,2.0,0,82418639,101,87,Dos Hermanas,"Área Metropolitana, Sevilla",
+119000,2.0,3.0,5,81908662,110,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+275000,2.0,3.0,0,83613177,223,169,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+650000,3.0,6.0,4,84122385,837,,Dos Hermanas,"Área Metropolitana, Sevilla",2011
+155000,2.0,4.0,0,84679168,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,2.0,5,39869386,90,70,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+175000,2.0,5.0,0,40266702,120,140,Dos Hermanas,"Área Metropolitana, Sevilla",
+106000,1.0,2.0,1,40535041,77,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+130000,1.0,2.0,0,81763483,120,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,2.0,1,81871743,120,80,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+460000,4.0,4.0,4,81983492,587,250,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+167500,3.0,4.0,1,82311237,130,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+163000,2.0,2.0,1,83439448,87,,Dos Hermanas,"Área Metropolitana, Sevilla",
+193000,2.0,4.0,1,83439582,132,100,Dos Hermanas,"Área Metropolitana, Sevilla",
+157500,2.0,3.0,1,83440028,110,86,Dos Hermanas,"Área Metropolitana, Sevilla",
+238900,3.0,3.0,0,83972563,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+178000,2.0,4.0,0,84520446,204,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+220000,2.0,3.0,1,84701713,118,,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+157000,2.0,4.0,1,84763156,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+155000,1.0,3.0,1,84761575,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+105000,2.0,3.0,1,84832144,102,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+164000,2.0,3.0,1,84829744,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+171800,2.0,3.0,0,84832870,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+38100,1.0,2.0,1,84999749,61,55,Dos Hermanas,"Área Metropolitana, Sevilla",
+79900,1.0,2.0,1,84187811,60,,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+175000,3.0,3.0,0,84409919,130,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+178000,2.0,4.0,0,84621514,140,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+970000,3.0,6.0,4,29159825,2098,559,Dos Hermanas,"Área Metropolitana, Sevilla",
+164000,3.0,4.0,0,83632523,161,,Dos Hermanas,"Área Metropolitana, Sevilla",
+208000,2.0,3.0,2,84028451,120,115,Dos Hermanas,"Área Metropolitana, Sevilla",
+262500,2.0,3.0,0,84972925,150,,Dos Hermanas,"Área Metropolitana, Sevilla",
+138000,2.0,4.0,0,84977474,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+112000,2.0,3.0,1,84993767,99,83,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+200000,2.0,5.0,11,84998112,242,,Dos Hermanas,"Área Metropolitana, Sevilla",
+163000,2.0,6.0,4,35152259,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+141000,3.0,3.0,4,84805496,96,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+78500,1.0,1.0,1,40248797,60,52,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+39000,1.0,4.0,1,40427112,72,,Dos Hermanas,"Área Metropolitana, Sevilla",
+95400,2.0,4.0,0,32087712,186,,Dos Hermanas,"Área Metropolitana, Sevilla",
+153900,1.0,4.0,0,81488309,137,,Dos Hermanas,"Área Metropolitana, Sevilla",
+114900,2.0,3.0,0,81488809,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+259000,3.0,8.0,0,81921176,170,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+130000,2.0,3.0,1,82982849,84,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+188000,2.0,3.0,11,83699562,130,,Dos Hermanas,"Área Metropolitana, Sevilla",1999
+44700,1.0,0.0,8,31919002,56,44,Dos Hermanas,"Área Metropolitana, Sevilla",
+189000,3.0,4.0,0,84636876,183,,Dos Hermanas,"Área Metropolitana, Sevilla",
+425000,3.0,4.0,4,84651029,800,,Dos Hermanas,"Área Metropolitana, Sevilla",1984
+145000,2.0,3.0,1,84662071,88,,Dos Hermanas,"Área Metropolitana, Sevilla",
+269000,3.0,4.0,2,84707673,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+219500,3.0,4.0,0,84736002,178,152,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+399000,3.0,4.0,4,84832118,588,,Dos Hermanas,"Área Metropolitana, Sevilla",1992
+500000,3.0,6.0,4,84855571,640,,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+230000,2.0,3.0,0,84881322,190,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+215000,2.0,3.0,0,84922796,110,136,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+126000,2.0,4.0,1,38170648,105,,Dos Hermanas,"Área Metropolitana, Sevilla",
+189900,3.0,4.0,0,84559973,90,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+220000,2.0,4.0,4,84742412,127,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+216500,3.0,4.0,0,84754396,160,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+91224,1.0,2.0,1,29510319,106,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+143500,2.0,4.0,1,83231046,112,,Dos Hermanas,"Área Metropolitana, Sevilla",
+87000,1.0,2.0,1,83491700,82,,Dos Hermanas,"Área Metropolitana, Sevilla",1993
+126000,2.0,4.0,1,36770813,105,89,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+132100,2.0,3.0,1,84818150,92,,Dos Hermanas,"Área Metropolitana, Sevilla",
+155000,2.0,3.0,5,83832892,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+69695,1.0,1.0,1,38847973,92,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+650000,4.0,4.0,0,83953648,328,278,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+102000,2.0,3.0,1,84794202,79,65,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+305000,3.0,4.0,2,38835942,360,,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+88000,2.0,3.0,1,83540593,93,,Dos Hermanas,"Área Metropolitana, Sevilla",
+99000,1.0,1.0,1,83914394,58,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+155000,2.0,3.0,1,84663299,90,78,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+60800,1.0,1.0,1,84732498,32,25,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+160000,2.0,4.0,0,84741676,125,130,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+119000,2.0,3.0,1,84969892,90,84,Dos Hermanas,"Área Metropolitana, Sevilla",
+59239,1.0,3.0,1,81979147,69,,Dos Hermanas,"Área Metropolitana, Sevilla",
+409800,3.0,4.0,2,83029069,271,,Dos Hermanas,"Área Metropolitana, Sevilla",
+54355,1.0,2.0,1,27317828,69,46,Dos Hermanas,"Área Metropolitana, Sevilla",1968
+59239,1.0,3.0,1,83233087,59,46,Dos Hermanas,"Área Metropolitana, Sevilla",
+179700,2.0,3.0,1,84112276,105,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+90000,1.0,3.0,0,84903861,82,90,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+215000,3.0,3.0,4,82347742,163,136,Dos Hermanas,"Área Metropolitana, Sevilla",
+212000,2.0,3.0,0,83851145,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+218000,2.0,3.0,0,83851146,217,,Dos Hermanas,"Área Metropolitana, Sevilla",
+202000,2.0,3.0,0,83851147,181,,Dos Hermanas,"Área Metropolitana, Sevilla",
+208000,2.0,3.0,0,83851149,180,,Dos Hermanas,"Área Metropolitana, Sevilla",
+40000,1.0,2.0,1,84681349,56,,Dos Hermanas,"Área Metropolitana, Sevilla",
+170000,2.0,3.0,0,84991925,220,,Dos Hermanas,"Área Metropolitana, Sevilla",
+33700,1.0,2.0,1,85027560,56,45,Dos Hermanas,"Área Metropolitana, Sevilla",1959
+205000,3.0,4.0,1,82727094,167,,Dos Hermanas,"Área Metropolitana, Sevilla",
+196000,2.0,3.0,0,82958609,155,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+170000,2.0,3.0,0,84949932,124,,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+395000,2.0,3.0,4,84098045,1661,156,Dos Hermanas,"Área Metropolitana, Sevilla",
+319000,4.0,5.0,4,84470978,674,,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+125000,2.0,4.0,1,84750917,94,84,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,3.0,0,84990203,140,,Dos Hermanas,"Área Metropolitana, Sevilla",
+225000,2.0,3.0,0,84990241,143,,Dos Hermanas,"Área Metropolitana, Sevilla",
+230000,2.0,4.0,0,84990232,165,,Dos Hermanas,"Área Metropolitana, Sevilla",
+240000,2.0,4.0,0,84990242,155,,Dos Hermanas,"Área Metropolitana, Sevilla",
+112000,1.0,3.0,1,83217006,127,87,Dos Hermanas,"Área Metropolitana, Sevilla",1993
+373068,2.0,3.0,4,84939418,550,190,Dos Hermanas,"Área Metropolitana, Sevilla",1996
+125000,2.0,3.0,1,85048617,85,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+138000,2.0,3.0,5,39225443,110,90,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,2.0,1,84074741,80,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+199900,2.0,4.0,11,85028187,150,115,Dos Hermanas,"Área Metropolitana, Sevilla",
+259000,2.0,4.0,0,38511603,215,195,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+115000,1.0,5.0,7,37767879,200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,3.0,1,84032268,77,,Dos Hermanas,"Área Metropolitana, Sevilla",
+262500,3.0,2.0,2,84923306,200,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+225000,3.0,3.0,0,84938651,110,220,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+126000,1.0,3.0,1,85007156,87,,Dos Hermanas,"Área Metropolitana, Sevilla",
+480000,2.0,4.0,4,35466001,1774,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+280000,3.0,3.0,5,83030713,122,97,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+48428,1.0,3.0,1,81651565,71,60,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+148300,2.0,3.0,1,84654063,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+132500,2.0,3.0,1,84675624,92,70,Dos Hermanas,"Área Metropolitana, Sevilla",2012
+135800,2.0,3.0,1,84675839,91,70,Dos Hermanas,"Área Metropolitana, Sevilla",2013
+139000,2.0,3.0,1,84676173,92,70,Dos Hermanas,"Área Metropolitana, Sevilla",2013
+125000,2.0,4.0,1,84775757,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+262333,3.0,4.0,2,83516667,160,117,Dos Hermanas,"Área Metropolitana, Sevilla",2014
+51900,1.0,3.0,1,85050926,69,58,Dos Hermanas,"Área Metropolitana, Sevilla",
+550000,5.0,4.0,4,83218958,610,338,Dos Hermanas,"Área Metropolitana, Sevilla",2011
+360000,4.0,4.0,4,40406298,380,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+160000,2.0,2.0,5,39890268,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+66975,2.0,3.0,1,82594358,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+131100,2.0,2.0,1,84818114,86,,Dos Hermanas,"Área Metropolitana, Sevilla",
+132500,2.0,3.0,1,84818129,92,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135800,2.0,3.0,1,84818221,91,,Dos Hermanas,"Área Metropolitana, Sevilla",
+139000,2.0,3.0,1,84817566,91,,Dos Hermanas,"Área Metropolitana, Sevilla",
+131800,2.0,3.0,1,84818149,91,,Dos Hermanas,"Área Metropolitana, Sevilla",
+44000,1.0,3.0,1,38664199,72,58,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+199800,3.0,4.0,0,82907180,140,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+70000,2.0,4.0,1,83627664,93,92,Dos Hermanas,"Área Metropolitana, Sevilla",1989
+216300,2.0,4.0,10,84997908,168,,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+145000,2.0,3.0,5,84938665,113,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,3.0,4.0,4,84967236,708,,Dos Hermanas,"Área Metropolitana, Sevilla",
+169500,2.0,3.0,0,85034436,110,,Dos Hermanas,"Área Metropolitana, Sevilla",
+695000,3.0,4.0,4,36078058,386,,Dos Hermanas,"Área Metropolitana, Sevilla",1997
+188000,2.0,3.0,0,85002638,87,,Dos Hermanas,"Área Metropolitana, Sevilla",
+128200,2.0,3.0,0,83333600,140,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+1300000,2.0,4.0,4,40203704,90000,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+650000,5.0,9.0,4,37633811,1192,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+133000,1.0,2.0,10,84047864,78,70,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+280000,3.0,4.0,0,84921838,220,,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+186000,2.0,3.0,0,85002708,242,,Dos Hermanas,"Área Metropolitana, Sevilla",
+94000,2.0,3.0,1,85020413,84,,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,2.0,3.0,4,39062058,118,100,Dos Hermanas,"Área Metropolitana, Sevilla",1979
+83000,1.0,2.0,1,85047522,67,63,Dos Hermanas,"Área Metropolitana, Sevilla",
+108900,1.0,3.0,1,85027556,96,70,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+71000,1.0,3.0,4,85029838,78,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,0,85039910,150,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,1.0,3.0,1,34820718,105,100,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+89000,2.0,3.0,4,82472942,126,,Dos Hermanas,"Área Metropolitana, Sevilla",
+351250,4.0,5.0,2,85025904,265,218,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+65000,1.0,3.0,1,85044524,76,,Dos Hermanas,"Área Metropolitana, Sevilla",
+31000,1.0,1.0,9,85021644,500,40,Dos Hermanas,"Área Metropolitana, Sevilla",
+415000,4.0,6.0,11,38735114,580,,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+60000,2.0,6.0,7,81885893,225,,Dos Hermanas,"Área Metropolitana, Sevilla",
+350000,2.0,5.0,0,85033874,385,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+300000,1.0,3.0,4,85034679,2650,100,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+38000,1.0,2.0,1,85032612,75,67,Dos Hermanas,"Área Metropolitana, Sevilla",
+362000,3.0,4.0,4,85059833,1000,182,Dos Hermanas,"Área Metropolitana, Sevilla",
+210000,2.0,4.0,0,82207253,160,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+198000,3.0,5.0,0,85015207,124,,Dos Hermanas,"Área Metropolitana, Sevilla",
+122000,2.0,3.0,5,85016259,110,90,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+56900,1.0,3.0,1,83331704,59,46,Dos Hermanas,"Área Metropolitana, Sevilla",1968
+350000,3.0,4.0,4,85041862,780,,Dos Hermanas,"Área Metropolitana, Sevilla",1972
+165000,2.0,4.0,0,85022068,189,152,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+115000,2.0,2.0,5,83053849,75,,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,2.0,1,83238766,80,69,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+75000,1.0,1.0,1,85060982,79,45,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+249000,1.0,3.0,0,84097458,151,130,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+136000,2.0,3.0,0,83470159,60,115,Dos Hermanas,"Área Metropolitana, Sevilla",
+126600,1.0,2.0,1,84150599,89,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+128000,2.0,3.0,5,84398292,90,85,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+110000,1.0,2.0,1,84886975,80,75,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+51800,1.0,3.0,1,84784531,74,65,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+88900,1.0,1.0,1,84352358,78,,Dos Hermanas,"Área Metropolitana, Sevilla",
+48428,1.0,3.0,1,81711153,76,,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+110000,2.0,3.0,1,84557863,85,80,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+180000,2.0,3.0,0,37759406,158,134,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+103000,2.0,3.0,1,39360206,92,82,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+148000,2.0,3.0,1,84557053,111,95,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+110000,1.0,2.0,0,84889942,98,85,Dos Hermanas,"Área Metropolitana, Sevilla",
+49900,1.0,3.0,1,40111145,80,78,Dos Hermanas,"Área Metropolitana, Sevilla",1975
+170000,2.0,3.0,1,83129046,160,110,Dos Hermanas,"Área Metropolitana, Sevilla",2004
+141000,2.0,3.0,0,84244136,60,,Dos Hermanas,"Área Metropolitana, Sevilla",
+55000,1.0,4.0,1,84805137,85,72,Dos Hermanas,"Área Metropolitana, Sevilla",1965
+170000,1.0,1.0,9,83758319,1700,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+174000,2.0,4.0,4,84329002,10000,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+195000,3.0,4.0,0,82536596,55,120,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+128050,2.0,3.0,4,84429157,120,120,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+129900,1.0,4.0,11,84731270,110,95,Dos Hermanas,"Área Metropolitana, Sevilla",1988
+145000,2.0,3.0,1,82194499,114,,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+95550,1.0,4.0,1,84536436,101,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+83000,1.0,2.0,1,84808502,72,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+92000,1.0,3.0,1,33502240,83,66,Dos Hermanas,"Área Metropolitana, Sevilla",
+250000,2.0,4.0,2,38064938,220,,Dos Hermanas,"Área Metropolitana, Sevilla",
+296900,2.0,6.0,2,84049775,175,228,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+145000,2.0,3.0,1,84826663,90,85,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+105700,2.0,2.0,5,84431801,97,69,Dos Hermanas,"Área Metropolitana, Sevilla",2014
+105000,1.0,2.0,1,84885588,75,70,Dos Hermanas,"Área Metropolitana, Sevilla",2010
+130000,2.0,4.0,4,81564309,150,,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+98000,1.0,3.0,1,82273510,90,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+106000,2.0,2.0,1,35962179,85,76,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,2.0,1,37991696,110,98,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+48000,1.0,3.0,1,37102585,82,75,Dos Hermanas,"Área Metropolitana, Sevilla",
+118000,1.0,4.0,11,40572060,226,,Dos Hermanas,"Área Metropolitana, Sevilla",
+125000,2.0,3.0,1,81931778,90,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+189000,3.0,4.0,0,82287768,100,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+86000,1.0,2.0,1,82813084,76,62,Dos Hermanas,"Área Metropolitana, Sevilla",1997
+102000,2.0,4.0,11,82838448,113,,Dos Hermanas,"Área Metropolitana, Sevilla",1960
+95000,1.0,2.0,1,82938875,131,120,Dos Hermanas,"Área Metropolitana, Sevilla",
+46000,1.0,3.0,1,82534997,79,69,Dos Hermanas,"Área Metropolitana, Sevilla",
+128200,2.0,3.0,0,83342457,140,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+116550,2.0,1.0,1,83683276,80,59,Dos Hermanas,"Área Metropolitana, Sevilla",
+134800,2.0,3.0,1,83683363,105,78,Dos Hermanas,"Área Metropolitana, Sevilla",
+116400,2.0,2.0,1,83683366,83,61,Dos Hermanas,"Área Metropolitana, Sevilla",
+60000,1.0,3.0,11,83961307,99,,Dos Hermanas,"Área Metropolitana, Sevilla",
+89000,1.0,3.0,11,84081193,101,92,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,2.0,2.0,1,84088952,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+116000,1.0,4.0,1,83971648,120,95,Dos Hermanas,"Área Metropolitana, Sevilla",
+144000,1.0,4.0,0,84201519,120,,Dos Hermanas,"Área Metropolitana, Sevilla",
+76000,1.0,2.0,1,84288379,82,,Dos Hermanas,"Área Metropolitana, Sevilla",2018
+176000,3.0,3.0,4,84342890,106,,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+95000,1.0,2.0,11,84596624,95,,Dos Hermanas,"Área Metropolitana, Sevilla",
+98000,1.0,2.0,11,84630457,147,107,Dos Hermanas,"Área Metropolitana, Sevilla",
+115000,1.0,3.0,1,40158629,80,74,Dos Hermanas,"Área Metropolitana, Sevilla",
+168000,2.0,4.0,1,82306240,112,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+200000,3.0,3.0,0,82760291,380,300,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+94900,1.0,3.0,1,81149692,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+119260,1.0,3.0,0,83824240,124,105,Dos Hermanas,"Área Metropolitana, Sevilla",1957
+147900,2.0,3.0,1,84352274,129,,Dos Hermanas,"Área Metropolitana, Sevilla",
+143000,2.0,4.0,11,84732453,132,110,Dos Hermanas,"Área Metropolitana, Sevilla",
+262000,4.0,7.0,0,37440477,212,234,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+97000,2.0,4.0,0,38686216,164,113,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,3.0,1,83241727,80,65,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+350000,2.0,3.0,4,84329000,644,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+215000,3.0,3.0,0,35740739,130,150,Dos Hermanas,"Área Metropolitana, Sevilla",
+245000,3.0,4.0,0,82814145,204,,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+285000,3.0,4.0,0,83255299,230,194,Dos Hermanas,"Área Metropolitana, Sevilla",
+349500,3.0,7.0,11,83336683,315,258,Dos Hermanas,"Área Metropolitana, Sevilla",1930
+110000,1.0,3.0,1,84723186,84,72,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+104000,2.0,3.0,1,84524740,90,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,3.0,11,84938923,133,124,Dos Hermanas,"Área Metropolitana, Sevilla",
+212900,3.0,3.0,0,82868482,220,200,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+111000,2.0,3.0,1,83851307,115,97,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+338000,2.0,5.0,4,83932465,3800,140,Dos Hermanas,"Área Metropolitana, Sevilla",1999
+185000,2.0,3.0,1,84369433,140,120,Dos Hermanas,"Área Metropolitana, Sevilla",2001
+150000,1.0,3.0,0,84805680,79,110,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+550000,3.0,4.0,4,81662448,700,350,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+139000,2.0,3.0,5,84134236,100,,Dos Hermanas,"Área Metropolitana, Sevilla",
+40000,1.0,3.0,1,84555209,59,,Dos Hermanas,"Área Metropolitana, Sevilla",
+100000,1.0,3.0,1,84561389,70,,Dos Hermanas,"Área Metropolitana, Sevilla",
+51800,1.0,3.0,1,84756778,74,67,Dos Hermanas,"Área Metropolitana, Sevilla",
+95000,1.0,2.0,1,84931642,78,64,Dos Hermanas,"Área Metropolitana, Sevilla",1997
+143000,2.0,2.0,4,34026627,130,,Dos Hermanas,"Área Metropolitana, Sevilla",
+130000,2.0,4.0,1,40328165,120,108,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+203000,2.0,3.0,0,81402700,135,,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+51800,1.0,2.0,1,83566309,80,70,Dos Hermanas,"Área Metropolitana, Sevilla",1970
+140000,2.0,4.0,1,84073999,108,,Dos Hermanas,"Área Metropolitana, Sevilla",
+650000,5.0,5.0,4,81669336,1200,,Dos Hermanas,"Área Metropolitana, Sevilla",
+120000,1.0,1.0,1,83580947,55,,Dos Hermanas,"Área Metropolitana, Sevilla",
+415000,3.0,4.0,4,84019549,739,320,Dos Hermanas,"Área Metropolitana, Sevilla",1983
+310000,3.0,5.0,2,34936326,135,,Dos Hermanas,"Área Metropolitana, Sevilla",
+135000,1.0,4.0,11,82026574,120,,Dos Hermanas,"Área Metropolitana, Sevilla",1998
+203000,2.0,3.0,0,84720836,137,117,Dos Hermanas,"Área Metropolitana, Sevilla",2002
+134000,2.0,3.0,5,84223124,97,70,Dos Hermanas,"Área Metropolitana, Sevilla",
+199750,2.0,6.0,0,83811732,120,120,Dos Hermanas,"Área Metropolitana, Sevilla",2000
+113000,1.0,4.0,11,83961303,116,,Dos Hermanas,"Área Metropolitana, Sevilla",
+387000,3.0,5.0,4,84167249,800,200,Dos Hermanas,"Área Metropolitana, Sevilla",1991
+130000,2.0,3.0,5,84405073,137,75,Dos Hermanas,"Área Metropolitana, Sevilla",1997
+99000,1.0,3.0,11,84588912,92,,Dos Hermanas,"Área Metropolitana, Sevilla",
+180000,3.0,3.0,0,83611427,170,125,Dos Hermanas,"Área Metropolitana, Sevilla",2008
+113000,1.0,3.0,1,84368759,82,70,Dos Hermanas,"Área Metropolitana, Sevilla",2009
+590000,4.0,4.0,4,33879653,18700,,Dos Hermanas,"Área Metropolitana, Sevilla",1995
+135000,2.0,3.0,11,84714130,83,130,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+97500,2.0,3.0,1,84861621,106,90,Dos Hermanas,"Área Metropolitana, Sevilla",2007
+85000,1.0,1.0,1,84915617,54,,Dos Hermanas,"Área Metropolitana, Sevilla",1993
+130000,1.0,4.0,11,84960042,149,141,Dos Hermanas,"Área Metropolitana, Sevilla",
+78000,1.0,3.0,1,82215420,85,80,Dos Hermanas,"Área Metropolitana, Sevilla",
+244999,3.0,4.0,0,84711710,154,,Dos Hermanas,"Área Metropolitana, Sevilla",2006
+590000,4.0,5.0,4,33876873,18700,,Dos Hermanas,"Área Metropolitana, Sevilla",1995
+55000,2.0,4.0,1,40476360,103,,Dos Hermanas,"Área Metropolitana, Sevilla",
+290000,3.0,4.0,0,84249514,257,,Dos Hermanas,"Área Metropolitana, Sevilla",2005
+240000,3.0,4.0,4,83470706,2031,,Dos Hermanas,"Área Metropolitana, Sevilla",1978
+497000,3.0,4.0,4,34681275,245,200,Dos Hermanas,"Área Metropolitana, Sevilla",
+690000,5.0,5.0,11,83782588,1192,,Dos Hermanas,"Área Metropolitana, Sevilla",
+243900,3.0,4.0,0,84023917,159,245,Dos Hermanas,"Área Metropolitana, Sevilla",1990
+213000,2.0,3.0,2,82040547,170,,Dos Hermanas,"Área Metropolitana, Sevilla",2003
+69000,1.0,3.0,1,82040697,80,,Dos Hermanas,"Área Metropolitana, Sevilla",1980
+48428,1.0,3.0,1,82325182,76,62,Dos Hermanas,"Área Metropolitana, Sevilla",1974
+265000,3.0,3.0,0,81490425,240,205,Dos Hermanas,"Área Metropolitana, Sevilla",2005

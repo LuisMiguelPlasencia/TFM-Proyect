@@ -1,0 +1,886 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date
+57000,1,2,0,84689154,70,55.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+120000,1,2,1,81252831,351,300.0,Torrelavit,"Alt Penedès, Barcelona",1960.0
+620000,3,5,2,1941720,401,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+190000,2,3,0,37945359,87,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+450000,3,5,2,29190654,2200,420.0,Gelida,"Alt Penedès, Barcelona",1996.0
+360000,2,7,3,37608772,370,270.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+103000,1,3,0,81235808,85,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+121000,1,2,0,35879258,70,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+55000,1,3,0,82648406,60,55.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1960.0
+300000,3,6,2,37369375,240,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+250000,2,3,3,418969,127,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+170000,2,4,2,419312,1800,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+500000,4,5,2,31833729,300,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+185000,2,4,2,29568976,180,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+65000,2,2,2,28095621,520,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+270000,2,3,2,82091122,480,230.0,Subirats,"Alt Penedès, Barcelona",1996.0
+250000,2,5,2,82125040,750,200.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+195000,3,4,4,36699203,180,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+260000,2,4,0,1589965,115,101.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+150000,2,3,0,26747480,114,96.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+90000,1,2,0,37839801,70,65.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+184000,2,3,3,82193315,86,99.0,Puigdàlber,"Alt Penedès, Barcelona",1996.0
+86500,1,3,0,29485790,72,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+250000,2,4,4,35717962,500,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+110000,2,4,0,36290566,100,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+180000,2,7,2,37314662,1425,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+130000,2,2,3,30437527,100,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+110000,1,2,2,38941995,2200,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+81850,1,3,0,39198134,62,61.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+165000,1,3,0,82326168,82,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+200000,2,4,0,82392157,114,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+199000,2,3,3,1812711,115,100.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+117000,1,2,5,1845905,72,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+350000,3,5,2,1852196,732,179.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+345000,2,7,3,393376,270,265.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+145000,1,3,6,25057919,1100,100.0,Mediona,"Alt Penedès, Barcelona",1996.0
+100000,2,3,0,32918998,91,82.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+95000,1,3,0,33643604,80,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+170000,1,1,1,34714436,1048,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+65000,1,2,2,35458400,700,65.0,Pontons,"Alt Penedès, Barcelona",1996.0
+138000,2,4,0,36773989,110,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+165000,1,4,2,37315941,200,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+149000,2,4,0,37575290,146,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+198000,2,3,0,1616126,90,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+310000,3,4,4,81156236,200,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+175000,2,3,0,40221876,112,95.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2000.0
+165000,2,6,7,82128609,615,175.0,Subirats,"Alt Penedès, Barcelona",1977.0
+350000,2,4,2,28628756,840,321.0,Gelida,"Alt Penedès, Barcelona",1996.0
+150000,3,8,1,29947241,216,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+175000,3,5,4,36881437,190,99.0,Mediona,"Alt Penedès, Barcelona",2004.0
+205750,2,4,0,37327904,120,110.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+675000,4,5,2,418376,360,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+395000,3,5,4,26970127,300,260.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2000.0
+220000,2,4,0,367908,115,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+350000,3,4,2,1871687,433,99.0,Pacs del Penedès,"Alt Penedès, Barcelona",1996.0
+128000,2,4,2,30492824,300,120.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+250000,1,4,6,32282575,12000,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+470000,3,6,8,35021588,200,648.0,Mediona,"Alt Penedès, Barcelona",1996.0
+162000,2,3,3,37759764,90,87.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+175000,2,4,3,38313690,135,118.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+105000,1,2,5,26868088,82,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+350000,2,3,5,81993855,150,120.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+145000,1,2,2,82093939,520,70.0,Mediona,"Alt Penedès, Barcelona",2011.0
+170000,2,3,3,82243426,75,70.0,Gelida,"Alt Penedès, Barcelona",1996.0
+95000,2,5,2,445505,177,140.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+280000,2,3,2,82091646,600,230.0,Subirats,"Alt Penedès, Barcelona",1996.0
+169000,1,2,2,25026827,180,173.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+120000,1,3,0,1933206,85,75.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+250000,2,4,4,33065473,180,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+265000,1,3,2,34737088,1100,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+269000,2,4,3,39790286,139,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+126000,2,4,1,40202377,200,159.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+560000,3,6,2,40486978,724,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+299000,2,5,4,1973780,300,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+60000,1,2,0,81489448,84,74.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+114840,1,2,0,83098321,55,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+160000,1,4,0,36382190,100,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+180000,1,4,2,37251063,1118,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+475000,2,4,2,334861,480,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+188000,3,4,8,83628033,237,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+187000,3,4,3,84532289,140,100.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+167500,2,4,1,84592012,175,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+97000,2,4,0,84708406,95,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+1500000,1,5,2,828406,20000,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+450000,4,4,0,37444082,369,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+148000,2,3,0,84733798,90,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+80000,1,2,0,84886893,71,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+168000,2,3,0,84243231,80,70.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+94700,1,2,0,33134192,58,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+320000,9,10,9,33963400,6,825.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+87000,1,3,0,36233721,70,66.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+154000,1,2,0,84957756,75,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+175000,2,3,0,84963582,95,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+100000,2,4,1,84678837,234,200.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+240000,2,2,3,84985306,140,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+28585,1,1,0,38624253,47,35.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+61362,1,1,0,81693455,55,41.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+30283,1,1,0,84240341,47,35.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+120000,1,3,2,83738532,600,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+112000,1,3,2,84676458,800,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+190000,1,2,0,32329107,80,70.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1995.0
+66000,1,2,2,84247172,1017,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+250000,2,3,3,82988398,125,115.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+91000,2,4,0,83732890,120,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+150000,1,3,2,83738643,600,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+220000,2,4,2,32838328,375,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+75000,1,4,0,39886696,96,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+175500,2,4,0,37737655,230,169.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+83000,1,3,0,37723540,79,72.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+54600,1,3,0,37723548,71,62.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+66200,1,2,0,37723530,70,62.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+86100,2,3,0,37723542,85,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+99000,1,2,0,39437740,75,60.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+275000,3,5,4,81809754,135,130.0,Gelida,"Alt Penedès, Barcelona",1996.0
+298000,1,7,10,81928720,240,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1900.0
+82000,2,6,2,82644696,186,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+132820,2,3,9,82715550,1000,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+46450,1,3,0,82740511,65,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+124200,1,2,0,82709274,88,78.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+106830,1,4,0,82695706,89,86.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+82600,2,3,9,82715552,405,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+135790,1,4,0,83238393,100,87.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+99110,2,3,0,84371226,89,82.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+80000,1,2,2,26626713,70,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+130000,1,3,4,32998694,65,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+250000,1,4,0,33855126,160,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+75000,2,4,4,34196527,66,197.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+265000,2,4,2,35995360,420,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",2012.0
+99000,1,3,9,39886698,165,110.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+105000,1,2,0,39624186,90,68.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2006.0
+105000,1,3,0,83202903,95,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+158000,0,0,1,83174447,380,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+69000,2,5,0,84701607,79,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+347700,3,4,8,26120525,220,250.0,Gelida,"Alt Penedès, Barcelona",1996.0
+70000,2,4,0,30019209,90,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+140000,2,3,0,35551768,80,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+95600,2,3,0,37716085,123,95.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+110300,2,3,0,37716066,91,75.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+150000,2,3,2,81660159,490,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+450000,4,4,9,38295722,454,369.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+260000,2,8,2,83016059,700,99.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+175500,2,4,2,83016180,230,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+76000,1,2,4,83072003,85,70.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+65000,2,3,9,83577697,160,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1900.0
+800000,3,15,11,84521793,610,600.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1910.0
+245000,3,4,2,26633815,950,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+62500,1,3,0,39083279,74,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+200000,2,3,3,1760144,75,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+200000,2,3,2,25218638,650,190.0,Mediona,"Alt Penedès, Barcelona",1996.0
+75000,2,5,1,27486807,200,200.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+89000,1,2,10,29590957,1300,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+180000,2,4,2,29742252,700,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+99600,1,3,9,31180645,262,235.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+85100,1,3,0,31181314,77,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+54600,1,3,0,31859185,71,62.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+66200,1,2,0,32250168,70,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+83000,1,3,0,32500340,79,72.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+39000,1,3,0,32742938,67,65.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+90000,1,3,0,39675936,72,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+75000,1,4,0,39679617,67,66.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+99000,1,5,2,2071829,175,99.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+86100,2,3,0,35040109,85,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+330000,2,4,2,27093521,300,99.0,Puigdàlber,"Alt Penedès, Barcelona",1996.0
+195000,2,3,0,28072764,100,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+158000,1,3,7,30024222,635,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+105000,1,2,0,30355539,65,60.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2006.0
+86000,1,2,9,30409365,550,65.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1983.0
+99000,2,4,0,30957192,100,95.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+175000,2,3,9,31175169,100,175.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+80000,2,3,9,32365979,90,80.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+50000,1,3,4,32890379,232,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+145000,2,3,0,33148393,85,75.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+97000,2,5,1,33680774,170,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+147000,2,3,0,33680828,90,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+110000,2,3,1,33705657,180,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+280000,3,5,9,33717277,400,200.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+120000,1,4,0,33946773,100,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+105000,1,2,0,34052427,75,60.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+200000,3,4,2,34391349,800,260.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+215000,2,3,0,405989,79,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+206000,2,4,9,34510488,850,139.0,Gelida,"Alt Penedès, Barcelona",2000.0
+390000,3,3,4,34510552,330,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+93000,1,4,0,34938521,75,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1970.0
+147000,2,3,0,35811733,100,90.0,El Pla del Penedès,"Alt Penedès, Barcelona",2011.0
+152000,1,3,0,36094013,75,70.0,El Pla del Penedès,"Alt Penedès, Barcelona",2010.0
+115000,2,2,0,35263041,84,70.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+130000,2,3,2,35880278,615,140.0,Mediona,"Alt Penedès, Barcelona",1996.0
+135000,2,3,0,36997708,95,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+57000,1,3,0,36997709,75,68.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+49000,1,4,0,37334369,150,122.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+100000,1,4,5,37331126,90,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+49000,1,3,1,38198316,150,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+190000,1,2,0,38841571,90,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+87000,1,3,0,38846906,77,69.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1967.0
+45000,1,4,9,38991262,300,200.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+390000,2,4,6,39249058,1186,340.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1980.0
+168000,2,3,0,39468247,90,85.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2001.0
+125000,1,2,6,39546125,512,88.0,Gelida,"Alt Penedès, Barcelona",1987.0
+107260,1,2,6,39546149,827,81.0,Gelida,"Alt Penedès, Barcelona",2005.0
+66000,1,3,0,39576452,85,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+66000,1,3,0,39587449,85,76.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+140000,2,4,2,39650517,1500,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+49000,2,3,1,39944552,150,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+177000,2,3,0,39963062,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+96000,1,2,0,40423478,75,64.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+185000,3,6,9,40578793,200,200.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+146000,2,3,9,81538432,1221,90.0,Mediona,"Alt Penedès, Barcelona",1996.0
+76000,1,2,0,38904989,75,65.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+160000,2,3,3,81857440,155,140.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+200000,3,4,4,35531802,234,180.0,La Granada,"Alt Penedès, Barcelona",1999.0
+87400,2,2,3,82013179,75,60.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2007.0
+146000,2,3,9,30415373,170,150.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+74600,2,2,3,39123004,64,51.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2007.0
+150000,1,4,1,82302789,250,99.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+111100,1,1,9,82348866,2223,56.0,Gelida,"Alt Penedès, Barcelona",1978.0
+125000,1,3,0,82443058,90,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+140000,0,0,1,82591255,350,245.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+155000,1,4,1,82591259,260,250.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+250000,4,4,9,82781429,795,180.0,Gelida,"Alt Penedès, Barcelona",1980.0
+250000,1,0,12,82848818,72,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2005.0
+180000,2,2,1,83052151,200,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",2005.0
+175000,1,2,1,83129978,180,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+100000,2,3,0,83210612,90,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+69000,1,2,0,35780639,60,55.0,El Pla del Penedès,"Alt Penedès, Barcelona",2010.0
+295000,3,4,4,83276491,160,155.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+260000,1,6,1,83443714,6800,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+90488,1,2,0,83581831,63,55.0,La Granada,"Alt Penedès, Barcelona",2005.0
+168000,2,2,4,83858803,155,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+159000,2,3,9,83871939,340,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+165000,2,3,3,83931623,90,77.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+111000,1,2,0,83941559,86,68.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",2006.0
+76000,1,2,9,83948549,396,60.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1980.0
+130900,2,3,0,83948553,79,66.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",2008.0
+105600,2,3,0,83447285,81,75.0,El Pla del Penedès,"Alt Penedès, Barcelona",2005.0
+200000,2,3,3,84046248,140,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+166000,2,4,4,84069509,200,156.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+102300,2,4,0,84092284,97,80.0,Gelida,"Alt Penedès, Barcelona",1986.0
+78000,1,3,8,84143626,148,100.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1942.0
+230000,2,4,4,84278386,151,130.0,Mediona,"Alt Penedès, Barcelona",1996.0
+150000,2,2,3,84278546,85,75.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+109000,1,3,6,84287929,2300,130.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+130000,2,3,0,84443769,97,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+141400,1,1,0,84842702,65,48.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2007.0
+350000,0,0,2,1176669,1,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+110300,2,3,0,31266238,91,75.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+95600,2,3,0,32233778,123,95.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+126000,1,3,0,39182893,103,74.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+175500,2,4,2,36742869,230,169.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+175500,2,4,2,36726526,230,169.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+175500,2,4,2,36726534,230,169.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+99600,1,3,2,36726766,262,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+85100,1,3,0,33360791,77,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+66200,1,2,0,33361355,70,62.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+257300,2,3,2,81946399,268,169.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+162000,2,3,3,82012516,95,78.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2004.0
+195000,2,3,9,82631458,185,95.0,Olèrdola,"Alt Penedès, Barcelona",1970.0
+135000,1,3,0,83015676,96,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+250000,2,6,13,83015680,1500,99.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+520000,4,4,13,83015690,11220,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+199000,1,3,2,83015705,114,90.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+3000000,5,15,13,83015721,123150,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+199000,2,5,2,83015772,236,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+80000,1,2,0,83015785,60,57.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+76000,1,4,0,83015803,97,65.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+360000,1,4,13,83015841,5785,99.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+142000,2,2,0,83015874,76,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+97000,1,3,2,83015899,700,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+130000,2,5,2,83015919,132,171.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+250000,2,5,2,83015980,2220,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+130000,2,3,0,83015987,114,100.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+250000,2,4,2,83016011,245,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+150000,2,4,2,83016031,1403,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+115000,2,4,2,83016032,808,200.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+170000,1,3,2,83016034,31600,75.0,Subirats,"Alt Penedès, Barcelona",1996.0
+99000,1,7,2,83016043,110,270.0,La Granada,"Alt Penedès, Barcelona",1996.0
+60000,1,3,0,83016048,70,60.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+100000,1,3,2,83016056,500,84.0,Pontons,"Alt Penedès, Barcelona",1996.0
+160000,1,3,2,83016068,116,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+325000,4,6,13,83016095,6027,400.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+230000,1,5,2,83016115,7007,300.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+420000,3,5,2,83016117,458,300.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+420000,3,5,2,83016131,220,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+120000,1,3,2,83016134,605,130.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+100000,1,4,2,83016137,182,240.0,Subirats,"Alt Penedès, Barcelona",1996.0
+150000,1,5,2,83016140,130,99.0,La Granada,"Alt Penedès, Barcelona",1996.0
+140000,2,3,2,83016147,170,162.0,Subirats,"Alt Penedès, Barcelona",1996.0
+239000,2,4,2,83016151,500,140.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+100000,1,3,0,83016181,107,95.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+2000000,2,8,13,83016184,440000,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+85000,2,7,2,83016190,300,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+400000,2,8,5,83016246,300,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+95000,1,3,2,83016256,1451,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+99000,1,4,2,83016267,924,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+90000,1,2,2,83016293,890,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+85100,2,4,2,83016301,885,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+350000,2,5,2,83016304,257,241.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+165000,1,7,2,83016313,290,283.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+450000,2,11,2,83016330,1050,271.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+215000,1,4,2,83016356,164,160.0,La Granada,"Alt Penedès, Barcelona",1996.0
+265000,3,4,2,83016364,170,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+199000,1,5,13,83016377,13295,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+150000,1,3,5,83016387,95,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+399000,3,7,2,83016389,5289,350.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+131300,2,5,2,83016393,198,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+160000,1,3,2,83016622,632,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+83200,1,4,0,83016607,80,73.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+150000,1,3,2,83016547,124,80.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+75000,1,3,2,83016544,3995,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+90000,1,2,2,83016520,549,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+150000,2,4,2,83016511,216,200.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+70000,2,4,2,83016492,126,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+54600,1,3,0,33363632,71,62.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+36808,1,3,2,38627560,163,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+302400,2,3,2,81946398,319,220.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+136000,1,5,9,83577706,249,338.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1900.0
+79900,1,3,0,83783182,76,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+210000,1,7,2,83016408,868,480.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+74000,2,3,0,84035636,85,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+149000,1,4,2,83016439,227,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+220400,1,1,0,84183406,67,56.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+86100,2,3,0,35070817,85,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+83000,1,3,0,33363799,79,72.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+800000,6,25,13,83016415,43000,800.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+210000,2,4,2,83016416,1220,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+73000,1,3,2,84290329,140,85.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+70000,1,2,0,83015958,69,65.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+100000,2,4,0,83016107,105,92.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+3500000,2,3,6,39696400,1,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+3150000,1,2,6,39804903,600000,10.0,Castellví de la Marca,"Alt Penedès, Barcelona",1890.0
+83400,1,4,0,83204379,94,80.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1979.0
+110000,1,2,0,445298,69,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+145000,1,3,0,84832181,80,79.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+295000,1,1,2,84950649,389,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+182000,2,3,0,1608569,93,81.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+55000,1,3,0,1734509,65,64.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+200000,1,3,3,1752805,118,86.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+195000,2,3,0,1805275,117,94.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+215000,2,4,2,25185713,640,120.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+154000,3,7,2,27506872,600,260.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+160000,1,2,0,27985126,80,70.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+180000,1,3,2,29153528,900,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+138000,1,3,0,402733,104,78.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+167000,2,4,3,27531083,130,110.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+239000,3,4,1,28758099,144,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+160000,1,2,1,32947102,160,70.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+350000,2,4,2,34422929,1400,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+125000,2,2,3,34459620,85,99.0,La Granada,"Alt Penedès, Barcelona",1996.0
+99000,1,4,0,34753550,78,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+275000,3,4,4,1654081,180,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+55000,1,2,2,1817412,1200,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+275000,3,4,2,36827204,1200,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+80000,1,2,2,1632413,250,55.0,La Granada,"Alt Penedès, Barcelona",1996.0
+170000,2,3,8,2041805,130,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+129500,2,2,0,32968640,70,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+127000,2,3,0,25440794,97,82.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2005.0
+190000,1,4,2,38600758,2000,140.0,Mediona,"Alt Penedès, Barcelona",1996.0
+370000,3,5,2,38840337,250,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+59500,1,3,0,39068054,70,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1968.0
+125000,2,4,0,39153120,100,90.0,Gelida,"Alt Penedès, Barcelona",1996.0
+195000,1,3,0,39160870,85,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+150000,2,4,0,39213048,142,120.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+185000,2,3,0,39939094,100,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2008.0
+145000,2,3,2,40015912,1221,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+119000,1,3,0,26795809,80,70.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+80700,1,1,0,81211161,60,53.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+40000,1,3,0,81231245,60,55.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+175000,1,2,0,81434406,80,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2009.0
+195000,3,3,4,81590295,600,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+192300,2,3,2,33360101,213,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+126000,1,3,0,81766346,103,74.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+110300,2,3,0,33364049,91,75.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+210000,2,3,0,81778275,100,78.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2004.0
+83125,1,3,0,82181067,95,84.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+400000,3,6,2,38117422,2861,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1979.0
+170000,2,4,0,82726654,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+180000,1,3,6,82806367,1800,97.0,Subirats,"Alt Penedès, Barcelona",1996.0
+159000,1,4,2,83349226,350,424.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+68200,1,2,0,83404165,53,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1970.0
+130000,2,3,0,83397358,90,75.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+95600,2,3,0,33363869,123,95.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+77979,1,3,2,82057691,213,80.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+195000,2,4,3,83621182,120,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+250000,2,5,6,83761112,975,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+95000,2,5,0,83831056,100,95.0,Gelida,"Alt Penedès, Barcelona",1996.0
+169000,2,3,0,83949583,89,72.0,Gelida,"Alt Penedès, Barcelona",1996.0
+168800,2,4,2,84011690,166,94.0,Torrelles de Foix,"Alt Penedès, Barcelona",1982.0
+83800,1,2,2,84011719,80,72.0,Mediona,"Alt Penedès, Barcelona",1974.0
+106830,2,3,0,84037674,88,85.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1975.0
+74200,2,3,2,84037682,86,72.0,Pontons,"Alt Penedès, Barcelona",2007.0
+124200,1,2,0,84037685,87,77.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",2006.0
+236500,1,3,2,84037686,185,167.0,Torrelles de Foix,"Alt Penedès, Barcelona",1980.0
+64100,2,3,0,84037687,89,99.0,Pontons,"Alt Penedès, Barcelona",2007.0
+144600,3,3,2,84060937,122,99.0,Subirats,"Alt Penedès, Barcelona",2008.0
+160000,3,3,0,84060941,99,82.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+163600,1,2,0,84060942,48,36.0,Torrelles de Foix,"Alt Penedès, Barcelona",2007.0
+500000,2,5,14,84078816,800,192.0,Olèrdola,"Alt Penedès, Barcelona",1712.0
+590000,4,8,6,84082867,11000,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+650000,1,6,6,84101353,18000,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+79129,1,1,0,84151955,57,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+80000,1,3,0,84173551,70,68.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+190000,1,3,6,26972079,2000,80.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+149500,1,4,2,29191676,1006,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+60000,1,3,10,84420416,500,60.0,Gelida,"Alt Penedès, Barcelona",1996.0
+371000,3,4,8,82243732,140,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+270000,2,3,9,81124740,40,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+149000,1,3,3,84374207,131,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+120000,2,3,0,2055072,90,85.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",2005.0
+70000,1,3,0,33677276,75,70.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+93000,1,3,0,30502858,84,66.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+85100,2,3,9,36444910,161,134.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+95000,1,3,8,39679961,165,164.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+98000,1,3,0,81371815,82,80.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+111100,1,1,9,81681074,93,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+160000,2,4,0,82471404,136,106.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+82300,1,3,0,82895248,80,72.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+135000,1,3,0,84687992,96,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+110000,1,2,0,84913696,65,56.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+395000,4,8,2,30752025,350,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+78000,1,3,4,37612502,125,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+135600,2,4,9,34834889,272,99.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+139900,2,4,9,34834929,244,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+131595,1,4,0,36539826,158,122.0,Mediona,"Alt Penedès, Barcelona",1996.0
+99900,2,3,0,38662501,96,86.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+99000,1,2,0,29001303,75,60.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+135600,1,4,2,39848690,272,99.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+139900,2,4,2,39849417,244,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+207500,2,5,2,39849794,400,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+168000,3,6,1,40480630,210,200.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+77115,1,3,0,40519903,96,75.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+85100,2,3,2,36726882,161,134.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+61867,2,3,0,81947315,87,71.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+140000,1,3,0,38198451,90,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+239000,3,3,2,82181181,302,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+189000,2,3,2,27087515,194,171.0,Mediona,"Alt Penedès, Barcelona",1996.0
+80000,1,2,9,82470038,104,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+89000,1,4,0,82846769,91,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+54618,1,3,0,82863006,74,65.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+82300,1,3,0,82910707,80,72.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+181939,2,4,4,83336890,198,168.0,Puigdàlber,"Alt Penedès, Barcelona",1996.0
+82000,1,3,2,83403856,186,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1973.0
+156000,2,5,4,83449439,196,172.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+172000,2,3,2,84037673,140,126.0,Torrelles de Foix,"Alt Penedès, Barcelona",1985.0
+216100,2,4,2,84037684,162,96.0,Olèrdola,"Alt Penedès, Barcelona",2006.0
+156900,2,3,0,84371210,95,81.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1990.0
+500514,2,4,2,84473485,275,200.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+116000,2,4,0,84569879,104,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+105000,1,2,0,82915065,82,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+127000,1,3,0,82856165,93,89.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1995.0
+132000,1,3,0,83202900,100,80.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+195000,2,3,3,82459038,131,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+185000,2,3,2,83970913,2800,300.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+128000,1,2,0,84447828,65,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+94265,1,3,2,84769146,69,62.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+141400,1,1,0,84934511,48,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+87000,2,3,0,38640675,76,68.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+144880,1,3,0,39075391,80,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1979.0
+74000,1,1,0,33142246,51,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+200000,3,3,4,30502750,234,181.0,La Granada,"Alt Penedès, Barcelona",1996.0
+225000,2,3,2,82150666,900,110.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2013.0
+210000,1,7,14,82174432,868,99.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+221450,2,4,2,82734037,405,103.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+74600,2,2,3,82832668,64,50.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+131100,2,4,3,82686743,101,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+165900,2,4,9,82695698,400,140.0,Gelida,"Alt Penedès, Barcelona",1996.0
+160000,3,3,3,82677243,99,83.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+63900,1,4,0,82539215,79,72.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+87500,2,3,0,82546172,72,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+257300,2,3,0,81898955,268,169.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+110000,1,2,2,83288310,900,95.0,Torrelles de Foix,"Alt Penedès, Barcelona",2000.0
+128000,1,3,2,83332092,3700,100.0,Pontons,"Alt Penedès, Barcelona",1988.0
+302400,2,3,0,81899025,319,220.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+46000,1,3,0,84184459,72,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1974.0
+145000,1,2,2,84724916,1500,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+87000,1,3,0,81657602,73,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1972.0
+155000,2,2,3,82661913,65,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+195000,1,1,9,84718445,126,105.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+107000,1,2,6,84271674,900,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+122000,1,3,0,27770487,70,68.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+40000,1,3,0,37090728,63,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+165000,2,4,9,38767617,435,115.0,Mediona,"Alt Penedès, Barcelona",1996.0
+93000,1,3,0,37726677,84,65.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1970.0
+140000,1,5,2,81178502,156,146.0,Torrelles de Foix,"Alt Penedès, Barcelona",1976.0
+188000,3,4,4,83020629,178,200.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+85747,1,4,0,37238016,92,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1975.0
+111000,2,4,2,83553145,120,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+220000,2,4,2,82346944,182,132.0,Gelida,"Alt Penedès, Barcelona",1972.0
+150601,1,3,0,84310555,97,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+74700,1,2,0,84489411,56,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",2007.0
+97000,1,3,4,84928090,320,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+120000,3,5,2,26847570,300,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1950.0
+228000,3,4,2,31209295,480,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+115000,1,3,8,33680035,291,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1890.0
+189000,3,5,1,35256796,575,197.0,Mediona,"Alt Penedès, Barcelona",2007.0
+117000,1,1,9,36344886,112,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+185000,1,4,10,37977329,10000,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1987.0
+130000,1,1,0,33142244,98,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+105000,2,2,2,81627245,1000,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1988.0
+111000,1,3,2,81673483,1500,130.0,Pontons,"Alt Penedès, Barcelona",1978.0
+5000000,8,11,6,39771727,80,2350.0,Gelida,"Alt Penedès, Barcelona",1996.0
+230000,2,4,0,83926210,188,97.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2008.0
+350000,2,6,14,84122424,850000,355.0,Pontons,"Alt Penedès, Barcelona",1900.0
+129000,1,3,7,84160168,1000,90.0,Pontons,"Alt Penedès, Barcelona",2013.0
+169000,2,4,10,84283661,2300,200.0,Pontons,"Alt Penedès, Barcelona",1983.0
+88000,1,3,0,84346750,80,75.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+109000,1,3,7,84350157,1000,90.0,Pontons,"Alt Penedès, Barcelona",1992.0
+80700,2,2,0,84743962,60,54.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+99900,2,3,0,84743970,96,86.0,Mediona,"Alt Penedès, Barcelona",1996.0
+82300,1,1,0,84769114,56,51.0,Gelida,"Alt Penedès, Barcelona",1996.0
+231900,2,3,2,84769133,229,205.0,Mediona,"Alt Penedès, Barcelona",1997.0
+150000,2,4,0,31351386,115,105.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+2500000,6,9,6,33932378,1000,870.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1900.0
+250000,2,4,4,36552423,164,123.0,Subirats,"Alt Penedès, Barcelona",2001.0
+160000,2,3,3,38426531,100,82.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+99000,1,4,2,39353001,165,300.0,Torrelavit,"Alt Penedès, Barcelona",1880.0
+165000,2,4,0,39370099,120,110.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+63900,1,4,5,38250011,71,65.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1970.0
+109500,2,2,3,83001808,101,85.0,Gelida,"Alt Penedès, Barcelona",2006.0
+86000,1,1,2,83016210,110,97.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+136000,1,2,0,83016625,88,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+228000,2,5,2,83099162,131,200.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1996.0
+135000,2,4,2,83294821,242,220.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+87500,1,3,0,83787106,86,78.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1973.0
+150000,1,3,4,83841474,249,300.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1935.0
+47400,1,3,0,38400878,64,58.0,Torrelles de Foix,"Alt Penedès, Barcelona",1965.0
+99000,1,2,0,83939448,75,60.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+100200,2,3,0,84075853,114,110.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+59500,1,2,0,84075855,70,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+270000,2,4,4,84161900,170,99.0,Gelida,"Alt Penedès, Barcelona",2009.0
+87200,2,3,0,84183372,91,84.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+230000,2,3,2,84285561,220,99.0,Gelida,"Alt Penedès, Barcelona",2006.0
+132900,1,2,2,1729889,550,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+180000,1,3,7,26658866,812,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+300000,3,7,2,29962010,877,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+50000,2,4,4,30918255,110,90.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+165000,1,3,2,31874940,800,80.0,Subirats,"Alt Penedès, Barcelona",1996.0
+330000,2,3,2,33717299,400,190.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+335000,2,4,0,35096459,123,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+249344,4,10,14,35288025,1478,375.0,Mediona,"Alt Penedès, Barcelona",1870.0
+310000,3,5,2,35492569,210,150.0,Pacs del Penedès,"Alt Penedès, Barcelona",2006.0
+256000,1,4,0,36888870,170,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+244000,2,4,8,35638781,135,120.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+650000,3,3,9,35334114,412,359.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+95000,1,2,1,38099254,1900,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+335000,2,6,1,38253179,10000,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+68000,0,0,1,38449764,198,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+159000,2,4,4,38551721,197,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+217000,2,5,9,39101090,130,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+510000,3,5,1,39271448,3100,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+76000,1,3,1,39544423,400,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+129000,2,5,1,39668512,209,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+130000,2,4,1,39850597,296,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+150000,2,7,1,39915016,230,200.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+198000,2,4,4,40031588,202,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+253000,2,4,0,40257691,120,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+120000,1,3,2,40265984,2000,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+910000,0,0,9,81123263,636,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1880.0
+308000,2,4,9,81288745,270,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+39000,1,2,8,81475512,84,74.0,Pontons,"Alt Penedès, Barcelona",1996.0
+235000,3,4,8,81629398,200,99.0,La Granada,"Alt Penedès, Barcelona",2004.0
+144000,2,3,6,81713375,600,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+165000,2,3,3,81922431,90,77.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+275000,4,6,6,82552481,794,219.0,Mediona,"Alt Penedès, Barcelona",2002.0
+132000,1,3,0,82599404,75,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2005.0
+69000,1,2,1,82606663,680,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+234000,2,5,9,82609023,592,114.0,Gelida,"Alt Penedès, Barcelona",1988.0
+134000,1,3,9,82663281,1360,81.0,Torrelles de Foix,"Alt Penedès, Barcelona",1992.0
+300000,0,0,6,82794944,834,634.0,Subirats,"Alt Penedès, Barcelona",1996.0
+200000,1,2,14,82953079,30000,99.0,Font-Rubí,"Alt Penedès, Barcelona",1900.0
+360000,1,4,1,83379039,2400,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+198000,2,3,0,83427002,106,94.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2004.0
+160000,2,4,0,83553465,100,80.0,Gelida,"Alt Penedès, Barcelona",1820.0
+135000,2,3,9,36141801,2000,150.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+410000,1,5,6,83768174,250,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+140000,2,3,3,83783312,90,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+370000,3,4,9,83862370,1000,375.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1990.0
+250000,2,6,2,81857461,639,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+165000,3,3,9,84092001,234,203.0,La Granada,"Alt Penedès, Barcelona",1999.0
+189000,3,4,4,81570410,170,150.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+160000,1,3,9,84287914,156,146.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+70000,1,4,0,84332748,73,69.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1969.0
+134600,2,3,0,33134125,76,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+105600,2,3,0,33143235,81,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+125900,1,3,0,33142401,90,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+129700,1,3,0,34757863,86,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+87000,2,3,0,38642936,76,68.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1967.0
+122000,2,4,0,38898977,88,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+130000,1,2,3,33142243,99,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+72000,2,3,0,33142059,82,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+75800,1,3,0,40411449,79,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+93000,1,3,0,33142560,87,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+200000,3,3,0,37724855,234,180.0,La Granada,"Alt Penedès, Barcelona",1999.0
+111000,1,2,0,82262132,86,70.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",2005.0
+156000,2,4,0,83015664,150,135.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+260000,1,1,2,83015879,316,245.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+196900,1,3,2,83015966,85,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+95000,2,3,0,83015985,95,90.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+195000,2,4,2,83016006,180,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+293000,11,11,13,83016030,1000,99.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+295000,2,6,2,83016035,639,205.0,Mediona,"Alt Penedès, Barcelona",1996.0
+75000,1,3,0,83016061,128,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+150000,2,4,0,83016065,155,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+350000,3,6,2,83016072,163,160.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+499000,3,5,2,83016080,800,513.0,Pacs del Penedès,"Alt Penedès, Barcelona",1996.0
+168000,2,5,0,83016109,238,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+600000,3,5,2,83016129,800,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+299900,3,4,2,83016133,125,120.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+480000,2,7,2,83016145,10500,99.0,Vilobí del Penedès,"Alt Penedès, Barcelona",1996.0
+52000,2,3,0,83016165,75,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+415000,3,5,2,83016218,700,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+160000,2,4,2,83016223,285,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+142000,2,4,0,83016249,106,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+350000,4,5,2,83016311,1375,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+144000,4,4,0,83016334,112,109.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+165000,1,3,2,83016385,815,77.0,Subirats,"Alt Penedès, Barcelona",1996.0
+169000,1,3,2,83016586,693,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+160000,2,4,0,83016553,136,106.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+330000,2,4,2,83016542,184,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+175000,2,3,0,83060750,108,79.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+150000,2,5,2,83235955,2375,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+197000,1,4,13,83317607,2675,167.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+156000,2,5,4,84075997,195,175.0,El Pla del Penedès,"Alt Penedès, Barcelona",1925.0
+90000,2,3,2,83016406,2036,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+149900,2,3,0,84346983,133,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+56250,1,2,0,83015884,68,63.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+300000,3,9,13,83016398,10000,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+68200,1,2,0,82001954,284,53.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+78000,1,3,2,84729456,850,125.0,Mediona,"Alt Penedès, Barcelona",1978.0
+45500,1,3,0,84970262,87,56.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+90000,1,1,5,26716576,40,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+280000,3,4,4,33469579,205,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",1996.0
+2500000,2,10,6,39612865,123150,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1890.0
+178000,2,2,2,40305708,150,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+99000,1,3,0,81733578,90,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+163800,2,3,0,82794846,110,95.0,Gelida,"Alt Penedès, Barcelona",2018.0
+149200,2,2,3,82845581,74,67.0,Gelida,"Alt Penedès, Barcelona",2019.0
+229000,2,4,8,84352144,136,110.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1990.0
+54618,1,3,0,82470493,74,65.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+170000,2,4,0,84833033,100,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2015.0
+350000,3,4,2,27103672,600,160.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+180000,2,3,9,30391717,220,160.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+128000,2,3,0,30391728,112,63.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",2005.0
+210000,2,3,9,31997485,260,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+145000,2,3,0,33088300,85,75.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+730000,6,7,2,33872680,622,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+80000,1,3,9,35203653,137,71.0,La Granada,"Alt Penedès, Barcelona",1996.0
+185000,3,4,3,36030960,130,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2013.0
+179000,1,4,4,36168649,220,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+88000,1,2,2,36616758,1900,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+175000,1,4,1,37287837,220,180.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+69000,1,5,0,37685835,84,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+195000,2,4,2,38266112,1530,140.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+42000,1,4,0,36981005,80,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+128000,2,3,0,27550584,112,63.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+198000,2,6,6,39546144,570,155.0,Gelida,"Alt Penedès, Barcelona",1987.0
+470000,3,5,2,81142601,608,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+215000,1,6,14,81390860,890,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+294000,2,3,2,36141805,200,99.0,Pacs del Penedès,"Alt Penedès, Barcelona",1996.0
+295000,2,4,2,81548176,1000,240.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+150000,2,3,2,81724293,490,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+120000,1,2,2,33203464,852,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+227300,2,3,3,82013187,132,99.0,Gelida,"Alt Penedès, Barcelona",2006.0
+90000,2,4,2,82186849,478,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+255000,2,3,3,82489014,130,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2007.0
+690000,3,3,2,39125975,750,99.0,Olèrdola,"Alt Penedès, Barcelona",2000.0
+125000,2,3,0,82674855,67,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+109000,2,3,0,82750571,84,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1998.0
+690000,3,3,2,82989960,750,467.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+116500,2,4,1,83174080,157,242.0,Subirats,"Alt Penedès, Barcelona",1996.0
+69000,1,4,0,83542043,84,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1965.0
+245000,3,4,4,83674308,200,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+118000,2,2,3,1754544,80,68.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+150000,2,4,0,83734094,85,75.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+285000,1,4,0,83788442,250,240.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+105000,1,3,0,83841241,115,89.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+128000,2,5,4,83937042,190,167.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+1300000,15,15,2,84109069,40975,2434.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+700000,2,4,14,36775248,370,99.0,Pacs del Penedès,"Alt Penedès, Barcelona",1996.0
+450000,4,4,9,40053650,537,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+300000,1,3,6,35963022,3000,99.0,Castellví de la Marca,"Alt Penedès, Barcelona",1996.0
+131000,2,4,1,35411993,296,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+160000,2,3,0,84485690,80,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+62500,1,3,0,39547228,74,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+41805,1,3,4,38625809,98,81.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+900000,3,6,13,81204490,52000,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+175000,1,2,0,81521376,80,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+280000,2,4,2,81530242,156,5.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1962.0
+76000,1,3,0,81871116,96,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+189000,2,3,9,82262127,830,171.0,Mediona,"Alt Penedès, Barcelona",2003.0
+99000,1,2,0,82262134,75,60.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2007.0
+269000,2,4,3,82631418,139,112.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2007.0
+169000,2,4,9,82631550,75,140.0,Olèrdola,"Alt Penedès, Barcelona",1920.0
+127500,2,3,0,82658991,85,79.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+69000,2,4,0,82658998,92,89.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+124000,2,4,0,82728157,129,125.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1981.0
+130000,1,2,0,83005090,80,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+212500,2,3,0,83011502,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+175500,2,3,0,83011862,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+153000,2,2,0,83012309,80,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+450000,4,9,13,83015681,7156,99.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+180000,2,4,2,83015685,200,150.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+330000,2,8,2,83015759,624,294.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+720000,1,1,2,83015925,850,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+260000,3,4,2,83015929,237,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+195000,2,3,2,83015999,1880,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+145000,1,4,2,83016010,924,106.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+175000,3,3,2,83016018,119,190.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+195000,1,2,0,83016104,117,94.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+270000,1,3,2,83016106,202,101.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+160000,2,3,2,83016162,652,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+148000,1,2,0,83016169,71,62.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+189500,3,5,2,83016323,227,182.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+132000,1,3,0,83016336,90,77.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+87000,2,3,0,83027475,86,76.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+94000,1,3,1,83050214,80,70.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+40000,1,2,0,38662303,47,35.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+155000,1,4,2,83016444,837,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+137000,2,4,4,83217321,132,122.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+270000,2,4,9,83331354,410,155.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",2010.0
+185000,2,3,0,83466340,130,117.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2010.0
+269500,2,4,0,83564606,128,115.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2001.0
+590000,3,4,9,83564607,417,386.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2008.0
+145000,2,4,2,83886550,120,110.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+350000,2,4,14,83929367,1400,250.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+299000,3,3,2,83016421,109,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+90000,2,4,2,83016468,340,272.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+169000,2,3,0,84075995,89,72.0,Gelida,"Alt Penedès, Barcelona",2006.0
+770000,5,17,14,84106506,40342,868.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1890.0
+190000,1,3,2,83016455,1086,83.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+240000,2,5,2,83016445,1355,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+159000,2,4,9,84283810,345,178.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1970.0
+927000,3,6,14,84304405,45000,363.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1800.0
+198000,2,4,0,84325446,163,96.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1994.0
+140000,1,2,0,84389206,68,63.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+260000,3,4,2,83016287,165,135.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+125900,1,3,0,84429099,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+49500,1,1,0,84551042,57,50.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+130000,2,3,2,84551045,886,80.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+250000,2,6,2,84677077,463,99.0,Mediona,"Alt Penedès, Barcelona",1995.0
+136000,1,2,0,84688043,88,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+75000,1,3,0,84725375,70,66.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1951.0
+93000,1,3,2,32381276,787,91.0,Pontons,"Alt Penedès, Barcelona",1978.0
+199000,2,2,0,2013924,125,70.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1996.0
+100000,1,2,2,39021241,1000,55.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+92400,4,4,9,39134536,198,190.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+265000,3,4,9,39612724,263,250.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2007.0
+130000,1,14,8,40209432,331,336.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+210000,2,6,2,40295712,390,271.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+390000,2,3,4,40296441,420,415.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+72000,1,6,4,82413376,162,159.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+260000,2,4,4,82598808,169,99.0,El Pla del Penedès,"Alt Penedès, Barcelona",2015.0
+69000,1,3,2,82614599,340,210.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+131595,2,4,0,37828066,158,122.0,Mediona,"Alt Penedès, Barcelona",1996.0
+77115,1,3,0,81311072,96,75.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+229000,2,4,4,84046723,164,160.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+70000,1,3,0,84148740,80,78.0,Mediona,"Alt Penedès, Barcelona",1996.0
+45000,1,1,0,84288273,50,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+180000,2,5,4,84547130,230,220.0,Mediona,"Alt Penedès, Barcelona",1996.0
+500514,2,4,13,84552611,200,99.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+210000,4,14,8,84576922,608,576.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+265000,3,4,9,84755340,269,250.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2007.0
+160000,1,5,9,84837053,245,279.0,Sant Cugat Sesgarrigues,"Alt Penedès, Barcelona",1900.0
+260000,1,3,2,84855516,600,130.0,Mediona,"Alt Penedès, Barcelona",1996.0
+153000,1,2,0,1884178,95,65.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+215000,2,3,2,1927840,795,180.0,Subirats,"Alt Penedès, Barcelona",1996.0
+260000,1,3,2,2000579,800,90.0,Subirats,"Alt Penedès, Barcelona",1996.0
+126000,1,1,0,418550,50,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+45000,2,4,2,1508459,60,169.0,Subirats,"Alt Penedès, Barcelona",1996.0
+124950,7,6,4,26133257,160,150.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+188000,1,3,2,26177731,670,80.0,Mediona,"Alt Penedès, Barcelona",1996.0
+215000,3,5,2,27038575,800,240.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+66000,1,3,15,26485998,675,99.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+180000,2,4,2,29270876,450,170.0,Mediona,"Alt Penedès, Barcelona",2003.0
+260000,4,5,2,26996410,200,220.0,La Granada,"Alt Penedès, Barcelona",1996.0
+190000,2,8,9,30409322,905,410.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1996.0
+179500,2,3,0,31753762,130,119.0,Subirats,"Alt Penedès, Barcelona",2005.0
+185000,2,3,0,33130647,130,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+60000,1,2,0,35486101,53,99.0,Torrelavit,"Alt Penedès, Barcelona",1900.0
+525000,4,4,9,35880157,450,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+186000,2,4,0,36913841,200,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+235500,3,5,0,37316688,130,110.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2017.0
+165600,2,3,0,37316707,74,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2017.0
+39000,1,1,0,40574327,50,40.0,Pontons,"Alt Penedès, Barcelona",1996.0
+175000,2,3,9,81326259,200,110.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+78481,2,3,0,81423994,103,85.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+100000,1,3,0,29601522,70,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1975.0
+80500,1,3,2,81722869,1000,125.0,Torrelles de Foix,"Alt Penedès, Barcelona",1974.0
+145990,1,2,2,81783958,1500,70.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+95000,2,4,6,82325279,30000,80.0,Subirats,"Alt Penedès, Barcelona",1996.0
+200000,2,3,4,38445497,244,234.0,La Granada,"Alt Penedès, Barcelona",1996.0
+600000,3,4,2,83093459,1700,285.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+93000,1,2,2,82474240,118,99.0,Mediona,"Alt Penedès, Barcelona",1996.0
+235000,2,3,0,83331902,97,95.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+127228,2,3,2,83383553,261,99.0,Subirats,"Alt Penedès, Barcelona",1996.0
+93000,1,2,2,83495307,118,60.0,Mediona,"Alt Penedès, Barcelona",1996.0
+158000,2,3,3,83656772,100,78.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2008.0
+89000,1,3,0,83936592,74,60.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1987.0
+195000,2,3,3,82537986,132,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+105000,1,3,5,39642365,80,60.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1968.0
+153000,2,4,0,84216097,143,134.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+272000,2,4,2,36658992,694,240.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+68200,1,2,0,84473487,284,53.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+137000,1,1,0,82114288,64,60.0,Gelida,"Alt Penedès, Barcelona",2004.0
+170000,2,3,4,34133935,149,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+99200,1,3,0,40446522,71,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+72000,2,3,0,84975735,79,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1967.0
+111000,1,2,0,33019506,86,68.0,Mediona,"Alt Penedès, Barcelona",1996.0
+117000,2,4,0,38568153,117,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+92400,4,4,2,81766153,198,190.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+128000,2,5,4,82383569,170,170.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1890.0
+89000,1,4,0,82468094,91,69.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+82000,2,6,9,82577969,186,152.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+68000,1,3,0,84152592,74,60.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+147260,1,4,0,84451519,110,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+199400,3,4,0,84492932,110,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1996.0
+174000,2,4,9,85010817,89,99.0,Gelida,"Alt Penedès, Barcelona",1996.0
+1200000,6,5,10,38713854,600,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+150000,2,4,2,82281415,1237,150.0,Pontons,"Alt Penedès, Barcelona",2000.0
+138000,2,3,9,82496634,1500,140.0,Mediona,"Alt Penedès, Barcelona",1996.0
+450000,4,5,1,82857543,608,345.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+532250,3,5,6,82857516,3180,235.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1938.0
+325000,2,4,9,82857510,290,260.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1998.0
+632000,3,6,4,82857502,400,302.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2006.0
+160000,2,7,1,82977638,459,200.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1920.0
+79900,1,3,0,83235484,76,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1968.0
+165000,2,3,0,84222760,75,70.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2004.0
+720000,9,5,9,84257962,1000,960.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1718.0
+520000,2,6,9,84416788,768,275.0,Subirats,"Alt Penedès, Barcelona",1887.0
+135000,1,3,0,84614705,98,78.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+116000,2,4,0,84671587,109,89.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1985.0
+154100,1,2,8,84724351,106,99.0,Gelida,"Alt Penedès, Barcelona",1990.0
+115000,1,3,6,84739672,850,99.0,Pontons,"Alt Penedès, Barcelona",1996.0
+180000,1,3,4,84779549,85,99.0,Avinyonet del Penedès,"Alt Penedès, Barcelona",1996.0
+130000,1,3,3,84852566,126,99.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",1997.0
+109000,1,2,0,84952143,60,54.0,Gelida,"Alt Penedès, Barcelona",1820.0
+240000,2,4,4,84502562,120,99.0,Torrelavit,"Alt Penedès, Barcelona",1996.0
+100000,2,4,2,32922580,595,140.0,Pontons,"Alt Penedès, Barcelona",1996.0
+180000,1,3,2,30461953,617,80.0,Mediona,"Alt Penedès, Barcelona",1996.0
+1300000,10,15,14,37579532,40000,99.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+39600,2,2,4,39203824,156,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+290000,2,4,2,82670822,2700,180.0,Font-Rubí,"Alt Penedès, Barcelona",1996.0
+188000,3,8,2,83016513,248,240.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+210000,2,4,0,83914122,110,99.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+199400,3,4,3,84392397,134,110.0,Santa Margarida i els Monjos,"Alt Penedès, Barcelona",2006.0
+90000,1,2,2,84628521,182,172.0,Torrelles de Foix,"Alt Penedès, Barcelona",1996.0
+116000,2,4,0,84633928,110,100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+168000,2,5,0,84688050,147,120.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+215000,1,5,2,84730557,846,147.0,Olèrdola,"Alt Penedès, Barcelona",1996.0
+246000,3,4,2,84744986,130,99.0,Les Cabanyes,"Alt Penedès, Barcelona",1996.0
+1300000,18,30,14,84761318,2800,1100.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+195000,2,3,0,84761337,95,85.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+350000,2,6,14,84809302,200,206.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+230000,2,4,0,84835261,100,90.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",1996.0
+139000,2,5,2,84765905,341,260.0,Sant Martí Sarroca,"Alt Penedès, Barcelona",1996.0
+169500,2,4,0,84895159,120,113.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+442000,3,5,2,84744994,620,260.0,Pacs del Penedès,"Alt Penedès, Barcelona",1996.0
+115000,1,3,0,576674,92,89.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+115000,2,3,0,576675,77,99.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",2011.0
+145000,2,3,0,759794,91,75.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1975.0
+420000,2,6,2,828364,541,240.0,Gelida,"Alt Penedès, Barcelona",2009.0
+600000,3,8,2,828361,366,1000.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1900.0
+420000,2,5,2,828396,140,189.0,Torrelavit,"Alt Penedès, Barcelona",2007.0
+365650,3,4,2,828390,260,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+432599,2,5,2,828346,150,277.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+280000,3,4,2,828376,205,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2007.0
+430000,2,4,2,959117,500,99.0,Gelida,"Alt Penedès, Barcelona",1998.0
+600000,4,3,2,959112,1015,290.0,La Granada,"Alt Penedès, Barcelona",1996.0
+650000,6,10,2,1165134,1,1000.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1850.0
+225000,2,3,2,1329854,126,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",2006.0
+70000,1,3,0,25922099,80,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1975.0
+170000,2,4,0,26185488,114,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1994.0
+90000,1,3,2,26234170,45,120.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1996.0
+265000,3,5,2,26332371,140,99.0,Sant Llorenç d'Hortons,"Alt Penedès, Barcelona",1994.0
+190000,2,3,0,26357422,80,70.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2008.0
+240000,2,4,0,26540070,169,129.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2004.0
+230000,1,4,2,27419283,440,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1990.0
+182000,1,2,2,27597362,140,130.0,Torrelavit,"Alt Penedès, Barcelona",2009.0
+616970,3,5,2,27708047,250,202.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2007.0
+116000,2,2,2,27708049,100,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",1900.0
+122000,1,1,0,27708076,51,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2011.0
+53000,1,3,0,27960303,65,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1968.0
+120000,2,4,0,27960307,101,99.0,Sant Quintí de Mediona,"Alt Penedès, Barcelona",2007.0
+186000,1,4,2,28177155,155,120.0,Sant Pere de Riudebitlles,"Alt Penedès, Barcelona",1996.0
+144000,2,4,0,28844215,90,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",1978.0
+160000,2,2,0,29030533,76,99.0,Sant Sadurní d'Anoia,"Alt Penedès, Barcelona",2011.0
+660000,4,4,2,29109735,400,300.0,Vilafranca del Penedès,"Alt Penedès, Barcelona",2007.0

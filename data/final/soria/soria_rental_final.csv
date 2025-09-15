@@ -1,0 +1,110 @@
+price,bath_num,room_num,house_type,house_id,m2_real,m2_useful,loc_city,loc_zone,construct_date,garage
+470,2.0,1.0,14,85034335,60,55,Soria,"Área de Soria, Soria",,0
+325,1.0,1.0,15,81333035,45,,Golmayo,"Área de Soria, Soria",,1
+320,1.0,2.0,14,83180154,110,,Medinaceli,"Almazán, Soria",,0
+550,2.0,3.0,14,83711122,98,89,Soria,"Área de Soria, Soria",,0
+600,2.0,3.0,14,82718673,100,88,Soria,"Área de Soria, Soria",,1
+450,1.0,3.0,14,30158852,85,79,Soria,"Área de Soria, Soria",,0
+300,1.0,2.0,14,25033253,73,67,Arcos de Jalon,"Almazán, Soria",,0
+340,2.0,4.0,14,83262462,110,90,Navaleno,"Pinares y Tierras Altas, Soria",,1
+320,1.0,2.0,14,84379405,78,,San esteban de Gormaz,"Burgo de Osma, Soria",,0
+460,1.0,3.0,16,84723763,85,,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,0
+420,1.0,3.0,14,84908951,100,,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,1
+600,2.0,4.0,14,83742712,100,90,Soria,"Área de Soria, Soria",,0
+440,1.0,4.0,14,83673272,105,,Soria,"Área de Soria, Soria",,0
+440,1.0,4.0,14,83554249,105,94,Soria,"Área de Soria, Soria",,0
+350,1.0,2.0,14,37656348,50,,Vozmediano,"Área de Soria, Soria",,0
+550,1.0,3.0,14,84944653,80,,Soria,"Área de Soria, Soria",,0
+630,1.0,4.0,14,83673271,95,,Soria,"Área de Soria, Soria",,0
+1700,2.0,5.0,17,25642162,220,210,Molinos de Duero,"Pinares y Tierras Altas, Soria",,0
+320,1.0,1.0,14,28656377,50,45,Agreda,"Área de Soria, Soria",,0
+475,2.0,4.0,14,34294609,95,90,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,1
+300,2.0,5.0,16,39984462,300,,Berlanga de Duero,"Almazán, Soria",,1
+300,2.0,3.0,14,32058785,90,,Covaleda,"Pinares y Tierras Altas, Soria",,1
+300,1.0,3.0,14,39717380,80,,Navaleno,"Pinares y Tierras Altas, Soria",,1
+1000,2.0,4.0,16,82190571,100,,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",2003,1
+700,2.0,4.0,16,27176711,400,140,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,1
+450,2.0,4.0,16,83944204,140,,Navaleno,"Pinares y Tierras Altas, Soria",,0
+400,1.0,3.0,14,84219427,74,70,Soria,"Área de Soria, Soria",,0
+350,2.0,3.0,17,33224746,170,,Almazan,"Almazán, Soria",,0
+289,2.0,3.0,14,1814432,100,,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,0
+980,2.0,4.0,14,1884906,150,130,Soria,"Área de Soria, Soria",,1
+550,1.0,2.0,14,2039774,88,69,Soria,"Área de Soria, Soria",,0
+1000,3.0,3.0,18,25093027,360,110,Cidones,"Área de Soria, Soria",,0
+450,2.0,1.0,14,25832613,60,55,Soria,"Área de Soria, Soria",,1
+550,2.0,3.0,14,2030275,120,90,Soria,"Área de Soria, Soria",,1
+400,2.0,4.0,14,28384015,94,90,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,1
+300,1.0,3.0,14,30318974,90,85,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,0
+390,2.0,2.0,14,84476809,78,,Vinuesa,"Pinares y Tierras Altas, Soria",,1
+300,1.0,3.0,14,82076470,75,,Arcos de Jalon,"Almazán, Soria",,0
+600,2.0,4.0,14,34999924,115,,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,0
+250,1.0,4.0,14,38340761,100,,Navaleno,"Pinares y Tierras Altas, Soria",,0
+350,2.0,3.0,18,1796463,60,100,Valdenebro,"Burgo de Osma, Soria",,0
+725,2.0,3.0,14,1860732,120,100,Soria,"Área de Soria, Soria",,1
+500,3.0,4.0,16,40506210,145,,Duruelo de la Sierra,"Pinares y Tierras Altas, Soria",,1
+500,2.0,4.0,14,83879756,124,114,Almazan,"Almazán, Soria",,0
+650,2.0,2.0,14,84046286,92,80,Soria,"Área de Soria, Soria",,1
+660,1.0,4.0,14,81711030,120,96,Soria,"Área de Soria, Soria",,1
+375,1.0,1.0,14,39722553,40,,Soria,"Área de Soria, Soria",,0
+600,3.0,3.0,18,84520039,320,,Almazan,"Almazán, Soria",,1
+680,2.0,3.0,15,27743174,110,,Soria,"Área de Soria, Soria",,1
+450,1.0,1.0,15,84898198,60,45,Soria,"Área de Soria, Soria",,0
+350,2.0,2.0,17,84793750,180,,San Pedro Manrique,"Pinares y Tierras Altas, Soria",,1
+300,1.0,3.0,14,33979600,75,74,Arcos de Jalon,"Almazán, Soria",,0
+440,2.0,4.0,14,82476236,125,115,Almazan,"Almazán, Soria",,0
+470,1.0,1.0,14,84753706,47,,Soria,"Área de Soria, Soria",,0
+1000,3.0,3.0,14,84892330,90,89,San esteban de Gormaz,"Burgo de Osma, Soria",,0
+700,3.0,3.0,18,84404688,150,120,Almazan,"Almazán, Soria",,0
+1200,3.0,4.0,16,82767767,260,230,Soria,"Área de Soria, Soria",2003,0
+690,3.0,4.0,16,36051775,150,,Vinuesa,"Pinares y Tierras Altas, Soria",,1
+800,2.0,6.0,16,82198083,270,230,Cubo de la Solana,"Área de Soria, Soria",1976,0
+1000,2.0,3.0,16,84357753,125,,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,0
+580,2.0,3.0,18,84834899,400,125,Almajano,"Pinares y Tierras Altas, Soria",2010,1
+625,1.0,2.0,14,84471589,84,75,Soria,"Área de Soria, Soria",1997,0
+750,1.0,3.0,18,301151,60,80,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,0
+600,2.0,4.0,14,25370691,110,94,Soria,"Área de Soria, Soria",,0
+1500,4.0,5.0,14,27331521,366,290,Soria,"Área de Soria, Soria",,1
+975,12.0,10.0,19,28325414,550,460,Montejo de Tiermes,"Burgo de Osma, Soria",,0
+700,2.0,4.0,14,30543329,120,,Soria,"Área de Soria, Soria",,0
+495,2.0,2.0,14,84868311,72,,Almazan,"Almazán, Soria",1961,0
+380,1.0,2.0,17,31330308,70,,San esteban de Gormaz,"Burgo de Osma, Soria",,0
+500,2.0,4.0,14,1922059,95,89,Almazan,"Almazán, Soria",,0
+650,4.0,6.0,16,1759335,180,140,San esteban de Gormaz,"Burgo de Osma, Soria",,0
+580,1.0,3.0,14,84412392,85,75,Soria,"Área de Soria, Soria",,0
+500,2.0,4.0,14,84809825,95,87,Almazan,"Almazán, Soria",,0
+3000,15.0,11.0,19,84664359,996,,Quintanas de Gormaz,"Burgo de Osma, Soria",,0
+305,1.0,1.0,14,396168,45,,Berlanga de Duero,"Almazán, Soria",,0
+370,2.0,3.0,14,84476771,84,,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,1
+600,1.0,1.0,14,84972810,50,45,Soria,"Área de Soria, Soria",,0
+900,4.0,6.0,20,84074285,160,,Soria,"Área de Soria, Soria",,1
+300,1.0,3.0,16,84880986,200,110,Olvega,"Área de Soria, Soria",,0
+700,2.0,3.0,14,84564933,110,99,Soria,"Área de Soria, Soria",,0
+650,2.0,3.0,14,84855562,130,,Burgo de Osma-Ciudad de Osma,"Burgo de Osma, Soria",,1
+550,1.0,2.0,15,82861368,80,58,Soria,"Área de Soria, Soria",2006,1
+900,2.0,3.0,14,84875833,115,,Soria,"Área de Soria, Soria",,1
+450,2.0,2.0,18,82822532,270,200,Abejar,"Pinares y Tierras Altas, Soria",1969,1
+630,3.0,4.0,14,83896069,96,82,Soria,"Área de Soria, Soria",1970,0
+550,1.0,2.0,14,84353934,78,,Soria,"Área de Soria, Soria",1994,0
+550,1.0,1.0,14,84812079,120,108,Soria,"Área de Soria, Soria",,0
+950,2.0,3.0,14,27331082,95,80,Soria,"Área de Soria, Soria",,0
+1000,2.0,3.0,21,322400,250,,San Leonardo de Yague,"Pinares y Tierras Altas, Soria",,0
+470,1.0,1.0,14,25651654,60,,Soria,"Área de Soria, Soria",,0
+400,1.0,3.0,14,25873866,88,72,Vinuesa,"Pinares y Tierras Altas, Soria",,1
+305,1.0,1.0,14,82041062,46,43,Berlanga de Duero,"Almazán, Soria",,0
+1200,5.0,6.0,18,37976889,800,320,Almarza,"Pinares y Tierras Altas, Soria",,0
+1200,3.0,4.0,16,83083233,161,188,Soria,"Área de Soria, Soria",2003,1
+850,2.0,3.0,21,31334683,140,,Bayubas de Abajo,"Almazán, Soria",,1
+750,2.0,4.0,16,82733125,73,120,Soria,"Área de Soria, Soria",1992,1
+400,1.0,2.0,14,39449023,82,69,Soria,"Área de Soria, Soria",1994,0
+440,1.0,4.0,14,84024022,94,,Soria,"Área de Soria, Soria",1965,0
+400,1.0,2.0,19,82103216,60,,Cidones,"Área de Soria, Soria",,0
+550,2.0,3.0,15,81713200,96,92,Soria,"Área de Soria, Soria",1990,0
+320,1.0,3.0,14,85028773,119,80,Olvega,"Área de Soria, Soria",,0
+475,1.0,2.0,14,32550378,60,55,Soria,"Área de Soria, Soria",2001,0
+320,2.0,3.0,14,84995347,96,80,Olvega,"Área de Soria, Soria",,1
+550,2.0,4.0,14,85007777,130,120,Almazan,"Almazán, Soria",,0
+500,1.0,1.0,14,85009915,58,,Soria,"Área de Soria, Soria",,0
+450,1.0,3.0,14,85012695,80,79,Moron de Almazan,"Almazán, Soria",,0
+400,1.0,2.0,17,85014481,600,50,Miño de Medinaceli,"Almazán, Soria",,0
+350,1.0,3.0,14,85015786,75,70,Medinaceli,"Almazán, Soria",,0
+600,2.0,4.0,14,85023491,115,,Soria,"Área de Soria, Soria",,0

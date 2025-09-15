@@ -1,0 +1,17 @@
+House_Type,Code
+ Casa de pueblo,0
+ Casa o chalet independiente,1
+ Finca rústica,2
+ Chalet adosado,3
+Piso,4
+ Palacio,5
+ Casa rural,6
+ Chalet pareado,7
+ Casa o chalet,8
+Dúplex,9
+ Caserón,10
+ Cortijo,11
+house_type,12
+Ático,13
+ Casa terrera,14
+Estudio,15

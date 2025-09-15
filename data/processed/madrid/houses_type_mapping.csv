@@ -1,0 +1,11 @@
+House_Type,Code
+Piso,0
+ Chalet adosado,1
+ Chalet pareado,2
+Dúplex,3
+ Casa o chalet independiente,4
+Ático,5
+ Casa o chalet,6
+house_type,7
+Estudio,8
+ Finca rústica,9
