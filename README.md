@@ -194,11 +194,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Institutions**: Master en Big Data y Data Science
 - **Open Source Community**: All the amazing libraries that make this possible
 
-## 📞 Contact
-
-- **Project Author**: TFM Project
-- **Email**: project@example.com
-
----
-
-**Built with ❤️ for the Spanish Real Estate Market Analysis**
