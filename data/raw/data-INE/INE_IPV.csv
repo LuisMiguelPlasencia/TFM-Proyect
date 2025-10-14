@@ -1,4 +1,5 @@
 ﻿Total Nacional;Comunidades y Ciudades Autónomas;General, vivienda nueva y de segunda mano;Índices y tasas;Periodo;Total
+Nacional;;General;Índice;2025T2;178,184
 Nacional;;General;Índice;2025T1;171,296
 Nacional;;General;Índice;2024T4;165,433
 Nacional;;General;Índice;2024T3;162,521
@@ -72,6 +73,7 @@ Nacional;;General;Índice;2007T4;150,64
 Nacional;;General;Índice;2007T3;151,719
 Nacional;;General;Índice;2007T2;150,103
 Nacional;;General;Índice;2007T1;145,935
+Nacional;;General;Variación trimestral;2025T2;4
 Nacional;;General;Variación trimestral;2025T1;3,5
 Nacional;;General;Variación trimestral;2024T4;1,8
 Nacional;;General;Variación trimestral;2024T3;2,8
@@ -145,6 +147,7 @@ Nacional;;General;Variación trimestral;2007T4;-0,7
 Nacional;;General;Variación trimestral;2007T3;1,1
 Nacional;;General;Variación trimestral;2007T2;2,9
 Nacional;;General;Variación trimestral;2007T1;2,4
+Nacional;;General;Variación anual;2025T2;12,7
 Nacional;;General;Variación anual;2025T1;12,2
 Nacional;;General;Variación anual;2024T4;11,3
 Nacional;;General;Variación anual;2024T3;8,1
@@ -218,6 +221,7 @@ Nacional;;General;Variación anual;2007T4;5,7
 Nacional;;General;Variación anual;2007T3;9,2
 Nacional;;General;Variación anual;2007T2;11,6
 Nacional;;General;Variación anual;2007T1;13,1
+Nacional;;General;Variación en lo que va de año;2025T2;7,7
 Nacional;;General;Variación en lo que va de año;2025T1;3,5
 Nacional;;General;Variación en lo que va de año;2024T4;11,3
 Nacional;;General;Variación en lo que va de año;2024T3;9,3
@@ -291,6 +295,7 @@ Nacional;;General;Variación en lo que va de año;2007T4;5,7
 Nacional;;General;Variación en lo que va de año;2007T3;6,5
 Nacional;;General;Variación en lo que va de año;2007T2;5,3
 Nacional;;General;Variación en lo que va de año;2007T1;2,4
+Nacional;;Vivienda nueva;Índice;2025T2;206,055
 Nacional;;Vivienda nueva;Índice;2025T1;200,792
 Nacional;;Vivienda nueva;Índice;2024T4;190,368
 Nacional;;Vivienda nueva;Índice;2024T3;188,899
@@ -364,6 +369,7 @@ Nacional;;Vivienda nueva;Índice;2007T4;134,449
 Nacional;;Vivienda nueva;Índice;2007T3;132,475
 Nacional;;Vivienda nueva;Índice;2007T2;129,748
 Nacional;;Vivienda nueva;Índice;2007T1;125,956
+Nacional;;Vivienda nueva;Variación trimestral;2025T2;2,6
 Nacional;;Vivienda nueva;Variación trimestral;2025T1;5,5
 Nacional;;Vivienda nueva;Variación trimestral;2024T4;0,8
 Nacional;;Vivienda nueva;Variación trimestral;2024T3;2,8
@@ -437,6 +443,7 @@ Nacional;;Vivienda nueva;Variación trimestral;2007T4;1,5
 Nacional;;Vivienda nueva;Variación trimestral;2007T3;2,1
 Nacional;;Vivienda nueva;Variación trimestral;2007T2;3
 Nacional;;Vivienda nueva;Variación trimestral;2007T1;2,9
+Nacional;;Vivienda nueva;Variación anual;2025T2;12,1
 Nacional;;Vivienda nueva;Variación anual;2025T1;12,2
 Nacional;;Vivienda nueva;Variación anual;2024T4;12,3
 Nacional;;Vivienda nueva;Variación anual;2024T3;9,8
@@ -510,6 +517,7 @@ Nacional;;Vivienda nueva;Variación anual;2007T4;9,8
 Nacional;;Vivienda nueva;Variación anual;2007T3;11,4
 Nacional;;Vivienda nueva;Variación anual;2007T2;13,3
 Nacional;;Vivienda nueva;Variación anual;2007T1;13,3
+Nacional;;Vivienda nueva;Variación en lo que va de año;2025T2;8,2
 Nacional;;Vivienda nueva;Variación en lo que va de año;2025T1;5,5
 Nacional;;Vivienda nueva;Variación en lo que va de año;2024T4;12,3
 Nacional;;Vivienda nueva;Variación en lo que va de año;2024T3;11,4
@@ -583,6 +591,7 @@ Nacional;;Vivienda nueva;Variación en lo que va de año;2007T4;9,8
 Nacional;;Vivienda nueva;Variación en lo que va de año;2007T3;8,2
 Nacional;;Vivienda nueva;Variación en lo que va de año;2007T2;6
 Nacional;;Vivienda nueva;Variación en lo que va de año;2007T1;2,9
+Nacional;;Vivienda segunda mano;Índice;2025T2;173,924
 Nacional;;Vivienda segunda mano;Índice;2025T1;166,839
 Nacional;;Vivienda segunda mano;Índice;2024T4;161,605
 Nacional;;Vivienda segunda mano;Índice;2024T3;158,49
@@ -656,6 +665,7 @@ Nacional;;Vivienda segunda mano;Índice;2007T4;164,973
 Nacional;;Vivienda segunda mano;Índice;2007T3;169,259
 Nacional;;Vivienda segunda mano;Índice;2007T2;168,847
 Nacional;;Vivienda segunda mano;Índice;2007T1;164,358
+Nacional;;Vivienda segunda mano;Variación trimestral;2025T2;4,2
 Nacional;;Vivienda segunda mano;Variación trimestral;2025T1;3,2
 Nacional;;Vivienda segunda mano;Variación trimestral;2024T4;2
 Nacional;;Vivienda segunda mano;Variación trimestral;2024T3;2,8
@@ -729,6 +739,7 @@ Nacional;;Vivienda segunda mano;Variación trimestral;2007T4;-2,5
 Nacional;;Vivienda segunda mano;Variación trimestral;2007T3;0,2
 Nacional;;Vivienda segunda mano;Variación trimestral;2007T2;2,7
 Nacional;;Vivienda segunda mano;Variación trimestral;2007T1;2
+Nacional;;Vivienda segunda mano;Variación anual;2025T2;12,8
 Nacional;;Vivienda segunda mano;Variación anual;2025T1;12,3
 Nacional;;Vivienda segunda mano;Variación anual;2024T4;11,1
 Nacional;;Vivienda segunda mano;Variación anual;2024T3;7,9
@@ -802,6 +813,7 @@ Nacional;;Vivienda segunda mano;Variación anual;2007T4;2,4
 Nacional;;Vivienda segunda mano;Variación anual;2007T3;7,5
 Nacional;;Vivienda segunda mano;Variación anual;2007T2;10,3
 Nacional;;Vivienda segunda mano;Variación anual;2007T1;13
+Nacional;;Vivienda segunda mano;Variación en lo que va de año;2025T2;7,6
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,2
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2024T4;11,1
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2024T3;9
@@ -875,6 +887,7 @@ Nacional;;Vivienda segunda mano;Variación en lo que va de año;2007T4;2,4
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2007T3;5,1
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2007T2;4,8
 Nacional;;Vivienda segunda mano;Variación en lo que va de año;2007T1;2
+Nacional;01 Andalucía;General;Índice;2025T2;177,504
 Nacional;01 Andalucía;General;Índice;2025T1;170,858
 Nacional;01 Andalucía;General;Índice;2024T4;165,457
 Nacional;01 Andalucía;General;Índice;2024T3;162,275
@@ -948,6 +961,7 @@ Nacional;01 Andalucía;General;Índice;2007T4;135,785
 Nacional;01 Andalucía;General;Índice;2007T3;133,943
 Nacional;01 Andalucía;General;Índice;2007T2;130,901
 Nacional;01 Andalucía;General;Índice;2007T1;127,081
+Nacional;01 Andalucía;General;Variación trimestral;2025T2;3,9
 Nacional;01 Andalucía;General;Variación trimestral;2025T1;3,3
 Nacional;01 Andalucía;General;Variación trimestral;2024T4;2
 Nacional;01 Andalucía;General;Variación trimestral;2024T3;3,8
@@ -1021,6 +1035,7 @@ Nacional;01 Andalucía;General;Variación trimestral;2007T4;1,4
 Nacional;01 Andalucía;General;Variación trimestral;2007T3;2,3
 Nacional;01 Andalucía;General;Variación trimestral;2007T2;3
 Nacional;01 Andalucía;General;Variación trimestral;2007T1;4
+Nacional;01 Andalucía;General;Variación anual;2025T2;13,6
 Nacional;01 Andalucía;General;Variación anual;2025T1;14
 Nacional;01 Andalucía;General;Variación anual;2024T4;13,4
 Nacional;01 Andalucía;General;Variación anual;2024T3;10,6
@@ -1094,6 +1109,7 @@ Nacional;01 Andalucía;General;Variación anual;2007T4;11,1
 Nacional;01 Andalucía;General;Variación anual;2007T3;11,6
 Nacional;01 Andalucía;General;Variación anual;2007T2;12,8
 Nacional;01 Andalucía;General;Variación anual;2007T1;15,5
+Nacional;01 Andalucía;General;Variación en lo que va de año;2025T2;7,3
 Nacional;01 Andalucía;General;Variación en lo que va de año;2025T1;3,3
 Nacional;01 Andalucía;General;Variación en lo que va de año;2024T4;13,4
 Nacional;01 Andalucía;General;Variación en lo que va de año;2024T3;11,2
@@ -1167,6 +1183,7 @@ Nacional;01 Andalucía;General;Variación en lo que va de año;2007T4;11,1
 Nacional;01 Andalucía;General;Variación en lo que va de año;2007T3;9,6
 Nacional;01 Andalucía;General;Variación en lo que va de año;2007T2;7,1
 Nacional;01 Andalucía;General;Variación en lo que va de año;2007T1;4
+Nacional;01 Andalucía;Vivienda nueva;Índice;2025T2;218,247
 Nacional;01 Andalucía;Vivienda nueva;Índice;2025T1;212,796
 Nacional;01 Andalucía;Vivienda nueva;Índice;2024T4;203,521
 Nacional;01 Andalucía;Vivienda nueva;Índice;2024T3;201,651
@@ -1240,6 +1257,7 @@ Nacional;01 Andalucía;Vivienda nueva;Índice;2007T4;119,087
 Nacional;01 Andalucía;Vivienda nueva;Índice;2007T3;115,067
 Nacional;01 Andalucía;Vivienda nueva;Índice;2007T2;111,404
 Nacional;01 Andalucía;Vivienda nueva;Índice;2007T1;108,32
+Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2025T2;2,6
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2025T1;4,6
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2024T4;0,9
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2024T3;7
@@ -1313,6 +1331,7 @@ Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2007T4;3,5
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2007T3;3,3
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2007T2;2,8
 Nacional;01 Andalucía;Vivienda nueva;Variación trimestral;2007T1;4,3
+Nacional;01 Andalucía;Vivienda nueva;Variación anual;2025T2;15,8
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2025T1;15,3
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2024T4;17,5
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2024T3;13,8
@@ -1386,6 +1405,7 @@ Nacional;01 Andalucía;Vivienda nueva;Variación anual;2007T4;14,7
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2007T3;13,6
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2007T2;14,4
 Nacional;01 Andalucía;Vivienda nueva;Variación anual;2007T1;15,4
+Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2025T2;7,2
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2025T1;4,6
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2024T4;17,5
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2024T3;16,4
@@ -1459,6 +1479,7 @@ Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2007T4;14,
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2007T3;10,8
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2007T2;7,3
 Nacional;01 Andalucía;Vivienda nueva;Variación en lo que va de año;2007T1;4,3
+Nacional;01 Andalucía;Vivienda segunda mano;Índice;2025T2;172,192
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2025T1;165,385
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2024T4;160,495
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2024T3;157,143
@@ -1532,6 +1553,7 @@ Nacional;01 Andalucía;Vivienda segunda mano;Índice;2007T4;150,191
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2007T3;151,053
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2007T2;148,886
 Nacional;01 Andalucía;Vivienda segunda mano;Índice;2007T1;144,341
+Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2025T2;4,1
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2025T1;3
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2024T4;2,1
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2024T3;3,3
@@ -1605,6 +1627,7 @@ Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2007T4;-0,6
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2007T3;1,5
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2007T2;3,1
 Nacional;01 Andalucía;Vivienda segunda mano;Variación trimestral;2007T1;3,7
+Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2025T2;13,2
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2025T1;13,8
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2024T4;12,7
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2024T3;10,1
@@ -1678,6 +1701,7 @@ Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2007T4;7,9
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2007T3;9,8
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2007T2;11,6
 Nacional;01 Andalucía;Vivienda segunda mano;Variación anual;2007T1;15,4
+Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2025T2;7,3
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2025T1;3
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2024T4;12,7
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2024T3;10,4
@@ -1751,6 +1775,7 @@ Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;200
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2007T3;8,5
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2007T2;6,9
 Nacional;01 Andalucía;Vivienda segunda mano;Variación en lo que va de año;2007T1;3,7
+Nacional;02 Aragón;General;Índice;2025T2;170,432
 Nacional;02 Aragón;General;Índice;2025T1;162,696
 Nacional;02 Aragón;General;Índice;2024T4;156,497
 Nacional;02 Aragón;General;Índice;2024T3;154,092
@@ -1824,6 +1849,7 @@ Nacional;02 Aragón;General;Índice;2007T4;176,458
 Nacional;02 Aragón;General;Índice;2007T3;178,362
 Nacional;02 Aragón;General;Índice;2007T2;176,576
 Nacional;02 Aragón;General;Índice;2007T1;175,582
+Nacional;02 Aragón;General;Variación trimestral;2025T2;4,8
 Nacional;02 Aragón;General;Variación trimestral;2025T1;4
 Nacional;02 Aragón;General;Variación trimestral;2024T4;1,6
 Nacional;02 Aragón;General;Variación trimestral;2024T3;2,8
@@ -1897,6 +1923,7 @@ Nacional;02 Aragón;General;Variación trimestral;2007T4;-1,1
 Nacional;02 Aragón;General;Variación trimestral;2007T3;1
 Nacional;02 Aragón;General;Variación trimestral;2007T2;0,6
 Nacional;02 Aragón;General;Variación trimestral;2007T1;0,4
+Nacional;02 Aragón;General;Variación anual;2025T2;13,7
 Nacional;02 Aragón;General;Variación anual;2025T1;13,2
 Nacional;02 Aragón;General;Variación anual;2024T4;13,3
 Nacional;02 Aragón;General;Variación anual;2024T3;10,3
@@ -1970,6 +1997,7 @@ Nacional;02 Aragón;General;Variación anual;2007T4;0,9
 Nacional;02 Aragón;General;Variación anual;2007T3;5,7
 Nacional;02 Aragón;General;Variación anual;2007T2;6,7
 Nacional;02 Aragón;General;Variación anual;2007T1;10,4
+Nacional;02 Aragón;General;Variación en lo que va de año;2025T2;8,9
 Nacional;02 Aragón;General;Variación en lo que va de año;2025T1;4
 Nacional;02 Aragón;General;Variación en lo que va de año;2024T4;13,3
 Nacional;02 Aragón;General;Variación en lo que va de año;2024T3;11,6
@@ -2043,6 +2071,7 @@ Nacional;02 Aragón;General;Variación en lo que va de año;2007T4;0,9
 Nacional;02 Aragón;General;Variación en lo que va de año;2007T3;2
 Nacional;02 Aragón;General;Variación en lo que va de año;2007T2;1
 Nacional;02 Aragón;General;Variación en lo que va de año;2007T1;0,4
+Nacional;02 Aragón;Vivienda nueva;Índice;2025T2;183,466
 Nacional;02 Aragón;Vivienda nueva;Índice;2025T1;179,226
 Nacional;02 Aragón;Vivienda nueva;Índice;2024T4;170,95
 Nacional;02 Aragón;Vivienda nueva;Índice;2024T3;171,532
@@ -2116,6 +2145,7 @@ Nacional;02 Aragón;Vivienda nueva;Índice;2007T4;159,186
 Nacional;02 Aragón;Vivienda nueva;Índice;2007T3;156,728
 Nacional;02 Aragón;Vivienda nueva;Índice;2007T2;155,77
 Nacional;02 Aragón;Vivienda nueva;Índice;2007T1;152,923
+Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2025T2;2,4
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2025T1;4,8
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2024T4;-0,3
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2024T3;2,3
@@ -2189,6 +2219,7 @@ Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2007T4;1,6
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2007T3;0,6
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2007T2;1,9
 Nacional;02 Aragón;Vivienda nueva;Variación trimestral;2007T1;1,4
+Nacional;02 Aragón;Vivienda nueva;Variación anual;2025T2;9,4
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2025T1;9,9
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2024T4;14,1
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2024T3;11,1
@@ -2262,6 +2293,7 @@ Nacional;02 Aragón;Vivienda nueva;Variación anual;2007T4;5,5
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2007T3;8
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2007T2;10,3
 Nacional;02 Aragón;Vivienda nueva;Variación anual;2007T1;10,9
+Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2025T2;7,3
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2025T1;4,8
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2024T4;14,1
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2024T3;14,5
@@ -2335,6 +2367,7 @@ Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2007T4;5,5
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2007T3;3,9
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2007T2;3,3
 Nacional;02 Aragón;Vivienda nueva;Variación en lo que va de año;2007T1;1,4
+Nacional;02 Aragón;Vivienda segunda mano;Índice;2025T2;166,844
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2025T1;158,524
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2024T4;152,748
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2024T3;149,665
@@ -2408,6 +2441,7 @@ Nacional;02 Aragón;Vivienda segunda mano;Índice;2007T4;193,876
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2007T3;200,98
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2007T2;198,235
 Nacional;02 Aragón;Vivienda segunda mano;Índice;2007T1;199,485
+Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2025T2;5,2
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2025T1;3,8
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2024T4;2,1
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2024T3;2,9
@@ -2481,6 +2515,7 @@ Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2007T4;-3,5
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2007T3;1,4
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2007T2;-0,6
 Nacional;02 Aragón;Vivienda segunda mano;Variación trimestral;2007T1;-0,5
+Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2025T2;14,8
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2025T1;14,2
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2024T4;13,1
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2024T3;10,1
@@ -2554,6 +2589,7 @@ Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2007T4;-3,3
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2007T3;3,7
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2007T2;3,7
 Nacional;02 Aragón;Vivienda segunda mano;Variación anual;2007T1;9,9
+Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2025T2;9,2
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,8
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2024T4;13,1
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2024T3;10,9
@@ -2627,6 +2663,7 @@ Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2007T4
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2007T3;0,3
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2007T2;-1,1
 Nacional;02 Aragón;Vivienda segunda mano;Variación en lo que va de año;2007T1;-0,5
+Nacional;03 Asturias, Principado de;General;Índice;2025T2;158,852
 Nacional;03 Asturias, Principado de;General;Índice;2025T1;152,219
 Nacional;03 Asturias, Principado de;General;Índice;2024T4;146,765
 Nacional;03 Asturias, Principado de;General;Índice;2024T3;143,078
@@ -2700,6 +2737,7 @@ Nacional;03 Asturias, Principado de;General;Índice;2007T4;146,787
 Nacional;03 Asturias, Principado de;General;Índice;2007T3;146,732
 Nacional;03 Asturias, Principado de;General;Índice;2007T2;143,559
 Nacional;03 Asturias, Principado de;General;Índice;2007T1;138,726
+Nacional;03 Asturias, Principado de;General;Variación trimestral;2025T2;4,4
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2025T1;3,7
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2024T4;2,6
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2024T3;2,3
@@ -2773,6 +2811,7 @@ Nacional;03 Asturias, Principado de;General;Variación trimestral;2007T4;0
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2007T3;2,2
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2007T2;3,5
 Nacional;03 Asturias, Principado de;General;Variación trimestral;2007T1;2,6
+Nacional;03 Asturias, Principado de;General;Variación anual;2025T2;13,5
 Nacional;03 Asturias, Principado de;General;Variación anual;2025T1;13,1
 Nacional;03 Asturias, Principado de;General;Variación anual;2024T4;11,7
 Nacional;03 Asturias, Principado de;General;Variación anual;2024T3;6,9
@@ -2846,6 +2885,7 @@ Nacional;03 Asturias, Principado de;General;Variación anual;2007T4;8,5
 Nacional;03 Asturias, Principado de;General;Variación anual;2007T3;10,8
 Nacional;03 Asturias, Principado de;General;Variación anual;2007T2;13,5
 Nacional;03 Asturias, Principado de;General;Variación anual;2007T1;15,8
+Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2025T2;8,2
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2025T1;3,7
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2024T4;11,7
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2024T3;8,9
@@ -2919,6 +2959,7 @@ Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2007
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2007T3;8,5
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2007T2;6,1
 Nacional;03 Asturias, Principado de;General;Variación en lo que va de año;2007T1;2,6
+Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2025T2;178,123
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2025T1;173,89
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2024T4;168,423
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2024T3;161,945
@@ -2992,6 +3033,7 @@ Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2007T4;134,932
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2007T3;132,204
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2007T2;128,087
 Nacional;03 Asturias, Principado de;Vivienda nueva;Índice;2007T1;123,959
+Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2025T2;2,4
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2025T1;3,2
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2024T4;4
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2024T3;1,3
@@ -3065,6 +3107,7 @@ Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2007T4;
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2007T3;3,2
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2007T2;3,3
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación trimestral;2007T1;2,8
+Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2025T2;11,4
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2025T1;9,4
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2024T4;12,1
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2024T3;3,9
@@ -3138,6 +3181,7 @@ Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2007T4;11,9
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2007T3;12,4
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2007T2;14,7
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación anual;2007T1;15,2
+Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2025T2;5,8
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2025T1;3,2
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2024T4;12,1
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2024T3;7,8
@@ -3211,6 +3255,7 @@ Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de a�
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2007T3;9,7
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2007T2;6,3
 Nacional;03 Asturias, Principado de;Vivienda nueva;Variación en lo que va de año;2007T1;2,8
+Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2025T2;156,187
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2025T1;149,175
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2024T4;143,714
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2024T3;140,415
@@ -3284,6 +3329,7 @@ Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2007T4;159,401
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2007T3;163,043
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2007T2;161,254
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Índice;2007T1;155,572
+Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2025T2;4,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2025T1;3,8
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2024T4;2,3
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2024T3;2,4
@@ -3357,6 +3403,7 @@ Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2007T3;1,1
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2007T2;3,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación trimestral;2007T1;2,3
+Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2025T2;13,9
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2025T1;13,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2024T4;11,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2024T3;7,3
@@ -3430,6 +3477,7 @@ Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2007T
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2007T3;9
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2007T2;12,1
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación anual;2007T1;16,4
+Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,8
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2024T4;11,7
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2024T3;9,1
@@ -3503,6 +3551,7 @@ Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que v
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2007T3;7,2
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2007T2;6
 Nacional;03 Asturias, Principado de;Vivienda segunda mano;Variación en lo que va de año;2007T1;2,3
+Nacional;04 Balears, Illes;General;Índice;2025T2;192,349
 Nacional;04 Balears, Illes;General;Índice;2025T1;185,053
 Nacional;04 Balears, Illes;General;Índice;2024T4;179,469
 Nacional;04 Balears, Illes;General;Índice;2024T3;177,025
@@ -3576,6 +3625,7 @@ Nacional;04 Balears, Illes;General;Índice;2007T4;141,156
 Nacional;04 Balears, Illes;General;Índice;2007T3;141,55
 Nacional;04 Balears, Illes;General;Índice;2007T2;138,926
 Nacional;04 Balears, Illes;General;Índice;2007T1;134,284
+Nacional;04 Balears, Illes;General;Variación trimestral;2025T2;3,9
 Nacional;04 Balears, Illes;General;Variación trimestral;2025T1;3,1
 Nacional;04 Balears, Illes;General;Variación trimestral;2024T4;1,4
 Nacional;04 Balears, Illes;General;Variación trimestral;2024T3;2,8
@@ -3649,6 +3699,7 @@ Nacional;04 Balears, Illes;General;Variación trimestral;2007T4;-0,3
 Nacional;04 Balears, Illes;General;Variación trimestral;2007T3;1,9
 Nacional;04 Balears, Illes;General;Variación trimestral;2007T2;3,5
 Nacional;04 Balears, Illes;General;Variación trimestral;2007T1;2
+Nacional;04 Balears, Illes;General;Variación anual;2025T2;11,7
 Nacional;04 Balears, Illes;General;Variación anual;2025T1;10
 Nacional;04 Balears, Illes;General;Variación anual;2024T4;8,6
 Nacional;04 Balears, Illes;General;Variación anual;2024T3;5,8
@@ -3722,6 +3773,7 @@ Nacional;04 Balears, Illes;General;Variación anual;2007T4;7,2
 Nacional;04 Balears, Illes;General;Variación anual;2007T3;10,1
 Nacional;04 Balears, Illes;General;Variación anual;2007T2;10,9
 Nacional;04 Balears, Illes;General;Variación anual;2007T1;13,6
+Nacional;04 Balears, Illes;General;Variación en lo que va de año;2025T2;7,2
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2025T1;3,1
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2024T4;8,6
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2024T3;7,1
@@ -3795,6 +3847,7 @@ Nacional;04 Balears, Illes;General;Variación en lo que va de año;2007T4;7,2
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2007T3;7,5
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2007T2;5,5
 Nacional;04 Balears, Illes;General;Variación en lo que va de año;2007T1;2
+Nacional;04 Balears, Illes;Vivienda nueva;Índice;2025T2;233,183
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2025T1;232,215
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2024T4;210,289
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2024T3;209,282
@@ -3868,6 +3921,7 @@ Nacional;04 Balears, Illes;Vivienda nueva;Índice;2007T4;120,981
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2007T3;118,999
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2007T2;115,102
 Nacional;04 Balears, Illes;Vivienda nueva;Índice;2007T1;110,72
+Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2025T2;0,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2025T1;10,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2024T4;0,5
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2024T3;4,2
@@ -3941,6 +3995,7 @@ Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2007T4;1,7
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2007T3;3,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2007T2;4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación trimestral;2007T1;1,6
+Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2025T2;16,1
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2025T1;17,2
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2024T4;10,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2024T3;10,9
@@ -4014,6 +4069,7 @@ Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2007T4;11
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2007T3;12,1
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2007T2;12,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación anual;2007T1;12,9
+Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2025T2;10,9
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2025T1;10,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2024T4;10,4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2024T3;9,9
@@ -4087,6 +4143,7 @@ Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2007T4
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2007T3;9,2
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2007T2;5,6
 Nacional;04 Balears, Illes;Vivienda nueva;Variación en lo que va de año;2007T1;1,6
+Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2025T2;188,421
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2025T1;180,5
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2024T4;176,52
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2024T3;173,869
@@ -4160,6 +4217,7 @@ Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2007T4;153,275
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2007T3;155,339
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2007T2;153,652
 Nacional;04 Balears, Illes;Vivienda segunda mano;Índice;2007T1;148,895
+Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2025T2;4,4
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2025T1;2,3
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2024T4;1,5
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2024T3;2,6
@@ -4233,6 +4291,7 @@ Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2007T4;-1
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2007T3;1,1
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2007T2;3,2
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación trimestral;2007T1;2,2
+Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2025T2;11,2
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2025T1;9,1
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2024T4;8,3
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2024T3;5,1
@@ -4306,6 +4365,7 @@ Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2007T4;5,2
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2007T3;9,1
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2007T2;10,1
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación anual;2007T1;13,9
+Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2025T2;6,7
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2025T1;2,3
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2024T4;8,3
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2024T3;6,7
@@ -4379,6 +4439,7 @@ Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2007T3;6,6
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2007T2;5,5
 Nacional;04 Balears, Illes;Vivienda segunda mano;Variación en lo que va de año;2007T1;2,2
+Nacional;05 Canarias;General;Índice;2025T2;173,589
 Nacional;05 Canarias;General;Índice;2025T1;168,596
 Nacional;05 Canarias;General;Índice;2024T4;160,865
 Nacional;05 Canarias;General;Índice;2024T3;158,063
@@ -4452,6 +4513,7 @@ Nacional;05 Canarias;General;Índice;2007T4;140,62
 Nacional;05 Canarias;General;Índice;2007T3;139,186
 Nacional;05 Canarias;General;Índice;2007T2;136,815
 Nacional;05 Canarias;General;Índice;2007T1;132,56
+Nacional;05 Canarias;General;Variación trimestral;2025T2;3
 Nacional;05 Canarias;General;Variación trimestral;2025T1;4,8
 Nacional;05 Canarias;General;Variación trimestral;2024T4;1,8
 Nacional;05 Canarias;General;Variación trimestral;2024T3;1,7
@@ -4525,6 +4587,7 @@ Nacional;05 Canarias;General;Variación trimestral;2007T4;1
 Nacional;05 Canarias;General;Variación trimestral;2007T3;1,7
 Nacional;05 Canarias;General;Variación trimestral;2007T2;3,2
 Nacional;05 Canarias;General;Variación trimestral;2007T1;2,4
+Nacional;05 Canarias;General;Variación anual;2025T2;11,6
 Nacional;05 Canarias;General;Variación anual;2025T1;12,4
 Nacional;05 Canarias;General;Variación anual;2024T4;10,6
 Nacional;05 Canarias;General;Variación anual;2024T3;7,1
@@ -4598,6 +4661,7 @@ Nacional;05 Canarias;General;Variación anual;2007T4;8,6
 Nacional;05 Canarias;General;Variación anual;2007T3;11,6
 Nacional;05 Canarias;General;Variación anual;2007T2;13,9
 Nacional;05 Canarias;General;Variación anual;2007T1;14,6
+Nacional;05 Canarias;General;Variación en lo que va de año;2025T2;7,9
 Nacional;05 Canarias;General;Variación en lo que va de año;2025T1;4,8
 Nacional;05 Canarias;General;Variación en lo que va de año;2024T4;10,6
 Nacional;05 Canarias;General;Variación en lo que va de año;2024T3;8,7
@@ -4671,6 +4735,7 @@ Nacional;05 Canarias;General;Variación en lo que va de año;2007T4;8,6
 Nacional;05 Canarias;General;Variación en lo que va de año;2007T3;7,5
 Nacional;05 Canarias;General;Variación en lo que va de año;2007T2;5,7
 Nacional;05 Canarias;General;Variación en lo que va de año;2007T1;2,4
+Nacional;05 Canarias;Vivienda nueva;Índice;2025T2;202,339
 Nacional;05 Canarias;Vivienda nueva;Índice;2025T1;197,51
 Nacional;05 Canarias;Vivienda nueva;Índice;2024T4;183,331
 Nacional;05 Canarias;Vivienda nueva;Índice;2024T3;183,024
@@ -4744,6 +4809,7 @@ Nacional;05 Canarias;Vivienda nueva;Índice;2007T4;129,262
 Nacional;05 Canarias;Vivienda nueva;Índice;2007T3;125,283
 Nacional;05 Canarias;Vivienda nueva;Índice;2007T2;121,882
 Nacional;05 Canarias;Vivienda nueva;Índice;2007T1;118,587
+Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2025T2;2,4
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2025T1;7,7
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2024T4;0,2
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2024T3;0,1
@@ -4817,6 +4883,7 @@ Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2007T4;3,2
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2007T3;2,8
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2007T2;2,8
 Nacional;05 Canarias;Vivienda nueva;Variación trimestral;2007T1;2,6
+Nacional;05 Canarias;Vivienda nueva;Variación anual;2025T2;10,7
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2025T1;12,6
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2024T4;13,3
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2024T3;10
@@ -4890,6 +4957,7 @@ Nacional;05 Canarias;Vivienda nueva;Variación anual;2007T4;11,8
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2007T3;13,4
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2007T2;15,3
 Nacional;05 Canarias;Vivienda nueva;Variación anual;2007T1;14,9
+Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2025T2;10,4
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2025T1;7,7
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2024T4;13,3
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2024T3;13,1
@@ -4963,6 +5031,7 @@ Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2007T4;11,8
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2007T3;8,4
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2007T2;5,4
 Nacional;05 Canarias;Vivienda nueva;Variación en lo que va de año;2007T1;2,6
+Nacional;05 Canarias;Vivienda segunda mano;Índice;2025T2;171,217
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2025T1;166,229
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2024T4;158,93
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2024T3;155,936
@@ -5036,6 +5105,7 @@ Nacional;05 Canarias;Vivienda segunda mano;Índice;2007T4;150,583
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2007T3;152,104
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2007T2;150,97
 Nacional;05 Canarias;Vivienda segunda mano;Índice;2007T1;145,706
+Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2025T2;3
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2025T1;4,6
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2024T4;1,9
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2024T3;1,8
@@ -5109,6 +5179,7 @@ Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2007T4;-1
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2007T3;0,8
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2007T2;3,6
 Nacional;05 Canarias;Vivienda segunda mano;Variación trimestral;2007T1;2,3
+Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2025T2;11,8
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2025T1;12,5
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2024T4;10,4
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2024T3;6,8
@@ -5182,6 +5253,7 @@ Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2007T4;5,7
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2007T3;9,9
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2007T2;12,5
 Nacional;05 Canarias;Vivienda segunda mano;Variación anual;2007T1;14,2
+Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2025T2;7,7
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2025T1;4,6
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,4
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,3
@@ -5255,6 +5327,7 @@ Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2007T
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2007T3;6,8
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2007T2;6
 Nacional;05 Canarias;Vivienda segunda mano;Variación en lo que va de año;2007T1;2,3
+Nacional;06 Cantabria;General;Índice;2025T2;171,527
 Nacional;06 Cantabria;General;Índice;2025T1;165,005
 Nacional;06 Cantabria;General;Índice;2024T4;161,488
 Nacional;06 Cantabria;General;Índice;2024T3;159,264
@@ -5328,6 +5401,7 @@ Nacional;06 Cantabria;General;Índice;2007T4;155,296
 Nacional;06 Cantabria;General;Índice;2007T3;153,597
 Nacional;06 Cantabria;General;Índice;2007T2;151,655
 Nacional;06 Cantabria;General;Índice;2007T1;147,993
+Nacional;06 Cantabria;General;Variación trimestral;2025T2;4
 Nacional;06 Cantabria;General;Variación trimestral;2025T1;2,2
 Nacional;06 Cantabria;General;Variación trimestral;2024T4;1,4
 Nacional;06 Cantabria;General;Variación trimestral;2024T3;2,9
@@ -5401,6 +5475,7 @@ Nacional;06 Cantabria;General;Variación trimestral;2007T4;1,1
 Nacional;06 Cantabria;General;Variación trimestral;2007T3;1,3
 Nacional;06 Cantabria;General;Variación trimestral;2007T2;2,5
 Nacional;06 Cantabria;General;Variación trimestral;2007T1;1,5
+Nacional;06 Cantabria;General;Variación anual;2025T2;10,8
 Nacional;06 Cantabria;General;Variación anual;2025T1;10,2
 Nacional;06 Cantabria;General;Variación anual;2024T4;11,8
 Nacional;06 Cantabria;General;Variación anual;2024T3;8,9
@@ -5474,6 +5549,7 @@ Nacional;06 Cantabria;General;Variación anual;2007T4;6,6
 Nacional;06 Cantabria;General;Variación anual;2007T3;8,7
 Nacional;06 Cantabria;General;Variación anual;2007T2;11,5
 Nacional;06 Cantabria;General;Variación anual;2007T1;13,1
+Nacional;06 Cantabria;General;Variación en lo que va de año;2025T2;6,2
 Nacional;06 Cantabria;General;Variación en lo que va de año;2025T1;2,2
 Nacional;06 Cantabria;General;Variación en lo que va de año;2024T4;11,8
 Nacional;06 Cantabria;General;Variación en lo que va de año;2024T3;10,2
@@ -5547,6 +5623,7 @@ Nacional;06 Cantabria;General;Variación en lo que va de año;2007T4;6,6
 Nacional;06 Cantabria;General;Variación en lo que va de año;2007T3;5,4
 Nacional;06 Cantabria;General;Variación en lo que va de año;2007T2;4,1
 Nacional;06 Cantabria;General;Variación en lo que va de año;2007T1;1,5
+Nacional;06 Cantabria;Vivienda nueva;Índice;2025T2;187,66
 Nacional;06 Cantabria;Vivienda nueva;Índice;2025T1;182,409
 Nacional;06 Cantabria;Vivienda nueva;Índice;2024T4;178,067
 Nacional;06 Cantabria;Vivienda nueva;Índice;2024T3;179,09
@@ -5620,6 +5697,7 @@ Nacional;06 Cantabria;Vivienda nueva;Índice;2007T4;139,44
 Nacional;06 Cantabria;Vivienda nueva;Índice;2007T3;135,409
 Nacional;06 Cantabria;Vivienda nueva;Índice;2007T2;132,466
 Nacional;06 Cantabria;Vivienda nueva;Índice;2007T1;129,582
+Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2025T2;2,9
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2025T1;2,4
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2024T4;-0,6
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2024T3;0,6
@@ -5693,6 +5771,7 @@ Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2007T4;3
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2007T3;2,2
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2007T2;2,2
 Nacional;06 Cantabria;Vivienda nueva;Variación trimestral;2007T1;1,9
+Nacional;06 Cantabria;Vivienda nueva;Variación anual;2025T2;5,4
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2025T1;7
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2024T4;13,2
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2024T3;11,7
@@ -5766,6 +5845,7 @@ Nacional;06 Cantabria;Vivienda nueva;Variación anual;2007T4;9,6
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2007T3;10,2
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2007T2;12,4
 Nacional;06 Cantabria;Vivienda nueva;Variación anual;2007T1;13,6
+Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2025T2;5,4
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2025T1;2,4
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2024T4;13,2
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2024T3;13,9
@@ -5839,6 +5919,7 @@ Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2007T4;9,6
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2007T3;6,4
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2007T2;4,1
 Nacional;06 Cantabria;Vivienda nueva;Variación en lo que va de año;2007T1;1,9
+Nacional;06 Cantabria;Vivienda segunda mano;Índice;2025T2;169,28
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2025T1;162,622
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2024T4;159,21
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2024T3;156,518
@@ -5912,6 +5993,7 @@ Nacional;06 Cantabria;Vivienda segunda mano;Índice;2007T4;167,403
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2007T3;169,237
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2007T2;168,898
 Nacional;06 Cantabria;Vivienda segunda mano;Índice;2007T1;164,358
+Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2025T2;4,1
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2025T1;2,1
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2024T4;1,7
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2024T3;3,3
@@ -5985,6 +6067,7 @@ Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2007T4;-1,1
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2007T3;0,2
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2007T2;2,8
 Nacional;06 Cantabria;Vivienda segunda mano;Variación trimestral;2007T1;1,2
+Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2025T2;11,7
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2025T1;10,8
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2024T4;11,5
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2024T3;8,4
@@ -6058,6 +6141,7 @@ Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2007T4;3
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2007T3;7,1
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2007T2;10,5
 Nacional;06 Cantabria;Vivienda segunda mano;Variación anual;2007T1;12,6
+Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2025T2;6,3
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2025T1;2,1
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2024T4;11,5
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2024T3;9,6
@@ -6131,6 +6215,7 @@ Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2007
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2007T3;4,2
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2007T2;4
 Nacional;06 Cantabria;Vivienda segunda mano;Variación en lo que va de año;2007T1;1,2
+Nacional;07 Castilla y León;General;Índice;2025T2;157,423
 Nacional;07 Castilla y León;General;Índice;2025T1;150,79
 Nacional;07 Castilla y León;General;Índice;2024T4;144,488
 Nacional;07 Castilla y León;General;Índice;2024T3;141,613
@@ -6204,6 +6289,7 @@ Nacional;07 Castilla y León;General;Índice;2007T4;154,401
 Nacional;07 Castilla y León;General;Índice;2007T3;151,76
 Nacional;07 Castilla y León;General;Índice;2007T2;148,47
 Nacional;07 Castilla y León;General;Índice;2007T1;144,624
+Nacional;07 Castilla y León;General;Variación trimestral;2025T2;4,4
 Nacional;07 Castilla y León;General;Variación trimestral;2025T1;4,4
 Nacional;07 Castilla y León;General;Variación trimestral;2024T4;2
 Nacional;07 Castilla y León;General;Variación trimestral;2024T3;2,2
@@ -6277,6 +6363,7 @@ Nacional;07 Castilla y León;General;Variación trimestral;2007T4;1,7
 Nacional;07 Castilla y León;General;Variación trimestral;2007T3;2,2
 Nacional;07 Castilla y León;General;Variación trimestral;2007T2;2,7
 Nacional;07 Castilla y León;General;Variación trimestral;2007T1;2,3
+Nacional;07 Castilla y León;General;Variación anual;2025T2;13,6
 Nacional;07 Castilla y León;General;Variación anual;2025T1;12,4
 Nacional;07 Castilla y León;General;Variación anual;2024T4;10,6
 Nacional;07 Castilla y León;General;Variación anual;2024T3;8
@@ -6350,6 +6437,7 @@ Nacional;07 Castilla y León;General;Variación anual;2007T4;9,3
 Nacional;07 Castilla y León;General;Variación anual;2007T3;10,5
 Nacional;07 Castilla y León;General;Variación anual;2007T2;12,1
 Nacional;07 Castilla y León;General;Variación anual;2007T1;13
+Nacional;07 Castilla y León;General;Variación en lo que va de año;2025T2;9
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2025T1;4,4
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2024T4;10,6
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2024T3;8,4
@@ -6423,6 +6511,7 @@ Nacional;07 Castilla y León;General;Variación en lo que va de año;2007T4;9,3
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2007T3;7,4
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2007T2;5,1
 Nacional;07 Castilla y León;General;Variación en lo que va de año;2007T1;2,3
+Nacional;07 Castilla y León;Vivienda nueva;Índice;2025T2;184,36
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2025T1;179,715
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2024T4;169,777
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2024T3;163,873
@@ -6496,6 +6585,7 @@ Nacional;07 Castilla y León;Vivienda nueva;Índice;2007T4;142,846
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2007T3;138,029
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2007T2;134,046
 Nacional;07 Castilla y León;Vivienda nueva;Índice;2007T1;131,272
+Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2025T2;2,6
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2025T1;5,9
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2024T4;3,6
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2024T3;1,1
@@ -6569,6 +6659,7 @@ Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2007T4;3,5
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2007T3;3
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2007T2;2,1
 Nacional;07 Castilla y León;Vivienda nueva;Variación trimestral;2007T1;3,3
+Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2025T2;13,7
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2025T1;12,1
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2024T4;10,8
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2024T3;5,9
@@ -6642,6 +6733,7 @@ Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2007T4;12,4
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2007T3;12,1
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2007T2;13,3
 Nacional;07 Castilla y León;Vivienda nueva;Variación anual;2007T1;13,9
+Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2025T2;8,6
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2025T1;5,9
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2024T4;10,8
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2024T3;6,9
@@ -6715,6 +6807,7 @@ Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2007
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2007T3;8,6
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2007T2;5,5
 Nacional;07 Castilla y León;Vivienda nueva;Variación en lo que va de año;2007T1;3,3
+Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2025T2;153,707
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2025T1;146,678
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2024T4;140,977
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2024T3;138,645
@@ -6788,6 +6881,7 @@ Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2007T4;172,244
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2007T3;173,654
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2007T2;171,704
 Nacional;07 Castilla y León;Vivienda segunda mano;Índice;2007T1;165,976
+Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2025T2;4,8
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2025T1;4
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2024T4;1,7
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2024T3;2,4
@@ -6861,6 +6955,7 @@ Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2007T4;
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2007T3;1,1
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2007T2;3,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación trimestral;2007T1;1
+Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2025T2;13,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2025T1;12,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2024T4;10,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2024T3;8,4
@@ -6934,6 +7029,7 @@ Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2007T4;4,8
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2007T3;8,3
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2007T2;10,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación anual;2007T1;11,6
+Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2025T2;9
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2025T1;4
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,7
@@ -7007,6 +7103,7 @@ Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de a�
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2007T3;5,6
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2007T2;4,5
 Nacional;07 Castilla y León;Vivienda segunda mano;Variación en lo que va de año;2007T1;1
+Nacional;08 Castilla - La Mancha;General;Índice;2025T2;141,709
 Nacional;08 Castilla - La Mancha;General;Índice;2025T1;136,159
 Nacional;08 Castilla - La Mancha;General;Índice;2024T4;131,455
 Nacional;08 Castilla - La Mancha;General;Índice;2024T3;129,997
@@ -7080,6 +7177,7 @@ Nacional;08 Castilla - La Mancha;General;Índice;2007T4;148,855
 Nacional;08 Castilla - La Mancha;General;Índice;2007T3;148,263
 Nacional;08 Castilla - La Mancha;General;Índice;2007T2;145,683
 Nacional;08 Castilla - La Mancha;General;Índice;2007T1;142,158
+Nacional;08 Castilla - La Mancha;General;Variación trimestral;2025T2;4,1
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2025T1;3,6
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2024T4;1,1
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2024T3;2,1
@@ -7153,6 +7251,7 @@ Nacional;08 Castilla - La Mancha;General;Variación trimestral;2007T4;0,4
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2007T3;1,8
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2007T2;2,5
 Nacional;08 Castilla - La Mancha;General;Variación trimestral;2007T1;4,7
+Nacional;08 Castilla - La Mancha;General;Variación anual;2025T2;11,3
 Nacional;08 Castilla - La Mancha;General;Variación anual;2025T1;10,4
 Nacional;08 Castilla - La Mancha;General;Variación anual;2024T4;8,7
 Nacional;08 Castilla - La Mancha;General;Variación anual;2024T3;6,9
@@ -7226,6 +7325,7 @@ Nacional;08 Castilla - La Mancha;General;Variación anual;2007T4;9,6
 Nacional;08 Castilla - La Mancha;General;Variación anual;2007T3;12,8
 Nacional;08 Castilla - La Mancha;General;Variación anual;2007T2;14,4
 Nacional;08 Castilla - La Mancha;General;Variación anual;2007T1;17,3
+Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2025T2;7,8
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2025T1;3,6
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2024T4;8,7
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2024T3;7,5
@@ -7299,6 +7399,7 @@ Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2007T4;
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2007T3;9,2
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2007T2;7,3
 Nacional;08 Castilla - La Mancha;General;Variación en lo que va de año;2007T1;4,7
+Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2025T2;172,388
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2025T1;168,609
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2024T4;160,632
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2024T3;153,524
@@ -7372,6 +7473,7 @@ Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2007T4;144,958
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2007T3;141,781
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2007T2;138,842
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Índice;2007T1;136,182
+Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2025T2;2,2
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2025T1;5
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2024T4;4,6
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2024T3;0,7
@@ -7445,6 +7547,7 @@ Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2007T4;2,2
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2007T3;2,1
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2007T2;2
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación trimestral;2007T1;5,4
+Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2025T2;13,1
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2025T1;11,8
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2024T4;9,7
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2024T3;7,1
@@ -7518,6 +7621,7 @@ Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2007T4;12,2
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2007T3;13,7
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2007T2;15,3
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación anual;2007T1;18,2
+Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2025T2;7,3
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2025T1;5
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2024T4;9,7
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2024T3;4,8
@@ -7591,6 +7695,7 @@ Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2007T3;9,7
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2007T2;7,4
 Nacional;08 Castilla - La Mancha;Vivienda nueva;Variación en lo que va de año;2007T1;5,4
+Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2025T2;136,262
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2025T1;130,495
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2024T4;126,298
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2024T3;125,668
@@ -7664,6 +7769,7 @@ Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2007T4;159,748
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2007T3;164,699
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2007T2;162,845
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Índice;2007T1;157,404
+Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2025T2;4,4
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2025T1;3,3
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2024T4;0,5
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2024T3;2,4
@@ -7737,6 +7843,7 @@ Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;200
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2007T3;1,1
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2007T2;3,5
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación trimestral;2007T1;3,5
+Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2025T2;11
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2025T1;10,1
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2024T4;8,5
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2024T3;6,9
@@ -7810,6 +7917,7 @@ Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2007T4;5
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2007T3;11,3
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2007T2;12,9
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación anual;2007T1;15,7
+Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2025T2;7,9
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,3
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2024T4;8,5
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2024T3;8
@@ -7883,6 +7991,7 @@ Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va d
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2007T3;8,3
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2007T2;7,1
 Nacional;08 Castilla - La Mancha;Vivienda segunda mano;Variación en lo que va de año;2007T1;3,5
+Nacional;09 Cataluña;General;Índice;2025T2;185,881
 Nacional;09 Cataluña;General;Índice;2025T1;180,959
 Nacional;09 Cataluña;General;Índice;2024T4;174,491
 Nacional;09 Cataluña;General;Índice;2024T3;171,23
@@ -7956,6 +8065,7 @@ Nacional;09 Cataluña;General;Índice;2007T4;170,591
 Nacional;09 Cataluña;General;Índice;2007T3;174,88
 Nacional;09 Cataluña;General;Índice;2007T2;175,835
 Nacional;09 Cataluña;General;Índice;2007T1;170,691
+Nacional;09 Cataluña;General;Variación trimestral;2025T2;2,7
 Nacional;09 Cataluña;General;Variación trimestral;2025T1;3,7
 Nacional;09 Cataluña;General;Variación trimestral;2024T4;1,9
 Nacional;09 Cataluña;General;Variación trimestral;2024T3;2,8
@@ -8029,6 +8139,7 @@ Nacional;09 Cataluña;General;Variación trimestral;2007T4;-2,5
 Nacional;09 Cataluña;General;Variación trimestral;2007T3;-0,5
 Nacional;09 Cataluña;General;Variación trimestral;2007T2;3
 Nacional;09 Cataluña;General;Variación trimestral;2007T1;1,4
+Nacional;09 Cataluña;General;Variación anual;2025T2;11,6
 Nacional;09 Cataluña;General;Variación anual;2025T1;11,7
 Nacional;09 Cataluña;General;Variación anual;2024T4;10,4
 Nacional;09 Cataluña;General;Variación anual;2024T3;6,8
@@ -8102,6 +8213,7 @@ Nacional;09 Cataluña;General;Variación anual;2007T4;1,3
 Nacional;09 Cataluña;General;Variación anual;2007T3;6,5
 Nacional;09 Cataluña;General;Variación anual;2007T2;10,3
 Nacional;09 Cataluña;General;Variación anual;2007T1;11,4
+Nacional;09 Cataluña;General;Variación en lo que va de año;2025T2;6,5
 Nacional;09 Cataluña;General;Variación en lo que va de año;2025T1;3,7
 Nacional;09 Cataluña;General;Variación en lo que va de año;2024T4;10,4
 Nacional;09 Cataluña;General;Variación en lo que va de año;2024T3;8,3
@@ -8175,6 +8287,7 @@ Nacional;09 Cataluña;General;Variación en lo que va de año;2007T4;1,3
 Nacional;09 Cataluña;General;Variación en lo que va de año;2007T3;3,8
 Nacional;09 Cataluña;General;Variación en lo que va de año;2007T2;4,4
 Nacional;09 Cataluña;General;Variación en lo que va de año;2007T1;1,4
+Nacional;09 Cataluña;Vivienda nueva;Índice;2025T2;215,637
 Nacional;09 Cataluña;Vivienda nueva;Índice;2025T1;213,145
 Nacional;09 Cataluña;Vivienda nueva;Índice;2024T4;199,354
 Nacional;09 Cataluña;Vivienda nueva;Índice;2024T3;200,203
@@ -8248,6 +8361,7 @@ Nacional;09 Cataluña;Vivienda nueva;Índice;2007T4;147,761
 Nacional;09 Cataluña;Vivienda nueva;Índice;2007T3;148,17
 Nacional;09 Cataluña;Vivienda nueva;Índice;2007T2;147,894
 Nacional;09 Cataluña;Vivienda nueva;Índice;2007T1;141,831
+Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2025T2;1,2
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2025T1;6,9
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2024T4;-0,4
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2024T3;3,4
@@ -8321,6 +8435,7 @@ Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2007T4;-0,3
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2007T3;0,2
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2007T2;4,3
 Nacional;09 Cataluña;Vivienda nueva;Variación trimestral;2007T1;1,7
+Nacional;09 Cataluña;Vivienda nueva;Variación anual;2025T2;11,4
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2025T1;12
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2024T4;10
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2024T3;9,8
@@ -8394,6 +8509,7 @@ Nacional;09 Cataluña;Vivienda nueva;Variación anual;2007T4;5,9
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2007T3;9,2
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2007T2;13,5
 Nacional;09 Cataluña;Vivienda nueva;Variación anual;2007T1;11
+Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2025T2;8,2
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2025T1;6,9
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2024T4;10
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2024T3;10,5
@@ -8467,6 +8583,7 @@ Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2007T4;5,9
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2007T3;6,2
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2007T2;6
 Nacional;09 Cataluña;Vivienda nueva;Variación en lo que va de año;2007T1;1,7
+Nacional;09 Cataluña;Vivienda segunda mano;Índice;2025T2;182,879
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2025T1;177,714
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2024T4;171,981
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2024T3;168,328
@@ -8540,6 +8657,7 @@ Nacional;09 Cataluña;Vivienda segunda mano;Índice;2007T4;179,895
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2007T3;186,422
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2007T2;188,098
 Nacional;09 Cataluña;Vivienda segunda mano;Índice;2007T1;183,647
+Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2025T2;2,9
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2025T1;3,3
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2024T4;2,2
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2024T3;2,7
@@ -8613,6 +8731,7 @@ Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2007T4;-3,5
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2007T3;-0,9
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2007T2;2,4
 Nacional;09 Cataluña;Vivienda segunda mano;Variación trimestral;2007T1;1,2
+Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2025T2;11,6
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2025T1;11,6
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2024T4;10,5
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2024T3;6,4
@@ -8686,6 +8805,7 @@ Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2007T4;-0,9
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2007T3;5,3
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2007T2;8,8
 Nacional;09 Cataluña;Vivienda segunda mano;Variación anual;2007T1;11,6
+Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2025T2;6,3
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,3
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,5
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,1
@@ -8759,6 +8879,7 @@ Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2007
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2007T3;2,7
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2007T2;3,7
 Nacional;09 Cataluña;Vivienda segunda mano;Variación en lo que va de año;2007T1;1,2
+Nacional;10 Comunitat Valenciana;General;Índice;2025T2;165,435
 Nacional;10 Comunitat Valenciana;General;Índice;2025T1;158,202
 Nacional;10 Comunitat Valenciana;General;Índice;2024T4;154,122
 Nacional;10 Comunitat Valenciana;General;Índice;2024T3;151,002
@@ -8832,6 +8953,7 @@ Nacional;10 Comunitat Valenciana;General;Índice;2007T4;145,844
 Nacional;10 Comunitat Valenciana;General;Índice;2007T3;144,18
 Nacional;10 Comunitat Valenciana;General;Índice;2007T2;141,929
 Nacional;10 Comunitat Valenciana;General;Índice;2007T1;137,102
+Nacional;10 Comunitat Valenciana;General;Variación trimestral;2025T2;4,6
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2025T1;2,6
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2024T4;2,1
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2024T3;2,8
@@ -8905,6 +9027,7 @@ Nacional;10 Comunitat Valenciana;General;Variación trimestral;2007T4;1,2
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2007T3;1,6
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2007T2;3,5
 Nacional;10 Comunitat Valenciana;General;Variación trimestral;2007T1;2,3
+Nacional;10 Comunitat Valenciana;General;Variación anual;2025T2;12,6
 Nacional;10 Comunitat Valenciana;General;Variación anual;2025T1;12,3
 Nacional;10 Comunitat Valenciana;General;Variación anual;2024T4;12,2
 Nacional;10 Comunitat Valenciana;General;Variación anual;2024T3;8,8
@@ -8978,6 +9101,7 @@ Nacional;10 Comunitat Valenciana;General;Variación anual;2007T4;8,8
 Nacional;10 Comunitat Valenciana;General;Variación anual;2007T3;11,4
 Nacional;10 Comunitat Valenciana;General;Variación anual;2007T2;13,9
 Nacional;10 Comunitat Valenciana;General;Variación anual;2007T1;14,5
+Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2025T2;7,3
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2025T1;2,6
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2024T4;12,2
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2024T3;9,9
@@ -9051,6 +9175,7 @@ Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2007T4;
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2007T3;7,6
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2007T2;5,9
 Nacional;10 Comunitat Valenciana;General;Variación en lo que va de año;2007T1;2,3
+Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2025T2;190,827
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2025T1;185,781
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2024T4;181,877
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2024T3;178,353
@@ -9124,6 +9249,7 @@ Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2007T4;133,272
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2007T3;128,987
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2007T2;125,997
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Índice;2007T1;121,972
+Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2025T2;2,7
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2025T1;2,1
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2024T4;2
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2024T3;1
@@ -9197,6 +9323,7 @@ Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2007T4;3,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2007T3;2,4
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2007T2;3,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación trimestral;2007T1;1,9
+Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2025T2;8
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2025T1;9,7
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2024T4;13,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2024T3;8,6
@@ -9270,6 +9397,7 @@ Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2007T4;11,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2007T3;12,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2007T2;14,5
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación anual;2007T1;14
+Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2025T2;4,9
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2025T1;2,1
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2024T4;13,3
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2024T3;11,1
@@ -9343,6 +9471,7 @@ Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2007T3;7,7
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2007T2;5,2
 Nacional;10 Comunitat Valenciana;Vivienda nueva;Variación en lo que va de año;2007T1;1,9
+Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2025T2;161,443
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2025T1;153,906
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2024T4;149,809
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2024T3;146,753
@@ -9416,6 +9545,7 @@ Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2007T4;156,376
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2007T3;158,053
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2007T2;156,81
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Índice;2007T1;151,152
+Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2025T2;4,9
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2025T1;2,7
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2024T4;2,1
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2024T3;3,1
@@ -9489,6 +9619,7 @@ Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;200
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2007T3;0,8
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2007T2;3,7
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación trimestral;2007T1;2,8
+Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2025T2;13,4
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2025T1;12,8
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2024T4;12
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2024T3;8,9
@@ -9562,6 +9693,7 @@ Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2007T4;6
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2007T3;10,6
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2007T2;13,5
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación anual;2007T1;15,1
+Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2025T2;7,8
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2025T1;2,7
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2024T4;12
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2024T3;9,7
@@ -9635,6 +9767,7 @@ Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va d
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2007T3;7,5
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2007T2;6,6
 Nacional;10 Comunitat Valenciana;Vivienda segunda mano;Variación en lo que va de año;2007T1;2,8
+Nacional;11 Extremadura;General;Índice;2025T2;139,216
 Nacional;11 Extremadura;General;Índice;2025T1;133,037
 Nacional;11 Extremadura;General;Índice;2024T4;128,07
 Nacional;11 Extremadura;General;Índice;2024T3;127,293
@@ -9708,6 +9841,7 @@ Nacional;11 Extremadura;General;Índice;2007T4;136,545
 Nacional;11 Extremadura;General;Índice;2007T3;135,214
 Nacional;11 Extremadura;General;Índice;2007T2;133,609
 Nacional;11 Extremadura;General;Índice;2007T1;128,926
+Nacional;11 Extremadura;General;Variación trimestral;2025T2;4,6
 Nacional;11 Extremadura;General;Variación trimestral;2025T1;3,9
 Nacional;11 Extremadura;General;Variación trimestral;2024T4;0,6
 Nacional;11 Extremadura;General;Variación trimestral;2024T3;2,6
@@ -9781,6 +9915,7 @@ Nacional;11 Extremadura;General;Variación trimestral;2007T4;1
 Nacional;11 Extremadura;General;Variación trimestral;2007T3;1,2
 Nacional;11 Extremadura;General;Variación trimestral;2007T2;3,6
 Nacional;11 Extremadura;General;Variación trimestral;2007T1;3,2
+Nacional;11 Extremadura;General;Variación anual;2025T2;12,2
 Nacional;11 Extremadura;General;Variación anual;2025T1;10,9
 Nacional;11 Extremadura;General;Variación anual;2024T4;9,1
 Nacional;11 Extremadura;General;Variación anual;2024T3;8,2
@@ -9854,6 +9989,7 @@ Nacional;11 Extremadura;General;Variación anual;2007T4;9,3
 Nacional;11 Extremadura;General;Variación anual;2007T3;14,1
 Nacional;11 Extremadura;General;Variación anual;2007T2;16,5
 Nacional;11 Extremadura;General;Variación anual;2007T1;17,3
+Nacional;11 Extremadura;General;Variación en lo que va de año;2025T2;8,7
 Nacional;11 Extremadura;General;Variación en lo que va de año;2025T1;3,9
 Nacional;11 Extremadura;General;Variación en lo que va de año;2024T4;9,1
 Nacional;11 Extremadura;General;Variación en lo que va de año;2024T3;8,4
@@ -9927,6 +10063,7 @@ Nacional;11 Extremadura;General;Variación en lo que va de año;2007T4;9,3
 Nacional;11 Extremadura;General;Variación en lo que va de año;2007T3;8,2
 Nacional;11 Extremadura;General;Variación en lo que va de año;2007T2;7
 Nacional;11 Extremadura;General;Variación en lo que va de año;2007T1;3,2
+Nacional;11 Extremadura;Vivienda nueva;Índice;2025T2;167,711
 Nacional;11 Extremadura;Vivienda nueva;Índice;2025T1;166,355
 Nacional;11 Extremadura;Vivienda nueva;Índice;2024T4;160,098
 Nacional;11 Extremadura;Vivienda nueva;Índice;2024T3;157,329
@@ -10000,6 +10137,7 @@ Nacional;11 Extremadura;Vivienda nueva;Índice;2007T4;128,3
 Nacional;11 Extremadura;Vivienda nueva;Índice;2007T3;124,337
 Nacional;11 Extremadura;Vivienda nueva;Índice;2007T2;123,189
 Nacional;11 Extremadura;Vivienda nueva;Índice;2007T1;118,956
+Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2025T2;0,8
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2025T1;3,9
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2024T4;1,8
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2024T3;4,7
@@ -10073,6 +10211,7 @@ Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2007T4;3,2
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2007T3;0,9
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2007T2;3,6
 Nacional;11 Extremadura;Vivienda nueva;Variación trimestral;2007T1;6,3
+Nacional;11 Extremadura;Vivienda nueva;Variación anual;2025T2;11,6
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2025T1;11,2
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2024T4;8
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2024T3;6,8
@@ -10146,6 +10285,7 @@ Nacional;11 Extremadura;Vivienda nueva;Variación anual;2007T4;14,7
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2007T3;17,1
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2007T2;20,3
 Nacional;11 Extremadura;Vivienda nueva;Variación anual;2007T1;22,2
+Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2025T2;4,8
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2025T1;3,9
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2024T4;8
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2024T3;6,1
@@ -10219,6 +10359,7 @@ Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2007T4;14
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2007T3;11,1
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2007T2;10,1
 Nacional;11 Extremadura;Vivienda nueva;Variación en lo que va de año;2007T1;6,3
+Nacional;11 Extremadura;Vivienda segunda mano;Índice;2025T2;136,979
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2025T1;130,596
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2024T4;125,723
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2024T3;125,062
@@ -10292,6 +10433,7 @@ Nacional;11 Extremadura;Vivienda segunda mano;Índice;2007T4;148,06
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2007T3;149,503
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2007T2;147,38
 Nacional;11 Extremadura;Vivienda segunda mano;Índice;2007T1;142,123
+Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2025T2;4,9
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2025T1;3,9
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2024T4;0,5
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2024T3;2,4
@@ -10365,6 +10507,7 @@ Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2007T4;-1
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2007T3;1,4
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2007T2;3,7
 Nacional;11 Extremadura;Vivienda segunda mano;Variación trimestral;2007T1;0,6
+Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2025T2;12,2
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2025T1;10,9
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2024T4;9,2
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2024T3;8,3
@@ -10438,6 +10581,7 @@ Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2007T4;4,8
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2007T3;11,5
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2007T2;13,3
 Nacional;11 Extremadura;Vivienda segunda mano;Variación anual;2007T1;13,4
+Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2025T2;9
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,9
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2024T4;9,2
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,6
@@ -10511,6 +10655,7 @@ Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;20
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2007T3;5,8
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2007T2;4,3
 Nacional;11 Extremadura;Vivienda segunda mano;Variación en lo que va de año;2007T1;0,6
+Nacional;12 Galicia;General;Índice;2025T2;158,913
 Nacional;12 Galicia;General;Índice;2025T1;151,721
 Nacional;12 Galicia;General;Índice;2024T4;146,552
 Nacional;12 Galicia;General;Índice;2024T3;144,703
@@ -10584,6 +10729,7 @@ Nacional;12 Galicia;General;Índice;2007T4;140,231
 Nacional;12 Galicia;General;Índice;2007T3;137,692
 Nacional;12 Galicia;General;Índice;2007T2;134,662
 Nacional;12 Galicia;General;Índice;2007T1;130,573
+Nacional;12 Galicia;General;Variación trimestral;2025T2;4,7
 Nacional;12 Galicia;General;Variación trimestral;2025T1;3,5
 Nacional;12 Galicia;General;Variación trimestral;2024T4;1,3
 Nacional;12 Galicia;General;Variación trimestral;2024T3;2,7
@@ -10657,6 +10803,7 @@ Nacional;12 Galicia;General;Variación trimestral;2007T4;1,8
 Nacional;12 Galicia;General;Variación trimestral;2007T3;2,2
 Nacional;12 Galicia;General;Variación trimestral;2007T2;3,1
 Nacional;12 Galicia;General;Variación trimestral;2007T1;2,3
+Nacional;12 Galicia;General;Variación anual;2025T2;12,7
 Nacional;12 Galicia;General;Variación anual;2025T1;11,2
 Nacional;12 Galicia;General;Variación anual;2024T4;10,5
 Nacional;12 Galicia;General;Variación anual;2024T3;7,3
@@ -10730,6 +10877,7 @@ Nacional;12 Galicia;General;Variación anual;2007T4;9,8
 Nacional;12 Galicia;General;Variación anual;2007T3;10,2
 Nacional;12 Galicia;General;Variación anual;2007T2;12,3
 Nacional;12 Galicia;General;Variación anual;2007T1;13,7
+Nacional;12 Galicia;General;Variación en lo que va de año;2025T2;8,4
 Nacional;12 Galicia;General;Variación en lo que va de año;2025T1;3,5
 Nacional;12 Galicia;General;Variación en lo que va de año;2024T4;10,5
 Nacional;12 Galicia;General;Variación en lo que va de año;2024T3;9,2
@@ -10803,6 +10951,7 @@ Nacional;12 Galicia;General;Variación en lo que va de año;2007T4;9,8
 Nacional;12 Galicia;General;Variación en lo que va de año;2007T3;7,8
 Nacional;12 Galicia;General;Variación en lo que va de año;2007T2;5,5
 Nacional;12 Galicia;General;Variación en lo que va de año;2007T1;2,3
+Nacional;12 Galicia;Vivienda nueva;Índice;2025T2;190,339
 Nacional;12 Galicia;Vivienda nueva;Índice;2025T1;184,622
 Nacional;12 Galicia;Vivienda nueva;Índice;2024T4;177,017
 Nacional;12 Galicia;Vivienda nueva;Índice;2024T3;175,35
@@ -10876,6 +11025,7 @@ Nacional;12 Galicia;Vivienda nueva;Índice;2007T4;129,624
 Nacional;12 Galicia;Vivienda nueva;Índice;2007T3;125,602
 Nacional;12 Galicia;Vivienda nueva;Índice;2007T2;121,82
 Nacional;12 Galicia;Vivienda nueva;Índice;2007T1;118,588
+Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2025T2;3,1
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2025T1;4,3
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2024T4;1
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2024T3;1,8
@@ -10949,6 +11099,7 @@ Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2007T4;3,2
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2007T3;3,1
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2007T2;2,7
 Nacional;12 Galicia;Vivienda nueva;Variación trimestral;2007T1;2,6
+Nacional;12 Galicia;Vivienda nueva;Variación anual;2025T2;10,5
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2025T1;8,3
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2024T4;11,3
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2024T3;6,4
@@ -11022,6 +11173,7 @@ Nacional;12 Galicia;Vivienda nueva;Variación anual;2007T4;12,1
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2007T3;11,3
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2007T2;13,1
 Nacional;12 Galicia;Vivienda nueva;Variación anual;2007T1;14
+Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2025T2;7,5
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2025T1;4,3
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2024T4;11,3
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2024T3;10,2
@@ -11095,6 +11247,7 @@ Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2007T4;12,1
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2007T3;8,6
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2007T2;5,4
 Nacional;12 Galicia;Vivienda nueva;Variación en lo que va de año;2007T1;2,6
+Nacional;12 Galicia;Vivienda segunda mano;Índice;2025T2;153,557
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2025T1;146,251
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2024T4;141,429
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2024T3;139,582
@@ -11168,6 +11321,7 @@ Nacional;12 Galicia;Vivienda segunda mano;Índice;2007T4;154,911
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2007T3;155,302
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2007T2;153,83
 Nacional;12 Galicia;Vivienda segunda mano;Índice;2007T1;148,266
+Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2025T2;5
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2025T1;3,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2024T4;1,3
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2024T3;2,8
@@ -11241,6 +11395,7 @@ Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2007T4;-0,3
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2007T3;1
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2007T2;3,8
 Nacional;12 Galicia;Vivienda segunda mano;Variación trimestral;2007T1;1,8
+Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2025T2;13,1
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2025T1;11,6
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2024T4;10,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2024T3;7,5
@@ -11314,6 +11469,7 @@ Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2007T4;6,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2007T3;8,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2007T2;11,2
 Nacional;12 Galicia;Vivienda segunda mano;Variación anual;2007T1;13,2
+Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,6
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,4
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2024T3;9
@@ -11387,6 +11543,7 @@ Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2007T4
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2007T3;6,7
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2007T2;5,6
 Nacional;12 Galicia;Vivienda segunda mano;Variación en lo que va de año;2007T1;1,8
+Nacional;13 Madrid, Comunidad de;General;Índice;2025T2;197,688
 Nacional;13 Madrid, Comunidad de;General;Índice;2025T1;188,426
 Nacional;13 Madrid, Comunidad de;General;Índice;2024T4;181,836
 Nacional;13 Madrid, Comunidad de;General;Índice;2024T3;178,65
@@ -11460,6 +11617,7 @@ Nacional;13 Madrid, Comunidad de;General;Índice;2007T4;154,513
 Nacional;13 Madrid, Comunidad de;General;Índice;2007T3;161,262
 Nacional;13 Madrid, Comunidad de;General;Índice;2007T2;160,668
 Nacional;13 Madrid, Comunidad de;General;Índice;2007T1;157,226
+Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2025T2;4,9
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2025T1;3,6
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2024T4;1,8
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2024T3;2,4
@@ -11533,6 +11691,7 @@ Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2007T4;-4,2
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2007T3;0,4
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2007T2;2,2
 Nacional;13 Madrid, Comunidad de;General;Variación trimestral;2007T1;2,4
+Nacional;13 Madrid, Comunidad de;General;Variación anual;2025T2;13,3
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2025T1;11,6
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2024T4;10,3
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2024T3;7,2
@@ -11606,6 +11765,7 @@ Nacional;13 Madrid, Comunidad de;General;Variación anual;2007T4;0,6
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2007T3;6,6
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2007T2;9,7
 Nacional;13 Madrid, Comunidad de;General;Variación anual;2007T1;11,3
+Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2025T2;8,7
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2025T1;3,6
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2024T4;10,3
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2024T3;8,4
@@ -11679,6 +11839,7 @@ Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2007T4;
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2007T3;5
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2007T2;4,6
 Nacional;13 Madrid, Comunidad de;General;Variación en lo que va de año;2007T1;2,4
+Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2025T2;219,947
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2025T1;210,738
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2024T4;197,306
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2024T3;196,732
@@ -11752,6 +11913,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2007T4;136,586
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2007T3;140,333
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2007T2;137,926
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Índice;2007T1;134,409
+Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2025T2;4,4
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2025T1;6,8
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2024T4;0,3
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2024T3;1,4
@@ -11825,6 +11987,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2007T4;-2,
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2007T3;1,7
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2007T2;2,6
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación trimestral;2007T1;2,6
+Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2025T2;13,3
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2025T1;12,2
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2024T4;9,1
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2024T3;7,7
@@ -11898,6 +12061,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2007T4;4,2
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2007T3;8,8
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2007T2;10,1
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación anual;2007T1;10,8
+Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2025T2;11,5
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2025T1;6,8
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2024T4;9,1
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2024T3;8,7
@@ -11971,6 +12135,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2007T3;7,1
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2007T2;5,3
 Nacional;13 Madrid, Comunidad de;Vivienda nueva;Variación en lo que va de año;2007T1;2,6
+Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2025T2;192,326
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2025T1;183,147
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2024T4;177,672
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2024T3;174,011
@@ -12044,6 +12209,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2007T4;166,07
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2007T3;175,356
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2007T2;176,444
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Índice;2007T1;173,178
+Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2025T2;5
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2025T1;3,1
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2024T4;2,1
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2024T3;2,6
@@ -12117,6 +12283,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;200
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2007T3;-0,6
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2007T2;1,9
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación trimestral;2007T1;2,2
+Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2025T2;13,4
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2025T1;11,6
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2024T4;10,6
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2024T3;7,1
@@ -12190,6 +12357,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2007T4;-
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2007T3;5,1
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2007T2;9,3
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación anual;2007T1;11,5
+Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,2
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,1
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,6
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,3
@@ -12263,6 +12431,7 @@ Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va d
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2007T3;3,5
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2007T2;4,2
 Nacional;13 Madrid, Comunidad de;Vivienda segunda mano;Variación en lo que va de año;2007T1;2,2
+Nacional;14 Murcia, Región de;General;Índice;2025T2;162,666
 Nacional;14 Murcia, Región de;General;Índice;2025T1;154,993
 Nacional;14 Murcia, Región de;General;Índice;2024T4;150,18
 Nacional;14 Murcia, Región de;General;Índice;2024T3;146,067
@@ -12336,6 +12505,7 @@ Nacional;14 Murcia, Región de;General;Índice;2007T4;140,362
 Nacional;14 Murcia, Región de;General;Índice;2007T3;137,832
 Nacional;14 Murcia, Región de;General;Índice;2007T2;134,346
 Nacional;14 Murcia, Región de;General;Índice;2007T1;129,674
+Nacional;14 Murcia, Región de;General;Variación trimestral;2025T2;5
 Nacional;14 Murcia, Región de;General;Variación trimestral;2025T1;3,2
 Nacional;14 Murcia, Región de;General;Variación trimestral;2024T4;2,8
 Nacional;14 Murcia, Región de;General;Variación trimestral;2024T3;2,9
@@ -12409,6 +12579,7 @@ Nacional;14 Murcia, Región de;General;Variación trimestral;2007T4;1,8
 Nacional;14 Murcia, Región de;General;Variación trimestral;2007T3;2,6
 Nacional;14 Murcia, Región de;General;Variación trimestral;2007T2;3,6
 Nacional;14 Murcia, Región de;General;Variación trimestral;2007T1;4,4
+Nacional;14 Murcia, Región de;General;Variación anual;2025T2;14,6
 Nacional;14 Murcia, Región de;General;Variación anual;2025T1;13,3
 Nacional;14 Murcia, Región de;General;Variación anual;2024T4;11,7
 Nacional;14 Murcia, Región de;General;Variación anual;2024T3;9
@@ -12482,6 +12653,7 @@ Nacional;14 Murcia, Región de;General;Variación anual;2007T4;13
 Nacional;14 Murcia, Región de;General;Variación anual;2007T3;15
 Nacional;14 Murcia, Región de;General;Variación anual;2007T2;15,6
 Nacional;14 Murcia, Región de;General;Variación anual;2007T1;15,5
+Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2025T2;8,3
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2025T1;3,2
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2024T4;11,7
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2024T3;8,6
@@ -12555,6 +12727,7 @@ Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2007T4;13
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2007T3;10,9
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2007T2;8,1
 Nacional;14 Murcia, Región de;General;Variación en lo que va de año;2007T1;4,4
+Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2025T2;196,314
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2025T1;191,756
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2024T4;185,959
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2024T3;176,335
@@ -12628,6 +12801,7 @@ Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2007T4;134,51
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2007T3;130,257
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2007T2;126,329
 Nacional;14 Murcia, Región de;Vivienda nueva;Índice;2007T1;122,384
+Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2025T2;2,4
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2025T1;3,1
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2024T4;5,5
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2024T3;0,6
@@ -12701,6 +12875,7 @@ Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2007T4;3,3
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2007T3;3,1
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2007T2;3,2
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación trimestral;2007T1;5,2
+Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2025T2;12
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2025T1;11,1
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2024T4;12,5
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2024T3;7,6
@@ -12774,6 +12949,7 @@ Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2007T4;15,6
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2007T3;16,7
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2007T2;16,9
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación anual;2007T1;15,7
+Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2025T2;5,6
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2025T1;3,1
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2024T4;12,5
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2024T3;6,7
@@ -12847,6 +13023,7 @@ Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;20
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2007T3;12
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2007T2;8,6
 Nacional;14 Murcia, Región de;Vivienda nueva;Variación en lo que va de año;2007T1;5,2
+Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2025T2;158,133
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2025T1;150,149
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2024T4;145,469
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2024T3;141,987
@@ -12920,6 +13097,7 @@ Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2007T4;153,024
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2007T3;152,981
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2007T2;150,055
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Índice;2007T1;144,171
+Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2025T2;5,3
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2025T1;3,2
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2024T4;2,5
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2024T3;3,2
@@ -12993,6 +13171,7 @@ Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2007T
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2007T3;1,9
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2007T2;4,1
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación trimestral;2007T1;3,3
+Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2025T2;14,9
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2025T1;13,6
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2024T4;11,5
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2024T3;9,2
@@ -13066,6 +13245,7 @@ Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2007T4;9,7
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2007T3;13
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2007T2;14,2
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación anual;2007T1;15,1
+Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,7
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,2
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2024T4;11,5
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2024T3;8,9
@@ -13139,6 +13319,7 @@ Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de 
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2007T3;9,6
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2007T2;7,5
 Nacional;14 Murcia, Región de;Vivienda segunda mano;Variación en lo que va de año;2007T1;3,3
+Nacional;15 Navarra, Comunidad Foral de;General;Índice;2025T2;162,614
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2025T1;156,05
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2024T4;150,034
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2024T3;150,225
@@ -13212,6 +13393,7 @@ Nacional;15 Navarra, Comunidad Foral de;General;Índice;2007T4;182,983
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2007T3;186,732
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2007T2;182,933
 Nacional;15 Navarra, Comunidad Foral de;General;Índice;2007T1;181,143
+Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2025T2;4,2
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2025T1;4
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2024T4;-0,1
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2024T3;3,5
@@ -13285,6 +13467,7 @@ Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2007T4;-2
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2007T3;2,1
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2007T2;1
 Nacional;15 Navarra, Comunidad Foral de;General;Variación trimestral;2007T1;0,8
+Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2025T2;12
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2025T1;11,4
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2024T4;12,9
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2024T3;10,7
@@ -13358,6 +13541,7 @@ Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2007T4;1,8
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2007T3;8,8
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2007T2;8,9
 Nacional;15 Navarra, Comunidad Foral de;General;Variación anual;2007T1;11,2
+Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2025T2;8,4
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2025T1;4
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2024T4;12,9
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2024T3;13
@@ -13431,6 +13615,7 @@ Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2007T3;3,9
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2007T2;1,8
 Nacional;15 Navarra, Comunidad Foral de;General;Variación en lo que va de año;2007T1;0,8
+Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2025T2;186,54
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2025T1;182,097
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2024T4;172,467
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2024T3;174,133
@@ -13504,6 +13689,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2007T4;171,165
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2007T3;171,329
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2007T2;167,825
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Índice;2007T1;165,294
+Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2025T2;2,4
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2025T1;5,6
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2024T4;-1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2024T3;4
@@ -13577,6 +13763,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;200
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2007T3;2,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2007T2;1,5
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación trimestral;2007T1;1,2
+Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2025T2;11,5
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2025T1;13,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2024T4;16,7
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2024T3;14,7
@@ -13650,6 +13837,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2007T4;4
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2007T3;10,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2007T2;11
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación anual;2007T1;11,3
+Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2025T2;8,2
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2025T1;5,6
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2024T4;16,7
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2024T3;17,9
@@ -13723,6 +13911,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va d
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2007T3;4,9
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2007T2;2,8
 Nacional;15 Navarra, Comunidad Foral de;Vivienda nueva;Variación en lo que va de año;2007T1;1,2
+Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2025T2;152,961
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2025T1;145,513
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2024T4;140,98
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2024T3;140,498
@@ -13796,6 +13985,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2007T4;201
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2007T3;211,263
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2007T2;206,996
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Índice;2007T1;206,482
+Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2025T2;5,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2025T1;3,2
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2024T4;0,3
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2024T3;3,2
@@ -13869,6 +14059,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimest
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2007T3;2,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2007T2;0,2
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación trimestral;2007T1;0,1
+Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2025T2;12,3
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2025T1;10,6
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2024T4;10,9
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2024T3;8,5
@@ -13942,6 +14133,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2007T3;7,1
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2007T2;6
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación anual;2007T1;11,2
+Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,5
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2025T1;3,2
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,9
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2024T3;10,5
@@ -14015,6 +14207,7 @@ Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo q
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2007T3;2,5
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2007T2;0,4
 Nacional;15 Navarra, Comunidad Foral de;Vivienda segunda mano;Variación en lo que va de año;2007T1;0,1
+Nacional;16 País Vasco;General;Índice;2025T2;164,98
 Nacional;16 País Vasco;General;Índice;2025T1;159,472
 Nacional;16 País Vasco;General;Índice;2024T4;151,915
 Nacional;16 País Vasco;General;Índice;2024T3;151,029
@@ -14088,6 +14281,7 @@ Nacional;16 País Vasco;General;Índice;2007T4;163,393
 Nacional;16 País Vasco;General;Índice;2007T3;165,108
 Nacional;16 País Vasco;General;Índice;2007T2;163,676
 Nacional;16 País Vasco;General;Índice;2007T1;159,283
+Nacional;16 País Vasco;General;Variación trimestral;2025T2;3,5
 Nacional;16 País Vasco;General;Variación trimestral;2025T1;5
 Nacional;16 País Vasco;General;Variación trimestral;2024T4;0,6
 Nacional;16 País Vasco;General;Variación trimestral;2024T3;2,9
@@ -14161,6 +14355,7 @@ Nacional;16 País Vasco;General;Variación trimestral;2007T4;-1
 Nacional;16 País Vasco;General;Variación trimestral;2007T3;0,9
 Nacional;16 País Vasco;General;Variación trimestral;2007T2;2,8
 Nacional;16 País Vasco;General;Variación trimestral;2007T1;1,5
+Nacional;16 País Vasco;General;Variación anual;2025T2;12,4
 Nacional;16 País Vasco;General;Variación anual;2025T1;12,4
 Nacional;16 País Vasco;General;Variación anual;2024T4;10,7
 Nacional;16 País Vasco;General;Variación anual;2024T3;8,4
@@ -14234,6 +14429,7 @@ Nacional;16 País Vasco;General;Variación anual;2007T4;4,1
 Nacional;16 País Vasco;General;Variación anual;2007T3;8
 Nacional;16 País Vasco;General;Variación anual;2007T2;9,1
 Nacional;16 País Vasco;General;Variación anual;2007T1;12,2
+Nacional;16 País Vasco;General;Variación en lo que va de año;2025T2;8,6
 Nacional;16 País Vasco;General;Variación en lo que va de año;2025T1;5
 Nacional;16 País Vasco;General;Variación en lo que va de año;2024T4;10,7
 Nacional;16 País Vasco;General;Variación en lo que va de año;2024T3;10
@@ -14307,6 +14503,7 @@ Nacional;16 País Vasco;General;Variación en lo que va de año;2007T4;4,1
 Nacional;16 País Vasco;General;Variación en lo que va de año;2007T3;5,2
 Nacional;16 País Vasco;General;Variación en lo que va de año;2007T2;4,3
 Nacional;16 País Vasco;General;Variación en lo que va de año;2007T1;1,5
+Nacional;16 País Vasco;Vivienda nueva;Índice;2025T2;202,229
 Nacional;16 País Vasco;Vivienda nueva;Índice;2025T1;199,773
 Nacional;16 País Vasco;Vivienda nueva;Índice;2024T4;182,476
 Nacional;16 País Vasco;Vivienda nueva;Índice;2024T3;186,4
@@ -14380,6 +14577,7 @@ Nacional;16 País Vasco;Vivienda nueva;Índice;2007T4;138,806
 Nacional;16 País Vasco;Vivienda nueva;Índice;2007T3;139,083
 Nacional;16 País Vasco;Vivienda nueva;Índice;2007T2;137,015
 Nacional;16 País Vasco;Vivienda nueva;Índice;2007T1;132,944
+Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2025T2;1,2
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2025T1;9,5
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2024T4;-2,1
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2024T3;3,1
@@ -14453,6 +14651,7 @@ Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2007T4;-0,2
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2007T3;1,5
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2007T2;3,1
 Nacional;16 País Vasco;Vivienda nueva;Variación trimestral;2007T1;2,3
+Nacional;16 País Vasco;Vivienda nueva;Variación anual;2025T2;11,9
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2025T1;14,4
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2024T4;12,6
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2024T3;14,3
@@ -14526,6 +14725,7 @@ Nacional;16 País Vasco;Vivienda nueva;Variación anual;2007T4;6,8
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2007T3;9,1
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2007T2;11,1
 Nacional;16 País Vasco;Vivienda nueva;Variación anual;2007T1;11,2
+Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2025T2;10,8
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2025T1;9,5
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2024T4;12,6
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2024T3;15
@@ -14599,6 +14799,7 @@ Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2007T4;6,
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2007T3;7,1
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2007T2;5,5
 Nacional;16 País Vasco;Vivienda nueva;Variación en lo que va de año;2007T1;2,3
+Nacional;16 País Vasco;Vivienda segunda mano;Índice;2025T2;157,694
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2025T1;151,782
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2024T4;145,77
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2024T3;144,025
@@ -14672,6 +14873,7 @@ Nacional;16 País Vasco;Vivienda segunda mano;Índice;2007T4;181,534
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2007T3;184,352
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2007T2;183,419
 Nacional;16 País Vasco;Vivienda segunda mano;Índice;2007T1;178,8
+Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2025T2;3,9
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2025T1;4,1
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2024T4;1,2
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2024T3;2,8
@@ -14745,6 +14947,7 @@ Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2007T4;-1,5
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2007T3;0,5
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2007T2;2,6
 Nacional;16 País Vasco;Vivienda segunda mano;Variación trimestral;2007T1;1
+Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2025T2;12,6
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2025T1;12,1
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2024T4;10,3
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2024T3;7,1
@@ -14818,6 +15021,7 @@ Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2007T4;2,5
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2007T3;7,3
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2007T2;8
 Nacional;16 País Vasco;Vivienda segunda mano;Variación anual;2007T1;12,7
+Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2025T2;8,2
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2025T1;4,1
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2024T4;10,3
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2024T3;9
@@ -14891,6 +15095,7 @@ Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;20
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2007T3;4,1
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2007T2;3,6
 Nacional;16 País Vasco;Vivienda segunda mano;Variación en lo que va de año;2007T1;1
+Nacional;17 Rioja, La;General;Índice;2025T2;164,705
 Nacional;17 Rioja, La;General;Índice;2025T1;158,501
 Nacional;17 Rioja, La;General;Índice;2024T4;151,397
 Nacional;17 Rioja, La;General;Índice;2024T3;147,767
@@ -14964,6 +15169,7 @@ Nacional;17 Rioja, La;General;Índice;2007T4;174,119
 Nacional;17 Rioja, La;General;Índice;2007T3;170,951
 Nacional;17 Rioja, La;General;Índice;2007T2;168,671
 Nacional;17 Rioja, La;General;Índice;2007T1;163,779
+Nacional;17 Rioja, La;General;Variación trimestral;2025T2;3,9
 Nacional;17 Rioja, La;General;Variación trimestral;2025T1;4,7
 Nacional;17 Rioja, La;General;Variación trimestral;2024T4;2,5
 Nacional;17 Rioja, La;General;Variación trimestral;2024T3;2
@@ -15037,6 +15243,7 @@ Nacional;17 Rioja, La;General;Variación trimestral;2007T4;1,9
 Nacional;17 Rioja, La;General;Variación trimestral;2007T3;1,4
 Nacional;17 Rioja, La;General;Variación trimestral;2007T2;3
 Nacional;17 Rioja, La;General;Variación trimestral;2007T1;2,1
+Nacional;17 Rioja, La;General;Variación anual;2025T2;13,7
 Nacional;17 Rioja, La;General;Variación anual;2025T1;13,2
 Nacional;17 Rioja, La;General;Variación anual;2024T4;11,9
 Nacional;17 Rioja, La;General;Variación anual;2024T3;9,2
@@ -15110,6 +15317,7 @@ Nacional;17 Rioja, La;General;Variación anual;2007T4;8,6
 Nacional;17 Rioja, La;General;Variación anual;2007T3;10,1
 Nacional;17 Rioja, La;General;Variación anual;2007T2;12,6
 Nacional;17 Rioja, La;General;Variación anual;2007T1;12,1
+Nacional;17 Rioja, La;General;Variación en lo que va de año;2025T2;8,8
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2025T1;4,7
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2024T4;11,9
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2024T3;9,2
@@ -15183,6 +15391,7 @@ Nacional;17 Rioja, La;General;Variación en lo que va de año;2007T4;8,6
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2007T3;6,6
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2007T2;5,2
 Nacional;17 Rioja, La;General;Variación en lo que va de año;2007T1;2,1
+Nacional;17 Rioja, La;Vivienda nueva;Índice;2025T2;193,862
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2025T1;189,921
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2024T4;181,456
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2024T3;174,235
@@ -15256,6 +15465,7 @@ Nacional;17 Rioja, La;Vivienda nueva;Índice;2007T4;169,829
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2007T3;164,355
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2007T2;161,263
 Nacional;17 Rioja, La;Vivienda nueva;Índice;2007T1;157,333
+Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2025T2;2,1
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2025T1;4,7
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2024T4;4,1
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2024T3;0,5
@@ -15329,6 +15539,7 @@ Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2007T4;3,3
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2007T3;1,9
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2007T2;2,5
 Nacional;17 Rioja, La;Vivienda nueva;Variación trimestral;2007T1;3,9
+Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2025T2;11,8
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2025T1;8,9
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2024T4;11,9
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2024T3;9,2
@@ -15402,6 +15613,7 @@ Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2007T4;12,2
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2007T3;12,1
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2007T2;14
 Nacional;17 Rioja, La;Vivienda nueva;Variación anual;2007T1;13,6
+Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2025T2;6,8
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2025T1;4,7
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2024T4;11,9
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2024T3;7,4
@@ -15475,6 +15687,7 @@ Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2007T4;12,2
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2007T3;8,6
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2007T2;6,5
 Nacional;17 Rioja, La;Vivienda nueva;Variación en lo que va de año;2007T1;3,9
+Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2025T2;161,876
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2025T1;154,977
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2024T4;148,02
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2024T3;144,997
@@ -15548,6 +15761,7 @@ Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2007T4;179,16
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2007T3;179,9
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2007T2;179,009
 Nacional;17 Rioja, La;Vivienda segunda mano;Índice;2007T1;172,563
+Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2025T2;4,5
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2025T1;4,7
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2024T4;2,1
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2024T3;2,4
@@ -15621,6 +15835,7 @@ Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2007T4;-0,4
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2007T3;0,5
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2007T2;3,7
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación trimestral;2007T1;-0,5
+Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2025T2;14,3
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2025T1;14,3
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2024T4;11,9
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2024T3;9,3
@@ -15694,6 +15909,7 @@ Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2007T4;3,3
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2007T3;7,2
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2007T2;10,5
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación anual;2007T1;9,9
+Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2025T2;9,4
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2025T1;4,7
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2024T4;11,9
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2024T3;9,6
@@ -15767,6 +15983,7 @@ Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2007
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2007T3;3,7
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2007T2;3,2
 Nacional;17 Rioja, La;Vivienda segunda mano;Variación en lo que va de año;2007T1;-0,5
+Nacional;18 Ceuta;General;Índice;2025T2;199,398
 Nacional;18 Ceuta;General;Índice;2025T1;192,344
 Nacional;18 Ceuta;General;Índice;2024T4;184,569
 Nacional;18 Ceuta;General;Índice;2024T3;178,624
@@ -15840,6 +16057,7 @@ Nacional;18 Ceuta;General;Índice;2007T4;140,135
 Nacional;18 Ceuta;General;Índice;2007T3;136,696
 Nacional;18 Ceuta;General;Índice;2007T2;134,757
 Nacional;18 Ceuta;General;Índice;2007T1;132,362
+Nacional;18 Ceuta;General;Variación trimestral;2025T2;3,7
 Nacional;18 Ceuta;General;Variación trimestral;2025T1;4,2
 Nacional;18 Ceuta;General;Variación trimestral;2024T4;3,3
 Nacional;18 Ceuta;General;Variación trimestral;2024T3;0,9
@@ -15913,6 +16131,7 @@ Nacional;18 Ceuta;General;Variación trimestral;2007T4;2,5
 Nacional;18 Ceuta;General;Variación trimestral;2007T3;1,4
 Nacional;18 Ceuta;General;Variación trimestral;2007T2;1,8
 Nacional;18 Ceuta;General;Variación trimestral;2007T1;5,5
+Nacional;18 Ceuta;General;Variación anual;2025T2;12,7
 Nacional;18 Ceuta;General;Variación anual;2025T1;13,1
 Nacional;18 Ceuta;General;Variación anual;2024T4;11,4
 Nacional;18 Ceuta;General;Variación anual;2024T3;8,5
@@ -15986,6 +16205,7 @@ Nacional;18 Ceuta;General;Variación anual;2007T4;11,7
 Nacional;18 Ceuta;General;Variación anual;2007T3;14,7
 Nacional;18 Ceuta;General;Variación anual;2007T2;16,2
 Nacional;18 Ceuta;General;Variación anual;2007T1;15,7
+Nacional;18 Ceuta;General;Variación en lo que va de año;2025T2;8
 Nacional;18 Ceuta;General;Variación en lo que va de año;2025T1;4,2
 Nacional;18 Ceuta;General;Variación en lo que va de año;2024T4;11,4
 Nacional;18 Ceuta;General;Variación en lo que va de año;2024T3;7,8
@@ -16059,6 +16279,7 @@ Nacional;18 Ceuta;General;Variación en lo que va de año;2007T4;11,7
 Nacional;18 Ceuta;General;Variación en lo que va de año;2007T3;8,9
 Nacional;18 Ceuta;General;Variación en lo que va de año;2007T2;7,4
 Nacional;18 Ceuta;General;Variación en lo que va de año;2007T1;5,5
+Nacional;18 Ceuta;Vivienda nueva;Índice;2025T2;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2025T1;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2024T4;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2024T3;""
@@ -16132,6 +16353,7 @@ Nacional;18 Ceuta;Vivienda nueva;Índice;2007T4;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2007T3;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2007T2;""
 Nacional;18 Ceuta;Vivienda nueva;Índice;2007T1;""
+Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2025T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2025T1;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2024T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2024T3;""
@@ -16205,6 +16427,7 @@ Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2007T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2007T3;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2007T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación trimestral;2007T1;""
+Nacional;18 Ceuta;Vivienda nueva;Variación anual;2025T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2025T1;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2024T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2024T3;""
@@ -16278,6 +16501,7 @@ Nacional;18 Ceuta;Vivienda nueva;Variación anual;2007T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2007T3;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2007T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación anual;2007T1;""
+Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2025T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2025T1;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2024T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2024T3;""
@@ -16351,6 +16575,7 @@ Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2007T4;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2007T3;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2007T2;""
 Nacional;18 Ceuta;Vivienda nueva;Variación en lo que va de año;2007T1;""
+Nacional;18 Ceuta;Vivienda segunda mano;Índice;2025T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2025T1;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2024T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2024T3;""
@@ -16424,6 +16649,7 @@ Nacional;18 Ceuta;Vivienda segunda mano;Índice;2007T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2007T3;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2007T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Índice;2007T1;""
+Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2025T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2025T1;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2024T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2024T3;""
@@ -16497,6 +16723,7 @@ Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2007T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2007T3;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2007T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación trimestral;2007T1;""
+Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2025T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2025T1;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2024T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2024T3;""
@@ -16570,6 +16797,7 @@ Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2007T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2007T3;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2007T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación anual;2007T1;""
+Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2025T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2025T1;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2024T4;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2024T3;""
@@ -16643,6 +16871,7 @@ Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2007T4;"
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2007T3;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2007T2;""
 Nacional;18 Ceuta;Vivienda segunda mano;Variación en lo que va de año;2007T1;""
+Nacional;19 Melilla;General;Índice;2025T2;194,975
 Nacional;19 Melilla;General;Índice;2025T1;187,389
 Nacional;19 Melilla;General;Índice;2024T4;178,326
 Nacional;19 Melilla;General;Índice;2024T3;174,797
@@ -16716,6 +16945,7 @@ Nacional;19 Melilla;General;Índice;2007T4;134,502
 Nacional;19 Melilla;General;Índice;2007T3;132,239
 Nacional;19 Melilla;General;Índice;2007T2;128,738
 Nacional;19 Melilla;General;Índice;2007T1;124,877
+Nacional;19 Melilla;General;Variación trimestral;2025T2;4
 Nacional;19 Melilla;General;Variación trimestral;2025T1;5,1
 Nacional;19 Melilla;General;Variación trimestral;2024T4;2
 Nacional;19 Melilla;General;Variación trimestral;2024T3;1,7
@@ -16789,6 +17019,7 @@ Nacional;19 Melilla;General;Variación trimestral;2007T4;1,7
 Nacional;19 Melilla;General;Variación trimestral;2007T3;2,7
 Nacional;19 Melilla;General;Variación trimestral;2007T2;3,1
 Nacional;19 Melilla;General;Variación trimestral;2007T1;6,3
+Nacional;19 Melilla;General;Variación anual;2025T2;13,4
 Nacional;19 Melilla;General;Variación anual;2025T1;14
 Nacional;19 Melilla;General;Variación anual;2024T4;12,2
 Nacional;19 Melilla;General;Variación anual;2024T3;7,9
@@ -16862,6 +17093,7 @@ Nacional;19 Melilla;General;Variación anual;2007T4;14,5
 Nacional;19 Melilla;General;Variación anual;2007T3;15,6
 Nacional;19 Melilla;General;Variación anual;2007T2;15,9
 Nacional;19 Melilla;General;Variación anual;2007T1;16,1
+Nacional;19 Melilla;General;Variación en lo que va de año;2025T2;9,3
 Nacional;19 Melilla;General;Variación en lo que va de año;2025T1;5,1
 Nacional;19 Melilla;General;Variación en lo que va de año;2024T4;12,2
 Nacional;19 Melilla;General;Variación en lo que va de año;2024T3;10
@@ -16935,6 +17167,7 @@ Nacional;19 Melilla;General;Variación en lo que va de año;2007T4;14,5
 Nacional;19 Melilla;General;Variación en lo que va de año;2007T3;12,6
 Nacional;19 Melilla;General;Variación en lo que va de año;2007T2;9,6
 Nacional;19 Melilla;General;Variación en lo que va de año;2007T1;6,3
+Nacional;19 Melilla;Vivienda nueva;Índice;2025T2;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2025T1;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2024T4;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2024T3;""
@@ -17008,6 +17241,7 @@ Nacional;19 Melilla;Vivienda nueva;Índice;2007T4;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2007T3;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2007T2;""
 Nacional;19 Melilla;Vivienda nueva;Índice;2007T1;""
+Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2025T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2025T1;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2024T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2024T3;""
@@ -17081,6 +17315,7 @@ Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2007T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2007T3;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2007T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación trimestral;2007T1;""
+Nacional;19 Melilla;Vivienda nueva;Variación anual;2025T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2025T1;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2024T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2024T3;""
@@ -17154,6 +17389,7 @@ Nacional;19 Melilla;Vivienda nueva;Variación anual;2007T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2007T3;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2007T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación anual;2007T1;""
+Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2025T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2025T1;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2024T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2024T3;""
@@ -17227,6 +17463,7 @@ Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2007T4;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2007T3;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2007T2;""
 Nacional;19 Melilla;Vivienda nueva;Variación en lo que va de año;2007T1;""
+Nacional;19 Melilla;Vivienda segunda mano;Índice;2025T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2025T1;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2024T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2024T3;""
@@ -17300,6 +17537,7 @@ Nacional;19 Melilla;Vivienda segunda mano;Índice;2007T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2007T3;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2007T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Índice;2007T1;""
+Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2025T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2025T1;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2024T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2024T3;""
@@ -17373,6 +17611,7 @@ Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2007T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2007T3;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2007T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación trimestral;2007T1;""
+Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2025T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2025T1;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2024T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2024T3;""
@@ -17446,6 +17685,7 @@ Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2007T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2007T3;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2007T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación anual;2007T1;""
+Nacional;19 Melilla;Vivienda segunda mano;Variación en lo que va de año;2025T2;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación en lo que va de año;2025T1;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación en lo que va de año;2024T4;""
 Nacional;19 Melilla;Vivienda segunda mano;Variación en lo que va de año;2024T3;""
